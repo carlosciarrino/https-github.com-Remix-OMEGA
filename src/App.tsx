@@ -671,8 +671,10 @@ Claudio guardò la bilancia digitale al tornello. Non misurava solo il peso del 
             if (settings.chapter_content) setChapterContent(prev => ({ ...prev, ...settings.chapter_content }));
           }
         }
-      } catch (err) {
+      } catch (err: any) {
         console.error('Error loading from Supabase:', err);
+        const errorMessage = err?.message || err?.details || "Errore sconosciuto";
+        showToast(`Errore caricamento dati: ${errorMessage}`);
       }
     };
     loadSettings();
@@ -759,9 +761,10 @@ Claudio guardò la bilancia digitale al tornello. Non misurava solo il peso del 
       setLastSavedVillaggio(now.toLocaleString());
       showToast("Descrizione Villaggio salvata!");
       setIsEditingVillaggio(false);
-    } catch (err) {
+    } catch (err: any) {
       console.error(err);
-      showToast("Errore nel salvataggio del Villaggio.");
+      const errorMessage = err?.message || err?.details || "Errore sconosciuto";
+      showToast(`Errore nel salvataggio del Villaggio: ${errorMessage}`);
     } finally {
       setIsSaving(false);
     }
@@ -774,24 +777,34 @@ Claudio guardò la bilancia digitale al tornello. Non misurava solo il peso del 
     localStorage.removeItem('supabase_key');
     
     try {
-      await supabase.from('omega_settings').delete().eq('id', 'current_session');
-    } catch (err) {
+      const { error } = await supabase.from('omega_settings').delete().eq('id', 'current_session');
+      if (error) throw error;
+      showToast("Dati resettati con successo.");
+    } catch (err: any) {
       console.error("Errore durante la cancellazione da Supabase:", err);
+      const errorMessage = err?.message || err?.details || "Errore sconosciuto";
+      showToast(`Errore reset dati: ${errorMessage}`);
     }
     
     window.location.reload();
   };
 
-  const handleConnectSupabase = () => {
+  const handleConnectSupabase = async () => {
     setIsConnecting(true);
     try {
       updateSupabaseConfig(supabaseUrlInput, supabaseKeyInput);
       localStorage.setItem('supabase_url', supabaseUrlInput);
       localStorage.setItem('supabase_key', supabaseKeyInput);
-      showToast('Configurazione Supabase salvata e aggiornata!');
-    } catch (err) {
+      
+      // Test connection
+      const { error } = await supabase.from('omega_settings').select('id').limit(1);
+      if (error) throw error;
+      
+      showToast('Configurazione Supabase salvata e connessione riuscita!');
+    } catch (err: any) {
       console.error(err);
-      showToast('Errore nella configurazione.');
+      const errorMessage = err?.message || err?.details || "Errore sconosciuto";
+      showToast(`Errore connessione Supabase: ${errorMessage}`);
     } finally {
       setIsConnecting(false);
     }
