@@ -68,7 +68,7 @@ Claudio si girò verso il pannello sul suo lato e la digitò.
 Il display lampeggiò verde.
 La paratia non si mosse.
 Sul display apparve: SEQUENZA VALIDA — OVERRIDE MANUALE DISABILITATO DA PROTOCOLLO INTERROGATORIO ATTIVO.
-Claudio rimase con le dita sul pannello e guardò il display verde che annunciava un successo che non produceva nessun effetto fisico, e dall'altra parte del vetro la voce continuava a parlare a Laura in quella frequenza calibrata che conosceva ogni nome e ogni data e ogni scelta che aveva fatto negli ultimi due anni della sua vita, e lui non poteva sentire le parole ma sentiva la vibrazione attraverso il palmo della mano ancora appoggiato al pannello, la frequenza della voce che arrivava attraverso cinque centimetri di vetro antiproiettile come qualcosa di lontano e inesorabile.
+Claudio rimase con le dita sul pannello. Guardò il display verde. Annunciava un successo senza effetto fisico. Dall'altra parte del vetro la voce continuava a parlare a Laura. Una frequenza calibrata. Conosceva ogni nome, ogni data, ogni sua scelta degli ultimi due anni. Lui non poteva sentire le parole. Sentiva la vibrazione attraverso il palmo della mano. La frequenza della voce attraversava cinque centimetri di vetro antiproiettile. Lontana e inesorabile.
 Laura aveva le spalle di nuovo verso di lui.
 Claudio appoggiò la fronte al vetro freddo e guardò la sua schiena e il vapore del suo respiro che saliva lento nell'aria del corridoio, e non trovò niente da fare con le mani che non stesse già facendo.
 `;

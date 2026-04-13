@@ -39,7 +39,7 @@ Il fianco cedette per la prima volta all'incrocio con via Moscova.
 Il ginocchio sinistro si piegò di qualche centimetro. La mano destra trovò il muro dell'edificio all'angolo e ci rimase.
 Laura era lì prima che lui si raddrizzasse — non a sorreggerlo, accanto a lui con la spalla contro la sua spalla, il peso che si distribuiva di tre centimetri verso sinistra.
 Claudio non la guardò. Guardò il muro davanti a lui — mattoni, intonaco, una crepa che scendeva in diagonale dal terzo al secondo piano con quel tipo di progressione lenta che dura decenni.
-Il ricordo arrivò da solo. Un'immagine singola, non una sequenza. Il viso di Giulia la mattina in cui aveva lasciato Roma per la prima volta, con la luce di ottobre che entrava dalla finestra della cucina di sbieco e lei che non stava guardando lui ma guardava la tazza di caffè che teneva con entrambe le mani, e quel gesto di tenerla con entrambe le mani era qualcosa che faceva solo quando era preoccupata davvero, non quando era arrabbiata o triste ma quando era preoccupata, e lui lo sapeva e lei sapeva che lui lo sapeva e nessuno dei due aveva detto niente perché non c'era niente da dire che cambiasse quello che stava per succedere.
+Il ricordo arrivò da solo. Un'immagine singola, non una sequenza. Il viso di Giulia la mattina in cui aveva lasciato Roma. La luce di ottobre entrava dalla finestra della cucina. Lei non stava guardando lui. Guardava la tazza di caffè. La teneva con entrambe le mani. Un gesto che faceva solo quando era preoccupata davvero. Non arrabbiata o triste. Preoccupata. Lui lo sapeva. Lei sapeva che lui lo sapeva. Nessuno dei due aveva detto niente. Non c'era niente da dire.
 Quel viso. Quella luce.
 Si staccò dal muro.
 «Andiamo,» disse.
