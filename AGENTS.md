@@ -21,6 +21,7 @@ When the user provides a generated chapter for review, the AI MUST NOT give a ge
 - **TARGET:** Il Volume 1 DEVE raggiungere le 370-400 pagine in formato 6x9 pollici.
 - **CAPITOLI:** Questo equivale a circa 40 capitoli (circa 80.000 parole totali).
 - **DIVIETO DI RUSH:** È severamente vietato chiudere o accelerare il finale prima del Capitolo 39/40. L'Atto III deve essere espanso, dettagliato e ricco di ostacoli.
+- **FORMATTAZIONE TESTO:** È severamente vietato inserire righe vuote (doppi a capo) tra i paragrafi. Usa un singolo a capo per separare i paragrafi, in modo che il testo risulti compatto e senza interruzioni bianche.
 
 ## 5. POPOLARE IL MONDO (COMPARSE E AGENTI IA)
 - **COMPARSE UMANE:** Il mondo non è vuoto. Inserire personaggi temporanei (guardie, tecnici, civili, impiegati) per dare scala al conflitto e creare interazioni fisiche e morali.

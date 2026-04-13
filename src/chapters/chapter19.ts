@@ -1,7 +1,5 @@
 export const chapter19Content = `CAPITOLO 18: quello che si porta nel buio
-
 PARTE I — IL RICORDO CHE BRUCIA
-
 Il sonno arrivò come cadere.
 Non il lento scivolare verso il buio — una caduta verticale, brusca, il tipo che ti prende quando il corpo ha esaurito ogni riserva e non chiede più il permesso alla mente. Claudio era sdraiato sul pavimento del magazzino, la giacca arrotolata sotto la testa, e un secondo era sveglio e il secondo dopo era altrove.
 Nelle catacombe.
@@ -20,9 +18,7 @@ La stanza era piccola e il buio era grande e per un tempo che non aveva misura f
 Dopo, rimasero fermi. La sua fronte contro il suo collo. Il suo respiro che tornava lento, i suoi battiti che scendevano. Claudio tenne le braccia intorno a lei e sentì il suo peso — reale, concreto, irriducibilmente presente — e pensò che questo era l'unica cosa che il sistema non poteva misurare. Non il peso di un corpo in chili. Il peso di una persona specifica, in quel posto specifico, in quel momento che non si ripete.
 — Torna — disse lei nel buio.
 La stessa parola. Solo quella.
-
 PARTE II — IL FREDDO DI BOLOGNA
-
 Si svegliò di colpo.
 Il respiro entrò a forza — i polmoni che si contraevano come dopo un colpo allo stomaco, il buio del magazzino che impiegò un secondo a risolversi in forme riconoscibili. Soffitto basso. Pareti grigie. L'odore di cemento freddo e di qualcosa di chimico, indefinito, che non apparteneva a nessun posto dove avesse mai vissuto.
 Bologna. Il magazzino. L'adesso.
@@ -40,9 +36,7 @@ Laura era già in piedi, lo zaino in spalla.
 — Ventidue minuti alla finestra operativa.
 Claudio prese il suo zaino. Verificò una volta il contenuto — il drive schermato, il kit per il nodo, il telefono anonimo. Annuì.
 Uscirono nel buio.
-
 PARTE III — L'AVVICINAMENTO
-
 Le strade di notte erano diverse.
 Di giorno Bologna aveva quella pulizia inquieta che sembrava imposta dall'esterno — di notte era qualcosa di più nudo. Le telecamere sui pali della luce proiettavano i loro coni IR sul selciato umido. Gli attraversamenti pedonali lampeggiavano nel vuoto per nessuno. I portici erano gallerie di ombre regolari, colonnate di buio interrotto a intervalli precisi dai lampioni — ogni cerchio di luce uguale al precedente, prevedibile, calcolato per non lasciare zone morte nella copertura.
 Laura scelse i portici. Si muoveva sfruttando gli spazi ciechi tra una telecamera e l'altra — non di corsa, non piano. La sua cadenza era calibrata sul frame rate dei sensori, calcolando al millesimo il tempo necessario prima che il sistema potesse collegare due immagini consecutive.
@@ -58,9 +52,7 @@ Si mossero.
 L'ingresso laterale era una porta di servizio sul retro — accesso al cortile interno, usata probabilmente dai bidelli e dai fornitori. La serratura era meccanica, non biometrica: una scelta che Carlo aveva identificato come il punto debole specifico di quella struttura, costruita prima che ABITES integrasse i suoi protocolli negli appalti scolastici comunali. Sei mesi dopo, probabilmente, quella porta avrebbe avuto uno scanner. Stanotte aveva ancora una serratura che Laura aprì in quarantadue secondi con due attrezzi che Claudio non sapeva nominare e che lei maneggiava con la stessa naturalezza con cui si usa una chiave.
 La porta cedette senza suono.
 Entrarono.
-
 PARTE IV — IL NODO
-
 L'aria interna era diversa.
 Più calda di qualche grado, filtrata, con quell'odore specifico delle scuole — carta, plastica, il residuo chimico dei prodotti per la pulizia — ma sotto c'era qualcosa di diverso. Un calore elettronico sottile che Claudio riconobbe prima di localizzarlo. Il fiato delle macchine che lavorano.
 Il laboratorio di informatica era al secondo piano, ala est. Salirono le scale nell'oscurità quasi completa — Laura teneva una torcia schermata, fascio stretto, puntata sul pavimento davanti ai piedi. Claudio contava i gradini per orientarsi senza fare rumore sulle ringhiere metalliche.

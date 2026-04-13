@@ -1,7 +1,5 @@
 export const chapter18Content = `CAPITOLO 17: la città che aveva dimenticato di avere paura
-
 PARTE I — IL PESO DEI SALUTI NON DETTI
-
 Nelle catacombe non si sa mai che ora è.
 Claudio lo aveva imparato nelle prime settimane — quella qualità del tempo sotterraneo, denso e senza direzione, che ti fa capire quanto la luce del sole serva non solo a vedere ma a misurare. Quella mattina, qualunque ora fosse, il cervello gliene aveva costruita una propria: l'ora dei preparativi finali, l'ora in cui le mani fanno cose meccaniche perché la testa è altrove.
 Controllò il contenuto dello zaino per la terza volta. Non perché non ricordasse cosa c'era dentro — il drive schermato, il kit per il nodo, i documenti falsi — ma perché controllare era l'unica forma di controllo che gli restava.
@@ -25,9 +23,7 @@ Claudio prese lo zaino. Non si voltò.
 Le scale di pietra erano fredde sotto i passi. L'aria cambiò — da calda e densa a fredda e umida, il sapore di terra e pioggia che significava superficie, esposizione. Il mondo reale stava per ricominciare con tutte le sue regole.
 Nel petto, qualcosa batteva fuori ritmo.
 Lo lasciò battere.
-
 PARTE II — IL TRENO CHE NON SORRIDE
-
 Il treno ad alta velocità per Bologna partiva da Termini alle sei e quarantadue.
 Claudio e Laura arrivarono al binario con otto minuti di anticipo. Laura camminava con un ritmo misurato, costante, puntando dritta alla carrozza senza mai accelerare. Claudio si limitò a copiare la sua andatura.
 Il treno era bianco e muto. Non il rumore di fondo dei mezzi vecchi — l'isolamento acustico attivo, costruito, dei sistemi che hanno eliminato ogni vibrazione non necessaria. Sedili color grigio caldo. Illuminazione che imitava la luce naturale. Una temperatura costante, asettica.
@@ -44,9 +40,7 @@ Laura girò una pagina della rivista.
 Non si guardarono.
 Il viaggio durò un'ora e tre minuti. Claudio li passò a guardare fuori dal finestrino e a non pensare a Sara. Pensò invece alla scuola. Al nodo. Alla finestra operativa che Carlo aveva identificato — quella mezz'ora tra l'uscita del custode notturno e l'attivazione dei sensori perimetrali, così precisa e così fragile che bastava un ritardo di cinque minuti a renderla inutile.
 Quando il treno rallentò in ingresso alla stazione di Bologna Centrale, Claudio sentì la città prima di vederla. Qualcosa nell'aria — una pressione che cambia prima di un temporale, solo al contrario. L'assenza di qualcosa che di solito c'è.
-
 PARTE III — LA CITTÀ PERFETTA
-
 Bologna era pulita.
 Non nel senso banale delle strade lavate — pulita in modo diverso. I portici erano integri, le facciate restaurate, i sampietrini sostituiti dove si erano rotti. Non c'erano scritte sui muri. Non c'era carta a terra. Non c'erano persone ferme agli angoli.
 Claudio e Laura uscirono dalla stazione e si fermarono sulla scalinata per trenta secondi, memorizzando le vie di fuga.
@@ -55,9 +49,7 @@ Erano più sincronizzati qui. Lo vedeva nel modo in cui le persone si fermavano 
 L'aria aveva un sapore diverso. Filtrata. L'ozono naturale era stato sostituito con qualcosa di sintetico.
 — Cammina — disse Laura sottovoce, senza muovere le labbra.
 Camminarono.
-
 PARTE IV — I BRACCIALETTI COLORATI
-
 La scuola era in un quartiere residenziale a dodici minuti a piedi dalla stazione.
 Era un edificio degli anni settanta, ristrutturato di recente — facciata color crema, infissi nuovi, un murales sul lato che raffigurava bambini stilizzati che si tenevano per mano in cerchio.
 Claudio e Laura si fermarono al bar sul lato opposto della strada. Presero un caffè. Si sedettero in modo da avere entrambi la visuale sull'ingresso della scuola senza mai guardarlo direttamente, i corpi rivolti verso il bancone, gli occhi che lavoravano in periferia.

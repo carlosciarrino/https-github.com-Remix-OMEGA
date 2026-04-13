@@ -1,7 +1,6 @@
 export const chapter6Content = `CAPITOLO 5 — Il Battesimo del Buio
 La Transizione. Roma.
                    In superficie, Roma stava trattenendo il respiro.
-
 I.
 Laura era appoggiata alla ringhiera arrugginita di un balcone al decimo piano, in un palazzone alla periferia est. Davanti a lei, la città era un tappeto di luci gialle e rumore lontano.
 Poi, in un istante, il buio acustico.
@@ -13,7 +12,6 @@ Sottile, costante, veniva dall'alto. Un drone passò sopra la sua testa — lent
 Gli occhi di fuoco, pensò Laura. Stanno già cercando.
 — Stanno provando quanto siamo deboli — sussurrò nel buio.
 Pensò a Claudio. Sperava che lui, laggiù nel sottosuolo, avesse trovato qualcosa a cui aggrapparsi.
-
 II.
 Sotto terra, nel ventre di Roma, le lettere bruciavano sullo schermo.
 B.E.S.T.I.A.
@@ -31,7 +29,6 @@ Non le trovò, ma parlò lo stesso.
 — Non c'è niente da ridere in questo codice.
 Si raddrizzò lentamente, ogni vertebra un accordo separato con il dolore.
 — Ti ricordi la pandemia?
-
 III.
 Claudio sentì l'odore del disinfettante prima ancora di rispondere. Non un ricordo — una percezione. Il freddo chimico sul palmo. Quell'odore pungente che per due anni aveva significato posso entrare. Le strade vuote. Gli schermi fuori dai negozi con la faccia verde o rossa.
 — Certo.
@@ -42,7 +39,6 @@ Claudio non rispose. Sentiva un peso nello stomaco che non era fame.
 — Non era per la salute, Claudio.
 La sua voce scese di mezzo tono, diventando un sussurro che faceva più effetto di un grido.
 — Era una prova. Volevano vedere quanto siamo obbedienti. Quanto tempo ci vuole prima che accettiamo la gabbia se qualcuno ci spaventa abbastanza. E mentre noi avevamo paura, raccoglievano tutto. Dove andavi. Cosa compravi. Con chi parlavi. Hanno usato le nostre vite per insegnare alla loro spia meccanica come controllarci meglio.
-
 IV.
 Claudio sentì la nausea.
 Una nausea reale, fisica. Sentì un calore nello stomaco e una pressione sotto il diaframma, e respirò profondamente attraverso il naso, lasciando che il freddo della cripta gli entrasse nei polmoni come acqua.
@@ -52,11 +48,9 @@ Aveva contribuito. Ogni spostamento tracciato, ogni acquisto catalogato. Aveva a
 La cripta sembrava più piccola.
 Aris cambiò schermata. Grafici che scendevano verso il basso come cascate.
 — E poi è arrivato il crollo. — La voce era fredda come il pavimento sotto i loro piedi. — Hanno detto che era colpa di un attacco informatico. Bugie. Il sistema è crollato perché volevano che crollasse. E quando tutti erano disperati, ABITES si è presentata come la soluzione. Ha dato i soldi ai governi. Ha promesso stabilità.
-
 — In cambio dei nostri volti. Dei nostri respiri. Delle nostre vene.
 L'assenza di rumore aveva la consistenza delle cose irreversibili.
 — La nostra prigione è stata costruita sotto i nostri occhi. E noi applaudivamo, convinti che qualcuno stesse risolvendo i nostri problemi.
-
 V.
 Claudio si mise le mani in tasca.
 Sentì il disco. Piccolo. Denso. Reale.
@@ -75,7 +69,6 @@ Aris aprì la bocca. La richiuse.
 — Vuol dire che le toglieranno tutto, un pezzo alla volta, finché non si arrenderà.
 La bocca di Aris si incurvò su quella parola.
 — O finché non sparirà.
-
 VI.
 Claudio si mosse verso l'uscita con un'andatura controllata, deciso a spostarsi senza lasciare tracce.
 — Claudio.

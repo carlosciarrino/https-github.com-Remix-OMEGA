@@ -1,6 +1,5 @@
 export const chapter3Content = `CAPITOLO 3 — Il Vangelo di Nuova Babilonia
 Epoca delle Fratture. Davos, Svizzera. Novembre. Ore 14:07.
-
 Il ghiaccio tintinnò contro il vetro. Julian Vane lo notò. Tre secondi — il ministro aveva tenuto il bicchiere senza bere, poi lo aveva rimesso giù. Bene.
 La sala al quinto piano del Kempinski era stata scelta da Vane dodici anni prima. Non per le vetrate — anche se le vetrate davano sulle cime del Landwassertal con quel tipo di bellezza che non si discute, si subisce. Non per l'isolamento acustico — anche se l'isolamento lì aveva una qualità ovattata, totale, come cotone nelle orecchie.
 Per la luce.

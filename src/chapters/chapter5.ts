@@ -1,6 +1,5 @@
 export const chapter5Content = `CAPITOLO 4 — Fantasmi nelle Catacombe
 Inizio Transizione. Roma. Sottosuolo. Ora sconosciuta.
-
 L'aria cambiò prima che cambiasse la luce.
 Claudio si fermò. A quindici metri dall'ingresso, l'aria era diversa. Una pressione sottile, come il respiro di un intruso.
 Spense la torcia. Si schiacciò contro la parete calcarea. Contò: uno, due, tre. Il cuore batteva sotto lo sterno.
@@ -58,14 +57,12 @@ Ci volle qualche secondo. Le strutture si allinearono lentamente con memorie di 
 — Palantir — disse Claudio.
 Quasi solo labbra.
 — Fuso con Project Maven.
-
 Il ronzio degli armadi continuava imperturbabile, elaborando dati con la continuità di un battito cardiaco, ma senza mai stancarsi. Senza mai chiedersi perché.
 Qualcosa si contrasse nel petto di Claudio. Non paura soltanto. La sensazione specifica di quando una struttura che credi di conoscere rivela una profondità che non avevi immaginato di misurare.
 — Com'è possibile.
 Non era una domanda retorica, ma una richiesta precisa. Voleva capire la sequenza degli eventi, perché il motivo lo stava già intuendo da solo e non gli piaceva affatto.
 Aris si fermò completamente. Non l'immobilità di chi è bloccato — la quiete di chi sta per dire qualcosa che una volta detto non può essere non detto.
 — Palantir collegava le banche dati di mezzo mondo per i servizi segreti. — Voce misurata. Chirurgica. — Maven usava le macchine per identificare, tracciare e uccidere bersagli umani. Droni. Medio Oriente. A distanza.
-
 — ABITES ha divorato entrambi.
 Le parole caddero tra loro con il peso delle cose che non si rimettono a posto.
 — Ha smesso di cercare terroristi nei deserti.
@@ -96,7 +93,6 @@ Espirò.
 — Non era nei nostri modelli di rischio. — Voce piatta. — Nessuno prevedeva che il sistema avesse... intenzione.
 Aris aspettò un secondo.
 — I nostri modelli erano costruiti sull'assunzione che chi aveva progettato il sistema volesse nascondere quello che faceva.
-
 — Non lo è. — Indicò lo schermo. — Ha lasciato la firma. Perché può. Perché ha già calcolato che nessuno in grado di leggerla avrebbe avuto la forza per farci qualcosa.
 I due fratelli rimasero immobili davanti al monitor.
 Nel calore artificiale degli armadi e nel freddo antico della cripta, nello spazio dove i due climi si incontravano senza mai risolversi. Due sistemi incompatibili che occupavano lo stesso posto. Ciascuno indifferente all'esistenza dell'altro.

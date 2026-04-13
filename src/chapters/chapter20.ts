@@ -1,7 +1,5 @@
 export const chapter20Content = `CAPITOLO 19: diciassette secondi
-
 PARTE I — IL CONTEGGIO
-
 Diciassette secondi.
 Non era un'opinione. Era fisica. La latenza del modulo biometrico locale prima che il segnale raggiungesse il nodo centrale. Claudio lo sapeva perché lo aveva scritto lui, in una sala riunioni di Milano con vista sui tetti, convinto che quella latenza fosse un margine di sicurezza.
 Adesso era la distanza tra lui e la morte.
@@ -13,9 +11,7 @@ Il suo cervello stava lavorando su due binari paralleli con la chiarezza dissoci
 Laura era alla sua destra, ferma.
 Guardava il corridoio attraverso il vetro sottile della finestra laterale. Non il drone. Il punto in cui il drone sarebbe apparso.
 Il ticchettio si avvicinò.
-
 PARTE II — LAURA
-
 Si mosse senza avvisarlo.
 Non una parola. Non un gesto verso di lui. Solo il corpo che lasciava il muro e scivolava verso la porta con una velocità che non quadrava con l'assenza assoluta di rumore dei suoi passi. Il suono era una variabile scartata a priori.
 La porta si aprì di tre centimetri.
@@ -32,9 +28,7 @@ Laura rientrò. Richiuse la porta.
 Guardò Claudio.
 Sette secondi erano passati.
 Ne restavano dieci prima che il sistema centrale notasse l'assenza di segnale dalla sentinella.
-
 PARTE III — IL PONTE
-
 Claudio si girò verso il server.
 I connettori ad alto voltaggio erano sulla sinistra — due pin metallici da cinque millimetri, separati da tre centimetri di plastica isolante. Il voltaggio era scritto nell'etichetta gialla che nessun tecnico avrebbe mai dovuto ignorare: 480V. Corrente continua. Il tipo che non lascia tempo al cuore di decidere se fermarsi o continuare.
 Aprì lo zaino. Tirò fuori l'attrezzo che aveva portato per tutt'altro uso — una chiave esagonale in acciaio inossidabile, dodici centimetri di metallo solido.
@@ -56,9 +50,7 @@ Mollò la chiave.
 Cadde contro il banco con il braccio destro che non rispondeva più — i muscoli bloccati in una contrazione che non voleva cedere, le dita aperte in una posizione innaturale come qualcosa che si è rotto nel punto sbagliato. L'odore arrivò un secondo dopo: carne bruciata, plastica fusa, il sapore metallico dell'aria ionizzata che sapeva di temporale in un posto chiuso.
 Lo schermo del server divampò.
 Poi si spense.
-
 PARTE IV — L'ALLARME
-
 Il suono che seguì non era un allarme.
 Era qualcosa di peggio — il vuoto acustico di un sistema che smette di respirare, seguito da tutti i sistemi di backup che si accendono simultaneamente. Le luci di emergenza passarono dal rosso al bianco abbagliante. Da qualche parte nell'edificio, tre piani sopra, si aprì un portone con uno schianto metallico che risuonò in tutta la struttura.
 Laura era già al banco.
@@ -73,9 +65,7 @@ Laura raccolse lo zaino. Il suo. Poi il suo. Lo mise sulla spalla sinistra di Cl
 Dal piano di sopra: passi. Pesanti, coordinati, il ritmo di stivali tattici su pavimento duro.
 — Uscita secondaria — disse Laura.
 Non aspettò risposta.
-
 PARTE V — LA FUGA
-
 Il corridoio di servizio puzzava di tubo fognario e cemento umido — l'odore di Roma, l'odore delle catacombe, l'odore di tutto quello a cui erano sopravvissuti nelle ultime settimane. Claudio lo respirò mentre correva e sentì qualcosa di quasi familiare in quella fetidità. Il peggio aveva sempre questo odore, e ormai lo riconosceva.
 Laura era tre metri avanti.
 Non correva. Si spostava — una distinzione che lui aveva imparato a fare nelle ultime settimane. Correre era inefficiente, rumoroso, impossibile da sostenere nel buio. Quello che faceva lei era qualcosa di diverso: velocità distribuita su ogni passo, il peso che si spostava dai talloni alla punta con una sequenza che non produceva echeggio.
@@ -91,9 +81,7 @@ L'aria fredda di Bologna li colpì in faccia — umida, con quell'odore di nebbi
 Dal lato est dell'edificio: luci. I fari dei veicoli tattici di ABITES che convergevano sulla scuola con la coordinazione muta di qualcosa che non aveva bisogno di urlare per essere terrificante.
 Laura prese a sinistra senza esitare.
 Claudio la seguì.
-
 PARTE VI — LA NOTTE
-
 Correvano sotto i portici.
 I passi rimbombavano sulla pietra — impossibile eliminare quel suono, impossibile correre su cinquecento anni di selciato bolognese senza lasciare traccia acustica. Claudio lo sapeva. Sapeva anche che la nebbia attenuava i sensori ottici a lungo raggio e che le squadre tattiche avevano bisogno di trenta secondi per riposizionarsi da un punto a un altro.
 Trenta secondi per volta.

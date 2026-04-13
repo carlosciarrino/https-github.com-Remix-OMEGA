@@ -1,7 +1,5 @@
 export const chapter4Content = `CAPITOLO 4: la geometria del consenso
-
 PARTE I — L'ARIA
-
 L'aria dell'ottantesimo piano aveva un sapore che non esisteva in natura.
 Non il sapore dell'aria condizionata dei vecchi edifici — quel fresco artificiale con la sua nota di plastica surriscaldata, quella memoria di circuiti. Questo era diverso. Purificato al punto da diventare assenza: nessun polline, nessuna particella, nessun odore umano. L'aria che Julian Vane respirava ogni mattina era più vicina al vuoto che all'atmosfera, e lui la trovava corretta. Il corpo non doveva notare l'aria che respirava. Doveva semplicemente respirarla.
 Si avvicinò alla vetrata.
@@ -10,9 +8,7 @@ Julian guardava quella luce arancione e non sentiva niente.
 Il che era esatto.
 Lo schermo proiettava i dati alle sue spalle — non li guardava, li sapeva, nel modo in cui si sa la temperatura di una stanza senza avere un termometro in mano. Il settore sud-4 aveva registrato un'escalation del trentasette percento nelle ultime sei ore. Sedici blocchi residenziali. Popolazione stimata: quarantaduemila unità. La parola unità era sua — l'aveva introdotta nel protocollo di reportistica nel 2031, in sostituzione di persone, individui, abitanti. Non per disumanizzare. Per chiarire. Un'unità era misurabile. Una persona portava con sé ottocento anni di filosofia morale che non serviva a nessuno.
 Si girò verso lo schermo.
-
 PARTE II — I NUMERI
-
 La proiezione olografica occupava i tre metri centrali dell'ufficio con la discrezione di un oggetto che sa di essere necessario. Nessun colore superfluo. Nessuna infografica pensata per impressionare chi guardava. Solo dati: sovrapposizione cartografica del settore sud-4, densità di calore rilevata dai droni di sorveglianza — quei piccoli punti rossi che in un'altra epoca avrebbero potuto sembrare festivi, come le luci di un albero di Natale visto dall'alto. Fuochi improvvisati. Resistenza organica al freddo. Quattro notti senza riscaldamento nei blocchi da B-17 a B-23, perché l'Amministrazione aveva interrotto l'erogazione in risposta agli arretrati accumulati durante la crisi di redistribuzione dell'ottobre scorso.
 Julian aveva letto il report alle cinque e quaranta di mattina, ancora in piedi alla finestra del suo appartamento al piano settantotto, con una tazza di the bianco che raffreddava nella mano sinistra. Aveva letto due volte la sezione sui blocchi B. Non per sorpresa. Per confermare che le sue proiezioni erano state accurate entro il quattro percento di margine.
 Erano state accurate entro il due virgola tre.
@@ -23,9 +19,7 @@ Premette.
 Lo schermo registrò l'autorizzazione con un tono quasi inudibile — due decibel sopra la soglia dell'udibile, la nota bassa di qualcosa che si mette in moto. Sul layer cartografico, il settore sud-4 cambiò classificazione: da conflittualità civile attiva a emergenza sanitaria di secondo livello. La differenza pratica era nella risposta: non forze antisommossa, non media coverage, non dichiarazioni dell'Amministrazione. Solo squadre mediche ABITES con i kit di somministrazione e le scorte di razioni proteiche di secondo grado.
 E i cerotti.
 Naturalmente i cerotti.
-
 PARTE III — MÜLLER
-
 La porta si aprì senza che nessuno bussasse.
 Julian non si girò subito. Aspettò di sentire il passo — pesante, accelerato, le suole di cuoio sul pavimento in resina che producevano quel suono leggermente troppo netto di chi cammina in fretta dentro un posto dove non dovrebbe camminare in fretta. Quando si girò, il Generale Müller era già a metà stanza, il tablet stretto sotto il braccio sinistro, protetto da un furto invisibile.
 Müller sudava.
@@ -45,13 +39,10 @@ Müller sapeva. Le riprese erano dappertutto. Ogni unità con un dispositivo att
 Müller aprì la bocca. La richiuse. Sulla fronte, quella lucentezza si era intensificata di qualcosa.
 — Le razioni, — disse alla fine. — Le condizionerà all'installazione.
 — Le offrirà in abbinamento all'installazione. — Julian tornò verso la vetrata. — La scelta rimane alle unità.
-
 PARTE IV — LA GEOMETRIA
-
 Müller deglutì. Il pomo d'Adamo scese e salì una volta sola. Le sue mani, lungo i fianchi, si strinsero in pugni per una frazione di secondo prima di rilassarsi.
 — Signor Vane, se lasciamo che la situazione si deteriori per altre quarantotto ore, le proiezioni indicano — almeno trenta morti per esposizione. Forse più.
 — Ventisei virgola quattro, secondo il modello rivisto di stamattina. — Julian non si voltò. — Con un intervallo di confidenza dell'ottanta percento tra diciotto e trentaquattro.
-
 — Lei lo sa già.
 Non era una domanda. Il respiro di Müller cambiò. Divenne più superficiale, controllato. Le sue spalle si abbassarono di un millimetro.
 — Quarantaquattro anni fa, — disse Julian, — il tasso di adesione volontaria ai cerotti neurali era del tre virgola otto percento. Sa qual è adesso?
@@ -70,9 +61,7 @@ Julian lo guardò per la prima volta dall'inizio della conversazione — davvero
 — Bene.
 Müller uscì.
 La porta si chiuse con quel suono ovattato, preciso, che avevano voluto progettare — né troppo morbido né abbastanza duro da sembrare ostile. La tecnologia dell'ambiente: ogni superficie calibrata per comunicare stabilità.
-
 PARTE V — IL SISTEMA
-
 Julian rimase in piedi nel centro dell'ufficio per quattro secondi esatti.
 Non per raccogliersi. Non era necessario. Ma il corpo aveva i suoi ritmi indipendenti dalla volontà, e quei quattro secondi erano il tempo che impiegava il sistema nervoso centrale a riportare la frequenza cardiaca ai sessantadue battiti di riposo che considerava la sua condizione normale. Non sessanta. Sessantadue. La differenza era trascurabile ma Julian la conosceva perché aveva monitorato i propri parametri fisiologici ogni mattina negli ultimi undici anni, con la stessa attenzione che dedicava ai dati di settore.
 Si avvicinò al tavolo.

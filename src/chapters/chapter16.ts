@@ -1,18 +1,15 @@
 export const chapter16Content = `CAPITOLO 15: il mercato delle ombre
 PARTE I — IL GRIGIO DI ROMA
-
 Il cielo di Roma era una lastra di piombo che gravava sui tetti. La pioggia acida era un pizzicore costante sulla pelle. Claudio camminava rapido, il cappuccio calato sul volto.
 Laura lo precedeva di qualche metro. Non si voltava mai. Il suo passo si adattava al terreno, fluido, senza strappi.
 Erano arrivati al limite del settore 4. I checkpoint Teslaris erano più frequenti qui, le luci blu dei sensori biometrici che tagliavano il grigio della mattina come lame laser.
 — Dobbiamo passare attraverso il mercato — disse Laura, fermandosi all'angolo di un vicolo. — È l'unico posto dove la folla è abbastanza densa da confondere i droni.
 Claudio annuì. Il drive nella tasca premeva contro il fianco.
-
 PARTE II — IL MERCATO DELLE OMBRE
 Il mercato di Testaccio era saturo di odori: pesce marcio, fumo di sigarette economiche e la scia acre del disinfettante usato nei Centri di Sincronizzazione. La gente si muoveva senza parlare, tenendo gli occhi bassi.
 Ogni volta che una spia meccanica di ABITES passava sopra la folla, le spalle di Claudio si contraevano. Laura si faceva strada tra la gente, urtando spalle e scansando carretti senza mai perdere il ritmo.
 — Non guardare in alto — mormorò, senza voltarsi. — Se guardi i droni, loro guardano te.
 Claudio abbassò lo sguardo. Le sue scarpe erano coperte di fango e polvere. Pensò a Sara. Al modo in cui teneva le mani ferme sui controlli della radio.
-
 PARTE III — L'INCONTRO
 Arrivarono al banco del pesce nell'angolo più buio del mercato. Un uomo dal grembiule sporco di sangue puliva una spigola. Non alzò lo sguardo quando si avvicinarono.
 — La merce è fresca? — chiese Laura.
@@ -24,7 +21,6 @@ Li condusse in un retrobottega che puzzava di ghiaccio e squame. In un angolo, u
 Claudio estrasse il drive. Le sue dita erano gelide. Inserì il drive nel terminale e iniziò a digitare. Il codice scorreva sullo schermo, illuminando il suo volto stanco.
 — Sto caricando il virus nel nodo di Testaccio — mormorò. — Se funziona, oscurerà i sensori biometrici per tutto il settore per i primi dieci minuti.
 Laura era alla porta, l'orecchio teso verso l'esterno. — Fai in fretta, Claudio. Sento i droni che si avvicinano.
-
 PARTE IV — LA FUGA
 La barra di caricamento arrivò al cento per cento. Lo schermo sfarfallò prima di spegnersi.
 — Fatto — disse Claudio, strappando il drive.

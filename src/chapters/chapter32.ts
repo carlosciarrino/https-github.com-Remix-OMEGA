@@ -1,107 +1,54 @@
 export const chapter32 = `Capitolo 32 — L'Intercapedine
-
 PARTE I — IL BUIO E IL RESPIRO
-
 Il buio era fisico.
-
 Non il buio relativo dei corridoi con la luce di emergenza rossa, non il buio orientabile della torcia — il buio assoluto di uno spazio che non era mai stato pensato per contenere luce, scavato da macchine che non ne avevano bisogno. Claudio avanzava di lato, la schiena alla parete sinistra, il palmo destro sulla parete destra per mantenere la distanza, e ogni centimetro del passaggio era una negoziazione tra il suo corpo e lo spazio disponibile.
-
 Ottanta centimetri di larghezza. Forse meno in certi punti — dove i droni costruttori avevano incontrato una variazione nella densità del cemento e avevano deviato di qualche grado invece di correggere.
-
 La polvere di cemento era nell'aria — non visibile, ma presente in ogni inspirazione, una texture fine che si depositava sul palato e produceva un sapore di calce e minerale che restava anche dopo aver deglutito. Sotto i piedi, terra compressa e irregolare, con piccole asperità che non erano mai state livellate perché nessun piede umano era mai dovuto passarci.
-
 Claudio sentiva Laura dietro di lui — il suo respiro, il fruscio della giacca contro il cemento, il peso dei suoi passi che si trasmettevano nel suolo in modo leggermente diverso dal suo. Viva, presente, integra. Quella consapevolezza era l'unica navigazione disponibile nel buio totale.
-
 La mano sinistra era il problema.
-
 I polpastrelli ustionati erano entrati in contatto con la parete destra nel primo metro di intercapedine — un contatto breve, inevitabile, il tipo di contatto che in condizioni normali sarebbe stato neutro e che in quelle condizioni produsse un segnale acuto e immediato che risalì lungo il braccio fino alla spalla. Claudio spostò la mano destra sulla parete e usò quella invece, tenendo la sinistra sospesa a pochi centimetri dalla superficie, vicina abbastanza da sentire il freddo del cemento senza toccarlo.
-
 Dall'altra parte della parete sinistra — quella che separava l'intercapedine dalla stanza del server — arrivavano voci. Non parole: il tono basso delle comunicazioni tattiche, breve, codificato, con le pause di chi usa un canale radio invece di parlare direttamente. Poi passi — multipli, pesanti, distribuiti in modo che indicava una squadra che stava coprendo l'area in modo sistematico.
-
 Stavano cercando l'apertura.
-
 Claudio accelerò.
-
 PARTE II — LA MEDICAZIONE AL BUIO
-
 Il passaggio si restrinse a sessanta centimetri dopo una curva che Claudio non aveva visto e aveva trovato con la spalla destra contro il cemento — un impatto sordo che aveva fermato il movimento e cambiato l'angolo di tutto il corpo.
-
 Si fermò. Dietro di lui, Laura si fermò un secondo dopo, il suo petto contro la sua schiena nel momento in cui lo spazio non fu abbastanza per la distanza.
-
 Rimase così un momento — non per scelta, per geometria. Lo spazio stretto che imponeva il contatto come fatto fisico, non come decisione. Il calore di lei attraverso gli strati di tessuto bagnato era misurabile, reale, in quell'aria a tre gradi.
-
 Poi Laura mosse le mani.
-
 Non verso la parete, non verso lo zaino — verso di lui, lungo i fianchi. Trovò la mano sinistra di Claudio nel buio — lo trovò per il calore, probabilmente, per la differenza di temperatura tra la mano che stava tenendo sospesa e l'aria circostante — e la prese, delicatamente, con le dita aperte sotto i suoi polpastrelli senza stringere.
-
 Li sentì al tatto. Il pollice che sfiorava il bordo dell'ustione, la pressione che si faceva ancora più leggera nel punto di contatto, quasi non-pressione.
-
 Aprì lo zaino nel buio totale. Claudio la sentiva lavorare — il suono di cerniere, il fruscio di mani che cercavano per forma e dimensione quello che gli occhi non potevano trovare. Il kit di emergenza era in un involucro rigido nella tasca laterale, Claudio lo aveva visto abbastanza volte da sapere dove stava, e evidentemente Laura lo sapeva anche lei.
-
 Il disinfettante bruciò.
-
 Non con il bruciore graduale del primo trattamento al polso — con un bruciore diretto, immediato, che percorse le terminazioni nervose dei polpastrelli e si irradiò verso il palmo in un'onda che Claudio assorbì stringendo i denti e non producendo suono. Dall'altra parte del muro, i passi tattici si erano avvicinati — a dieci metri, forse meno, il suono che arrivava attraverso il cemento con quella qualità sorda e piatta del suono che ha perso le alte frequenze nel passaggio solido.
-
 Le dita di Laura lavoravano con la garza. Claudio non riusciva a vedere niente — sentiva la pressione, la temperatura delle sue mani, il suo respiro che arrivava caldo sul lato del collo nel momento in cui si avvicinava per avvolgere la fasciatura. Quel calore era l'unica fonte di calore non dolore in quell'intercapedine.
-
 Annodò la fasciatura con due movimenti precisi che Claudio sentì attraverso i tendini del polso.
-
 Non disse niente. Lui non disse niente.
-
 Poi rimase ferma, le mani ancora attorno alla sua, nel buio del cemento con i passi tattici che si spostavano oltre la parete e la polvere di calce che scendeva lentamente nell'aria ogni volta che i passi producevano una vibrazione abbastanza forte da raggiungere la struttura dell'intercapedine.
-
 PARTE III — IL DRONE RAGNO
-
 Il suono arrivò dall'alto.
-
 Non era il ronzio dei droni a rotori — era qualcosa di diverso, più sottile, con una qualità intermittente che Claudio impiegò tre secondi a decodificare: il suono di zampe meccaniche su cemento grezzo, ogni appoggio brevissimo e quasi silenzioso, la somma di otto contatti rapidi che producevano un ritmo irregolare e organico che nessun rotore avrebbe mai potuto generare.
-
 Un drone aracnoide. Claudio ne aveva visti le specifiche tecniche durante il lavoro in ABITES — unità di ispezione per condotti e spazi non accessibili, progettate per il movimento silenzioso in ambienti stretti. Otto zampe in fibra di carbonio con ventose all'estremità che permettevano la progressione anche su superfici verticali. Dimensioni: trenta centimetri di corpo, sessanta di apertura con le zampe estese. Sensore termico di precisione, progettato per rilevare firme biologiche in ambienti a temperatura variabile.
-
 Stava scendendo lungo la parete dall'alto verso il basso, dal livello superiore o da un'apertura nel soffitto dell'intercapedine. Silenzioso tranne per quel ritmo di zampe sul cemento grezzo — un suono che Claudio sentiva adesso chiaramente, quattro metri sopra la sua testa, tre, avvicinandosi.
-
 Il sensore termico aveva un range operativo di quindici metri. Erano nel range.
-
 PARTE IV — SANGUE FREDDO
-
 Laura capì prima che lui parlasse.
-
 Le sue mani si mossero — rapide, decise. Aprì lo zaino, trovò la giacca termica schermata che teneva come riserva nel fondo dello zaino, la tirò fuori. Poi prese Claudio per le spalle e lo girò verso la parete di cemento — la parete fredda, quella destra, quella che lui aveva evitato per i polpastrelli e che adesso era l'unica risorsa disponibile.
-
 Lo premette contro il cemento con tutto il proprio peso.
-
 Non delicatamente — con decisione, il petto di lei contro la sua schiena, le braccia che lo avvolgevano portando la giacca termica schermata a coprire il suo torso, le sue braccia, la sua testa, lasciando fuori solo quello che non poteva essere coperto senza soffocare. Il cemento era a meno uno grado sulla superficie esterna — Claudio lo sentì attraverso la fronte, attraverso le guance, attraverso le mani che aveva aperto sul muro per l'impatto e che adesso rimanevano lì perché spostarle avrebbe significato allontanarsi dal freddo.
-
 Il corpo dissipava calore verso il cemento. Il cemento assorbiva.
-
 Il processo era lento — il corpo umano non cede temperatura in secondi, ci vogliono minuti per abbassare la firma termica a un punto in cui un sensore calibrato per ambienti a tre gradi possa non distinguerla dal rumore di fondo. Non avevano minuti.
-
 Laura era contro di lui — non c'era spazio per nessun'altra configurazione nell'intercapedine a sessanta centimetri, e il suo corpo era tra lui e l'aria dell'intercapedine, trattenendo il suo calore invece di lasciarlo irradiare verso il sensore del drone. La sua guancia era contro la nuca di Claudio, il suo respiro controllato e lento — inspirazioni lunghe, espirazioni ancora più lunghe, il tipo di respirazione che abbassa la produzione di calore metabolico.
-
 Claudio copiò il ritmo del suo respiro senza che lei lo dicesse.
-
 Il drone scese nell'intercapedine a due metri sopra la loro testa, le zampe che cambiavano parete — dal cemento grezzo alla parete opposta, il suono degli otto contatti che si moltiplicò nell'eco stretto del passaggio — e poi continuò verso il basso, verso il livello in cui si trovavano, verso il punto in cui stavano.
-
 Claudio sentiva il freddo del cemento diventare parte del suo viso. La fronte, la guancia sinistra, il mento — superfici che avevano ceduto abbastanza calore nei trenta secondi precedenti da essere percettibilmente più fredde dell'aria. Il processo era ancora insufficiente, ancora troppo caldo per un sensore di precisione, ma era quello che avevano.
-
 Il drone era a mezzo metro.
-
 Laura non si mosse. Non irrigidì le braccia, non aumentò la pressione — rimase ferma nella stessa posizione.
-
 Il laser rosso di scansione apparve dal nulla — una linea sottile, orizzontale, che attraversò l'intercapedine a livello degli occhi di Claudio. Illuminò il cemento davanti alla sua fronte, poi si spostò di un grado verso destra, poi di un grado ancora, descrivendo un arco metodico nello spazio stretto.
-
 Passò a tre centimetri dal suo occhio sinistro.
-
 Claudio non batté le palpebre. Il laser continuò il suo arco verso destra, trovò la parete opposta, rimase lì due secondi mentre il drone elaborava i dati del settore, poi si spense.
-
 Le zampe meccaniche ripresero il movimento — verso il basso, oltre il livello in cui si trovavano, verso il segmento inferiore dell'intercapedine. Il ritmo degli otto contatti si allontanò lentamente, un metro, due, tre, fino a diventare un suono troppo sottile per essere distinto dalla vibrazione strutturale del cemento.
-
 Laura non si staccò subito.
-
 Rimase ferma per altri dieci secondi — Claudio li contò nel ritmo del suo respiro contro la sua nuca, lento e regolare, il calore di lei che era l'unica cosa tra lui e il freddo del cemento davanti. Poi le sue braccia si allentarono di qualche centimetro, non abbastanza da staccarsi ma abbastanza da non essere più il gesto necessario che erano stati.
-
 Claudio sollevò la fronte dal cemento. La superficie della pelle era intorpidita — un intorpidimento bianco, privo di dolore, che sarebbe diventato bruciore tra qualche minuto quando la circolazione fosse tornata normale.
-
 Davanti a loro, il passaggio continuava nel buio verso qualcosa che non riuscivano a vedere ma che doveva esistere — perché i droni costruttori non scavano intercapedini senza uscita, perché ogni sistema ha bisogno di una via che porta da qualche parte, perché quella era la logica con cui Claudio aveva costruito tutto e quella logica era ancora lì, nel cemento intorno a loro, che aspettava di essere seguita.
-
 Si rimisero in movimento.`;

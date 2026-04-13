@@ -1,7 +1,5 @@
 export const chapter17Content = `CAPITOLO 16: il peso di quello che sappiamo
-
 PARTE I — LA CITTÀ CHE LI CERCAVA
-
 La pioggia non pulisce più niente.
 Claudio lo capì di nuovo mentre attraversava via della Lungara con la testa bassa e il colletto alzato, l'acqua che gli colava lungo la nuca e si infilava dentro il cappotto come dita fredde. Non era la pioggia che ricordava da bambino — quella che lavava il selciato e lasciava l'aria fresca. Questa lasciava una patina. Un sapore metallico che si depositava sulle labbra e restava lì, come il ricordo di qualcosa che non vuoi ricordare.
 Laura camminava due passi davanti a lui, le spalle leggermente curve sotto il giubbotto scuro, il passo cadenzato di chi ha imparato a muoversi nelle città come si muovono gli animali nelle foreste — senza ritmo prevedibile, senza traiettoria dritta. Si fermava. Aspettava. Ripartiva. Claudio la seguiva senza parlare, perché nelle ultime ore aveva imparato che l'assenza di parole di Laura non era indifferenza — era concentrazione. Era il modo in cui lei teneva tutti e due in vita.
@@ -15,9 +13,7 @@ All'angolo di vicolo del Cedro, Laura si fermò di nuovo. Alzò una mano — seg
 Laura girò l'angolo opposto senza esitazione. Claudio la seguì.
 Impiegarono quaranta minuti per un percorso che in condizioni normali ne avrebbe richiesti dodici. Quando arrivarono all'ingresso delle catacombe — un portone di ferro arrugginito in un cortile interno che sembrava abbandonato da decenni — Claudio sentì le gambe cedere di un millimetro. Non un crollo, ma un cedimento muscolare incontrollabile dopo ore di tensione.
 Laura batté una sequenza sul metallo. Aspettò. La serratura cedette dall'interno.
-
 PARTE II — IL CALORE DI LEI
-
 Il calore sotterraneo lo colpì come un muro.
 Dopo il freddo umido della strada, l'aria delle catacombe aveva quasi un sapore — terriccio, cera, il residuo elettrico degli schermi accesi. Claudio scese i gradini di pietra con una mano sulla parete calcarea, lasciando che gli occhi si adattassero alla luce fioca delle lampade a led che Aris aveva installato lungo il corridoio centrale.
 La vide prima che lei lo vedesse.
@@ -33,15 +29,12 @@ Le posò una mano tra le scapole. Sentì la sua spina dorsale, le vertebre che s
 Sara si staccò per prima. Lo guardò con i suoi soliti occhi diretti e senza ornamenti. Le sue dita fredde trovarono la sua guancia calda, indugiando per un secondo, cercando la conferma fisica che fosse davvero lì.
 Poi lasciò andare.
 — Carlo ha trovato qualcosa — disse. La voce era tornata al suo registro normale, professionale e urgente. — Devi vedere.
-
 PARTE III — IL PESO DI QUELLO CHE SAPPIAMO
-
 Carlo era seduto dove stava sempre — davanti ai tre schermi in fondo alla stanza, circondato da cavi e involucri di cibo che non ricordava di aver mangiato. La sua schiena curva sembrava fusa con la sedia, gli occhiali spessi riflettevano l'unica luce che tollerava, e le dita si muovevano sulla tastiera con una precisione lenta e inesorabile.
 Si girò quando Claudio si avvicinò. Non disse niente. Indicò il monitor centrale.
 Claudio guardò.
 Non erano solo numeri. Erano mappe — planimetrie di edifici scolastici con le rotte di distribuzione dei dispositivi sovrapposte in rosso. Erano grafici di crescita della compliance suddivisi per fascia d'età, che mostravano come la curva scendesse drasticamente sopra i dodici anni. Il sistema aveva calcolato lo sforzo del condizionamento oltre quella soglia, riposizionando i vettori su chi non aveva ancora gli strumenti per resistere.
 — La Fase 4 non inizia tra sei mesi — disse Carlo. La sua voce era piatta, svuotata da ogni emozione. — Tre dei siti pilota sono già attivi. Bologna, Lione, Rotterdam. I braccialetti vengono presentati come dispositivi di sicurezza per i bambini. GPS integrato, monitoraggio della salute. I genitori li chiedono. Li richiedono.
-
 Laura si era fermata a un metro dalla consolle, le braccia conserte, un'espressione fredda e stabile, gli occhi che scorrevano sui dati calcolando già le possibili contromisure.
 Sara non si mosse. Claudio la sentì accanto a sé — la sua presenza come una frequenza, il calore della sua spalla a un centimetro dalla sua. Poi lei parlò, e la voce era piatta, come quella di un medico davanti a una diagnosi inappellabile.
 — Una volta che il sistema ha i dati dall'infanzia — disse — può modellare il comportamento adulto con una precisione che nessun condizionamento successivo può raggiungere. Non è controllo. È architettura. Costruisci la persona prima che la persona sappia di poter essere costruita diversamente.
@@ -51,9 +44,7 @@ Claudio tirò fuori il drive dalla tasca. Lo posò sul bordo della consolle, un 
 Carlo guardò il drive. Poi guardò Claudio.
 — Hai un piano o hai una speranza?
 — Ho entrambe — disse Claudio. — E so che non è abbastanza. Ma è quello che c'è.
-
 PARTE IV — QUELLO CHE NON SI PUÒ PIÙ RIMANDARE
-
 Laura fu la prima a parlare.
 Si staccò dalla parete muovendosi con la solita prontezza.
 — Bologna è raggiungibile in treno se usiamo i documenti di Mara. Lione richiede una settimana di preparazione minima. Rotterdam — guardò Carlo — hai ancora i contatti nella rete olandese?

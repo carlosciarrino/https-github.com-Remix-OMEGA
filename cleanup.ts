@@ -18,8 +18,8 @@ files.forEach(f => {
   // Rimuove gli a capo vuoti all'inizio del template literal
   c = c.replace(/export const (\w+) = `\r?\n+/g, 'export const $1 = `\n');
   
-  // Riduce gli a capo multipli (3 o più) a un doppio a capo (paragrafo normale)
-  c = c.replace(/\n\s*\n\s*\n/g, '\n\n');
+  // Riduce gli a capo multipli a un singolo a capo (paragrafo normale senza riga vuota)
+  c = c.replace(/\n\s*\n+/g, '\n');
   
   fs.writeFileSync(p, c, 'utf8');
 });

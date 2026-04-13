@@ -1,7 +1,5 @@
 export const chapter8Content = `CAPITOLO 7: l'architettura della gabbia
-
 PARTE I — IL CODICE DEL PASTORE
-
 Il laboratorio non dormiva mai.
 Claudio lo aveva capito la seconda notte; il ronzio delle macchine era diventato familiare come il respiro di un compagno di stanza. Adesso non lo sentiva più. Era diventato il respiro naturale di quel posto.
 Tre schermi accesi. Uno rotto.
@@ -63,9 +61,7 @@ Non lo disse.
 Uno spazio così piccolo non era progettato per contenere un numero del genere.
 Sara capì dall'assenza di risposta. Si raddrizzò di un centimetro — il corpo che trova un nuovo equilibrio sotto un peso nuovo.
 Stavano fermi davanti allo schermo. Il calore del suo braccio percettibile a pochi centimetri. Claudio non si spostò. Sara non si spostò.
-
 PARTE II — SESSANTA CENTIMETRI
-
 Il click fu discreto. Quasi educato.
 Il sensore perimetrale al livello meno tre non emetteva allarmi — il suono viaggiava nel cemento in modi imprevedibili e un allarme poteva ucciderti prima del pericolo che segnalava. Emetteva un click. Uno solo.
 Claudio lo aveva aspettato ogni notte da quando erano scesi.
@@ -75,7 +71,6 @@ Gli schermi si spensero in un gesto solo. Sara era già all'interruttore del fil
 — Tre minuti. — Claudio non alzò gli occhi dal sensore. — Forse quattro.
 — Conosco il protocollo.
 — Anche questa volta?
-
 — Anche questa volta.
 Il corridoio di manutenzione dietro le macchine: sessanta centimetri di larghezza. Metallo freddo alle spalle. Calore dei server dall'altro lato. I droni di ABITES usavano sensori a raggi termici capaci di attraversare i muri — tecnologia affinata in un decennio di caccia all'uomo. La schermatura era buona. Era stata costruita per standard vecchi di una generazione.
 Claudio sapeva quanto valeva.
@@ -103,9 +98,7 @@ Nessuno dei due si mosse. Rimasero intrecciati, i respiri corti e affannosi che 
 Aspettarono finché l'ultimo eco non si dissolse. Solo l'acqua che gocciolava da una crepa nella volta.
 Lentamente, con una riluttanza fisica che faceva male, si staccarono.
 L'aria tra loro sembrava più fredda di prima.
-
 PARTE III — QUELLO CHE RESTA
-
 Tornarono agli schermi.
 La scoperta era ancora lì. Non era scomparsa mentre si nascondevano. Non era diventata meno vera.
 Claudio aveva quasi sperato — un secondo irrazionale nel buio — che tornando i dati fossero cambiati. Un errore di lettura. Un file corrotto.

@@ -1,6 +1,5 @@
 export const chapter2Content = `CAPITOLO 2 — Risonanza di Terra e Sangue
 Epoca delle Fratture. Monti Appalachi. Novembre.
-
 Iniziò con le api.
 Sara lo capì mentre raccoglieva la legna. Mani occupate, mente libera; il lavoro fisico le lasciava spazio per ascoltare. Le api selvatiche nell'incavo del castagno ronzavano da sempre, quel rumore di fondo che conosceva come il proprio respiro.
 Poi smisero. Di colpo.
