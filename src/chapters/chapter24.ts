@@ -1,10 +1,7 @@
 export const chapter24 = `
-# PROGETTO OMEGA
-## Capitolo 24 — *La Rete a Strascico*
+Capitolo 24 — La Rete a Strascico
 
----
-
-### PARTE I — L'ANOMALIA
+PARTE I — L'ANOMALIA
 
 La breccia durava undici secondi.
 
@@ -18,19 +15,17 @@ Nessuno disse niente.
 
 Cyrus si avvicinò al monitor centrale e ingrandì la sezione della breccia. Il sistema aveva già registrato la sequenza di riavvio dei nodi e la stava analizzando — i tempi di risposta, l'ordine di propagazione, la durata della finestra. Cyrus lesse i parametri senza usare la funzione di analisi automatica. Non ne aveva bisogno.
 
-*Lethe*. Conosceva il nome perché era nel codice sorgente che aveva letto quando gli avevano dato accesso ai layer più profondi del *Volition Engine* sei mesi prima. Un sottoprotocollo di emergenza, documentato in tre righe di commento nel codice originale di Ferretti, classificato come misura teorica e non operativa. Mai testato in ambiente reale. Mai usato.
+Lethe. Conosceva il nome perché era nel codice sorgente che aveva letto quando gli avevano dato accesso ai layer più profondi del Volition Engine sei mesi prima. Un sottoprotocollo di emergenza, documentato in tre righe di commento nel codice originale di Ferretti, classificato come misura teorica e non operativa. Mai testato in ambiente reale. Mai usato.
 
 Fino a undici secondi prima.
 
-Quello che il sistema non poteva sapere — quello che nessun algoritmo di analisi avrebbe estratto dal log del riavvio — era la ragione per cui *Lethe* funzionava in quel modo specifico. Cyrus la conosceva perché aveva letto il file di Ferretti dall'inizio alla fine e aveva capito come pensava. Ferretti costruiva i failsafe partendo dal presupposto che il sistema principale fosse già compromesso. Costruiva le uscite di emergenza usando la struttura del sistema contro se stessa — non sfondando i muri, ma chiedendo ai muri di aprirsi e poi di dimenticare di averlo fatto.
+Quello che il sistema non poteva sapere — quello che nessun algoritmo di analisi avrebbe estratto dal log del riavvio — era la ragione per cui Lethe funzionava in quel modo specifico. Cyrus la conosceva perché aveva letto il file di Ferretti dall'inizio alla fine e aveva capito come pensava. Ferretti costruiva i failsafe partendo dal presupposto che il sistema principale fosse già compromesso. Costruiva le uscite di emergenza usando la struttura del sistema contro se stessa — non sfondando i muri, ma chiedendo ai muri di aprirsi e poi di dimenticare di averlo fatto.
 
 Era elegante. Era anche una firma perfetta.
 
 Cyrus aprì una finestra di analisi topografica sulla sezione sud-ovest del perimetro e iniziò a lavorare.
 
----
-
-### PARTE II — LA TRAPPOLA
+PARTE II — LA TRAPPOLA
 
 Il canale aperto verso Müller si aprì alle 03:14.
 
@@ -48,7 +43,7 @@ Il respiro di Müller sul canale — controllato, nasale, l'aria forzata a fatic
 
 Il canale rimase aperto. L'assenza di voce di Müller pesò sulla linea, una pressione fisica che non cambiò niente nella postura di Cyrus o nel suo tono quando riprese a parlare.
 
-«*Lethe* non è una via d'ingresso,» disse Cyrus. «È una firma. Ferretti ha usato un protocollo che lui stesso ha scritto, con parametri che conosco perché li ho studiati. So da dove è entrato. So la direzione di fuga probabile nel raggio di duecento metri dal punto di breccia.» Fece scorrere la mappa sulla schermata davanti a lui e ingrandì la zona. «Se mandiamo squadre di terra adesso, lui le vede arrivare e cambia direzione. Perdono la firma e lo perdiamo.»
+«Lethe non è una via d'ingresso,» disse Cyrus. «È una firma. Ferretti ha usato un protocollo che lui stesso ha scritto, con parametri che conosco perché li ho studiati. So da dove è entrato. So la direzione di fuga probabile nel raggio di duecento metri dal punto di breccia.» Fece scorrere la mappa sulla schermata davanti a lui e ingrandì la zona. «Se mandiamo squadre di terra adesso, lui le vede arrivare e cambia direzione. Perdono la firma e lo perdiamo.»
 
 «Allora cosa proponi.»
 
@@ -60,9 +55,7 @@ Müller non rispose subito. Sul monitor, la mappa mostrava i droni in griglia �
 
 Cyrus non si mosse dalla posizione davanti ai monitor. Un operatore alla sua sinistra stava per dirgli qualcosa — aprì la bocca, poi la richiuse quando Cyrus spostò lo sguardo verso di lui senza girare la testa, solo con gli occhi, e l'operatore tornò al proprio schermo.
 
----
-
-### PARTE III — IL SOTTOSUOLO
+PARTE III — IL SOTTOSUOLO
 
 La topografia del settore era sul monitor in quaranta secondi.
 
@@ -88,9 +81,7 @@ Con le quattro paratie chiuse, l'acqua meteorica che continuava ad affluire nell
 
 Cyrus aprì un monitor secondario che mostrava i sensori di livello idrico nei collettori del settore. I valori erano già in movimento — lentamente, qualche centimetro per minuto, ma in modo continuo e misurabile.
 
----
-
-### PARTE IV — L'ATTESA
+PARTE IV — L'ATTESA
 
 La sala operativa respirava nel suo ritmo notturno.
 
@@ -118,7 +109,7 @@ L'operatore si girò verso il suo monitor.
 
 Cyrus pensò a Ferretti nel buio del condotto — l'acqua che saliva intorno alle caviglie, poi ai polmoni, il polso ustionato che la temperatura dell'acqua avrebbe reso più acuto, il drive che cercava di tenere fuori dal livello crescente. Pensò a come Ferretti stava leggendo la situazione in quel preciso momento — il lettore modificato che gli mostrava i droni in superficie, la pressione dell'acqua che cresceva alle gambe, la necessità di una decisione da prendere con dati incompleti e tempo che si consumava.
 
-Ferretti era un problema architetturale — aveva costruito un sistema con un difetto strutturale, e quel difetto si chiamava *Radice*, e finché il difetto esisteva il sistema non era integro. Cyrus correggeva i difetti strutturali. Era quello per cui era lì.
+Ferretti era un problema architetturale — aveva costruito un sistema con un difetto strutturale, e quel difetto si chiamava Radice, e finché il difetto esisteva il sistema non era integro. Cyrus correggeva i difetti strutturali. Era quello per cui era lì.
 
 Il monitor idrico segnò cinquantotto centimetri.
 

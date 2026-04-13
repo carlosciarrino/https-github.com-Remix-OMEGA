@@ -36,6 +36,7 @@ import { chapter29 } from './chapters/chapter29';
 import { chapter30 } from './chapters/chapter30';
 import { chapter31 } from './chapters/chapter31';
 import { chapter32 } from './chapters/chapter32';
+import { chapter33 } from './chapters/chapter33';
 import React, { useState, useRef } from 'react';
 import { 
   Zap, 
@@ -447,6 +448,7 @@ Mentre ABITES offre una pace sterile, superfici polimeriche e un'esistenza senza
     chapter30,
     chapter31,
     chapter32,
+    chapter33,
   ]);
 
   const [chapterContent, setChapterContent] = useState<Record<string, string>>({
@@ -483,6 +485,7 @@ Mentre ABITES offre una pace sterile, superfici polimeriche e un'esistenza senza
     'vol-1-cap-30': chapter30,
     'vol-1-cap-31': chapter31,
     'vol-1-cap-32': chapter32,
+    'vol-1-cap-33': chapter33,
   });
 
 
@@ -963,7 +966,7 @@ Claudio guardò la bilancia digitale al tornello. Non misurava solo il peso del 
                     <div className="bg-black/40 p-6 rounded-lg border border-gray-800">
                       <h3 className="text-amber-400 font-bold mb-4 text-xs uppercase tracking-widest">2. Seleziona Capitolo</h3>
                       <div className="flex flex-wrap gap-2">
-                        {Array.from({length: 22}, (_, i) => i + 1).map(c => (
+                        {Array.from({length: 40}, (_, i) => i + 1).map(c => (
                           <button
                             key={c}
                             onClick={() => setSelectedGenChapter(c)}
@@ -2046,6 +2049,7 @@ Constraints:
                         'vol-1-cap-30': chapter30,
                         'vol-1-cap-31': chapter31,
                         'vol-1-cap-32': chapter32,
+                        'vol-1-cap-33': chapter33,
                       });
                       setPlots([
                         {

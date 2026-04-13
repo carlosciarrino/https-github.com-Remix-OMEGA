@@ -1,10 +1,7 @@
 export const chapter25 = `
-# PROGETTO OMEGA
-## Capitolo 25 — *L'Agnello di Dati*
+Capitolo 25 — L'Agnello di Dati
 
----
-
-### PARTE I — LA TRAPPOLA DI CYRUS
+PARTE I — LA TRAPPOLA DI CYRUS
 
 Il livello dell'acqua nel collettore C saliva di tre centimetri al minuto.
 
@@ -32,9 +29,7 @@ L'unico modo per ottenere zero latenza era eliminare la distanza tra il cervello
 
 Aris guardò il cavo sulla scrivania.
 
----
-
-### PARTE II — IL CAVO
+PARTE II — IL CAVO
 
 Lo aveva costruito tre mesi prima, in un pomeriggio in cui non aveva niente di urgente da fare e le mani cercavano qualcosa di complesso su cui lavorare. Non sapeva ancora perché lo stesse costruendo — o forse lo sapeva e non se lo era detto.
 
@@ -68,9 +63,7 @@ Guardò gli schermi un momento — i droni in attesa, l'acqua che saliva, le par
 
 Premette invio.
 
----
-
-### PARTE III — L'OCEANO DI SILICIO
+PARTE III — L'OCEANO DI SILICIO
 
 Il primo impatto fu visivo.
 
@@ -100,9 +93,7 @@ La luce nella stanza si moltiplicò senza fonte — non dai monitor, non dalle l
 
 Settantadue percento.
 
----
-
-### PARTE IV — L'ULTIMO COMANDO
+PARTE IV — L'ULTIMO COMANDO
 
 Un metro e ventisette centimetri nel collettore C.
 

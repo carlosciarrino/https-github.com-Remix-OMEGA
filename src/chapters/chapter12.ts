@@ -1,8 +1,6 @@
 export const chapter12Content = `CAPITOLO 12: LA FUGA DI MEZZANOTTE
 
----
-
-### PARTE I — IL SOTTOSUOLO
+PARTE I — IL SOTTOSUOLO
 
 Il sapore del sangue arrivò al terzo chilometro.
 
@@ -26,9 +24,7 @@ L'acqua schizzava. Il fiato usciva a strattoni. Sentiva la coscia sinistra — u
 
 I passi dietro di lui non accelerarono. Mantennero lo stesso ritmo.
 
----
-
-### PARTE II — L'INQUISITORE
+PARTE II — L'INQUISITORE
 
 La stazione fantasma si aprì davanti a lui senza preavviso.
 
@@ -60,9 +56,7 @@ Claudio guardò il visore. Dentro il vetro scuro non c'era niente da vedere.
 
 Fece un passo avanti.
 
----
-
-### PARTE III — L'AGGUATO DELLA LINCE
+PARTE III — L'AGGUATO DELLA LINCE
 
 Il suono fu minimo.
 
@@ -86,9 +80,7 @@ Non cadde — rimase in piedi, l'armatura ancora integra, ma il fianco sinistro 
 
 Aveva già rimesso il coltello nella guaina alla coscia. Passò davanti a Claudio, prese il raccordo che lui non aveva visto — un'apertura bassa, quasi a livello del suolo, sul lato sinistro della banchina, nascosta dall'ombra di una vecchia colonnina metallica arrugginita.
 
----
-
-### PARTE IV — RISONANZA E FUGA
+PARTE IV — RISONANZA E FUGA
 
 Il condotto era largo ottanta centimetri.
 
@@ -162,11 +154,11 @@ Lui neanche.
 
 Il ronzio dei droni rimase a nord, poi virò lentamente verso est, seguendo un'anomalia termica che Claudio non riusciva a vedere ma che li stava portando nella direzione sbagliata.
 
-Roma si stendeva intorno a loro — palazzi bui, lampioni gialli, il Tevere da qualche parte a destra che rifletteva la luce delle rive. Una città che dormiva sotto la Sincronia, i cerotti neurali al lavoro nei polsi e nelle tempia di due milioni di persone, il *Volition Engine* che processava e ricalibrava e sostituiva nel ronzio preciso dei server.
+Roma si stendeva intorno a loro — palazzi bui, lampioni gialli, il Tevere da qualche parte a destra che rifletteva la luce delle rive. Una città che dormiva sotto la Sincronia, i cerotti neurali al lavoro nei polsi e nelle tempia di due milioni di persone, il Volition Engine che processava e ricalibrava e sostituiva nel ronzio preciso dei server.
 
 Il drive aveva quello che serviva per fermarlo.
 
-Mancava ancora la *Radice*.
+Mancava ancora la Radice.
 
 Mancava ancora un terminale.
 

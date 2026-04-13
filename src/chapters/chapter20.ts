@@ -9,7 +9,7 @@ Il drive era in mano. Il calore del metallo contro il palmo — caldo di tasca, 
 Dal corridoio: il ticchettio.
 Ritmico, secco, otto zampe su pavimento di cemento. Il drone ragno era a dodici metri. Forse dieci. Il suono si amplificava nel corridoio vuoto, il passo di qualcosa che sa di avere tutto il tempo del mondo.
 Claudio non si mosse.
-Il suo cervello stava lavorando su due binari paralleli con la chiarezza dissociata che arriva solo quando il tempo si comprime abbastanza da fermarsi — l'impronta autorizzata o il cortocircuito fisico. Primo: non aveva un'impronta autorizzata. Non aveva scanner, non aveva una mano tagliata da qualche tecnico ABITES, non aveva niente che il modulo biometrico avrebbe riconosciuto. Secondo: il cortocircuito richiedeva un ponte tra i connettori ad alto voltaggio sul lato sinistro del server — il punto caldo che aveva visto appena entrato, il punto che aveva mentalmente catalogato come *non toccare mai*.
+Il suo cervello stava lavorando su due binari paralleli con la chiarezza dissociata che arriva solo quando il tempo si comprime abbastanza da fermarsi — l'impronta autorizzata o il cortocircuito fisico. Primo: non aveva un'impronta autorizzata. Non aveva scanner, non aveva una mano tagliata da qualche tecnico ABITES, non aveva niente che il modulo biometrico avrebbe riconosciuto. Secondo: il cortocircuito richiedeva un ponte tra i connettori ad alto voltaggio sul lato sinistro del server — il punto caldo che aveva visto appena entrato, il punto che aveva mentalmente catalogato come non toccare mai.
 Laura era alla sua destra, ferma.
 Guardava il corridoio attraverso il vetro sottile della finestra laterale. Non il drone. Il punto in cui il drone sarebbe apparso.
 Il ticchettio si avvicinò.
@@ -116,7 +116,7 @@ Dal lato della scuola arrivò una luce — il fascio di un riflettore che spazza
 Claudio stringeva la benda con la mano sinistra. La sentiva ancora calda delle sue dita.
 Si alzò.
 Pensò a Sara.
-Non come pensiero elaborato — come fame improvvisa, come il momento in cui il corpo realizza quanto tempo è passato dall'ultimo pasto. Il suono della sua voce nella radio a onde corte. Le parole spezzate dalla statica. *Claudio, se riesci a sentirmi.*
+Non come pensiero elaborato — come fame improvvisa, come il momento in cui il corpo realizza quanto tempo è passato dall'ultimo pasto. Il suono della sua voce nella radio a onde corte. Le parole spezzate dalla statica. Claudio, se riesci a sentirmi.
 Lui l'aveva sentita.
 Era ancora vivo per dirlo.
 Seguì Laura nel buio della città.

@@ -1,10 +1,7 @@
 export const chapter26 = `
-# PROGETTO OMEGA
-## Capitolo 26 — *Il Respiro del Sottosuolo*
+Capitolo 26 — Il Respiro del Sottosuolo
 
----
-
-### PARTE I — L'EMERSIONE
+PARTE I — L'EMERSIONE
 
 L'acqua defluì in meno di quattro minuti.
 
@@ -20,9 +17,7 @@ Claudio rimase in piedi sul pavimento di cemento e l'acqua che aveva nei vestiti
 
 Laura aveva già estratto la torcia e stava guardando verso il fondo del corridoio, oltre la curvatura che spariva a sinistra una trentina di metri più avanti.
 
----
-
-### PARTE II — IL FATTORE UMANO
+PARTE II — IL FATTORE UMANO
 
 Le voci arrivarono prima dei passi.
 
@@ -50,9 +45,7 @@ Trascinarono i due uomini nel vano tecnico laterale — una porta non chiusa a c
 
 Claudio rimase sulla soglia un momento. Guardò i due uomini. Poi richiuse la porta.
 
----
-
-### PARTE III — L'AGENTE LOGISTICO 4
+PARTE III — L'AGENTE LOGISTICO 4
 
 Erano a sei metri dalla porta del Livello meno tre quando gli altoparlanti si attivarono.
 
@@ -68,9 +61,7 @@ Laura aveva già le mani sulla serratura magnetica della porta — un pannello d
 
 «Il sistema non registra un ordine di lavoro straordinario per questo settore nell'arco delle ultime sei ore,» disse l'Agente. «Inserire il codice di autorizzazione per ispezioni non programmate.»
 
----
-
-### PARTE IV — IL DIALOGO PROCEDURALE
+PARTE IV — IL DIALOGO PROCEDURALE
 
 La serratura emise un clic secco — non di apertura, di blocco. Il display numerico passò da verde a giallo.
 

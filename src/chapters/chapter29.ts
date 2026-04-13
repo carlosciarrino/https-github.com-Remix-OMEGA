@@ -1,10 +1,7 @@
 export const chapter29 = `
-# PROGETTO OMEGA
-## Capitolo 29 — *Sangue sui Server*
+Capitolo 29 — Sangue sui Server
 
----
-
-### PARTE I — L'ALTERNATIVA
+PARTE I — L'ALTERNATIVA
 
 Claudio si staccò dal vetro.
 
@@ -18,9 +15,7 @@ La curva a sinistra era reale. Oltre, il corridoio si allargava in un'area di st
 
 Dal drive, la mappa mostrava un corridoio di manutenzione che correva parallelo al settore di Laura, accessibile da qualche punto in questa area di stoccaggio. Doveva trovare la porta.
 
----
-
-### PARTE II — IL RASTRELLAMENTO
+PARTE II — IL RASTRELLAMENTO
 
 Le vide prima che le sentisse — tre torce tattiche che si muovevano tra i rack dal lato opposto dell'area di stoccaggio, puntate verso il basso, i fasci di luce che illuminavano i piedi dei server e il pavimento in resina in cerchi che si spostavano in modo sistematico, un rack per volta.
 
@@ -38,9 +33,7 @@ Claudio uscì dall'ombra e la prese per la nuca e per la spalla e usò il propri
 
 Le altre due torce si girarono verso il suono.
 
----
-
-### PARTE III — SANGUE SUI SERVER
+PARTE III — SANGUE SUI SERVER
 
 La seconda guardia era più vicina di quanto Claudio avesse calcolato.
 
@@ -68,9 +61,7 @@ Il respiro di Claudio era l'unico suono nell'area di stoccaggio adesso — oltre
 
 Si appoggiò al rack e aspettò che i puntini bianchi sparissero dal campo visivo.
 
----
-
-### PARTE IV — LA VIA LIBERA
+PARTE IV — LA VIA LIBERA
 
 La chiave d'accesso era sul giubbotto della seconda guardia — una tessera magnetica in una tasca con velcro sul petto, con il logo del livello meno due impresso sul retro e una banda RFID sul fronte. Claudio la prese senza guardare la guardia in viso. Fece in tre secondi quello che non aveva tempo di fare con più attenzione.
 
@@ -100,7 +91,7 @@ Laura abbassò la mano. Guardò il polso fasciato — la fasciatura visibilmente
 
 «Il nucleo,» disse. «Quanto siamo lontani.»
 
-Claudio aprì il lettore. La mappa mostrava la loro posizione nel corridoio est del Livello meno due, con il corridoio di accesso al Livello meno uno — il nucleo del *Volition Engine* — che partiva da un punto settantadue metri più avanti.
+Claudio aprì il lettore. La mappa mostrava la loro posizione nel corridoio est del Livello meno due, con il corridoio di accesso al Livello meno uno — il nucleo del Volition Engine — che partiva da un punto settantadue metri più avanti.
 
 «Settantadue metri,» disse.
 

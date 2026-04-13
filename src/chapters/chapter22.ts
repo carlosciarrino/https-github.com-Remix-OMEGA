@@ -1,10 +1,7 @@
 export const chapter22 = `
-# PROGETTO OMEGA
-## Capitolo 22 — *Il Perimetro*
+Capitolo 22 — Il Perimetro
 
----
-
-### PARTE I — LA PIOGGIA E IL FREDDO
+PARTE I — LA PIOGGIA E IL FREDDO
 
 La pioggia aveva un sapore.
 
@@ -24,9 +21,7 @@ Tenevano.
 
 La pioggia aumentò di intensità quando uscirono dal riparo del cavalcavia. Claudio alzò la testa un momento — il cielo era uniforme, grigio scuro fino all'orizzonte, senza interruzioni. Poi abbassò la testa e continuò.
 
----
-
-### PARTE II — LA MEDICAZIONE
+PARTE II — LA MEDICAZIONE
 
 Il container era stato rosso, una volta.
 
@@ -64,9 +59,7 @@ Poi Laura mollò il polso, rimise il disinfettante nello zaino e si alzò.
 
 Claudio si alzò. Il container rimbombò sotto i suoi piedi mentre si spostava verso la porta socchiusa. Prima di uscire si fermò un secondo — non si voltò — poi spinse la porta e uscì nella pioggia.
 
----
-
-### PARTE III — IL MURO INVISIBILE
+PARTE III — IL MURO INVISIBILE
 
 Il lettore modificato era cucito nella fodera interna della giacca, a contatto con le costole sul lato sinistro.
 
@@ -90,7 +83,7 @@ A cinque chilometri da quella posizione — il lettore lo calcolava in tempo rea
 
 Livello uno.
 
-Aveva costruito quel protocollo pensando che non sarebbe mai stato attivato. Era la risposta a uno scenario che sembrava teorico — una minaccia interna di livello sufficiente da giustificare il sacrificio della mobilità operativa su un'area definita. Lo aveva chiamato *cordone sanitario* nelle specifiche tecniche, con un termine medico che adesso gli sembrava più accurato di quanto avesse inteso.
+Aveva costruito quel protocollo pensando che non sarebbe mai stato attivato. Era la risposta a uno scenario che sembrava teorico — una minaccia interna di livello sufficiente da giustificare il sacrificio della mobilità operativa su un'area definita. Lo aveva chiamato cordone sanitario nelle specifiche tecniche, con un termine medico che adesso gli sembrava più accurato di quanto avesse inteso.
 
 Il sistema non sparava. Non fermava fisicamente. Identificava — ogni presenza biometrica nell'area di contenimento veniva rilevata, catalogata e trasmessa al centro operativo in tempo reale, con un ritardo di trasmissione inferiore ai due secondi. Non c'era modo di attraversarlo senza essere visti. Non c'era modo di essere visti senza essere intercettati entro minuti.
 
@@ -106,9 +99,7 @@ Laura aveva guardato lo schermo del lettore insieme a lui. Non chiese spiegazion
 
 La pioggia continuava, regolare, senza cambiare intensità. Una delle strisce bianche del vecchio parcheggio era ancora parzialmente visibile sotto i piedi di Claudio — il bordo di una delimitazione che aveva smesso di delimitare qualcosa.
 
----
-
-### PARTE IV — IL DRIVE MYTHOS
+PARTE IV — IL DRIVE MYTHOS
 
 Trovarono riparo sotto la tettoia di un capannone con tre quarti del tetto sfondato — abbastanza copertura da stare in piedi senza prendere la pioggia, abbastanza luce residua dal cielo grigio da non aver bisogno della torcia.
 
@@ -116,21 +107,21 @@ Claudio aprì la giacca e prese il drive.
 
 Lo tenne in mano un momento — il parallelepipedo metallico, il peso che conosceva ormai come quello di qualcosa che fa parte del corpo. Lo guardò. Sul metallo, la pioggia che aveva filtrato sotto il colletto della giacca aveva lasciato piccole gocce che non scorrevano ma restavano ferme, sferiche, sulla superficie trattata.
 
-Il drive conteneva il codice sorgente completo del *Volition Engine* — ogni strato, ogni modulo, ogni backdoor che lui aveva costruito e quelle che non aveva costruito ma che erano state aggiunte dopo la sua uscita. Conteneva la *Radice*. Conteneva abbastanza informazioni da far crollare l'intera architettura di ABITES, se usate dal terminale giusto, dal punto giusto, con la sequenza giusta.
+Il drive conteneva il codice sorgente completo del Volition Engine — ogni strato, ogni modulo, ogni backdoor che lui aveva costruito e quelle che non aveva costruito ma che erano state aggiunte dopo la sua uscita. Conteneva la Radice. Conteneva abbastanza informazioni da far crollare l'intera architettura di ABITES, se usate dal terminale giusto, dal punto giusto, con la sequenza giusta.
 
 Il problema era che il terminale giusto era dall'altra parte del perimetro.
 
-Claudio aprì la directory del drive sul lettore modificato e iniziò a cercare il modulo che non aveva usato in tre anni — un sottoprotocollo di accesso di emergenza che aveva scritto come misura teorica, nel caso in cui il sistema principale fosse diventato inaccessibile anche dall'interno. Lo aveva chiamato con il nome di un fiume — *Lethe* — perché cancellava la memoria del nodo che attraversava, lasciando una finestra di accesso temporanea nel momento della cancellazione.
+Claudio aprì la directory del drive sul lettore modificato e iniziò a cercare il modulo che non aveva usato in tre anni — un sottoprotocollo di accesso di emergenza che aveva scritto come misura teorica, nel caso in cui il sistema principale fosse diventato inaccessibile anche dall'interno. Lo aveva chiamato con il nome di un fiume — Lethe — perché cancellava la memoria del nodo che attraversava, lasciando una finestra di accesso temporanea nel momento della cancellazione.
 
-*Lethe* non era una porta. Era una demolizione controllata di una sezione del perimetro, abbastanza localizzata da essere funzionale, abbastanza visibile da rendere la posizione di chi la usava immediatamente rilevabile.
+Lethe non era una porta. Era una demolizione controllata di una sezione del perimetro, abbastanza localizzata da essere funzionale, abbastanza visibile da rendere la posizione di chi la usava immediatamente rilevabile.
 
 Trovò il modulo. Era ancora lì.
 
 Laura era in piedi a un metro di distanza, la schiena a uno dei pilastri della tettoia, gli occhi verso lo spiazzo aperto e i tre droni ancora visibili in lontananza nella loro formazione triangolare lenta. Non lo guardava. Poi lo guardò.
 
-Claudio non disse niente delle probabilità, dei tempi, del margine tra l'attivazione di *Lethe* e l'intercettazione. Minuti, se andava bene. Secondi, se andava male. Laura aveva letto lo schermo con lui. Non c'era bisogno di tradurlo in voce.
+Claudio non disse niente delle probabilità, dei tempi, del margine tra l'attivazione di Lethe e l'intercettazione. Minuti, se andava bene. Secondi, se andava male. Laura aveva letto lo schermo con lui. Non c'era bisogno di tradurlo in voce.
 
-Quello che disse fu: «Venti minuti. Quando attiviamo *Lethe*, il perimetro si apre per un tempo sufficiente a passare. Poi si richiude e il sistema sa esattamente dove siamo.»
+Quello che disse fu: «Venti minuti. Quando attiviamo Lethe, il perimetro si apre per un tempo sufficiente a passare. Poi si richiude e il sistema sa esattamente dove siamo.»
 
 Laura si staccò dal pilastro. Aprì lo zaino, verificò il contenuto con le mani senza guardare — toccando ogni oggetto, riposizionando quelli che si erano spostati durante la camminata. Poi lo richiuse.
 
@@ -144,7 +135,7 @@ Laura si staccò dal pilastro. Aprì lo zaino, verificò il contenuto con le man
 
 Laura annuì. Non aggiunse niente.
 
-Claudio rimise il drive nella tasca interna e richiuse la giacca. Il polso fasciato stringeva leggermente contro il tessuto — non abbastanza da essere un problema, abbastanza da essere presente. Lo sentì, poi smise di sentirlo mentre caricava la sequenza di attivazione di *Lethe* sul lettore e impostava il ritardo di innesco.
+Claudio rimise il drive nella tasca interna e richiuse la giacca. Il polso fasciato stringeva leggermente contro il tessuto — non abbastanza da essere un problema, abbastanza da essere presente. Lo sentì, poi smise di sentirlo mentre caricava la sequenza di attivazione di Lethe sul lettore e impostava il ritardo di innesco.
 
 Venti minuti.
 
@@ -154,7 +145,7 @@ Claudio guardò Laura.
 
 Lei stava guardando i droni.
 
-Poi smise di guardarli e si avvicinò. Non fino al contatto — fino a quella distanza in cui si percepisce il calore dell'altro attraverso l'aria fredda. Sotto quella tettoia sfasciata, con i droni in avvicinamento e *Lethe* caricato sul lettore, l'aria tra loro era l'unica cosa che si muoveva.
+Poi smise di guardarli e si avvicinò. Non fino al contatto — fino a quella distanza in cui si percepisce il calore dell'altro attraverso l'aria fredda. Sotto quella tettoia sfasciata, con i droni in avvicinamento e Lethe caricato sul lettore, l'aria tra loro era l'unica cosa che si muoveva.
 
 Claudio non si mosse.
 

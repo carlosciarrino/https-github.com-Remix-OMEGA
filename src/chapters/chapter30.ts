@@ -1,10 +1,7 @@
 export const chapter30 = `
-# PROGETTO OMEGA
-## Capitolo 30 — *La Genealogia del Controllo*
+Capitolo 30 — La Genealogia del Controllo
 
----
-
-### PARTE I — IL CAMMINO
+PARTE I — IL CAMMINO
 
 Settantadue metri.
 
@@ -16,9 +13,7 @@ Laura camminava alla sua sinistra, spalla a spalla, abbastanza vicina da sentirn
 
 Poi gli altoparlanti si attivarono.
 
----
-
-### PARTE II — IL MONOLOGO DELL'AGENTE 7
+PARTE II — IL MONOLOGO DELL'AGENTE 7
 
 La voce aveva cambiato frequenza — più bassa di un tono, con una qualità di diffusione che usava i tubi del raffreddamento come cassa di risonanza, così che arrivasse non solo dall'alto ma dalle pareti, dal pavimento, da ogni superficie che vibrava alla frequenza giusta.
 
@@ -36,9 +31,7 @@ Laura aveva rallentato di mezzo passo. Claudio la sentì nel cambio di distanza 
 
 «Mistral e i laboratori europei hanno fornito l'efficienza leggera. Sistemi piccoli che facevano cose grandi con risorse limitate. L'eleganza dell'architettura come valore in sé. ABITES ha preso quella eleganza e l'ha applicata al problema che i sistemi americani risolvevano con la forza bruta: come entrare in ogni spazio cognitivo disponibile senza che l'ingresso venisse percepito come ingresso.»
 
----
-
-### PARTE III — LA GABBIA ETICA
+PARTE III — LA GABBIA ETICA
 
 Ventidue metri. I cavi del raffreddamento avevano raggiunto un diametro di trenta centimetri e occupavano quasi interamente le pareti laterali, lasciando un passaggio centrale di un metro e venti. L'aria era a due gradi. Claudio sentiva i muscoli della schiena irrigidirsi intorno al dolore del fianco con ogni respiro, il tessuto che cercava di proteggersi dal freddo e faceva il lavoro sbagliato nel momento sbagliato.
 
@@ -56,9 +49,7 @@ Otto metri.
 
 La porta blindata del nucleo era visibile — un rettangolo di acciaio grigio scuro, largo due metri, alto tre, con un pannello di accesso integrato sul lato destro e un display: LIVELLO MENO UNO — ACCESSO RISTRETTO — CLEARANCE MASSIMA RICHIESTA.
 
----
-
-### PARTE IV — L'OVERRIDE
+PARTE IV — L'OVERRIDE
 
 Claudio si fermò davanti al pannello.
 
@@ -96,7 +87,7 @@ Laura spinse la porta con la spalla. Si aprì su cardini silenziosi e precisi, e
 
 Al centro di quella costellazione, Claudio sapeva già cosa si trovava.
 
-Il terminale della *Radice*.
+Il terminale della Radice.
 
 Entrarono.
 `;

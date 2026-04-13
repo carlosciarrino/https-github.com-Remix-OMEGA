@@ -1,10 +1,7 @@
 export const chapter31 = `
-# PROGETTO OMEGA
-## Capitolo 31 — *Il Cuore di Vetro*
+Capitolo 31 — Il Cuore di Vetro
 
----
-
-### PARTE I — L'ALTARE
+PARTE I — L'ALTARE
 
 Il server centrale non era un rack.
 
@@ -24,9 +21,7 @@ Tirò fuori il lettore modificato dallo zaino e lo collegò alla porta seriale c
 
 Claudio cominciò a digitare.
 
----
-
-### PARTE II — L'ESTRAZIONE
+PARTE II — L'ESTRAZIONE
 
 Il filesystem del server centrale era più profondo di quello del drive Mythos.
 
@@ -52,9 +47,7 @@ Il lettore rimase caldo ma stabile.
 
 Trentasei percento. Quarantaquattro.
 
----
-
-### PARTE III — IL PREZZO
+PARTE III — IL PREZZO
 
 La porta blindata ricevette il primo colpo al cinquantaquattro percento.
 
@@ -86,9 +79,7 @@ Lei tenne lo sguardo. Non abbassò gli occhi verso lo schermo, non verso la port
 
 Claudio tornò allo schermo.
 
----
-
-### PARTE IV — IL CENTO PERCENTO
+PARTE IV — IL CENTO PERCENTO
 
 Rimosse i limitatori.
 

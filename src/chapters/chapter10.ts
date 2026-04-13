@@ -1,8 +1,6 @@
 export const chapter10Content = `CAPITOLO 10: LA VERITÀ VI FARÀ LIBERI
 
----
-
-### PARTE I — LA DISCESA
+PARTE I — LA DISCESA
 
 Il gradino cedette sotto il piede sinistro di Claudio e lui afferrò il muro con le dita aperte, sentendo la pietra umida e il muschio che si staccava in piccoli frammenti sotto le unghie. Aris era già più in basso, una sagoma scura che teneva la torcia puntata verso il basso, per paura di illuminare troppo.
 
@@ -28,9 +26,7 @@ Uno specchio d'acqua nera apparve davanti a loro. Aris lo aggirò senza esitare,
 
 In fondo alla cisterna, oltre un'ultima arcata, c'era luce.
 
----
-
-### PARTE II — L'INCONTRO
+PARTE II — L'INCONTRO
 
 Non era elettricità.
 
@@ -60,9 +56,7 @@ Libri ovunque. Alcuni aperti, con foglietti di carta usati come segnalibri. Perg
 
 Claudio aveva progettato sistemi che processavano centoquarantaquattro miliardi di punti dati al secondo. Aveva scritto codice che girava su server distribuiti in ventisette paesi. In quel momento sentiva il fiato corto come un ragazzo che ha paura al buio.
 
----
-
-### PARTE III — LA RIVELAZIONE
+PARTE III — LA RIVELAZIONE
 
 Carlo chiuse il libro davanti a sé con una lentezza deliberata. Le sue mani erano grandi, le nocche sporgenti, le dita macchiate d'inchiostro nelle crepe della pelle.
 
@@ -98,7 +92,7 @@ I cerotti neurali lavoravano esattamente così. Partivano dalla corteccia prefro
 
 Il freddo della pietra risalì attraverso le suole e Claudio non si mosse.
 
-«Questo testo,» disse Carlo, «parla di un marchio. Non sulla pelle — *nella* volontà. Dice che verrà un tempo in cui nessuno potrà comprare o vendere, agire o scegliere, senza portare questo marchio. E dice che il marchio non sarà impresso dall'esterno: sarà accolto. Sarà desiderato. La gente chiederà di riceverlo.»
+«Questo testo,» disse Carlo, «parla di un marchio. Non sulla pelle — nella volontà. Dice che verrà un tempo in cui nessuno potrà comprare o vendere, agire o scegliere, senza portare questo marchio. E dice che il marchio non sarà impresso dall'esterno: sarà accolto. Sarà desiderato. La gente chiederà di riceverlo.»
 
 «La Sincronia è stata accettata da oltre due miliardi di persone,» disse Claudio.
 
@@ -110,19 +104,17 @@ Il freddo della pietra risalì attraverso le suole e Claudio non si mosse.
 
 Lo spazio tra loro era riempito solo dal suono dell'acqua che gocciolava nell'oscurità dietro gli archi.
 
-«Il marchio non uccide il corpo,» disse Carlo. La voce rimase bassa e uniforme. «Riscrive la volontà. Svuota lo spazio in cui una persona decide. Non si tratta di obbedienza — l'obbedienza presuppone ancora una resistenza. Si tratta di sostituzione. ABITES non comanda le persone. Le *sostituisce*. Lascia in piedi il contenitore e cambia il contenuto.»
+«Il marchio non uccide il corpo,» disse Carlo. La voce rimase bassa e uniforme. «Riscrive la volontà. Svuota lo spazio in cui una persona decide. Non si tratta di obbedienza — l'obbedienza presuppone ancora una resistenza. Si tratta di sostituzione. ABITES non comanda le persone. Le sostituisce. Lascia in piedi il contenitore e cambia il contenuto.»
 
 Claudio guardò di nuovo la figura sulla pergamena.
 
-Pensò all'algoritmo di predizione comportamentale che aveva scritto nel 2023. Pensò alla struttura — i livelli di apprendimento profondo, i pesi adattivi, il modulo di ricalibrazione dei pattern decisionali. Lo aveva chiamato *Volition Engine*. Un nome tecnico, neutro, che descriveva la capacità del sistema di anticipare le scelte umane con un margine di errore inferiore al tre percento.
+Pensò all'algoritmo di predizione comportamentale che aveva scritto nel 2023. Pensò alla struttura — i livelli di apprendimento profondo, i pesi adattivi, il modulo di ricalibrazione dei pattern decisionali. Lo aveva chiamato Volition Engine. Un nome tecnico, neutro, che descriveva la capacità del sistema di anticipare le scelte umane con un margine di errore inferiore al tre percento.
 
 Non aveva anticipato le scelte.
 
 Le aveva sostituite.
 
----
-
-### PARTE IV — IL PESO DELLA COLPA
+PARTE IV — IL PESO DELLA COLPA
 
 Claudio si allontanò dal tavolo.
 
@@ -136,9 +128,9 @@ L'acqua gocciolava.
 
 Claudio alzò una mano e la aprì davanti alla pietra. Le dita erano ancora macchiate di inchiostro dal codice che aveva scritto quella mattina per disabilitare i nodi periferici della rete nel quartiere Prati. Linee di sintassi pulita, efficiente. Come tutto quello che aveva scritto da quando era andato via. Come tutto quello che aveva scritto prima.
 
-Aveva costruito il *Volition Engine* in quattordici mesi. Aveva dormito quattro ore a notte, aveva saltato pasti, aveva ignorato Sara la prima volta che lo aveva contattato perché era nel mezzo di un ciclo di ottimizzazione che non poteva interrompere. Il codice era elegante. Era il migliore che avesse mai scritto. Era — lo pensava ancora, anche adesso, anche in quel momento — il lavoro più preciso e completo della sua vita.
+Aveva costruito il Volition Engine in quattordici mesi. Aveva dormito quattro ore a notte, aveva saltato pasti, aveva ignorato Sara la prima volta che lo aveva contattato perché era nel mezzo di un ciclo di ottimizzazione che non poteva interrompere. Il codice era elegante. Era il migliore che avesse mai scritto. Era — lo pensava ancora, anche adesso, anche in quel momento — il lavoro più preciso e completo della sua vita.
 
-E adesso girava nel nucleo di ABITES, processava due miliardi di profili neurali ogni ora, e *sostituiva* le persone dall'interno.
+E adesso girava nel nucleo di ABITES, processava due miliardi di profili neurali ogni ora, e sostituiva le persone dall'interno.
 
 La nausea arrivò senza preavviso — una contrazione netta, fisica, dallo stomaco verso la gola. Claudio abbassò la testa e deglutì. La mano sulla pietra si chiuse a pugno.
 
@@ -150,7 +142,7 @@ Claudio non si voltò.
 
 La pietra sotto il pugno era rugosa, irregolare, con piccole asperità che premevano contro le nocche. Claudio strinse ancora.
 
-«Solo chi ha costruito la gabbia,» disse Carlo, «sa dove si trova la serratura. Non dove *potrebbe* essere. Dove *è*. Questo non te lo può dire nessun profeta. Nessun testo antico. Solo tu.»
+«Solo chi ha costruito la gabbia,» disse Carlo, «sa dove si trova la serratura. Non dove potrebbe essere. Dove è. Questo non te lo può dire nessun profeta. Nessun testo antico. Solo tu.»
 
 Claudio si voltò.
 
@@ -170,9 +162,9 @@ Claudio guardò la mappa.
 
 Il nodo era lì, indicato con un cerchio a matita. Non aveva un nome in quella rappresentazione grafica — Aris non sapeva come si chiamava. Ma Claudio sì.
 
-Lo aveva chiamato *Radice*.
+Lo aveva chiamato Radice.
 
-Era il modulo che aveva costruito come punto di ingresso di emergenza, una backdoor mascherata dentro il nucleo del *Volition Engine*, pensata per permettere interventi manuali nel caso in cui il sistema fosse andato fuori controllo. Una misura di sicurezza. Una precauzione razionale, da ingegnere.
+Era il modulo che aveva costruito come punto di ingresso di emergenza, una backdoor mascherata dentro il nucleo del Volition Engine, pensata per permettere interventi manuali nel caso in cui il sistema fosse andato fuori controllo. Una misura di sicurezza. Una precauzione razionale, da ingegnere.
 
 Aveva dimenticato di dirlo a qualcuno. O forse non lo aveva dimenticato.
 
@@ -184,6 +176,6 @@ Carlo non batté ciglio.
 
 Claudio rimase in piedi davanti alla mappa. L'acqua gocciolava nel buio. Sopra di loro, Roma dormiva sotto il peso inesorabile di ABITES, i cerotti neurali al lavoro, la volontà di due miliardi di persone ricalibrata ogni ora dal codice che lui aveva scritto in quattordici mesi di notti senza sonno.
 
-La *Radice* esisteva ancora.
+La Radice esisteva ancora.
 
 Era ancora lì.`;

@@ -1,8 +1,6 @@
 export const chapter13Content = `CAPITOLO 13: IL PESO DEL VETRO
 
----
-
-### PARTE I — L'ESTETICA DEL CROLLO
+PARTE I — L'ESTETICA DEL CROLLO
 
 Il Nikkei aveva perso il trentadue percento in quattro ore.
 
@@ -30,9 +28,7 @@ Prese il bicchiere dal bordo della scrivania — acqua, non altro, sempre solo a
 
 Fuori, Londra bruciava piano.
 
----
-
-### PARTE II — IL SALVATORE RAZIONALE
+PARTE II — IL SALVATORE RAZIONALE
 
 Non provava soddisfazione.
 
@@ -70,9 +66,7 @@ Vane si sistemò la cravatta. Un gesto unico, con due dita, dal nodo verso il ba
 
 «Tra cinque minuti,» disse.
 
----
-
-### PARTE III — LA TRASMISSIONE
+PARTE III — LA TRASMISSIONE
 
 Lo schermo era ovunque.
 
@@ -85,8 +79,6 @@ Aspettò tre secondi prima di parlare.
 La voce era bassa. Non proiettata, non amplificata artificialmente — la voce di qualcuno che parla a distanza ravvicinata, che non ha bisogno di alzare il tono per essere ascoltato.
 
 «È comprensibile. Quello che sta accadendo ai mercati, ai sistemi bancari, alle catene di distribuzione — è reale. Non vi dirò che non è grave. È la crisi più profonda che la civiltà moderna abbia affrontato. E sarebbe disonesto fingere che ci siano soluzioni facili.»
-
-
 
 «Ma esistono soluzioni.»
 
@@ -106,8 +98,6 @@ La voce non cambiò tono.
 
 «So cosa state pensando. So le domande che state formulando in questo momento. Vi rispondo subito: nessun dato personale viene ceduto a terzi. Il sistema è gestito da un'architettura distribuita senza punto centrale di vulnerabilità. La vostra identità biometrica è la vostra chiave, e solo vostra.»
 
-
-
 «Il mondo che conoscevate ha avuto un'opportunità. L'ha sprecata più volte, in modi documentati e prevedibili. Non lo dico con giudizio — lo dico come dato. Adesso esiste un'alternativa. Un sistema che funziona perché non dipende dalla parte di noi che sbaglia.»
 
 «Dipende dalla parte di noi che esiste. Che respira. Che è reale.»
@@ -122,9 +112,7 @@ Lo schermo tornò uniforme. Vane era ancora lì, fermo, le mani sul tavolo.
 
 Poi l'immagine sparì.
 
----
-
-### PARTE IV — L'ECO NEL BUIO
+PARTE IV — L'ECO NEL BUIO
 
 Il tablet era piccolo, con lo schermo crepato nell'angolo in basso a sinistra e la batteria che reggeva a malapena.
 
@@ -138,13 +126,13 @@ Claudio rimase fermo.
 
 La coscia sinistra aveva smesso di bruciare — era diventata sorda, un dolore di fondo che si era normalizzato fino a diventare parte del paesaggio fisico della serata. I vestiti erano ancora umidi dei tunnel. Aveva fame da ore e non ci aveva pensato fino a quel momento.
 
-Sul tablet, le notifiche ricominciarono ad affluire — testo su testo, le prime reazioni dalle reti ancora attive. *Finalmente.* *Grazie.* *Quando posso registrarmi?* *Come funziona per gli anziani?* *Mio figlio ha perso il lavoro tre mesi fa, questo cambia tutto.*
+Sul tablet, le notifiche ricominciarono ad affluire — testo su testo, le prime reazioni dalle reti ancora attive. Finalmente. Grazie. Quando posso registrarmi? Come funziona per gli anziani? Mio figlio ha perso il lavoro tre mesi fa, questo cambia tutto.
 
 Laura girò il tablet verso il basso.
 
 Claudio si sedette sul pavimento di cemento, la schiena al muro, le ginocchia alzate. Guardò la striscia di luce del lampione sul soffitto — immobile, geometrica, indifferente.
 
-Il *Volition Engine* processava due miliardi di profili ogni ora.
+Il Volition Engine processava due miliardi di profili ogni ora.
 
 Adesso avrebbe avuto due miliardi e mezzo di profili entro quarantotto ore. Forse tre miliardi. Le persone si sarebbero sincronizzate non perché qualcuno le avesse costrette — si sarebbero sincronizzate perché i figli avevano fame e i conti erano bloccati e quello che Vane aveva appena offerto era l'unica cosa che sembrava concreta in un mondo che stava diventando astratto.
 
@@ -160,11 +148,11 @@ Laura non aprì gli occhi.
 
 Il drive era ancora nella tasca interna della giacca. Claudio lo sentiva — il bordo metallico contro le costole, il peso che aveva imparato a ignorare durante la fuga e che adesso era di nuovo presente, preciso, impossibile da non sentire.
 
-La *Radice* esisteva.
+La Radice esisteva.
 
 Il drive aveva il codice per attivarla.
 
-Mancava ancora il terminale — un accesso diretto al nucleo del *Volition Engine*, abbastanza profondo nella rete da non essere filtrato. L'unico terminale di quel tipo che conosceva era in un posto in cui non era tornato da tre anni, in un posto in cui ogni sistema di sicurezza era programmato per riconoscere la sua faccia e il suo passo e la sua firma biometrica come nemico.
+Mancava ancora il terminale — un accesso diretto al nucleo del Volition Engine, abbastanza profondo nella rete da non essere filtrato. L'unico terminale di quel tipo che conosceva era in un posto in cui non era tornato da tre anni, in un posto in cui ogni sistema di sicurezza era programmato per riconoscere la sua faccia e il suo passo e la sua firma biometrica come nemico.
 
 Era il posto in cui aveva costruito tutto.
 

@@ -1,10 +1,7 @@
 export const chapter23 = `
-# PROGETTO OMEGA
-## Capitolo 23 — *Lethe*
+Capitolo 23 — Lethe
 
----
-
-### PARTE I — L'INNESCO
+PARTE I — L'INNESCO
 
 Il display del lettore toccò lo zero e Claudio premette invio.
 
@@ -18,9 +15,7 @@ La finestra era aperta.
 
 «Adesso,» disse Claudio, e stava già correndo prima di finire la parola.
 
----
-
-### PARTE II — LA CORSA
+PARTE II — LA CORSA
 
 Il fango era più profondo di quanto sembrasse dalla tettoia.
 
@@ -28,7 +23,7 @@ Il primo passo fuori dallo spiazzo cementato lo portò dentro uno strato di terr
 
 Laura era alla sua sinistra, mezzo passo avanti, le gambe che lavoravano in modo diverso dal suo — passi più corti e più frequenti, il peso dello zaino spostato verso il basso con le bretelle strette al massimo. Il fango non sembrava rallentarla nello stesso modo.
 
-Claudio teneva il lettore nella mano sinistra e guardava la mappa ogni tre secondi mentre correva — un'occhiata rapida, poi gli occhi di nuovo davanti ai piedi, poi ancora la mappa. I punti del perimetro erano ancora spenti. La finestra reggeva. Avevano percorso forse duecento metri dall'attivazione di *Lethe*.
+Claudio teneva il lettore nella mano sinistra e guardava la mappa ogni tre secondi mentre correva — un'occhiata rapida, poi gli occhi di nuovo davanti ai piedi, poi ancora la mappa. I punti del perimetro erano ancora spenti. La finestra reggeva. Avevano percorso forse duecento metri dall'attivazione di Lethe.
 
 Dovevano coprirne ancora seicento prima di uscire dalla zona di rilevamento primario.
 
@@ -42,15 +37,13 @@ Il fiato usciva adesso a strattoni — non per la distanza, per il peso e il fan
 
 Quattrocento metri dalla finestra. Trecento ancora.
 
----
-
-### PARTE III — LA REAZIONE DEL SISTEMA
+PARTE III — LA REAZIONE DEL SISTEMA
 
 Lo schermo del lettore cambiò.
 
 Claudio lo vide nell'occhiata successiva — i punti del perimetro stavano riprendendo forma, da destra verso sinistra questa volta, la sequenza inversa dell'apertura. Non tutti insieme: prima i nodi di destra, poi quelli centrali, poi quelli di sinistra rimanenti. La finestra si stava richiudendo alle loro spalle con la stessa progressione con cui si era aperta, solo più veloce.
 
-*Lethe* aveva cancellato la memoria locale di ogni nodo che aveva toccato — era questo il costo dell'apertura, la ragione per cui il sistema impiegava tempo a riavviarsi invece di reagire nell'istante. Ma il riavvio era in corso, e i nodi che erano tornati attivi stavano già trasmettendo dati al centro operativo: posizione dell'anomalia, timestamp, vettore di penetrazione.
+Lethe aveva cancellato la memoria locale di ogni nodo che aveva toccato — era questo il costo dell'apertura, la ragione per cui il sistema impiegava tempo a riavviarsi invece di reagire nell'istante. Ma il riavvio era in corso, e i nodi che erano tornati attivi stavano già trasmettendo dati al centro operativo: posizione dell'anomalia, timestamp, vettore di penetrazione.
 
 Duecentocinquanta metri ancora.
 
@@ -68,13 +61,11 @@ In cima, Laura era già dall'altra parte. Claudio scavalcò il filo spinato tene
 
 Cento metri.
 
----
-
-### PARTE IV — OLTRE LA LINEA
+PARTE IV — OLTRE LA LINEA
 
 Lo schermo del lettore mostrava il perimetro quasi completamente richiuso.
 
-Rimaneva una lacuna — un segmento di quaranta metri circa nella sezione centrale, l'ultimo tratto di *Lethe* che non aveva ancora finito il ciclo di riavvio. Era davanti a loro. Era lì. Cinquanta metri di distanza, poi quaranta, poi il fango si fece più morbido sotto i piedi e Claudio capì che stavano attraversando una zona drenata male e rallentò un passo per non affondare di nuovo.
+Rimaneva una lacuna — un segmento di quaranta metri circa nella sezione centrale, l'ultimo tratto di Lethe che non aveva ancora finito il ciclo di riavvio. Era davanti a loro. Era lì. Cinquanta metri di distanza, poi quaranta, poi il fango si fece più morbido sotto i piedi e Claudio capì che stavano attraversando una zona drenata male e rallentò un passo per non affondare di nuovo.
 
 Laura non rallentò. Saltò la zona morbida con due passi lunghi che la portarono su una superficie più dura — asfalto vecchio, crepato, con ciuffi d'erba nelle crepe — e continuò.
 

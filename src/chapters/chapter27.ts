@@ -1,10 +1,7 @@
 export const chapter27 = `
-# PROGETTO OMEGA
-## Capitolo 27 — *Carne e Silicio*
+Capitolo 27 — Carne e Silicio
 
----
-
-### PARTE I — IL CAMBIO DI AMBIENTE
+PARTE I — IL CAMBIO DI AMBIENTE
 
 Il pavimento in resina era asciutto sotto le suole bagnate di Claudio.
 
@@ -26,9 +23,7 @@ Claudio valutò il corridoio davanti — venti metri fino a un'intersezione, poi
 
 Si mossero.
 
----
-
-### PARTE II — IL CONTATTO
+PARTE II — IL CONTATTO
 
 Il drone arrivò trenta secondi prima delle guardie.
 
@@ -40,9 +35,7 @@ Le guardie arrivarono venti secondi dopo: due uomini in uniforme scura, equipagg
 
 Il drone era a otto metri dal rack dietro cui stavano Claudio e Laura quando i sensori ottici si orientarono verso di loro.
 
----
-
-### PARTE III — LO SCONTRO
+PARTE III — LO SCONTRO
 
 Laura si mosse prima che il drone completasse il riorientamento.
 
@@ -70,9 +63,7 @@ La guardia valutò la situazione. Abbassò la mano dal viso. Rimase ferma.
 
 Claudio si rialzò.
 
----
-
-### PARTE IV — LA FUGA VERSO IL BASSO
+PARTE IV — LA FUGA VERSO IL BASSO
 
 «Il protocollo di escalation è stato attivato,» disse l'Agente Logistico 4 dagli altoparlanti, con la stessa cadenza neutra. «Le paratie di sicurezza del Livello meno tre inizieranno la procedura di chiusura tra novanta secondi. Il personale autorizzato è invitato a raggiungere le zone di sicurezza designate.»
 
@@ -116,7 +107,7 @@ Le porte si aprirono sul Livello meno due.
 
 L'aria era diversa ancora — più fredda, più secca, con un odore di ozono più intenso e qualcosa di elettrico che non era nei livelli inferiori. Claudio uscì dalla cabina e la luce che trovò non era rossa ma bianca, ancora bianca, e nel corridoio davanti a lui le telecamere erano già orientate nella loro direzione e il display sul muro di fronte mostrava: ACCESSO NON AUTORIZZATO — PROTOCOLLO ATTIVO.
 
-Erano a un livello dal nucleo del *Volition Engine*.
+Erano a un livello dal nucleo del Volition Engine.
 
 Erano anche, Claudio lo sapeva mentre guardava le telecamere che li guardavano, esattamente dove Cyrus li stava aspettando.
 `;

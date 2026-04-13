@@ -1,14 +1,12 @@
 export const chapter11Content = `CAPITOLO 11: ESTRAZIONE A TERMINE
 
----
-
-### PARTE I — L'INFILTRAZIONE
+PARTE I — L'INFILTRAZIONE
 
 L'odore arrivò prima di tutto il resto.
 
 Ozono e freddo secco e qualcosa di chimico che non aveva un nome preciso ma che Claudio riconobbe immediatamente — l'odore dei server farm, l'odore dell'aria che veniva filtrata e riciclata e deumidificata fino a perdere qualsiasi traccia di organico. L'odore di un ambiente progettato per le macchine, non per i polmoni.
 
-Aveva attraversato tre checkpoint con i codici che Aris aveva mascherato in un protocollo di manutenzione notturna. Codici suoi, scritti tre anni prima, ancora validi perché nessuno li aveva revocati. Nessuno sapeva che esistevano. Li aveva costruiti come aveva costruito la *Radice*: di nascosto, da solo, nella logica che ogni sistema ha bisogno di una via d'uscita.
+Aveva attraversato tre checkpoint con i codici che Aris aveva mascherato in un protocollo di manutenzione notturna. Codici suoi, scritti tre anni prima, ancora validi perché nessuno li aveva revocati. Nessuno sapeva che esistevano. Li aveva costruiti come aveva costruito la Radice: di nascosto, da solo, nella logica che ogni sistema ha bisogno di una via d'uscita.
 
 Il corridoio era bianco. Non bianco sporco, non bianco ingiallito — bianco assoluto, bianco come una superficie che non ha mai conosciuto ombra. Il pavimento era lucido e rifletteva le luci al soffitto in strisce perfette, simmetriche, infinite. Claudio ci camminava sopra e vedeva la propria sagoma capovolta sotto i piedi: la giacca scura con la terra delle catacombe ancora sulle spalle, gli stivali che lasciavano impronte sottili di umidità ad ogni passo.
 
@@ -32,9 +30,7 @@ La corsia centrale terminava in un'area separata dal resto da una parete di vetr
 
 Claudio lo sapeva.
 
----
-
-### PARTE II — IL DRIVE MYTHOS
+PARTE II — IL DRIVE MYTHOS
 
 La porta di vetro cedette all'ultimo codice della sequenza. Claudio entrò e lasciò andare il respiro che stava trattenendo da novanta secondi.
 
@@ -46,7 +42,7 @@ Le sue dita conoscevano quella interfaccia. L'aveva progettata lui. I menu erano
 
 Una finestra di dialogo si aprì.
 
-*ESTRAZIONE FISICA: DRIVE MYTHOS-7. CONFERMARE.*
+ESTRAZIONE FISICA: DRIVE MYTHOS-7. CONFERMARE.
 
 Claudio premette invio.
 
@@ -70,15 +66,13 @@ A ottantaquattro percento sentì qualcosa cambiare nel ronzio — non più forte
 
 Novantadue percento.
 
-*ESTRAZIONE COMPLETATA. RIMUOVERE DRIVE MYTHOS-7.*
+ESTRAZIONE COMPLETATA. RIMUOVERE DRIVE MYTHOS-7.
 
 Lo sportello dell'unità si aprì con uno scatto. Claudio infilò due dita dentro e estrasse il drive: un parallelepipedo metallico delle dimensioni di un pacchetto di carte, più pesante di quanto sembrasse. Lo infilò nella tasca interna della giacca e la richiuse.
 
 Il tono che aveva sentito nel ronzio era ancora lì.
 
----
-
-### PARTE III — L'ANOMALIA
+PARTE III — L'ANOMALIA
 
 Le luci bianche del soffitto diventarono rosse.
 
@@ -100,9 +94,7 @@ La porta del settore F era ancora aperta — mancavano quattro metri. Il pannell
 
 Claudio attraversò la corsia centrale di corsa.
 
----
-
-### PARTE IV — LA FUGA
+PARTE IV — LA FUGA
 
 Il pannello aveva percorso metà corsa quando Claudio passò sotto.
 
@@ -158,11 +150,11 @@ Claudio aspettò.
 
 Il sudore sulla schiena era freddo adesso — aveva assorbito la temperatura della notte e non andava via. Sentiva il drive sotto la giacca, il peso metallico di tre anni di codice, di ogni decisione che aveva preso in quattordici mesi di lavoro senza dormire, di ogni riga che aveva scritto convinto di star costruendo uno strumento e che invece aveva costruito qualcosa di diverso, qualcosa per cui non aveva ancora un nome abbastanza preciso.
 
-La *Radice* era inutile senza il drive.
+La Radice era inutile senza il drive.
 
 Il drive era nella sua tasca.
 
-Adesso mancava solo una cosa: un modo per attivare la *Radice* dall'interno del sistema, da un nodo abbastanza vicino al nucleo del *Volition Engine* da non essere filtrato prima di raggiungere il bersaglio. Un accesso diretto. Un terminale connesso alla rete principale.
+Adesso mancava solo una cosa: un modo per attivare la Radice dall'interno del sistema, da un nodo abbastanza vicino al nucleo del Volition Engine da non essere filtrato prima di raggiungere il bersaglio. Un accesso diretto. Un terminale connesso alla rete principale.
 
 Conosceva un solo posto dove esistesse ancora un terminale del genere non monitorato in tempo reale.
 
@@ -172,5 +164,4 @@ Il ronzio dei droni si allontanò verso il Tevere.
 
 Claudio uscì dall'ombra e riprese a camminare verso sud, le mani in tasca, la testa bassa, il drive che premeva contro le costole ad ogni passo come qualcosa di vivo.
 
----
 `;

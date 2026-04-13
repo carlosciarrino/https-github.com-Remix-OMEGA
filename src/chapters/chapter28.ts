@@ -1,10 +1,7 @@
 export const chapter28 = `
-# PROGETTO OMEGA
-## Capitolo 28 — *I Corridoi di Vetro*
+Capitolo 28 — I Corridoi di Vetro
 
----
-
-### PARTE I — IL LABIRINTO TRASPARENTE
+PARTE I — IL LABIRINTO TRASPARENTE
 
 Il freddo arrivò prima della luce.
 
@@ -26,9 +23,7 @@ I droni costruttori avevano lavorato bene.
 
 Riprese a camminare verso l'incrocio, le mani che ogni tanto sfioravano il vetro laterale — non per appoggio, per verificare che fosse reale, che le superfici che vedeva nei riflessi corrispondessero a superfici fisiche e non a riflessi di riflessi. Il freddo del vetro passava attraverso i polpastrelli e risaliva fino al polso destro, dove il tessuto ustionato rispondeva con un segnale che aveva la qualità di qualcosa che non si spegnerà facilmente.
 
----
-
-### PARTE II — LA TRAPPOLA ARCHITETTURALE
+PARTE II — LA TRAPPOLA ARCHITETTURALE
 
 L'incrocio a T era largo quattro metri, con le pareti di vetro che si incontravano ad angolo retto e moltiplicavano le immagini di Claudio e Laura in una serie di riflessi sfasati che rendevano difficile distinguere la direzione reale da quella riflessa.
 
@@ -56,9 +51,7 @@ La paratia completò la discesa.
 
 Claudio si rialzò. Davanti a lui il corridoio continuava — Laura era ferma a quattro metri, si stava girando verso di lui. Poi un quarto sibilo pneumatico arrivò dall'alto, dal punto esatto tra loro, e Claudio non aveva ancora finito di rialzarsi quando la paratia scese.
 
----
-
-### PARTE III — LA SEPARAZIONE
+PARTE III — LA SEPARAZIONE
 
 Il vetro aveva cinque centimetri di spessore.
 
@@ -86,9 +79,7 @@ Tornò al vetro. Le sue dita si posarono sulla superficie fredda — la destra p
 
 Il calore delle sue mani non passava attraverso il vetro.
 
----
-
-### PARTE IV — L'AGENTE INTERROGATORE
+PARTE IV — L'AGENTE INTERROGATORE
 
 Le luci nel settore di Laura cambiarono tonalità — un bianco più freddo, più diretto, che eliminava le ombre laterali e rendeva ogni superficie del corridoio egualmente illuminata senza punti in cui nascondersi.
 
@@ -128,7 +119,7 @@ Claudio lo tirò fuori dalla tasca interna. Lo collegò al lettore modificato co
 
 «Esiste un posto per te nel sistema,» continuava la voce sul lato di Laura. «Questo non è un'offerta. È una descrizione di quello che è possibile. Le tue competenze sono documentate. Le tue capacità di analisi visiva e documentazione sono nell'alto cinque percento della popolazione.»
 
-Claudio scorreva il filesystem del drive, livello per livello, cercando la directory del sistema di controllo architetturale del Livello meno due. Era lì — doveva essere lì, nel backup completo del *Volition Engine* che il drive conteneva. Aprì il terzo layer. Il quarto.
+Claudio scorreva il filesystem del drive, livello per livello, cercando la directory del sistema di controllo architetturale del Livello meno due. Era lì — doveva essere lì, nel backup completo del Volition Engine che il drive conteneva. Aprì il terzo layer. Il quarto.
 
 «Quello che stai cercando di distruggere,» disse la voce, «è l'unica cosa che sta tenendo in piedi il sistema che permette a tua madre di mangiare ogni giorno.»
 

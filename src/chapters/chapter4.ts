@@ -3,12 +3,12 @@ export const chapter4Content = `CAPITOLO 4: la geometria del consenso
 PARTE I — L'ARIA
 
 L'aria dell'ottantesimo piano aveva un sapore che non esisteva in natura.
-Non il sapore dell'aria condizionata dei vecchi edifici — quel fresco artificiale con la sua nota di plastica surriscaldata, quella memoria di circuiti. Questo era diverso. Purificato al punto da diventare assenza: nessun polline, nessuna particella, nessun odore umano. L'aria che Julian Vane respirava ogni mattina era più vicina al vuoto che all'atmosfera, e lui la trovava corretta. Il corpo non doveva *notare* l'aria che respirava. Doveva semplicemente respirarla.
+Non il sapore dell'aria condizionata dei vecchi edifici — quel fresco artificiale con la sua nota di plastica surriscaldata, quella memoria di circuiti. Questo era diverso. Purificato al punto da diventare assenza: nessun polline, nessuna particella, nessun odore umano. L'aria che Julian Vane respirava ogni mattina era più vicina al vuoto che all'atmosfera, e lui la trovava corretta. Il corpo non doveva notare l'aria che respirava. Doveva semplicemente respirarla.
 Si avvicinò alla vetrata.
 Ginevra era sotto di lui — o quello che ne rimaneva. Le luci della città vecchia erano ancora accese, quel prevedibile tentativo dell'Amministrazione Cantonale di mantenere l'estetica del turismo storico mentre il settore sud bruciava. Bruciava metaforicamente, s'intende. La pioggia acida di quella settimana aveva portato le concentrazioni di azoto solforico oltre i limiti di esposizione raccomandati, e l'arancione dello smog stazionario sopra il Lemano aveva la grana densa di una fotografia sovraesposta — non una città vista dall'alto, ma un'idea di città filtrata attraverso qualcosa di malato.
 Julian guardava quella luce arancione e non sentiva niente.
 Il che era esatto.
-Lo schermo proiettava i dati alle sue spalle — non li guardava, li *sapeva*, nel modo in cui si sa la temperatura di una stanza senza avere un termometro in mano. Il settore sud-4 aveva registrato un'escalation del trentasette percento nelle ultime sei ore. Sedici blocchi residenziali. Popolazione stimata: quarantaduemila unità. La parola *unità* era sua — l'aveva introdotta nel protocollo di reportistica nel 2031, in sostituzione di *persone*, *individui*, *abitanti*. Non per disumanizzare. Per chiarire. Un'unità era misurabile. Una persona portava con sé ottocento anni di filosofia morale che non serviva a nessuno.
+Lo schermo proiettava i dati alle sue spalle — non li guardava, li sapeva, nel modo in cui si sa la temperatura di una stanza senza avere un termometro in mano. Il settore sud-4 aveva registrato un'escalation del trentasette percento nelle ultime sei ore. Sedici blocchi residenziali. Popolazione stimata: quarantaduemila unità. La parola unità era sua — l'aveva introdotta nel protocollo di reportistica nel 2031, in sostituzione di persone, individui, abitanti. Non per disumanizzare. Per chiarire. Un'unità era misurabile. Una persona portava con sé ottocento anni di filosofia morale che non serviva a nessuno.
 Si girò verso lo schermo.
 
 PARTE II — I NUMERI
@@ -20,7 +20,7 @@ Adesso erano le undici di mattina e il settore sud-4 non era più una proiezione
 Allungò la mano verso il pannello tattile alla sua sinistra.
 Il tasto della Fase di Emergenza Sanitaria era grigio chiaro, anonimo come tutti gli altri. Non rosso. Non segnalato. Julian aveva voluto così — aveva fatto rimuovere personalmente il bordo colorato che il team di UX aveva inserito nella prima versione del sistema. Il colore comunicava urgenza. L'urgenza comunicava che la decisione era straordinaria. Questa non lo era.
 Premette.
-Lo schermo registrò l'autorizzazione con un tono quasi inudibile — due decibel sopra la soglia dell'udibile, la nota bassa di qualcosa che si mette in moto. Sul layer cartografico, il settore sud-4 cambiò classificazione: da *conflittualità civile attiva* a *emergenza sanitaria di secondo livello*. La differenza pratica era nella risposta: non forze antisommossa, non media coverage, non dichiarazioni dell'Amministrazione. Solo squadre mediche ABITES con i kit di somministrazione e le scorte di razioni proteiche di secondo grado.
+Lo schermo registrò l'autorizzazione con un tono quasi inudibile — due decibel sopra la soglia dell'udibile, la nota bassa di qualcosa che si mette in moto. Sul layer cartografico, il settore sud-4 cambiò classificazione: da conflittualità civile attiva a emergenza sanitaria di secondo livello. La differenza pratica era nella risposta: non forze antisommossa, non media coverage, non dichiarazioni dell'Amministrazione. Solo squadre mediche ABITES con i kit di somministrazione e le scorte di razioni proteiche di secondo grado.
 E i cerotti.
 Naturalmente i cerotti.
 
@@ -47,7 +47,6 @@ Müller aprì la bocca. La richiuse. Sulla fronte, quella lucentezza si era inte
 — Le offrirà in abbinamento all'installazione. — Julian tornò verso la vetrata. — La scelta rimane alle unità.
 
 PARTE IV — LA GEOMETRIA
-
 
 Müller deglutì. Il pomo d'Adamo scese e salì una volta sola. Le sue mani, lungo i fianchi, si strinsero in pugni per una frazione di secondo prima di rilassarsi.
 — Signor Vane, se lasciamo che la situazione si deteriori per altre quarantotto ore, le proiezioni indicano — almeno trenta morti per esposizione. Forse più.

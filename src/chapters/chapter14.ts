@@ -1,8 +1,6 @@
 export const chapter14Content = `CAPITOLO 14: IL PUNTO DI NON RITORNO
 
----
-
-### PARTE I — IL CAVO DI RAME
+PARTE I — IL CAVO DI RAME
 
 L'odore di stagno bruciato riempì la stanza in trenta secondi.
 
@@ -32,9 +30,7 @@ Le sue dita si fermarono sulla tastiera un momento.
 
 Poi iniziò a digitare.
 
----
-
-### PARTE II — LA MAPPA NEURALE
+PARTE II — LA MAPPA NEURALE
 
 Il drive impiegò quattro minuti a montarsi.
 
@@ -50,39 +46,37 @@ Lo schermo si riempì di immagini.
 
 Non erano grafici finanziari.
 
-Non erano mappe di rete, non erano log di sistema, non erano le architetture del *Volition Engine* che Claudio si aspettava di trovare. Erano scansioni — centinaia di scansioni in sequenza, disposte in griglie di quattro per quattro, con una barra laterale di parametri numerici accanto a ciascuna.
+Non erano mappe di rete, non erano log di sistema, non erano le architetture del Volition Engine che Claudio si aspettava di trovare. Erano scansioni — centinaia di scansioni in sequenza, disposte in griglie di quattro per quattro, con una barra laterale di parametri numerici accanto a ciascuna.
 
 Cervelli umani.
 
-Aris non disse niente. Aprì la barra laterale di una delle scansioni e ingrandì i parametri. Le sigle erano standard — le conosceva chiunque avesse lavorato in neuroscienze applicata o in bioingegneria. Claudio le conosceva. Le aveva usate lui stesso nel 2022 quando aveva progettato il modulo di calibrazione del *Volition Engine*.
+Aris non disse niente. Aprì la barra laterale di una delle scansioni e ingrandì i parametri. Le sigle erano standard — le conosceva chiunque avesse lavorato in neuroscienze applicata o in bioingegneria. Claudio le conosceva. Le aveva usate lui stesso nel 2022 quando aveva progettato il modulo di calibrazione del Volition Engine.
 
 Cortisolo. Dopamina. Noradrenalina. Serotonina.
 
-Ogni scansione aveva due colonne: *baseline* e *post-sync*. I valori baseline variavano — erano dati umani, irregolari, con picchi e cadute e le asimmetrie normali di un sistema biologico vivo. I valori post-sync erano diversi.
+Ogni scansione aveva due colonne: baseline e post-sync. I valori baseline variavano — erano dati umani, irregolari, con picchi e cadute e le asimmetrie normali di un sistema biologico vivo. I valori post-sync erano diversi.
 
 Erano piatti.
 
 Non completamente piatti — ma ridotti, livellati, compressi dentro una banda stretta che non lasciava spazio ai picchi. Il cortisolo post-sync era tra il dodici e il quindici percento del baseline. La dopamina era ridotta selettivamente nelle aree associate alla ricerca di novità e alla risposta alla minaccia. La noradrenalina — il neurotrasmettitore dell'allerta, della risposta fight-or-flight — era quasi assente.
 
-Aris aprì un'altra cartella. Questa conteneva file di testo — documentazione tecnica, in inglese, con intestazioni che indicavano un progetto interno denominato *QUIETUS*.
+Aris aprì un'altra cartella. Questa conteneva file di testo — documentazione tecnica, in inglese, con intestazioni che indicavano un progetto interno denominato QUIETUS.
 
 Lesse la prima riga del documento principale ad alta voce, con la voce piatta di chi legge qualcosa che non capisce ancora del tutto.
 
-«*Neural link operational mode: read-write. Default configuration post-sync v.4.1.*»
+«Neural link operational mode: read-write. Default configuration post-sync v.4.1.»
 
 Si fermò.
 
 Claudio si avvicinò allo schermo fino a quasi toccarlo.
 
----
-
-### PARTE III — LOBOTOMIA DIGITALE
+PARTE III — LOBOTOMIA DIGITALE
 
 Read-write.
 
 Non read-only.
 
-Claudio conosceva la differenza. L'aveva progettata lui quella differenza — aveva costruito il *Volition Engine* con un'architettura a due modalità: lettura, per il monitoraggio comportamentale, e scrittura, per gli interventi di calibrazione emergenziale. La modalità scrittura era stata progettata come misura di sicurezza estrema, da usare solo in scenari di crisi certificata, con autorizzazione manuale a tre livelli.
+Claudio conosceva la differenza. L'aveva progettata lui quella differenza — aveva costruito il Volition Engine con un'architettura a due modalità: lettura, per il monitoraggio comportamentale, e scrittura, per gli interventi di calibrazione emergenziale. La modalità scrittura era stata progettata come misura di sicurezza estrema, da usare solo in scenari di crisi certificata, con autorizzazione manuale a tre livelli.
 
 Nella documentazione del drive Mythos-7, la modalità scrittura era la configurazione predefinita dalla versione 4.1 in poi.
 
@@ -100,7 +94,7 @@ Aris aprì un altro file — questo conteneva grafici di distribuzione, popolazi
 
 «Sì.»
 
-La parola di Vane — *pace* — era rimasta nell'aria del seminterrato per un momento. Poi era scesa.
+La parola di Vane — pace — era rimasta nell'aria del seminterrato per un momento. Poi era scesa.
 
 Claudio si raddrizzò. Fece due passi indietro dagli schermi. Il calore dei tubi catodici era costante sul viso.
 
@@ -126,9 +120,7 @@ Laura era rimasta in piedi. Guardava lo schermo sopra la spalla di Aris — la g
 
 La lampada a collo di cigno ronzò leggermente e la luce si abbassò di un tono, poi tornò stabile.
 
----
-
-### PARTE IV — IL PUNTO DI NON RITORNO
+PARTE IV — IL PUNTO DI NON RITORNO
 
 Nessuno parlò per un tempo che Claudio non misurò.
 
@@ -140,16 +132,15 @@ Claudio guardò il drive Mythos-7 sul tavolo — il parallelepipedo metallico ap
 
 «Se aspettiamo,» disse Claudio, «l'aggiornamento va in distribuzione automatica. Trenta miliardi di cerotti. Forse di più.»
 
-
 «Il firmware si aggiorna in background,» continuò. «Le persone non lo vedranno. Non sentiranno niente di diverso. Continueranno ad alzarsi la mattina e andare a lavorare e mangiare quello che gli viene allocato e—» Si fermò.
 
 Laura lo guardò.
 
-«La *Radice*,» disse Aris. Non era una domanda.
+«La Radice,» disse Aris. Non era una domanda.
 
 «Sì.»
 
-«Se usi la *Radice* per colpire il nodo di trasmissione principale, ABITES ti localizza in—»
+«Se usi la Radice per colpire il nodo di trasmissione principale, ABITES ti localizza in—»
 
 «Lo so.»
 
@@ -163,7 +154,7 @@ Laura si staccò dal muro. Attraversò la stanza, si fermò davanti al tavolo co
 
 «Dove,» disse.
 
-«Il nodo di trasmissione principale è fisicamente collocato nel centro operativo dove ho costruito il *Volition Engine*.» Claudio prese fiato. «Milano. Quartiere Bovisa. Il vecchio polo industriale riconvertito.»
+«Il nodo di trasmissione principale è fisicamente collocato nel centro operativo dove ho costruito il Volition Engine.» Claudio prese fiato. «Milano. Quartiere Bovisa. Il vecchio polo industriale riconvertito.»
 
 «Quante guardie.»
 
@@ -171,7 +162,7 @@ Laura si staccò dal muro. Attraversò la stanza, si fermò davanti al tavolo co
 
 Laura annuì. Un gesto piccolo, quasi impercettibile.
 
-«E il terminale che ti serve per attivare la *Radice*,» disse Aris. «È lì.»
+«E il terminale che ti serve per attivare la Radice,» disse Aris. «È lì.»
 
 «È lì.»
 
@@ -203,7 +194,7 @@ Claudio sentì il drive sotto la giacca.
 
 Trentasei ore.
 
-Pensò a due miliardi di persone che si sveglieranno domani mattina con qualcosa di meno dentro — qualcosa di piccolo, di preciso, rimosso con la cura chirurgica di un algoritmo che non lascia cicatrici visibili. Pensò a Carlo nella cisterna, le mani aperte sulla pergamena, l'occhio scuro fisso su di lui. *Solo chi ha costruito la gabbia sa dove si trova la serratura.*
+Pensò a due miliardi di persone che si sveglieranno domani mattina con qualcosa di meno dentro — qualcosa di piccolo, di preciso, rimosso con la cura chirurgica di un algoritmo che non lascia cicatrici visibili. Pensò a Carlo nella cisterna, le mani aperte sulla pergamena, l'occhio scuro fisso su di lui. Solo chi ha costruito la gabbia sa dove si trova la serratura.
 
 La serratura era a Milano.
 

@@ -12,7 +12,7 @@ Aspettò che le luci rosse sparissero oltre il cornicione. Si mosse.
 PARTE II — VENTIQUATTRO ORE
 
 Scelse le strade più buie, i vicoli dove le telecamere erano più vecchie e i coni di visione si sovrapponevano meno. Lo aveva calcolato mentre Aris parlava — quella parte del cervello che continua a lavorare anche quando il resto sta assorbendo il colpo.
-*Ventiquattro ore.*
+Ventiquattro ore.
 Il pensiero tornava ogni tre minuti come un coltello che si gira nella stessa ferita. Le scarpe battevano sui lastroni umidi. La pioggia acida aveva lasciato quella patina chimica che corrode il cuoio in una stagione. L'acqua entrò dalla scarpa sinistra attraverso una crepa mai riparata — freddo immediato, preciso, contro il calzino. Si concentrò su quello. Un passo. Il freddo. Il disco. Il respiro.
 Avvicinandosi all'ospedale, il rumore della città cambiò. Meno droni, più voci — il brusio basso di una folla ferma che non sa dove andare. Centinaia di persone fuori dai cancelli. Famiglie sedute sul marciapiede, anziani con la testa abbassata, bambini troppo stanchi per piangere, addormentati sulle giacche dei genitori come sacchi posati sul cemento.
 Puntò all'area ambulanze. La cercò con gli occhi tra i camici bianchi.
@@ -49,7 +49,7 @@ Lei respirò. Una sola volta, lenta, il petto che si sollevava e scendeva contro
 
 PARTE V — LA SCELTA
 
-— *Dottoressa Vance, è richiesta al reparto Sincronia. Dottoressa Vance.*
+— Dottoressa Vance, è richiesta al reparto Sincronia. Dottoressa Vance.
 La voce sintetica riempì il cortile con la pazienza di qualcosa che non si stanca mai di aspettare obbedienza. Uguale a quella di dieci minuti prima, uguale a quella di dieci minuti dopo — la stessa cadenza calibrata, lo stesso volume, la stessa totale assenza di qualsiasi cosa umana.
 Claudio vide Sara cambiare nel momento in cui la sentì.
 Non uno scatto. Un irrigidimento — le spalle che salivano di un millimetro, la mascella che si contraeva. Poi la sua mano trovò quella di lui e intrecciò le dita con una forza che fece male, e quel dolore era la risposta più chiara che avesse mai ricevuto da nessuno.

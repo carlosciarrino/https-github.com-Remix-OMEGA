@@ -1,8 +1,6 @@
 export const chapter9Content = `CAPITOLO 9: FANGO E KEVLAR
 
----
-
-## PARTE I — L'AVVICINAMENTO
+PARTE I — L'AVVICINAMENTO
 
 La pioggia non faceva rumore.
 
@@ -14,7 +12,7 @@ Il visore tactico dipingeva il mondo in strati.
 
 Layer biometrico: nessuna firma termica nel raggio di duecento metri. Layer strutturale: tre costruzioni, coordinate precise, materiali identificati come legno non trattato e lamiera. Layer operativo: sei anomalie biometriche classificate come Sconnessi attivi, distribuzione stimata sulle strutture, probabilità di resistenza armata al settantanove percento.
 
-*Anomalie biometriche.*
+Anomalie biometriche.
 
 Draken aveva imparato la terminologia come si impara qualsiasi altra lingua tecnica — per assorbimento, per ripetizione, finché le parole avevano smesso di significare quello che significavano prima. Un'anomalia biometrica era un parametro fuori dalla distribuzione normale. Era una variabile. Era una coordinata su una mappa.
 
@@ -32,9 +30,7 @@ Trenta secondi di ascolto — il protocollo standard prima dell'irruzione. La pi
 
 Dentro il visore, le otto anomalie pulsavano di rosso tenue contro il nero dei boschi, come braci.
 
----
-
-## PARTE II — L'IRRUZIONE
+PARTE II — L'IRRUZIONE
 
 Andò tutto secondo il protocollo, fino al momento in cui non andò.
 
@@ -66,9 +62,7 @@ Il sistema aggiornò: anomalie residue, due. Una mobile, una ferma.
 
 — Presa.
 
----
-
-## PARTE III — IL GLITCH
+PARTE III — IL GLITCH
 
 La trovò ottanta metri a nord della struttura in fiamme, in ginocchio nel fango.
 
@@ -92,13 +86,13 @@ Tre secondi.
 
 La donna aprì la bocca. Inspirò — un respiro corto, bagnato, con quel suono di chi ha qualcosa che non va nella meccanica del respiro. Poi disse qualcosa che il sistema non classificò come minaccia, perché non era una minaccia. Era solo una frase in inglese, bassa, quasi inaudibile sotto la pioggia.
 
-— *You don't have to.*
+— You don't have to.
 
 Il dito di Draken era sul grilletto.
 
 Non premette.
 
-Dentro il casco, il segnale d'allerta si attivò — un tono basso, neutro, quello che il manuale chiamava *promemoria operativo*. Draken sentì il tono. Sentì anche la pioggia sul kevlar, il peso del fango sulle suole, l'odore del pino bruciato che arrivava dal bosco alle sue spalle. Sentì il freddo — non la temperatura registrata dal sistema come variabile ambientale, ma il freddo reale, quello che entra attraverso i materiali e raggiunge la pelle.
+Dentro il casco, il segnale d'allerta si attivò — un tono basso, neutro, quello che il manuale chiamava promemoria operativo. Draken sentì il tono. Sentì anche la pioggia sul kevlar, il peso del fango sulle suole, l'odore del pino bruciato che arrivava dal bosco alle sue spalle. Sentì il freddo — non la temperatura registrata dal sistema come variabile ambientale, ma il freddo reale, quello che entra attraverso i materiali e raggiunge la pelle.
 
 La donna continuò a guardarlo.
 
@@ -112,7 +106,7 @@ Solo tre.
 
 Non era vero. Non ancora.
 
-Ma il sistema registrò la comunicazione, il coordinamento rispose *ricevuto*, e Draken aveva adesso una finestra di quattro minuti prima che l'elemento medico raggiungesse il settore nord.
+Ma il sistema registrò la comunicazione, il coordinamento rispose ricevuto, e Draken aveva adesso una finestra di quattro minuti prima che l'elemento medico raggiungesse il settore nord.
 
 Si abbassò su un ginocchio nel fango — il kevlar che affondava nella terra nera, la pioggia che tambellava sul casco — e aprì la tasca medica sul fianco sinistro. Tirò fuori la fasciatura di emergenza.
 
@@ -122,9 +116,7 @@ Draken non disse niente.
 
 Quando l'elemento medico arrivò, era già in piedi e si stava allontanando verso il punto di raccolta.
 
----
-
-## PARTE IV — IL FREDDO
+PARTE IV — IL FREDDO
 
 L'operazione si chiuse alle tre e quarantasette.
 

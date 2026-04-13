@@ -1,10 +1,7 @@
 export const chapter21 = `
-# PROGETTO OMEGA
-## Capitolo 21 — *La Geometria della Caccia*
+Capitolo 21 — La Geometria della Caccia
 
----
-
-### PARTE I — LA SCENA
+PARTE I — LA SCENA
 
 Il corridoio aveva ancora calore.
 
@@ -38,9 +35,7 @@ La distruzione non era casuale. Seguiva una logica: i punti di maggior calore er
 
 Cyrus registrò il dato e passò al successivo.
 
----
-
-### PARTE II — IL SANGUE
+PARTE II — IL SANGUE
 
 La trovò nel vano tecnico, a sessanta centimetri dalla soglia.
 
@@ -60,7 +55,7 @@ Non era un nome nuovo — era nel database da quando aveva abbandonato ABITES, c
 
 Ma una classificazione era un'astrazione amministrativa. Questo era sangue su un pavimento.
 
-Cyrus aveva letto il file di Ferretti sul volo. Lo aveva letto con la stessa metodologia con cui leggeva tutti i file — senza saltare sezioni, senza cercare conclusioni prima dei dati, dall'inizio alla fine. Formazione: ingegneria dei sistemi, specializzazione in architetture neurali distribuita. Ruolo in ABITES: progettazione del *Volition Engine*, modulo di calibrazione comportamentale, sistema di ridondanza e failsafe.
+Cyrus aveva letto il file di Ferretti sul volo. Lo aveva letto con la stessa metodologia con cui leggeva tutti i file — senza saltare sezioni, senza cercare conclusioni prima dei dati, dall'inizio alla fine. Formazione: ingegneria dei sistemi, specializzazione in architetture neurali distribuita. Ruolo in ABITES: progettazione del Volition Engine, modulo di calibrazione comportamentale, sistema di ridondanza e failsafe.
 
 Failsafe.
 
@@ -74,9 +69,7 @@ La goccia di sangue era caduta dal polso — non da una ferita da combattimento,
 
 Cyrus uscì dal vano tecnico e tornò nel corridoio.
 
----
-
-### PARTE III — L'ANALISI DEL PREDATORE
+PARTE III — L'ANALISI DEL PREDATORE
 
 Le impronte nel corridoio erano il secondo testo da leggere.
 
@@ -98,9 +91,9 @@ Cyrus tornò all'ingresso e guardò verso nord attraverso le finestre rotte del 
 
 Bologna era una scelta logistica, non sentimentale. Abbastanza vicina a Milano da permettere un raid e un ritiro nella stessa notte. Abbastanza distante da non essere il bersaglio successivo ovvio. Ma la distruzione del nodo di Bologna non era il punto finale — era la quarta fase di qualcosa che stava avanzando con una logica che Cyrus aveva impiegato quarantotto ore a ricostruire.
 
-La *Radice*. Il termine era apparso in frammenti di traffico criptato intercettati tre giorni prima, ancora non completamente decodificati. Ma la sequenza delle azioni di Ferretti nelle ultime settimane — Roma, poi l'EUR, poi il sud, poi Bologna — disegnava una traiettoria che puntava in una direzione sola.
+La Radice. Il termine era apparso in frammenti di traffico criptato intercettati tre giorni prima, ancora non completamente decodificati. Ma la sequenza delle azioni di Ferretti nelle ultime settimane — Roma, poi l'EUR, poi il sud, poi Bologna — disegnava una traiettoria che puntava in una direzione sola.
 
-Milano. Il centro operativo principale. Il nucleo fisico del *Volition Engine*.
+Milano. Il centro operativo principale. Il nucleo fisico del Volition Engine.
 
 Cyrus guardò le finestre ancora un momento. Fuori, i droni di bonifica stavano catalogando i detriti nel cortile della scuola con la loro precisione meccanica. Il cielo era grigio, basso, con una qualità della luce che indicava pioggia entro due ore.
 
@@ -108,9 +101,7 @@ Ferretti e il secondo operativo avevano un vantaggio di quattro-cinque ore.
 
 Non era sufficiente.
 
----
-
-### PARTE IV — IL RAPPORTO
+PARTE IV — IL RAPPORTO
 
 Cyrus uscì dall'edificio e si fermò nel cortile.
 
@@ -132,7 +123,7 @@ Il canale rimase inattivo per due secondi.
 
 «Direzione.»
 
-«Nord,» disse Cyrus. «La sequenza degli obiettivi è coerente con un avvicinamento progressivo a Milano. Il centro operativo principale.» Un nuovo calcolo. «Stanno cercando un accesso fisico diretto al nucleo del *Volition Engine*.»
+«Nord,» disse Cyrus. «La sequenza degli obiettivi è coerente con un avvicinamento progressivo a Milano. Il centro operativo principale.» Un nuovo calcolo. «Stanno cercando un accesso fisico diretto al nucleo del Volition Engine.»
 
 Il canale rimase aperto, senza voce, per quattro secondi.
 
@@ -142,7 +133,7 @@ Il canale rimase aperto, senza voce, per quattro secondi.
 
 «Müller a centrale,» disse il Generale — non più a Cyrus, spostando il canale. «Attivate il protocollo di contenimento perimetrale per il centro operativo Milano. Livello uno. Nessun accesso non autorizzato entro un raggio di cinque chilometri.»
 
-La risposta arrivò come testo sul visore: *Protocollo attivato. Droni in posizione entro quaranta minuti.*
+La risposta arrivò come testo sul visore: Protocollo attivato. Droni in posizione entro quaranta minuti.
 
 Il canale tornò diretto.
 

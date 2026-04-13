@@ -12,7 +12,7 @@ C'era qualcosa che volevano dirsi e che nessuno dei due aveva trovato il modo di
 Il freddo dell'equipaggiamento tecnico che aveva indosso — la giacca impermeabile, le fibbie di metallo — cedeva lentamente al calore di lei attraverso il tessuto. Claudio sentì quella transizione, quel punto esatto in cui il freddo diventa tiepido.
 Sara aprì la mano sul suo avambraccio. Una pressione piatta, il palmo intero, per sentire il muscolo teso sotto la stoffa.
 — Torna — disse.
-Non *torna sano e salvo*. Non *stai attento*. Solo *torna*.
+Non torna sano e salvo. Non stai attento. Solo torna.
 Claudio girò la testa verso di lei. Da quella distanza vedeva il punto esatto tra le sue sopracciglia dove la preoccupazione lasciava sempre una piega sottile. La vide deglutire una volta, la gola che si muoveva in un gesto involontario.
 Le mise una mano sul viso. Il freddo delle sue dita contro la pelle calda di lei.
 — Torno — disse.
@@ -78,6 +78,6 @@ Rimise la tazza sul bancone.
 — Stanotte — disse.
 Laura annuì. Già stava guardando altrove, mappando le uscite del bar, i ritmi del traffico pedonale, la posizione delle telecamere sui pali della luce.
 Fuori, i portici di Bologna raccoglievano le ultime famiglie che tornavano a casa. Le luci si accendevano alle finestre. Bambini che cenavano. Genitori che raccontavano la giornata. Braccialetti colorati posati sul bordo del lavandino accanto allo spazzolino da denti.
-Claudio pensò a Sara nelle catacombe — al calore della sua mano sul suo avambraccio, alla pressione piatta del suo palmo, a quel *torna* che non era una preghiera ma un ordine.
+Claudio pensò a Sara nelle catacombe — al calore della sua mano sul suo avambraccio, alla pressione piatta del suo palmo, a quel torna che non era una preghiera ma un ordine.
 Si alzò. Si abbottonò il cappotto.
 La notte stava arrivando sulla città perfetta. E loro avevano del lavoro da fare.`;
