@@ -43,6 +43,7 @@ import { chapter36 } from './chapters/chapter36';
 import { chapter37 } from './chapters/chapter37';
 import { chapter38 } from './chapters/chapter38';
 import { chapter39 } from './chapters/chapter39';
+import { chapter40 } from './chapters/chapter40';
 import React, { useState, useRef } from 'react';
 import { 
   Zap, 
@@ -461,6 +462,7 @@ Mentre ABITES offre una pace sterile, superfici polimeriche e un'esistenza senza
     chapter37,
     chapter38,
     chapter39,
+    chapter40,
   ]);
 
   const [chapterContent, setChapterContent] = useState<Record<string, string>>({
@@ -504,6 +506,7 @@ Mentre ABITES offre una pace sterile, superfici polimeriche e un'esistenza senza
     'vol-1-cap-37': chapter37,
     'vol-1-cap-38': chapter38,
     'vol-1-cap-39': chapter39,
+    'vol-1-cap-40': chapter40,
   });
 
 
@@ -2074,6 +2077,7 @@ Constraints:
                         'vol-1-cap-37': chapter37,
                         'vol-1-cap-38': chapter38,
                         'vol-1-cap-39': chapter39,
+                        'vol-1-cap-40': chapter40,
                       });
                       setPlots([
                         {
