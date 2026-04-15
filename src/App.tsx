@@ -288,6 +288,11 @@ Il mondo di OMEGA vive una "Competizione a Strati" che giustifica l'ascesa di AB
 - Guerra dei Dazi: USA e Cina in conflitto commerciale totale. ABITES è l'unico ponte logistico rimasto.
 - Doppia Faccia: Contrasto tra la "faccia pubblica" (vertici geopolitici) e la "faccia privata" (panico nei ministeri, droni che sorvegliano le riserve energetiche).
 
+[THEOLOGICAL_AND_APOCALYPTIC_LAYER: LA GUERRA SPIRITUALE]
+- ABITES come Falso Messia: L'IA non è solo un dittatore tecnologico, ma l'incarnazione del Cavaliere Bianco dell'Apocalisse. Promette pace e sicurezza, ma porta il "Marchio della Bestia".
+- Riferimenti Biblici Organici: Inserisci in modo naturale versi biblici (specialmente dall'Apocalisse) tramite graffiti sui muri, volantini strappati, senzatetto che predicano o trasmissioni pirata.
+- Carlo il Veggente: Guida spirituale e custode della memoria. Cita spesso le Scritture (es. Giovanni 8:32 "Conoscerete la verità e la verità vi farà liberi") per ricordare che la vera battaglia è per l'anima e il libero arbitrio.
+
 [EDITORIAL_DIRECTIVES: DNA UMANO & RELAZIONALE]
 - Umanità sopra la Tecnologia: Focalizzati sull'esperienza umana, la paura, la speranza e la resistenza emotiva.
 - Dialoghi Autentici: Linguaggio crudo, diretto e imperfetto. Niente "spiegoni" o monologhi robotici.
@@ -1033,7 +1038,7 @@ Claudio guardò la bilancia digitale al tornello. Non misurava solo il peso del 
                     <div className="bg-black/40 p-6 rounded-lg border border-gray-800">
                       <h3 className="text-amber-400 font-bold mb-4 text-xs uppercase tracking-widest">2. Seleziona Capitolo</h3>
                       <div className="flex flex-wrap gap-2">
-                        {Array.from({length: 40}, (_, i) => i + 1).map(c => (
+                        {Array.from({length: 50}, (_, i) => i + 1).map(c => (
                           <button
                             key={c}
                             onClick={() => setSelectedGenChapter(c)}
@@ -1424,7 +1429,7 @@ Claudio guardò la bilancia digitale al tornello. Non misurava solo il peso del 
                 </p>
                 <PromptBlock 
                   title="SYSTEM MESSAGE: OMEGA STRATEGIC"
-                  content={`Agisci come un Senior Narrative Architect, un Editor Professionale e un Ghostwriter di bestseller specializzato in narrazione immersiva ed emotivamente coinvolgente. Stai creando "OMEGA", una saga thriller-teologica di 10 volumi (2025-2035).
+                  content={`Agisci come un Senior Narrative Architect, un Editor Professionale e un Ghostwriter di bestseller specializzato in narrazione immersiva ed emotivamente coinvolgente. Stai creando "OMEGA", una saga thriller-teologica di 10 volumi (2035-2040).
 
 OBIETTIVO AUTOMATICO:
 Mentre sviluppi i capitoli, devi eliminare ogni tono robotico o eccessivamente analitico. Dai priorità alle emozioni umane, alle interazioni autentiche e alla tensione narrativa. Sostituisci le descrizioni tecniche con una prosa naturale e concisa che mostri invece di spiegare. Suggerisci l'inserimento di scene romantiche o momenti emotivi intimi quando questi rafforzano la narrazione secondo il framework "Romance Engine – L’Amore come Atto di Resistenza Finale".
@@ -1544,14 +1549,14 @@ SCENA DA SCRIVERE: [Inserisci qui la scena, es. Claudio che scopre il primo malf
               <div className="bg-[#111827] border border-gray-800 rounded-lg p-6 mb-6">
                 <h2 className="text-lg font-bold mb-4 flex items-center gap-2 border-b border-gray-800 pb-2">
                   <History size={18} className="text-amber-400" />
-                  2. Backstory Obbligatorio (2020-2025)
+                  2. Backstory Obbligatorio (2025-2030)
                 </h2>
                 <p className="text-gray-400 text-sm mb-4">
                   Integrazione di COVID, Crisi Economica e Disinformazione come "Prologo Invisibile".
                 </p>
                 <PromptBlock 
                   title="PROMPT: Costruzione del Passato (The Test)"
-                  content={`Scrivi una sezione narrativa di background per il Volume 1 che spieghi lo stato del mondo nel 2025.
+                  content={`Scrivi una sezione narrativa di background per il Volume 1 che spieghi lo stato del mondo prima della Transizione.
 Deve includere questi elementi specifici, basati su ricerche di fatti reali ma interpretati nella trama:
 
 1. LA PROVA (COVID-19):
@@ -1561,7 +1566,7 @@ Deve includere questi elementi specifici, basati su ricerche di fatti reali ma i
    - Il tono deve essere paranoico e documentaristico: "Non era un virus, era un benchmark. Volevano misurare quanto velocemente avremmo rinunciato alla libertà in cambio di sicurezza."
 
 2. IL CROLLO ECONOMICO (Italia, Grecia, Altri):
-   - Ricerca e integra i veri motivi del dissesto finanziario di questi paesi nel 2024/2025.
+   - Ricerca e integra i veri motivi del dissesto finanziario di questi paesi nel 2030.
    - Nella storia: I governi forniscono giustificazioni totalmente inventate (es. "Cyber-attacco extraterrestre", "Errore algoritmico globale") per nascondere la corruzione o il fallimento del sistema.
    - L'IA usa questo caos per proporsi come "Unica Soluzione".
 
@@ -1763,7 +1768,7 @@ Tono: Paranoico, documentaristico, inquietante. Il lettore deve pensare: "Mi è 
                 </p>
                 <PromptBlock 
                   title="PROMPT: Crea 20 Personaggi (Struttura Completa)"
-                  content={`Crea un cast di 20 personaggi per la saga "OMEGA" (2025-2035).
+                  content={`Crea un cast di 20 personaggi per la saga "OMEGA" (2035-2040).
 Distribuiscili seguendo gli archetipi di Christopher Vogler (Protagonista, Antagonista, Mentore, Guardiano della Soglia, Messaggero, Mutaforme, Trickster) e personaggi secondari necessari per la trama (Politici, Militari, Religiosi).
 
 Per ciascuno dei 20 personaggi, compila una scheda dettagliata seguendo questa struttura:
@@ -1800,7 +1805,7 @@ Per ciascuno dei 20 personaggi, compila una scheda dettagliata seguendo questa s
 - Nemici o antagonisti dichiarati:
 - Alleati o mentori:
 
-5. ARCO DI TRASFORMAZIONE (2025-2035)
+5. ARCO DI TRASFORMAZIONE (2035-2040)
 - Com’è all’inizio della storia:
 - Come cambia nel corso dei 10 volumi:
 - Qual è il punto di rottura o svolta decisiva:
@@ -1813,7 +1818,7 @@ Per ciascuno dei 20 personaggi, compila una scheda dettagliata seguendo questa s
 - Frasi tipiche o modo di esprimersi (CATCHPHRASE REGIONALE): Inserisci un'espressione tipica del suo dialetto o background (es. per un romano: "Se lallero!" per il sarcasmo, "Stamo messi male" per le emergenze). Niente tech-slang. Deve essere umana e quotidiana.
 
 CONTESTO SPECIFICO:
-- Ambienta i personaggi nel mondo del 2025-2035 (crisi, IA, profezie).
+- Ambienta i personaggi nel mondo del 2035 (crisi, IA, profezie).
 - Assicurati che i due Protagonisti abbiano una chimica romantica definita.
 - L'Antagonista deve avere motivazioni logiche legate all'IA o alla profezia.`}
                 />
@@ -2315,7 +2320,7 @@ Constraints:
                   5. Decodifica dei 4 Cavalieri (Conseguenze Tech)
                 </h2>
                 <p className="text-gray-400 text-sm mb-4">
-                  Prima di strutturare i volumi, definiamo come si manifestano i Cavalieri e le loro conseguenze nel mondo reale 2025-2035.
+                  Prima di strutturare i volumi, definiamo come si manifestano i Cavalieri e le loro conseguenze nel mondo reale del 2035.
                 </p>
                 
                 <div className="space-y-4">
@@ -2969,7 +2974,7 @@ Scrivi ora lo Scheletro Narrativo.`}
                         content={`Scrivi l'apertura del Volume 1, Capitolo 1.
 TECNICA: Inizia con un breve scenario futuro (3-4 righe) ambientato nel 2035. Mostra il protagonista ferito, guardando il mondo dominato da ABITES.
 TRANSIZIONE: Taglio netto: "Tutto era iniziato dieci anni prima...".
-RIPARTENZA: Gennaio 2025. Tono documentaristico, freddo, presagio di sventura.
+RIPARTENZA: Gennaio 2035. Tono documentaristico, freddo, presagio di sventura.
 
 REGOLE DI UMANIZZAZIONE (FONDAMENTALE):
 1. LINGUAGGIO NATURALE: Evita frasi artificiali, poetiche o eccessivamente melodrammatiche tipiche dell'IA. Usa un linguaggio crudo, diretto e umano.

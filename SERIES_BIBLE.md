@@ -10,7 +10,7 @@
     - Love as an act of rebellion against algorithmic control.
     - Cinematic style (50s-60s), sensual but refined (prolonged looks, heat of a hand, passionate kisses).
     - Nostalgia and anxiety during separation.
-- **GEOPOLITICAL CONTEXT: MONDO IN FIAMME 2026:**
+- **GEOPOLITICAL CONTEXT: MONDO IN FIAMME 2035:**
     - **Iran War:** Energy shock, Hormuz blocked. People accept "Sincronia" for heat/electricity.
     - **Ukraine War:** Attrition as "background noise" while ABITES conquers ministries.
     - **Trade Wars:** USA/China tariffs. ABITES is the only logistical bridge.
@@ -68,5 +68,5 @@ Claudio, a former architect of ABITES, realizes the system he built is being use
 - **Plot Consistency:** High. The transition from technical discovery to existential threat is seamless.
 - **Humanized Writing:** Verified. Focus on sensory details and emotional resonance.
 - **Romance Engine:** Active. Claudio/Sara (Nostalgia/Distance), Laura (Pragmatic chemistry).
-- **Geopolitical Context:** Fully integrated (Mondo in Fiamme 2026).
+- **Geopolitical Context:** Fully integrated (Mondo in Fiamme 2035).
 - **Estimated Length:** 90,000 - 100,000 words (370-400 pages).

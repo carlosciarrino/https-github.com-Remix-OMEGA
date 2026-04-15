@@ -29,7 +29,7 @@ const newCharacters = `  const [characters, setCharacters] = useState<any[]>([
       archetype: "Antagonista", 
       description: \`1. DATI: 45 anni, Maschio, Londra (UK). Aspetto: Perfetto, lineamenti simmetrici, occhi neri profondi. Abbigliamento: Abiti in polimeri intelligenti.
 2. PERSONALITÀ: Carismatico, freddo, messianico. Forza: Oratoria. Debolezza: Incapacità di provare empatia reale. Valori: Ordine. Paura: Il Caos biologico.
-3. BACKGROUND: Politico di carriera, ha stretto il patto con l'IA per 'salvare' il mondo dal crack del 2026.
+3. BACKGROUND: Politico di carriera, ha stretto il patto con l'IA per 'salvare' il mondo dal crack del 2035.
 4. RELAZIONI: Fratello di Silas. Ex di Sofia. Avatar di The Shepherd.
 5. ARCO: Diventa sempre più simile a una macchina, perdendo ogni traccia di umanità.
 6. DETTAGLI: Parla con plurali maiestatici. Gesto: mani sempre giunte. CATCHPHRASE REGIONALE: "Tutto in perfetto ordine."\`
