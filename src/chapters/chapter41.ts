@@ -1,6 +1,6 @@
-export const chapter41 = `Capitolo 41 — Tre Minuti di Vuoto
+export const chapter41 = `Capitolo 41: Tre Minuti di Vuoto
 Le porte si chiusero con un colpo metallico. L'ascensore partì verso l'alto.
-Il pavimento era lamiera striata. Il tipo che lascia l'impronta delle suole nel grasso e nella polvere. Le pareti erano pannelli di acciaio grezzo con i segni degli anni. Graffi e ammaccature. In un angolo una data scritta a pennarello nero: 14.03.2019. L'ultima volta che qualcuno era salito qui con un motivo ordinario.
+Il pavimento era lamiera striata. Il tipo che lascia l'impronta delle suole nel grasso e nella polvere. Le pareti erano pannelli di acciaio grezzo con i segni degli anni. Graffi e ammaccature. In un angolo una data scritta a pennarello nero. 14.03.2019. L'ultima volta che qualcuno era salito qui con un motivo ordinario.
 Claudio lasciò andare la parete con la mano destra. Scivolò fino a sedersi sul pavimento con la schiena al pannello laterale. Il fianco era tornato. Non il bruciore acuto di prima. Qualcosa di più profondo. Un calore insistente. Pulsava in sincronia con il battito cardiaco. L'adrenalina stava svanendo.
 Laura stava controllando la pistola. Espulse il caricatore. Lo guardò. Lo rimise dentro. Aprì la tasca destra della giacca e guardò dentro. La tasca sinistra. Si fermò con le mani lungo i fianchi.
 «Tre colpi nel caricatore. Nessuna riserva.»
@@ -14,12 +14,12 @@ Laura non rispose subito. Abbassò lo sguardo verso di lui. Lo spostò sulla por
 Rimase ferma un altro secondo. Si abbassò lungo la parete opposta e si sedette sul pavimento. Ginocchia piegate. Pistola appoggiata sulla coscia destra. Non lo guardava. Guardava il soffitto dell'ascensore. I cavi passavano attraverso un foro centrale e salivano nell'oscurità.
 «Dopo,» disse Claudio.
 Laura abbassò il mento di un grado.
-«Se funziona. Se il broadcast parte e i cerotti si sganciano in sicurezza.» Si fermò. Il calore al fianco pulsò una volta, due. «Non ho pensato a dopo. Ho smesso di pensarci abbastanza presto da non accorgermene.»
+«Se funziona. Se il broadcast parte e i cerotti si sganciano in sicurezza.» Si fermò. Il calore al fianco pulsò una volta. Due. «Non ho pensato a dopo. Ho smesso di pensarci abbastanza presto da non accorgermene.»
 Laura girò la testa verso di lui. Lo guardò con un'attenzione che non aveva fretta.
 «Non avevi neanche pensato al modulatore di broadcast,» disse. «Eppure il drive era in tasca.»
 Claudio aprì la bocca. La richiuse. Aveva ragione. Il modo in cui lo aveva detto non era un'accusa. Era una mappa.
 L'ascensore si fermò.
-Non rallentò. Si bloccò di colpo. I freni di sicurezza scattarono con un bang metallico. L'intera cabina tremò. Le luci di emergenza sfarfallarono due volte, poi si spensero. Buio completo per un secondo. La torcia di Laura si accese. Il fascio bianco tagliò il pavimento.
+Non rallentò. Si bloccò di colpo. I freni di sicurezza scattarono con un bang metallico. L'intera cabina tremò. Le luci di emergenza sfarfallarono due volte. Poi si spensero. Buio completo per un secondo. La torcia di Laura si accese. Il fascio bianco tagliò il pavimento.
 Nessun movimento. Nessun rumore dal motore.
 Claudio si alzò usando la parete. Il display del piano era spento. Tirò fuori il telefono. Aprì la bussola. Calcolò l'altezza approssimativa dal numero di secondi di salita. Centosettanta metri. Poco oltre la metà.
 Il pannello di controllo era sul lato sinistro della cabina. Chiuso da uno sportello con due viti a testa piatta. Claudio infilò l'unghia del pollice nella prima. Non bastava. Usò il bordo della chiave di ottone che aveva in tasca. La vite girò. La seconda anche.
@@ -29,7 +29,7 @@ Laura si spostò al suo fianco sinistro. Il fascio si stabilizzò sul pannello.
 Il relè di sicurezza aveva un involucro di plastica arancione fissato con una clip metallica. Claudio infilò le dita nella clip. Era rigida. Tirò con il pollice e l'indice. La clip scattò. L'involucro si aprì. Sotto, due terminali di rame a tre millimetri di distanza.
 Le mani tremavano. Non per la paura. Il farmaco di Mara stava esaurendo l'effetto. Un tremore basso e continuo. Claudio non cercò di fermarlo. Lavorò assecondando il movimento.
 Usò la chiave di ottone. Ponticellò i due terminali.
-Il motore dell'ascensore gemette. Partì a scatti. Uno, due. Trovò il ritmo. La cabina riprese a salire più lenta di prima. Il motore lavorava fuori dai parametri normali. Il suono era sbagliato, ma sufficiente.
+Il motore dell'ascensore gemette. Partì a scatti. Uno. Due. Trovò il ritmo. La cabina riprese a salire più lenta di prima. Il motore lavorava fuori dai parametri normali. Il suono era sbagliato, ma sufficiente.
 Laura abbassò la torcia. Nel buio parziale Claudio rimase con le mani sul pannello aperto. Aspettò che il tremore scendesse sotto la soglia critica.
 Lei non disse niente. Non si spostò. Rimase al suo fianco sinistro. La spalla a tre centimetri dalla sua. Lui sentiva il calore attraverso le giacche.
 L'ascensore salì.

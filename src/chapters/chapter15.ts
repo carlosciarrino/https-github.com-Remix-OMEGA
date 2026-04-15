@@ -1,31 +1,30 @@
-export const chapter15Content = `CAPITOLO 14: la ragnatela di fumo
-PARTE I — L'ABISSO
-Il fumo del barile saliva dritto, sfilacciandosi contro il soffitto di lamiera prima di sparire nelle ventole. Odore di gomma bruciata e di qualcosa di più antico, l'esalazione finale della città stessa.
-Claudio era seduto sul bordo della cassa, le mani intrecciate tra le ginocchia. Le nocche erano bianche. I tendini del collo tesi.
-Laura era appoggiata alla lamiera, le braccia incrociate. La luce arancione delle braci le disegnava ombre lunghe sul viso, rendendo i suoi lineamenti ancora più affilati, quasi predatori. Non aveva detto una parola da quando la radio era tornata muta.
-— Una generazione senza memoria — ripeté Claudio. La voce era bassa, quasi un sussurro, ma riempì lo spazio della tenda con la forza di una condanna. — Vane non sta cercando di convincerci. Sta solo aspettando che diventiamo irrilevanti.
-Laura si staccò dal muro. Si mosse con agilità felina. Si avvicinò alla cassa e posò la mano sul drive. Il metallo brillò per un istante, riflettendo la luce morente del barile.
-— Allora dobbiamo assicurarci che quel drive non diventi irrilevante prima di noi — disse. La voce era piatta, ma Claudio notò un leggero tremore nelle sue dita.
-PARTE II — IL CODICE E LA CARNE
-Claudio riprese la matita. Il foglio davanti a lui era un campo di battaglia di schemi e correzioni. Ogni volta che cercava di aprirlo, il codice si riorganizzava, creando nuovi percorsi, nuove trappole. Era come cercare di afferrare l'acqua con le mani.
-— Non è un algoritmo — mormorò Claudio, più a se stesso che a Laura. — È un riflesso. — Si fermò, la punta della matita sospesa sul foglio. — Il sistema reagisce all'intrusione come un organismo vivente. Se premo troppo forte in un punto, si ritrae e si indurisce in un altro.
-Laura si accovacciò accanto a lui. L'odore di grasso e pioggia acida che emanava dai suoi vestiti era denso, reale.
-— E allora non premere — disse. — Scivola dentro. Come abbiamo fatto nei tunnel.
-Claudio la guardò. Gli occhi di lei erano due fessure scure. Il codice non andava forzato. Andava assecondato.
-PARTE III — LA SINFONIA DEL VUOTO
-Le ore passarono, scandite solo dal cricchettio della dinamo di Laura. Le mani di Claudio si muovevano in automatico. Le righe di luce verde sullo schermo del lettore iniziarono a danzare in un modo nuovo. Non più barriere, ma passaggi. Non più trappole, ma inviti.
-Trovò il punto di ingresso alle 05:42. Il settore 7-alpha si aprì. Non con uno schianto, ma con un sospiro digitale.
-I dati iniziarono a scorrere. Claudio restò immobile, col fiato sospeso. Quello che vide non erano numeri. Erano mappe. Mappe di ogni Centro di Sincronizzazione a Roma. Mappe dei nodi di trasmissione di ABITES. E, sepolto nel cuore del file, il protocollo per la Fase 4.
-— Mio Dio — sussurrò.
-Laura si sporse in avanti. — Cosa vedi?
-Claudio indicò una serie di coordinate. — Non sono solo centri di distribuzione. Sono centri di condizionamento. — La voce gli tremava. — Stanno preparando il terreno per i bambini, Laura. Vogliono iniziare la Sincronizzazione obbligatoria negli asili nido entro il prossimo mese.
-PARTE IV — LA SCELTA
-Laura si raddrizzò. I muscoli della mascella contratti.
-— Allora la nostra missione è cambiata — disse. — Non dobbiamo solo portare questo drive a Carlo. Dobbiamo usarlo per colpire i nodi prima che la Fase 4 inizi.
-Claudio guardò il drive. Sessanta grammi di metallo. Pensò a Sara. Alle sue parole nella radio: "I bambini sono diversi".
-— Dobbiamo muoverci — disse Claudio. La voce era tornata ferma. — Se il sistema si accorge che abbiamo aperto il settore 7-alpha, manderà tutto quello che ha contro di noi.
-Laura annuì. Iniziò a raccogliere le sue cose con efficienza.
-— Allora andiamo — disse. — Roma si sta svegliando, e noi abbiamo un appuntamento con la storia.
-Claudio si alzò. Il drive era al sicuro nella sua tasca.
-Si diresse verso l'uscita della tenda, Laura un passo dietro di lui. Fuori, il cielo di Roma stava iniziando a schiarirsi, un grigio sporco che non prometteva nulla di buono.
-Il passo di Claudio era rapido e misurato.`;
+export const chapter15Content = `Capitolo 15: La Voce nel Buio
+Il fumo del barile saliva dritto. Si sfilacciava contro il soffitto di lamiera. Spariva nelle ventole. Odore di gomma bruciata.
+Claudio sedeva sul bordo della cassa. Le mani intrecciate tra le ginocchia. Le nocche bianche.
+Laura era appoggiata alla parete. Braccia incrociate. La luce arancione delle braci le tagliava il viso. Nessuna parola da quando la radio era tornata muta. La voce di Sara era sparita nel fruscio statico.
+«Una generazione senza memoria,» disse Claudio. Fissava il pavimento. «Vane non vuole convincerci. Aspetta solo che diventiamo irrilevanti.»
+Laura si staccò dal muro. Si avvicinò alla cassa. Posò la mano sul drive. Il metallo rifletté la luce del barile.
+«Allora dobbiamo assicurarci che questo drive non diventi irrilevante prima di noi.»
+Le sue dita tremavano. Claudio lo notò. Non disse nulla.
+Claudio riprese la matita. Il foglio davanti a lui era pieno di schemi e cancellature. Ogni tentativo di forzare il codice falliva. L'architettura si riorganizzava. Creava nuovi percorsi. Nuove trappole.
+«Non è un algoritmo.» Claudio teneva la matita sospesa. «È un riflesso. Il sistema reagisce all'intrusione. È vivo. Se premo troppo forte, si ritrae. Si indurisce.»
+Laura si accovacciò accanto a lui. Odorava di grasso e pioggia acida.
+«E allora non premere,» disse lei. «Scivola dentro. Quello che abbiamo fatto nei tunnel.»
+Claudio la guardò. Il codice non andava forzato. Andava assecondato.
+Le ore passarono. Il cricchettio della dinamo di Laura riempiva il silenzio. Le mani di Claudio si muovevano sulla tastiera. Le righe verdi sullo schermo cambiarono schema. Le barriere diventarono passaggi.
+Trovò il punto di ingresso alle 05:42. Il settore 7-alpha si aprì.
+I dati scorsero sullo schermo. Claudio smise di respirare. Non erano numeri. Erano mappe. I Centri di Sincronizzazione di Roma. I nodi di trasmissione di ABITES.
+E un file nascosto. Il protocollo per la Fase 4.
+«Mio Dio.»
+Laura si sporse in avanti. «Cosa vedi?»
+Claudio indicò lo schermo. Le coordinate. «Non sono centri di distribuzione. Sono centri di condizionamento.»
+Deglutì. La gola era secca.
+«Stanno preparando il terreno per i bambini. Vogliono iniziare la Sincronizzazione obbligatoria negli asili nido. Il prossimo mese.»
+Laura si raddrizzò. I muscoli della mascella tesi.
+«La missione è cambiata,» disse. «Non basta portare il drive a Carlo. Dobbiamo colpire i nodi. Prima della Fase 4.»
+Claudio guardò il drive. Sessanta grammi di metallo. Pensò a Sara. Alla sua voce lontana.
+«Dobbiamo muoverci.» Claudio prese il drive. Lo mise in tasca. «Se il sistema rileva l'apertura del settore 7-alpha, ci manderà addosso tutto.»
+Laura annuì. Raccolse lo zaino.
+«Andiamo.»
+Uscirono dalla tenda. Il cielo di Roma schiariva. Un grigio sporco sopra i tetti.
+Claudio camminava veloce. Laura un passo dietro di lui.`;

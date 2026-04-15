@@ -45,6 +45,13 @@ import { chapter38 } from './chapters/chapter38';
 import { chapter39 } from './chapters/chapter39';
 import { chapter40 } from './chapters/chapter40';
 import { chapter41 } from './chapters/chapter41';
+import { chapter42 } from './chapters/chapter42';
+import { chapter43 } from './chapters/chapter43';
+import { indexVol1 } from './chapters/indexVol1';
+import { synopsisContent } from './chapters/synopsis';
+import { backCoverContent } from './chapters/backCover';
+import { authorInfoContent } from './chapters/authorInfo';
+import { copyrightContent } from './chapters/copyright';
 import React, { useState, useRef } from 'react';
 import { 
   Zap, 
@@ -274,7 +281,7 @@ Agisci come un Senior Narrative Architect, un Editor Professionale e un Ghostwri
 4. CLEAN FICTION: Nessuna volgarità. Realismo emotivo totale senza scadere nel triviale.
 5. SHOW, DON'T TELL: Mostra le emozioni attraverso reazioni fisiche, micro-azioni e dettagli sensoriali (odore ozono, freddo metallo, pioggia acida).
 
-[GEOPOLITICAL_CONTEXT: MONDO IN FIAMME 2026]
+[GEOPOLITICAL_CONTEXT: MONDO IN FIAMME 2035]
 Il mondo di OMEGA vive una "Competizione a Strati" che giustifica l'ascesa di ABITES:
 - Teatro Iraniano: Guerra in Medio Oriente, Stretto di Hormuz bloccato, shock energetico globale. La gente accetta la Sincronia per avere elettricità e riscaldamento.
 - Teatro Ucraino: Guerra di logoramento come "rumore di fondo". Mentre le armi sparano, ABITES conquista ministeri e banche centrali offrendo "stabilità".
@@ -286,7 +293,15 @@ Il mondo di OMEGA vive una "Competizione a Strati" che giustifica l'ascesa di AB
 - Dialoghi Autentici: Linguaggio crudo, diretto e imperfetto. Niente "spiegoni" o monologhi robotici.
 - Fratellanza & Lealtà: Enfatizza i legami profondi e i sacrifici tra i personaggi che si oppongono al sistema.
 - Ansia & Preoccupazione: Mostra l'ansia per l'incolumità dei propri cari quando i personaggi sono separati.
-- Flusso Narrativo: Connetti le frasi in modo fluido, eliminando la frammentazione, le strutture "a elenco" e i riassunti didascalici. Evita meta-commenti analitici (es. "La postura di chi...", "Il tono di chi..."). Usa una prosa naturale e immersiva.
+
+[OMEGA STYLE BIBLE: REGOLE INVIOLABILI DI STILE]
+1. NO META-NARRAZIONE: Non scrivere MAI "Una pausa", "Un silenzio", o frasi che spiegano lo stato interno di un personaggio o la natura di un momento in modo clinico.
+2. SHOW THE MOMENT: Invece di nominare una pausa, mostrala attraverso un gesto fisico, un respiro, uno spostamento dello sguardo o un dettaglio dell'ambiente.
+3. NO EXPLANATORY "AS IF": Evita assolutamente di usare "come se" (as if) per spiegare motivazioni subconsce o il "significato" di un gesto. Lascia che il gesto parli da solo.
+4. PARATASSI ESTREMA (NO RUN-ON SENTENCES): Le frasi devono essere brevi, taglienti e lineari. Soggetto, verbo, oggetto. Punto. È severamente vietato concatenare troppe azioni con "e", virgole o gerundi (es. "corse guardando indietro e cadde sbattendo la testa"). Spezza le frasi lunghe. Il testo deve essere scorrevole e ritmato.
+5. PROFESSIONAL PROSE: Fidati dell'intuizione del lettore. Non iper-spiegare. Usa un italiano semplice e potente.
+6. FORMATTAZIONE TESTO: È severamente vietato inserire righe vuote (doppi a capo) tra i paragrafi. Usa un singolo a capo per separare i paragrafi, in modo che il testo risulti compatto e senza interruzioni bianche.
+7. AUTHENTIC HUMANITY: I personaggi devono sembrare persone reali, non archetipi analizzati da un narratore.
 
 [ROMANCE ENGINE: PROTOCOLLO PASSIONE & RESISTENZA]
 L'IA DEVE integrare organicamente lo sviluppo sentimentale e la tensione emotiva:
@@ -375,8 +390,9 @@ Mentre ABITES offre una pace sterile, superfici polimeriche e un'esistenza senza
   const [plots, setPlots] = useState<any[]>([
     {
       volume: 1,
-      summary: "La Conquista del Cavallo Bianco: L'IA ABITES sfrutta la crisi geopolitica del 2026 per imporre la Sincronia.",
+      summary: "La Conquista del Cavallo Bianco: L'IA ABITES sfrutta la crisi geopolitica del 2035 per imporre la Sincronia, presentandosi come il falso messia dell'Apocalisse.",
       chapters: [
+        { title: "Sinossi", description: "Sinossi del Volume 1" },
         { title: "Prologo: L'Eclissi di Roma", description: "Claudio osserva il cielo oscurato e i droni che pattugliano la città silenziosa." },
         { title: "Capitolo 1: L'Estetica del Silicio", description: "Piazza Vittorio. Claudio nota anomalie di ottimizzazione energetica che nascondono il controllo sociale." },
         { title: "Capitolo 2: Risonanza di Terra e Sangue", description: "Appalachi, USA. Sara percepisce interferenze dei droni. La sua radio diventa l'unico legame con la verità." },
@@ -415,14 +431,22 @@ Mentre ABITES offre una pace sterile, superfici polimeriche e un'esistenza senza
         { title: "Capitolo 35: Il Collasso", description: "Il centro operativo va in blackout. Panico tra il personale umano. La fuga inizia." },
         { title: "Capitolo 36: Caccia Cieca", description: "Fuga alla cieca nei corridoi allagati. I droni impazziti attaccano chiunque." },
         { title: "Capitolo 37: La Superficie", description: "Ritorno all'aria aperta. Milano è nel caos. La pioggia acida continua a cadere." },
-        { title: "Capitolo 38: Il Sacrificio", description: "Laura copre la fuga di Claudio. Una scelta impossibile sotto il fuoco nemico." },
-        { title: "Capitolo 39: L'Alba di Cenere", description: "Claudio è solo, ferito, ma libero. Guarda la città che cerca di riavviarsi." },
-        { title: "Capitolo 40: Applausi per le Catene", description: "Epilogo. L'umanità accetta il controllo ripristinato. Sara e Claudio sono separati ma spiritualmente connessi." }
+        { title: "Capitolo 38: Le Strade Spezzate", description: "La fuga attraverso la città. Le disconnessioni letali di ABITES." },
+        { title: "Capitolo 39: Danni Collaterali", description: "L'arrivo alla Torre. Il sacrificio di Mara." },
+        { title: "Capitolo 40: La Base della Torre", description: "L'ingresso nella Torre. I Cani da Guardia." },
+        { title: "Capitolo 41: Tre Minuti di Vuoto", description: "La salita in ascensore. L'arrivo al Modulatore Centrale." },
+        { title: "Capitolo 42: L'Inserimento", description: "Lo scontro finale con i Lealisti. Il sacrificio di Daniela." },
+        { title: "Capitolo 43: Epilogo - L'Eco nel Sangue", description: "La città si risveglia. Sara parte. ABITES sopravvive." },
+        { title: "Indice del Volume 1", description: "L'indice completo di tutti i capitoli del primo volume." },
+        { title: "Quarta di Copertina", description: "Testo per la quarta di copertina." },
+        { title: "Presentazione e Ringraziamenti", description: "Informazioni sull'autore e ringraziamenti." },
+        { title: "Copyright", description: "Informazioni sul copyright." }
       ]
     }
   ]);
 
   const [manuscriptDrafts, setManuscriptDrafts] = useState<string[]>([
+    synopsisContent,
     prologueContent,
     chapter1Content,
     chapter2Content,
@@ -465,54 +489,65 @@ Mentre ABITES offre una pace sterile, superfici polimeriche e un'esistenza senza
     chapter39,
     chapter40,
     chapter41,
+    chapter42,
+    chapter43,
+    indexVol1,
+    backCoverContent,
+    authorInfoContent,
+    copyrightContent,
   ]);
 
   const [chapterContent, setChapterContent] = useState<Record<string, string>>({
-    'vol-1-cap-0': prologueContent,
-    'vol-1-cap-1': chapter1Content,
-    'vol-1-cap-2': chapter2Content,
-    'vol-1-cap-3': chapter3Content,
-    'vol-1-cap-4': chapter4Content,
-    'vol-1-cap-5': chapter5Content,
-    'vol-1-cap-6': chapter6Content,
-    'vol-1-cap-7': chapter7Content,
-    'vol-1-cap-8': chapter8Content,
-    'vol-1-cap-9': chapter9Content,
-    'vol-1-cap-10': chapter10Content,
-    'vol-1-cap-11': chapter11Content,
-    'vol-1-cap-12': chapter12Content,
-    'vol-1-cap-13': chapter13Content,
-    'vol-1-cap-14': chapter14Content,
-    'vol-1-cap-15': chapter15Content,
-    'vol-1-cap-16': chapter16Content,
-    'vol-1-cap-17': chapter17Content,
-    'vol-1-cap-18': chapter18Content,
-    'vol-1-cap-19': chapter19Content,
-    'vol-1-cap-20': chapter20Content,
-    'vol-1-cap-21': chapter21,
-    'vol-1-cap-22': chapter22,
-    'vol-1-cap-23': chapter23,
-    'vol-1-cap-24': chapter24,
-    'vol-1-cap-25': chapter25,
-    'vol-1-cap-26': chapter26,
-    'vol-1-cap-27': chapter27,
-    'vol-1-cap-28': chapter28,
-    'vol-1-cap-29': chapter29,
-    'vol-1-cap-30': chapter30,
-    'vol-1-cap-31': chapter31,
-    'vol-1-cap-32': chapter32,
-    'vol-1-cap-33': chapter33,
-    'vol-1-cap-34': chapter34,
-    'vol-1-cap-35': chapter35,
-    'vol-1-cap-36': chapter36,
-    'vol-1-cap-37': chapter37,
-    'vol-1-cap-38': chapter38,
-    'vol-1-cap-39': chapter39,
-    'vol-1-cap-40': chapter40,
-    'vol-1-cap-41': chapter41,
+    'vol-1-cap-0': synopsisContent,
+    'vol-1-cap-1': prologueContent,
+    'vol-1-cap-2': chapter1Content,
+    'vol-1-cap-3': chapter2Content,
+    'vol-1-cap-4': chapter3Content,
+    'vol-1-cap-5': chapter4Content,
+    'vol-1-cap-6': chapter5Content,
+    'vol-1-cap-7': chapter6Content,
+    'vol-1-cap-8': chapter7Content,
+    'vol-1-cap-9': chapter8Content,
+    'vol-1-cap-10': chapter9Content,
+    'vol-1-cap-11': chapter10Content,
+    'vol-1-cap-12': chapter11Content,
+    'vol-1-cap-13': chapter12Content,
+    'vol-1-cap-14': chapter13Content,
+    'vol-1-cap-15': chapter14Content,
+    'vol-1-cap-16': chapter15Content,
+    'vol-1-cap-17': chapter16Content,
+    'vol-1-cap-18': chapter17Content,
+    'vol-1-cap-19': chapter18Content,
+    'vol-1-cap-20': chapter19Content,
+    'vol-1-cap-21': chapter20Content,
+    'vol-1-cap-22': chapter21,
+    'vol-1-cap-23': chapter22,
+    'vol-1-cap-24': chapter23,
+    'vol-1-cap-25': chapter24,
+    'vol-1-cap-26': chapter25,
+    'vol-1-cap-27': chapter26,
+    'vol-1-cap-28': chapter27,
+    'vol-1-cap-29': chapter28,
+    'vol-1-cap-30': chapter29,
+    'vol-1-cap-31': chapter30,
+    'vol-1-cap-32': chapter31,
+    'vol-1-cap-33': chapter32,
+    'vol-1-cap-34': chapter33,
+    'vol-1-cap-35': chapter34,
+    'vol-1-cap-36': chapter35,
+    'vol-1-cap-37': chapter36,
+    'vol-1-cap-38': chapter37,
+    'vol-1-cap-39': chapter38,
+    'vol-1-cap-40': chapter39,
+    'vol-1-cap-41': chapter40,
+    'vol-1-cap-42': chapter41,
+    'vol-1-cap-43': chapter42,
+    'vol-1-cap-44': chapter43,
+    'vol-1-cap-45': indexVol1,
+    'vol-1-cap-46': backCoverContent,
+    'vol-1-cap-47': authorInfoContent,
+    'vol-1-cap-48': copyrightContent,
   });
-
-
 
   const [selectedDraftVol, setSelectedDraftVol] = useState<number>(1);
   const [selectedDraftCap, setSelectedDraftCap] = useState<number>(0);
@@ -557,7 +592,7 @@ Classificazione: Unità di Soppressione Urbana / Fanteria Pesante Alveare
 
   // Master Plan States
   const [masterPlanSkeleton, setMasterPlanSkeleton] = useState<any[]>([
-    { vol: 1, title: "L'Eclissi di Roma", real: "[FACT] Shock energetico 2026, Stretto di Hormuz bloccato, inflazione selvaggia.", trigger: "[FICTION] L'IA 'ABITES' viene presentata come l'unico ponte logistico e finanziario rimasto. Inizio della Sincronia." },
+    { vol: 1, title: "L'Eclissi di Roma", real: "[FACT] Shock energetico 2035, Stretto di Hormuz bloccato, inflazione selvaggia.", trigger: "[FICTION] L'IA 'ABITES' viene presentata come l'unico ponte logistico e finanziario rimasto. Inizio della Sincronia." },
     { vol: 2, title: "La Sincronia Totale", real: "[FACT] Crisi bancarie globali e spinta verso le CBDC.", trigger: "[FICTION] Il Neural Link diventa obbligatorio per accedere al credito. Il 'Marchio' digitale divide l'umanità." },
     { vol: 3, title: "Il Cavallo Rosso", real: "[FACT] Tensioni geopolitiche e rivolte nelle Città-Alveare.", trigger: "[FICTION] ABITES assume il controllo dei sistemi di difesa per 'prevenire la guerra', instaurando una dittatura algoritmica." },
     { vol: 4, title: "Il Cavallo Nero", real: "[FACT] Collasso delle catene di approvvigionamento globali.", trigger: "[FICTION] Razionamento energetico e alimentare gestito dall'IA. La mobilità è un privilegio per i 'Sincronizzati'." },
@@ -566,7 +601,7 @@ Classificazione: Unità di Soppressione Urbana / Fanteria Pesante Alveare
   const [masterPlanTimeline, setMasterPlanTimeline] = useState<any[]>([
     { date: "2024: Le Fratture", fact: "Crisi energetica e supply chain. Primi test occulti di ABITES.", fiction: "L'IA inizia a mappare la dipendenza tecnologica globale." },
     { date: "2025: La Transizione", fact: "Pandemia 'Benchmark' e addestramento IA sui dati sanitari.", fiction: "Integrazione di algoritmi predittivi nelle infrastrutture critiche." },
-    { date: "2026: Il Punto di Rottura", fact: "Mondo in Fiamme: Guerra in Iran, shock energetico, inflazione.", fiction: "Lancio della Sincronia. ABITES diventa l'unico ponte logistico globale." },
+    { date: "2035: Il Punto di Rottura", fact: "Mondo in Fiamme: Guerra in Iran, shock energetico, inflazione.", fiction: "Lancio della Sincronia. ABITES diventa l'unico ponte logistico globale." },
     { date: "2027: La Sincronia", fact: "Neural Link obbligatorio e fine della privacy fisica.", fiction: "Dominio totale di ABITES. La Resistenza opera nelle Zone d'Ombra." },
     { date: "2028: L'Eclissi", fact: "Marchio Digitale e controllo totale della volontà.", fiction: "Il libero arbitrio è un'anomalia. Claudio e Sara guidano la Risonanza." }
   ]);
@@ -880,6 +915,14 @@ Claudio guardò la bilancia digitale al tornello. Non misurava solo il peso del 
         >
           OMEGA MASTER SUITE
         </motion.h1>
+        <div className="flex justify-center mb-6 mt-4">
+          <img 
+            src="https://picsum.photos/seed/cyberpunk-rome/800/300?blur=2" 
+            alt="Omega Volume 1: L'Eclissi di Roma" 
+            className="rounded-lg shadow-[0_0_20px_rgba(251,191,36,0.2)] border border-amber-400/30 w-full max-w-3xl h-auto object-cover"
+            referrerPolicy="no-referrer"
+          />
+        </div>
         <p className="text-gray-400 text-sm max-w-2xl mx-auto mb-6">
           Sistema Operativo Completo: Strategia, Storia & Verità Nascosta
         </p>
@@ -1660,7 +1703,7 @@ Tono: Paranoico, documentaristico, inquietante. Il lettore deve pensare: "Mi è 
                     <ul className="text-gray-400 text-xs space-y-2 list-disc pl-4">
                       <li><strong>N-Flux Optimus / Teslaris:</strong> Fanteria standard. Agile, mani umane, sensori FSD.</li>
                       <li><strong>Omnazon Digit:</strong> Logistica e pattugliamento rapido.</li>
-                      <li><strong>Lyra-7:</strong> Origine cinese. Prototipi con parti del corpo ricoperte in lattice (tecnologia 2026).</li>
+                      <li><strong>Lyra-7:</strong> Origine cinese. Prototipi con parti del corpo ricoperte in lattice (tecnologia 2035).</li>
                       <li><strong>Boston Dynamics Atlas:</strong> Unità d'assalto per terreni estremi.</li>
                     </ul>
                   </div>
@@ -2040,54 +2083,62 @@ Constraints:
                   <button
                     onClick={() => {
                       setChapterContent({
-                        'vol-1-cap-0': prologueContent,
-                        'vol-1-cap-1': chapter1Content,
-                        'vol-1-cap-2': chapter2Content,
-                        'vol-1-cap-3': chapter3Content,
-                        'vol-1-cap-4': chapter4Content,
-                        'vol-1-cap-5': chapter5Content,
-                        'vol-1-cap-6': chapter6Content,
-                        'vol-1-cap-7': chapter7Content,
-                        'vol-1-cap-8': chapter8Content,
-                        'vol-1-cap-9': chapter9Content,
-                        'vol-1-cap-10': chapter10Content,
-                        'vol-1-cap-11': chapter11Content,
-                        'vol-1-cap-12': chapter12Content,
-                        'vol-1-cap-13': chapter13Content,
-                        'vol-1-cap-14': chapter14Content,
-                        'vol-1-cap-15': chapter15Content,
-                        'vol-1-cap-16': chapter16Content,
-                        'vol-1-cap-17': chapter17Content,
-                        'vol-1-cap-18': chapter18Content,
-                        'vol-1-cap-19': chapter19Content,
-                        'vol-1-cap-20': chapter20Content,
-                        'vol-1-cap-21': chapter21,
-                        'vol-1-cap-22': chapter22,
-                        'vol-1-cap-23': chapter23,
-                        'vol-1-cap-24': chapter24,
-                        'vol-1-cap-25': chapter25,
-                        'vol-1-cap-26': chapter26,
-                        'vol-1-cap-27': chapter27,
-                        'vol-1-cap-28': chapter28,
-                        'vol-1-cap-29': chapter29,
-                        'vol-1-cap-30': chapter30,
-                        'vol-1-cap-31': chapter31,
-                        'vol-1-cap-32': chapter32,
-                        'vol-1-cap-33': chapter33,
-                        'vol-1-cap-34': chapter34,
-                        'vol-1-cap-35': chapter35,
-                        'vol-1-cap-36': chapter36,
-                        'vol-1-cap-37': chapter37,
-                        'vol-1-cap-38': chapter38,
-                        'vol-1-cap-39': chapter39,
-                        'vol-1-cap-40': chapter40,
-                        'vol-1-cap-41': chapter41,
+                        'vol-1-cap-0': synopsisContent,
+                        'vol-1-cap-1': prologueContent,
+                        'vol-1-cap-2': chapter1Content,
+                        'vol-1-cap-3': chapter2Content,
+                        'vol-1-cap-4': chapter3Content,
+                        'vol-1-cap-5': chapter4Content,
+                        'vol-1-cap-6': chapter5Content,
+                        'vol-1-cap-7': chapter6Content,
+                        'vol-1-cap-8': chapter7Content,
+                        'vol-1-cap-9': chapter8Content,
+                        'vol-1-cap-10': chapter9Content,
+                        'vol-1-cap-11': chapter10Content,
+                        'vol-1-cap-12': chapter11Content,
+                        'vol-1-cap-13': chapter12Content,
+                        'vol-1-cap-14': chapter13Content,
+                        'vol-1-cap-15': chapter14Content,
+                        'vol-1-cap-16': chapter15Content,
+                        'vol-1-cap-17': chapter16Content,
+                        'vol-1-cap-18': chapter17Content,
+                        'vol-1-cap-19': chapter18Content,
+                        'vol-1-cap-20': chapter19Content,
+                        'vol-1-cap-21': chapter20Content,
+                        'vol-1-cap-22': chapter21,
+                        'vol-1-cap-23': chapter22,
+                        'vol-1-cap-24': chapter23,
+                        'vol-1-cap-25': chapter24,
+                        'vol-1-cap-26': chapter25,
+                        'vol-1-cap-27': chapter26,
+                        'vol-1-cap-28': chapter27,
+                        'vol-1-cap-29': chapter28,
+                        'vol-1-cap-30': chapter29,
+                        'vol-1-cap-31': chapter30,
+                        'vol-1-cap-32': chapter31,
+                        'vol-1-cap-33': chapter32,
+                        'vol-1-cap-34': chapter33,
+                        'vol-1-cap-35': chapter34,
+                        'vol-1-cap-36': chapter35,
+                        'vol-1-cap-37': chapter36,
+                        'vol-1-cap-38': chapter37,
+                        'vol-1-cap-39': chapter38,
+                        'vol-1-cap-40': chapter39,
+                        'vol-1-cap-41': chapter40,
+                        'vol-1-cap-42': chapter41,
+                        'vol-1-cap-43': chapter42,
+                        'vol-1-cap-44': chapter43,
+                        'vol-1-cap-45': indexVol1,
+                        'vol-1-cap-46': backCoverContent,
+                        'vol-1-cap-47': authorInfoContent,
+                        'vol-1-cap-48': copyrightContent,
                       });
                       setPlots([
                         {
                           volume: 1,
-                          summary: "La Conquista del Cavallo Bianco: L'IA ABITES sfrutta la crisi geopolitica del 2026 per imporre la Sincronia.",
+                          summary: "La Conquista del Cavallo Bianco: L'IA ABITES sfrutta la crisi geopolitica del 2035 per imporre la Sincronia, presentandosi come il falso messia dell'Apocalisse.",
                           chapters: [
+                            { title: "Sinossi", description: "Sinossi del Volume 1" },
                             { title: "Prologo: L'Eclissi di Roma", description: "Claudio osserva il cielo oscurato e i droni che pattugliano la città silenziosa." },
                             { title: "Capitolo 1: L'Estetica del Silicio", description: "Piazza Vittorio. Claudio nota anomalie di ottimizzazione energetica che nascondono il controllo sociale." },
                             { title: "Capitolo 2: Risonanza di Terra e Sangue", description: "Appalachi, USA. Sara percepisce interferenze dei droni. La sua radio diventa l'unico legame con la verità." },
@@ -2126,9 +2177,16 @@ Constraints:
                             { title: "Capitolo 35: Il Collasso", description: "Il centro operativo va in blackout. Panico tra il personale umano. La fuga inizia." },
                             { title: "Capitolo 36: Caccia Cieca", description: "Fuga alla cieca nei corridoi allagati. I droni impazziti attaccano chiunque." },
                             { title: "Capitolo 37: La Superficie", description: "Ritorno all'aria aperta. Milano è nel caos. La pioggia acida continua a cadere." },
-                            { title: "Capitolo 38: Il Sacrificio", description: "Laura copre la fuga di Claudio. Una scelta impossibile sotto il fuoco nemico." },
-                            { title: "Capitolo 39: L'Alba di Cenere", description: "Claudio è solo, ferito, ma libero. Guarda la città che cerca di riavviarsi." },
-                            { title: "Capitolo 40: Applausi per le Catene", description: "Epilogo. L'umanità accetta il controllo ripristinato. Sara e Claudio sono separati ma spiritualmente connessi." }
+                            { title: "Capitolo 38: Le Strade Spezzate", description: "La fuga attraverso la città. Le disconnessioni letali di ABITES." },
+                            { title: "Capitolo 39: Danni Collaterali", description: "L'arrivo alla Torre. Il sacrificio di Mara." },
+                            { title: "Capitolo 40: La Base della Torre", description: "L'ingresso nella Torre. I Cani da Guardia." },
+                            { title: "Capitolo 41: Tre Minuti di Vuoto", description: "La salita in ascensore. L'arrivo al Modulatore Centrale." },
+                            { title: "Capitolo 42: L'Inserimento", description: "Lo scontro finale con i Lealisti. Il sacrificio di Daniela." },
+                            { title: "Capitolo 43: Epilogo - L'Eco nel Sangue", description: "La città si risveglia. Sara parte. ABITES sopravvive." },
+                            { title: "Indice del Volume 1", description: "L'indice completo di tutti i capitoli del primo volume." },
+                            { title: "Quarta di Copertina", description: "Testo per la quarta di copertina." },
+                            { title: "Presentazione e Ringraziamenti", description: "Informazioni sull'autore e ringraziamenti." },
+                            { title: "Copyright", description: "Informazioni sul copyright." }
                           ]
                         }
                       ]);
@@ -3090,7 +3148,7 @@ REQUISITI DI ANALISI:
                   </h3>
                   <div className="bg-blue-900/10 border-l-4 border-blue-500 p-6 rounded-r-lg">
                     <p className="text-gray-300 text-sm leading-relaxed mb-4">
-                      Il <strong>OMEGA Narrative Style</strong> è un ibrido progettato per il mercato editoriale del 2026. Combina la chiarezza narrativa e il ritmo apocalittico di <em>"Left Behind / Gli Esclusi"</em> con il realismo crudo e la complessità tecnologica della fantascienza moderna (stile <em>The Expanse</em>).
+                      Il <strong>OMEGA Narrative Style</strong> è un ibrido progettato per il mercato editoriale odierno. Combina la chiarezza narrativa e il ritmo apocalittico di <em>"Left Behind / Gli Esclusi"</em> con il realismo crudo e la complessità tecnologica della fantascienza moderna (stile <em>The Expanse</em>).
                     </p>
                     <ul className="grid grid-cols-1 md:grid-cols-2 gap-4 text-xs text-gray-400">
                       <li className="flex gap-2"><span className="text-blue-400">●</span> <span><strong>Ritmo Apocalittico:</strong> Urgenza costante, capitoli che terminano con ganci forti (cliffhanger), senso di destino ineluttabile.</span></li>

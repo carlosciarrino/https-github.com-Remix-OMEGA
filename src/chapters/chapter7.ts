@@ -1,59 +1,51 @@
-export const chapter7Content = `CAPITOLO 6: il battito nella tempesta
-PARTE I — LA CITTÀ CHE DIVORA
+export const chapter7Content = `Capitolo 7: Il Battito nella Tempesta
 Il tramonto di Roma non aveva colori.
-Una lastra grigio-arancio schiacciava i tetti come un coperchio. L'aria sapeva di bruciato e di pioggia chimica — quel retrogusto metallico che si depositava sul palato e non andava via, che Claudio sentiva ormai dentro i polmoni, un rivestimento tossico che non gli apparteneva.
-Si fermò all'angolo del vicolo. Tre secondi. Schiena al muro, mani nelle tasche, il disco di metallo che premeva contro il palmo sinistro attraverso il tessuto del cappotto fradicio.
+Una lastra grigio-arancio schiacciava i tetti. L'aria sapeva di bruciato e pioggia chimica.
+Claudio si fermò all'angolo del vicolo. Tre secondi. Schiena al muro. Mani nelle tasche. Il disco di metallo premeva contro il palmo sinistro.
 Sopra di lui, il ronzio.
-Due droni incrociavano le rotte sui tetti con quella cadenza che aveva imparato a misurare — il tempo tra un passaggio e l'altro, la velocità di rotazione delle telecamere, la latenza tra il rilevamento e la risposta. Macchine nate per i deserti del Medio Oriente, adesso sopra i sanpietrini del centro. Il campo di battaglia si era spostato. Nessuno aveva votato per farlo.
+Due droni incrociavano le rotte sui tetti. Macchine nate per i deserti del Medio Oriente. Adesso volavano sopra i sanpietrini.
 Aspettò che le luci rosse sparissero oltre il cornicione. Si mosse.
-PARTE II — VENTIQUATTRO ORE
-Scelse le strade più buie, i vicoli dove le telecamere erano più vecchie e i coni di visione si sovrapponevano meno. Lo aveva calcolato mentre Aris parlava — quella parte del cervello che continua a lavorare anche quando il resto sta assorbendo il colpo.
+Scelse le strade più buie. I vicoli dove le telecamere erano vecchie.
 Ventiquattro ore.
-Il pensiero tornava ogni tre minuti come un coltello che si gira nella stessa ferita. Le scarpe battevano sui lastroni umidi. La pioggia acida aveva lasciato quella patina chimica che corrode il cuoio in una stagione. L'acqua entrò dalla scarpa sinistra attraverso una crepa mai riparata — freddo immediato, preciso, contro il calzino. Si concentrò su quello. Un passo. Il freddo. Il disco. Il respiro.
-Avvicinandosi all'ospedale, il rumore della città cambiò. Meno droni, più voci — il brusio basso di una folla ferma che non sa dove andare. Centinaia di persone fuori dai cancelli. Famiglie sedute sul marciapiede, anziani con la testa abbassata, bambini troppo stanchi per piangere, addormentati sulle giacche dei genitori come sacchi posati sul cemento.
-Puntò all'area ambulanze. La cercò con gli occhi tra i camici bianchi.
+Le scarpe battevano sui lastroni umidi. La pioggia acida aveva corroso il cuoio. L'acqua entrò dalla scarpa sinistra. Freddo immediato contro il calzino. Si concentrò su quello. Un passo. Il freddo. Il disco. Il respiro.
+Avvicinandosi all'ospedale, il rumore cambiò. Meno droni. Più voci. Centinaia di persone fuori dai cancelli. Famiglie sedute sul marciapiede. Anziani con la testa abbassata. Bambini addormentati sulle giacche dei genitori.
+Puntò all'area ambulanze. La cercò tra i camici bianchi.
 La trovò.
-Seduta su un muretto, la schiena curva, i capelli appiccicati alla fronte. Il camice sporco, consumato, con una macchia scura all'altezza del polso destro. Le mani giunte tra le ginocchia, la testa bassa.
-— Sara.
+Seduta su un muretto. La schiena curva. I capelli appiccicati alla fronte. Il camice sporco. Una macchia scura sul polso destro. Le mani giunte tra le ginocchia.
+«Sara.»
 Lei alzò la testa.
-PARTE III — COLLISIONE
 Non ci fu un abbraccio. Ci fu un impatto.
-Sara si alzò e lui la raggiunse in tre passi e la prese per il braccio — non con violenza, con urgenza — e la portò fuori dal cono di luce del lampione, nel vicolo sul lato est dell'edificio, dove il muro di travertino era scuro e umido e non c'erano telecamere che Carlo avesse segnato sulla mappa.
+Sara si alzò. Claudio la raggiunse in tre passi. La prese per il braccio. La portò fuori dal cono di luce. Nel vicolo sul lato est. Muro di travertino scuro e umido. Nessuna telecamera.
 La premette contro la pietra.
-Il travertino era gelido. Sara emise un respiro corto al contatto — la schiena contro la superficie fredda, lui davanti a lei, i vestiti fradici di pioggia acida che cedevano il loro freddo alla sua pelle calda attraverso il camice sottile. Claudio sentì la differenza di temperatura come una cosa fisica, misurabile — il calore che saliva da lei contro il freddo che portava lui addosso dalla strada.
+Il travertino era gelido. Sara emise un respiro corto. La schiena contro la superficie fredda. I vestiti fradici di Claudio contro il suo camice.
 Sopra di loro, il ronzio di un drone.
-Si abbassarono insieme, istinto puro, le spalle al muro. Claudio aveva una mano piatta contro il travertino accanto alla sua testa, l'altra che trovò la sua vita attraverso il tessuto del camice. Lei non si mosse. Il drone passò — dieci secondi, quindici — e la luce rossa scivolò oltre il bordo del tetto e sparì.
-Il rumore della pioggia sulle grondaie tornò a riempire il vicolo.
-Sara non si era mossa. Claudio sentiva il suo respiro — corto, affannoso — che rallentava in sincronia con il suo. Le sue dita trovarono il bordo del camice. Pelle. Calda, quasi febbrile contro le sue dita ancora fredde di strada. Lei si contrasse leggermente al contatto, poi non si mosse più, e quel non muoversi era un'autorizzazione.
-L'abbassò verso di lui. O lei venne verso di lui — non fu chiaro, non fu deciso da nessuno dei due in modo separato.
-Il bacio fu tutto quello che non si erano detti in tre giorni di fuga. Esigente. Profondo. Il sapore della pioggia acida sulle labbra. Il freddo del travertino premeva sulla schiena di lei. Il calore di lei premeva contro il petto di lui. Le mani di Claudio scivolarono sotto il camice. Trovarono la pelle nuda. Le vertebre. La curva delle costole. Sara si inarcò di un millimetro — involontario, il corpo che risponde prima della mente — e le sue dita si strinsero sulla sua giacca bagnata con una forza che lasciò il segno nel tessuto.
-Si staccarono. Il respiro di lei uscì in una sola boccata.
-Claudio tenne le mani dove erano. Sentiva il suo cuore battere sotto i palmi — veloce, imperfetto, irriducibilmente vivo. L'esatto opposto di tutto quello che il sistema stava costruendo.
-PARTE IV — QUELLO CHE HA VISTO
-Sara parlò prima. La voce era piatta — non per controllo, per esaurimento.
-— Cambiano. — Staccò la schiena dal muro, si raddrizzò. — Dopo la sincronizzazione. Non subito, ma in pochi giorni. Qualcosa dentro di loro... scende. Non si spengono del tutto. È peggio. La luce non viene spenta, viene abbassata, e loro non se ne accorgono nemmeno. Sorridono ancora. Rispondono alle domande. Ma non ci sono più.
-Claudio sentì il freddo nel petto che non era il travertino.
-Le prese il viso tra le mani. Il freddo delle sue dita contro la pelle calda di lei — quella differenza che conosceva, che cercava ogni volta come un punto di riferimento fisso.
-— Devi uscire da qui. Non stanotte. Adesso.
-Lei lo fissò. Cercò qualcosa nei suoi occhi — non lo trovò o lo trovò, non importava, perché quello che disse dopo era già deciso.
-— Ho visto il codice. Viene da programmi militari. Lo hanno chiamato BESTIA — non una metafora, una firma. Se ti sincronizzano, Sara, ti perdo. Non ti perdono. Ti perdo.
-Lei respirò. Una sola volta, lenta, il petto che si sollevava e scendeva contro le sue mani.
-PARTE V — LA SCELTA
-— Dottoressa Vance, è richiesta al reparto Sincronia. Dottoressa Vance.
-La voce sintetica riempì il cortile con la pazienza di qualcosa che non si stanca mai di aspettare obbedienza. Uguale a quella di dieci minuti prima, uguale a quella di dieci minuti dopo — la stessa cadenza calibrata, lo stesso volume, la stessa totale assenza di qualsiasi cosa umana.
-Claudio vide Sara cambiare nel momento in cui la sentì.
-Non uno scatto. Un irrigidimento — le spalle che salivano di un millimetro, la mascella che si contraeva. Poi la sua mano trovò quella di lui e intrecciò le dita con una forza che fece male, e quel dolore era la risposta più chiara che avesse mai ricevuto da nessuno.
-— Portami via.
-PARTE VI — NEL BUIO TRA I DRONI
+Si abbassarono insieme. Spalle al muro. Claudio appoggiò una mano contro il travertino. L'altra trovò la vita di Sara. Lei non si mosse. Il drone passò. La luce rossa scivolò oltre il tetto e sparì.
+Il rumore della pioggia riempì il vicolo.
+Sara non si era mossa. Il suo respiro rallentò in sincronia con quello di Claudio. Le dita di lui trovarono il bordo del camice. Pelle. Calda. Lei si contrasse leggermente. Poi non si mosse più.
+L'abbassò verso di lui.
+Il bacio fu esigente. Profondo. Sapore di pioggia acida. Il freddo del travertino sulla schiena di lei. Le mani di Claudio scivolarono sotto il camice. Pelle nuda. Vertebre. La curva delle costole. Sara si inarcò di un millimetro. Le sue dita si strinsero sulla giacca bagnata di Claudio.
+Si staccarono.
+Claudio tenne le mani dove erano. Sentiva il suo cuore battere. Veloce.
+Sara parlò prima.
+«Cambiano.» Staccò la schiena dal muro. Si raddrizzò. «Dopo la sincronizzazione. Non subito. In pochi giorni. Qualcosa dentro di loro scende. Non si spengono del tutto. È peggio. La luce viene abbassata. Non se ne accorgono. Sorridono ancora. Rispondono alle domande. Ma non ci sono più.»
+Claudio sentì freddo nel petto.
+Le prese il viso tra le mani.
+«Devi uscire da qui. Non stanotte. Adesso.»
+Lei lo fissò.
+«Ho visto il codice,» disse Claudio. «Viene da programmi militari. Lo hanno chiamato BESTIA. Non è una metafora. È una firma. Se ti sincronizzano, Sara, ti perdo.»
+Lei respirò. Una sola volta. Lenta.
+«Dottoressa Vance, è richiesta al reparto Sincronia. Dottoressa Vance.»
+La voce sintetica riempì il cortile. Piatta. Calibrata.
+Claudio vide Sara irrigidirsi. Le spalle salirono di un millimetro. La mascella si contrasse. La sua mano trovò quella di Claudio. Intrecciò le dita. Strinse forte.
+«Portami via.»
 Non corsero.
-Correre era il modo più rapido per diventare un'anomalia nei log dei droni — una variazione nel pattern del movimento pedonale che i sistemi identificavano in meno di quattro secondi. Camminarono con un ritmo costante. Claudio teneva la sua mano. Lei non mollava.
-Girarono nel primo vicolo. Il rumore dell'ospedale sfumò nel gocciolio delle grondaie sui sanpietrini — quel suono antico, quasi normale, il tentativo della città di ricordare com'era prima.
-Due droni in quota, luci rosse, pattugliamento passivo. Per ora.
-Si ripararono sotto un cornicione. Schiena al muro, spalla contro spalla — il freddo del travertino da un lato, il calore di lei dall'altro. Trenta secondi. Immobili. Il respiro trattenuto finché le luci rosse non scivolarono oltre il bordo del tetto e sparirono.
-— Dove andiamo? — chiese sottovoce.
-— Sotto. Dove il sistema non arriva ancora.
+Camminarono con un ritmo costante. Claudio teneva la sua mano. Lei non mollava.
+Girarono nel primo vicolo. Il rumore dell'ospedale sfumò nel gocciolio delle grondaie.
+Due droni in quota. Luci rosse. Pattugliamento passivo.
+Si ripararono sotto un cornicione. Schiena al muro. Spalla contro spalla. Trenta secondi. Immobili. Il respiro trattenuto finché le luci rosse non sparirono.
+«Dove andiamo?» chiese sottovoce.
+«Sotto. Dove il sistema non arriva ancora.»
 Sara annuì. Niente domande.
-Claudio si staccò dalla parete e si mosse. La pioggia acida batteva sui sanpietrini con un suono quasi normale, quasi antico.
+Claudio si staccò dalla parete. Si mosse. La pioggia acida batteva sui sanpietrini.
 Nel suo petto, il cuore batteva fuori ritmo.
-Irriducibilmente fuori ritmo.
-E da qualche parte sotto di loro, nelle catacombe, Aris stava guardando un timer scorrere verso zero.`;
+Da qualche parte sotto di loro, nelle catacombe, Aris stava guardando un timer scorrere verso zero.`;
