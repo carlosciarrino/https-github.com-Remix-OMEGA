@@ -922,7 +922,7 @@ Claudio guardò la bilancia digitale al tornello. Non misurava solo il peso del 
         </motion.h1>
         <div className="flex justify-center mb-6 mt-4">
           <img 
-            src="https://picsum.photos/seed/cyberpunk-rome/800/300?blur=2" 
+            src="/cover.jpg" 
             alt="Omega Volume 1: L'Eclissi di Roma" 
             className="rounded-lg shadow-[0_0_20px_rgba(251,191,36,0.2)] border border-amber-400/30 w-full max-w-3xl h-auto object-cover"
             referrerPolicy="no-referrer"
