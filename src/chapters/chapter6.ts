@@ -2,8 +2,9 @@ export const chapter6Content = `Capitolo 6: Il Battesimo del Buio
 La Transizione. Roma.
 In superficie, Roma stava trattenendo il respiro.
 Laura era appoggiata alla ringhiera arrugginita di un balcone al decimo piano. Periferia est. Davanti a lei, la città era un tappeto di luci gialle. Rumore lontano.
+Dalla finestra aperta dell'appartamento accanto, il bagliore bluastro di un vecchio televisore a tubo catodico tagliava l'oscurità. Una voce gracchiante, distorta da un segnale pirata, predicava nel vuoto: «...e gli fu dato potere su un quarto della terra. Guardate i cieli, fratelli! Il cavallo bianco è già tra noi, e porta la corona del controllo! Non prendete il marchio, non cedete la vostra anima per un pezzo di pane...»
 Poi, il buio acustico.
-Nessun guasto normale. Nessuna scintilla. Nessuno scoppio. Le luci non tremolarono. Si spensero. Un intero quartiere sprofondò nel nero. Le macchine si fermarono. I lampioni diventarono pali inutili.
+Nessun guasto normale. Nessuna scintilla. Nessuno scoppio. Le luci non tremolarono. Si spensero. Il televisore morì a metà di una parola. Un intero quartiere sprofondò nel nero. Le macchine si fermarono. I lampioni diventarono pali inutili.
 Il freddo arrivò subito dopo.
 Non era solo la mancanza di riscaldamento. Era l'aria ferma. Laura strinse il giubbotto di pelle contro il petto.
 Poi sentì il ronzio.

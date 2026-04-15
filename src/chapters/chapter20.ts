@@ -85,6 +85,7 @@ Laura svoltò in un vicolo.
 Poi in un altro.
 La topografia di Bologna era nei suoi piedi. Claudio lo capì guardandola muoversi. Il modo in cui sceglieva le svolte senza rallentare. Senza consultare niente. Aveva studiato questa città prima di arrivarci. Forse molto prima.
 Si fermarono sotto un portico.
+Sulla colonna di mattoni rossi accanto a loro, un volantino strappato a metà sbatteva al vento. C'era scritto a pennarello: "Non temete ciò che state per soffrire. Sii fedele fino alla morte e ti darò la corona della vita. Apocalisse 2:10".
 Il respiro di entrambi era visibile nell'aria fredda. Nuvole brevi. Rapide. Si dissolvevano prima di poter essere viste da lontano.
 Laura si girò verso di lui.
 Le sue mani tornarono sul braccio destro. Questa volta più lente. Più attente. Sollevò la manica con un movimento che sapeva già quello che avrebbe trovato. La bruciatura era una striscia di dieci centimetri sul polso interno. Rossastra. I margini bianchi del danno termico. Non profonda. Abbastanza da fare male per settimane.

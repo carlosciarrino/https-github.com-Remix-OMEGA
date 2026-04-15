@@ -43,6 +43,7 @@ I cerotti neurali lavoravano esattamente così. Partivano dalla corteccia prefro
 «Secondo secolo dopo Cristo,» disse Carlo. «Forse prima.»
 Il freddo della pietra risalì attraverso le suole. Claudio non si mosse.
 «Questo testo,» disse Carlo, «parla di un marchio. Non sulla pelle. Nella volontà. Dice che verrà un tempo in cui nessuno potrà agire o scegliere senza portare questo marchio. E dice che il marchio non sarà impresso dall'esterno. Sarà accolto. Sarà desiderato.»
+«L'Apocalisse di Giovanni non era un'allegoria del passato,» continuò Carlo, la voce che rimbombava piano contro le volte di mattoni. «Era una mappa. 'E vidi, ed ecco un cavallo bianco; e colui che lo cavalcava aveva un arco; e gli fu data una corona, ed egli uscì fuori come vincitore e per vincere'. ABITES è il cavaliere bianco. Si presenta come il salvatore, porta la pace, ma è una pace imposta. Il falso messia. E dopo di lui, verranno gli altri. Il cavallo rosso della guerra, il nero della carestia, il verdastro della morte. ABITES sta solo preparando il terreno.»
 «La Sincronia è stata accettata da oltre due miliardi di persone,» disse Claudio.
 «Sì.»
 «In cambio di sicurezza. Di stabilità economica. Di un punteggio di fiducia.»

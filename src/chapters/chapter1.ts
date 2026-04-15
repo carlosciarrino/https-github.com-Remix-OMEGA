@@ -3,7 +3,8 @@ L'odore arrivò prima del resto.
 Pioggia sui sanpietrini. Terra bagnata. Pietra antica. Poi il vento girò. L'aria si riempì di cavi bruciati e plastica fusa. Un retrogusto metallico. Claudio deglutì. L'aspro in fondo alla gola era familiare.
 Si strinse nel bavero del cappotto. Si accodò alla fila sotto i portici.
 Facce grigie. Cielo grigio. Giubbotti rattoppati con nastro isolante. Scarpe avvolte in sacchetti di plastica. Mani affondate nelle tasche.
-Claudio iniziò a contare le persone. Si fermò quasi subito.
+Appoggiato a una colonna scrostata, un vecchio stringeva un pezzo di cartone. Le lettere erano tracciate con vernice nera, sbavate dalla pioggia: "E vidi, ed ecco un cavallo bianco; e colui che lo cavalcava aveva un arco; e gli fu data una corona". Il vecchio non chiedeva l'elemosina. Fissava il cielo e mormorava parole che si perdevano nel rumore della pioggia. «Il falso messia... il marchio... non prendete il marchio...»
+Claudio distolse lo sguardo. Iniziò a contare le persone. Si fermò quasi subito.
 Tre file avanti, un bambino scivolò verso una saracinesca abbassata. La madre lo afferrò per il braccio. Lo tirò a sé. Non staccò gli occhi dal tornello. Il bambino rimase in silenzio. Stretto alla gamba della madre.
 Claudio guardò le scarpe dell'uomo davanti a lui. La pozza intorno ai talloni aveva una lucentezza iridescente. Residuo da ottimizzazione energetica. La roba che bruciava.
 Pensò a Sara. Lo faceva sempre in fila. Lei era tra le montagne. Lì l'aria sapeva di pino e freddo pulito. Nessun retrogusto. Glielo aveva detto in un messaggio vocale. Claudio lo aveva ascoltato cento volte. Lo teneva nel telefono. Il suo nord.

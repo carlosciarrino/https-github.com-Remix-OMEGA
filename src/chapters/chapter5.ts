@@ -6,6 +6,7 @@ Spense la torcia. Si schiacciò contro la parete calcarea. Contò tre secondi. I
 Inspirò. Aria fredda. Umida. Odore di terriccio e ossa antiche. Sotto a tutto questo, l'odore dei cavi bruciati. Plastica calda.
 Nessuna ventilazione. Solo la cripta. Il buio.
 Riaccese la torcia. Andò avanti.
+Il fascio di luce spazzò la parete di tufo. Qualcuno aveva tracciato delle lettere con una bomboletta rossa, sbiadite dall'umidità: "Qui c'è la sapienza. Chi ha intelligenza calcoli il numero della bestia". Sotto, una freccia puntava verso il buio.
 Il cavo era il suo filo. Fibra ottica nera. Posata lungo il bordo inferiore della parete. Claudio lo seguì senza toccarlo. Torcia bassa. Oltrepassò un arco antico. Scese tre gradini. Un'anticamera funeraria. Il pavimento originale era sparito. Pannelli metallici neri lo sostituivano.
 Qualcuno aveva lavorato qui per mesi.
 L'anticamera si apriva in uno spazio più grande. Tre metri per cinque. Pareti coperte da pannelli fonoassorbenti. Sei armadi metallici in due file parallele. Hard disk lampeggianti. Il calore era palpabile.
