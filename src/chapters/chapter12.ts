@@ -1,79 +1,104 @@
 export const chapter12Content = `Capitolo 12: La Fuga di Mezzanotte
-Il sapore del sangue arrivò al terzo chilometro.
-Claudio lo sentì sulla lingua. Metallico. Sottile. Il tipo che viene dai polmoni quando li spingi oltre il limite. Deglutì e continuò a correre.
-Il tunnel era stretto. Curvo. Buio in modo assoluto. Aveva la torcia frontale. Trenta lumen. Il fascio illuminava tre metri di binari arrugginiti. Traversine marce. Acqua nera ferma tra le rotaie. Ogni volta che il piede ci finiva dentro, il suono era piatto e definitivo.
-La Linea B aveva smesso di funzionare in quella tratta nel 2021. Prima della Sincronia. Un cedimento strutturale vicino alla stazione Laurentina. ABITES aveva sigillato gli accessi in superficie. Aveva installato sensori perimetrali. Poi aveva smesso di pensarci. Sotto la soglia di rilevanza operativa.
-Claudio lo sapeva. Aveva scritto lui i parametri di quella soglia.
-Girò a sinistra in un raccordo cieco. Poi a destra lungo una galleria più bassa. Piegò la testa per non prendere le travi di sostegno. Le spalle bruciavano. Il drive nella tasca interna batteva contro le costole ad ogni passo.
-Poi sentì i passi.
-Non erano passi normali. Troppo regolari. Troppo pesanti. Perfettamente distanziati. Ogni appoggio identico al precedente. Senza la minima variazione umana. Passi di qualcosa che aveva ottimizzato la locomozione.
-Claudio accelerò.
-L'acqua schizzava. Il fiato usciva a strattoni. Sentiva la coscia sinistra. Un vecchio strappo mai guarito del tutto. Cominciava a cedere.
-I passi dietro di lui non accelerarono. Mantennero lo stesso ritmo.
-La stazione fantasma si aprì davanti a lui senza preavviso.
-Il tunnel finiva in una banchina larga. Piastrelle bianche e blu della vecchia livrea ATAC. Alcune scrostate. Il nome della stazione in caratteri anni Settanta. Claudio non lo lesse. Vide la banchina. Vide le due rampe di scale alle estremità. Entrambe murate con blocchi di cemento armato e barre metalliche.
+
+Il sapore del sangue arrivò al terzo chilometro di corsa ininterrotta.
+Claudio lo sentì depositarsi sulla lingua: metallico, sottile, il tipo di sapore che sale direttamente dai polmoni quando li spingi oltre ogni limite fisiologico. Deglutì a fatica, cercando di ricacciare indietro il bruciore, e continuò a correre.
+Il tunnel davanti a lui era stretto, curvo e immerso in un buio assoluto. L'unica salvezza era la debole torcia frontale da trenta lumen, che riusciva a illuminare appena tre metri di binari arrugginiti e traversine marce. L'acqua nera ristagnava in pozzanghere insidiose tra le rotaie; ogni volta che il suo anfibio ci finiva dentro, il suono dello schizzo rimbalzava sulle pareti in modo piatto e definitivo, tradendo la sua posizione.
+La Linea B della metropolitana di Roma aveva smesso di funzionare in quella specifica tratta nel 2021, ben prima dell'avvento della Sincronia, a causa di un cedimento strutturale vicino alla stazione Laurentina. ABITES si era limitata a sigillare gli accessi in superficie e a installare una rete di sensori perimetrali, per poi smettere di pensarci. Il flusso di dati di quel settore era considerato sotto la soglia di rilevanza operativa.
+Claudio lo sapeva bene. Era stato lui stesso a scrivere l'algoritmo che definiva i parametri di quella soglia.
+
+Girò bruscamente a sinistra infilandosi in un raccordo cieco, poi scartò a destra lungo una galleria più bassa e angusta. Dovette piegare la testa per non schiantarsi contro le travi di sostegno in cemento. I muscoli delle spalle gli bruciavano per lo sforzo prolungato, e il drive metallico nascosto nella tasca interna gli batteva dolorosamente contro le costole a ogni falcata.
+Poi, lo sentì.
+Sentì i passi alle sue spalle.
+Non erano passi umani. Erano spaventosamente regolari. Pesanti. Perfettamente ritmati e distanziati, ogni appoggio sul terreno era la copia esatta del precedente. Mancava la minima variazione organica, il minimo errore di calcolo. Erano i passi di qualcosa che aveva eliminato il fattore di esaurimento e ottimizzato la locomozione predatrice.
+Claudio forzò le gambe ad accelerare, ignorando l'acido lattico.
+
+L'acqua schizzava ovunque, infradiciandogli i pantaloni. Il fiato gli usciva dalla gola a strattoni dolorosi. Sentiva la coscia sinistra tirare in modo preoccupante: era un vecchio strappo muscolare mai guarito del tutto, che ora cominciava a presentare il conto.
+I passi dietro di lui non accelerarono. Non ne avevano bisogno. Mantennero la loro cadenza inesorabile, accorciando la distanza con una pazienza matematica.
+La stazione fantasma si aprì davanti a lui senza alcun preavviso verbale.
+Il tunnel finiva improvvisamente in una banchina larga e desolata, ricoperta dalle vecchie piastrelle bianche e blu della livrea ATAC, molte delle quali scrostate e cadute a terra. Il nome della stazione era scritto in sbiaditi caratteri anni Settanta, ma Claudio non si fermò a leggerlo. Vide la banchina, vide le due rassicuranti rampe di scale alle estremità... e sentì il gelo ghermirgli lo stomaco. Entrambe le uscite erano state barbaramente murate con possenti blocchi di cemento armato e spesse barre metalliche incrociate.
 Vicolo cieco.
-Si fermò al centro della banchina. Il respiro era un rumore che riempiva lo spazio. Rimbalzava sulle piastrelle. Girò su se stesso. Cercò un'alternativa. Un condotto. Una porta di servizio.
-I passi arrivarono all'imbocco del tunnel.
-Cyrus era alto un metro e novanta. L'armatura tattica lo faceva sembrare più largo. Piastre di polimero rinforzato sulle superfici esposte. Giunture flessibili in kevlar trattato. Visore integrato nel casco. Nessuna insegna. Nessun numero. Solo la superficie nera opaca che assorbiva la luce della torcia di Claudio.
-Si fermò all'ingresso della banchina.
-Non ansimava.
-«Claudio Ferretti,» disse. La voce usciva da un diffusore nel petto dell'armatura. Piatta. Priva di risonanza. «Drive Mythos-7. Estrazione non autorizzata. Codice di reato: sette-uno-quattro. Rimetti il drive sul pavimento e inginocchiati.»
-Claudio non si mosse.
-La coscia sinistra pulsava. Aveva le mani aperte lungo i fianchi.
-«Non c'è un'uscita alternativa in questa stazione,» disse Cyrus. «L'ho verificato prima di entrare nel tunnel. Hai corso tre virgola due chilometri in quattordici minuti. Il tuo ritmo cardiaco attuale è stimato a centosette battiti al minuto. Sei al limite della tua capacità operativa.»
-Claudio guardò il visore. Dentro il vetro scuro non c'era niente da vedere.
-«La resistenza prolunga il tempo necessario,» disse Cyrus. «Non cambia il risultato.»
-Fece un passo avanti.
-Il suono fu minimo.
-Un fruscio. Tessuto contro cemento. Durò un decimo di secondo. Claudio lo sentì venire dall'alto. Dalla volta della banchina. Da qualcosa che era rimasto immobile nel buio sopra le travi di sostegno.
-Laura cadde su Cyrus dall'alto con tutto il peso del corpo.
-Non gridò. Non disse niente. Atterrò sulle spalle dell'armatura con i piedi. Usò la massa dell'impatto per portarlo giù di mezzo metro. Scese lungo il fianco sinistro. La mano destra teneva qualcosa. Claudio vide il lampo bianco del coltello in ceramica. Un oggetto opaco. Invisibile al visore termico.
-Cyrus reagì in meno di un secondo. Girò il busto. Alzò il braccio sinistro per intercettare.
-Laura era già sotto il braccio.
-Il coltello trovò il giunto tra la piastra del fianco e quella della coscia. Un centimetro e mezzo di kevlar trattato. Entrò di traverso. Incontrò il fascio di cavi che portava il segnale dai sensori di pressione all'unità di controllo del movimento. Bastò il cavo di feedback destro.
-Cyrus si bloccò.
-Non cadde. Rimase in piedi. Il fianco sinistro smise di rispondere ai comandi. La gamba rimase ferma. Il braccio si irrigidì. Il visore lampeggiò tre volte. Luce rossa attraverso il vetro scuro. Cyrus iniziò la procedura di ricalibrazione manuale.
-«Muoviti,» disse Laura.
-Aveva già rimesso il coltello nella guaina alla coscia. Passò davanti a Claudio. Prese il raccordo che lui non aveva visto. Un'apertura bassa sul lato sinistro della banchina. Nascosta dall'ombra di una vecchia colonnina metallica.
-Il condotto era largo ottanta centimetri.
-Laura ci entrò di traverso. Si raddrizzò dall'altra parte. Claudio la seguì. Abbassò la testa. Spinse le spalle dentro. Sentì le pareti premere su entrambi i lati. La torcia andò a sbattere contro il cemento e si spense.
-Buio totale.
-Una mano lo afferrò per il polso.
-La presa era secca. Decisa. Le dita trovarono l'osso. Lo tirò avanti. Claudio avanzò a tastoni. I piedi cercavano appoggio sul pavimento senza vederlo. Le spalle sfioravano le pareti ad ogni passo.
-Il condotto si allargò. Claudio perse l'equilibrio.
-Non cadde. Laura lo prese. Un braccio trovò la sua spalla. L'altro finì contro il suo petto. Stettero così nel buio assoluto. I petti a contatto. Il respiro di lei caldo e vicino. Il suo cuore batteva attraverso gli strati di tessuto.
-Sudore e polvere e cuoio.
-Laura non si scostò subito.
-Neanche lui.
-Un secondo. Forse due. Poi lei riprese la presa al polso. Ricominciò a muoversi.
-«Respira dal naso,» disse sottovoce. «Il condotto porta a una camera di ventilazione. Da lì si esce.»
-Claudio seguì la sua mano nel buio.
-Il pavimento saliva. L'aria cambiò. Meno ozono. Più terra. Più notte. Odore di esterno. Claudio sentiva la coscia sinistra ad ogni passo. Il dolore era continuo.
-Laura si fermò.
-Lasciò andare il suo polso. Sentì le sue mani sul muro davanti a loro. Il suono delle dita che cercavano un bordo. Un click metallico. Una serratura che cedeva.
+
+Claudio si bloccò al centro esatto della banchina. Il suo respiro affannato era l'unico rumore che riempiva quello spazio morto, rimbalzando sulle piastrelle con un'eco angosciante. Girò su se stesso, spazzando pareti e soffitto con il debole fascio della torcia. Cercò disperatamente un condotto di aerazione, una botola, una porta di servizio dimenticata. Nulla.
+I passi meccanici arrivarono all'imbocco del tunnel e si fermarono.
+Cyrus era alto quasi due metri, ma l'armatura tattica sperimentale che indossava lo faceva sembrare un colosso inarrestabile. Piastre di polimero rinforzato proteggevano ogni superficie esposta, raccordate da giunture flessibili in kevlar trattato. La testa era incassata in un elmetto liscio con un visore oscurato integrato. Non portava insegne militari, né numeri di matricola. Era solo una superficie nera, opaca e letale, che sembrava assorbire e annullare la misera luce della torcia di Claudio.
+L'Agente Speciale si fermò sulla soglia della banchina.
+Non ansimava. Il suo petto era immobile.
+«Claudio Ferretti,» disse la creatura. La voce non usciva dalla bocca, ma da un diffusore acustico incassato nel torace dell'armatura. Era una voce sintetica, piatta, totalmente priva di risonanza umana o incertezza. «Drive Mythos-7. Tracciata estrazione non autorizzata. Codice di reato: sette-uno-quattro. Deposita immediatamente l'unità fisica sul pavimento e metti le mani dietro la testa.»
+
+Claudio non si mosse di un millimetro.
+La coscia sinistra pulsava di dolore al ritmo accelerato del battito cardiaco. Teneva le mani aperte e visibili lungo i fianchi, cercando di non mostrare il tremore.
+«La scansione architettonica conferma l'assenza di vie di fuga da questo settore,» continuò Cyrus, con una pacatezza agghiacciante. «Hai mantenuto un'andatura di tre virgola due chilometri in quattordici minuti. Il tuo rilevamento biometrico stima un ritmo cardiaco di centosette battiti al minuto, con tendenza all'apnea sotto stress. Sei al limite del collasso muscolare.»
+Claudio fissò il visore opaco di Cyrus. Oltre quel vetro antiproiettile, non c'era nessun volto a cui potersi appellare. Niente a cui chiedere pietà.
+«Prolungare la resistenza aumenta il dispendio calorico in modo irrazionale,» sentenziò Cyrus. «Non altera in alcun modo l'esito della missione.»
+E fece un singolo, metodico passo avanti.
+
+Il rumore che seguì fu quasi inavvertibile, persino per i sensori potenziati dell'armatura.
+Un fruscio minimo. Tessuto sintetico che sfrega contro il cemento scrostato. Durò forse un decimo di secondo, ma Claudio lo sentì chiaramente precipitare dall'alto. Veniva dalla volta buia della banchina, da qualcosa che fino a quel momento era rimasto acquattato e immobile nel nero tra le vecchie travi di sostegno d'acciaio.
+Laura si lasciò cadere addosso a Cyrus, usando l'intero peso del proprio corpo come un proiettile.
+Non emise alcun suono di guerra, nessun grido di concentrazione. Atterrò chirurgicamente con gli scarponi militari direttamente sulle larghe spalle blindate di Cyrus, piegando le ginocchia per usare l'energia cinetica dell'impatto e schiacciarlo verso il suolo. Scivolò fluida lungo il suo fianco sinistro come un'ombra scollata dal muro. La sua mano destra teneva un oggetto opaco e letale: Claudio fece appena in tempo a registrare il lampo bianco di un coltello in ceramica avanzata, invisibile ai rilevatori magnetici e termici del visore di ABITES.
+
+Cyrus era un ibrido ad alte prestazioni e reagì in meno di un secondo. Fece perno sul busto e sollevò il possente braccio sinistro per intercettare l'attacco.
+Ma Laura era più veloce. Era già infilata sotto la guardia meccanica.
+La lama di ceramica trovò con spaventosa precisione l'unica debolezza dell'armatura: il giunto flessibile tra la dura piastra del fianco e la corazzatura della coscia, spesso appena un centimetro e mezzo di kevlar trattato. Il coltello affondò di netto, entrando di traverso e tranciando il minuscolo ma vitale fascio di cavi ottici che trasmetteva il segnale di feedback dai sensori di pressione locali all'unità di controllo motoria centrale. Un taglio pulito.
+Cyrus si bloccò a metà movimento infantile, come un giocattolo a cui avevano staccato brutalmente la batteria.
+
+Non cadde rovinosamente a terra, rimase piantato sulle gambe divaricate in una postura innaturale. Il suo fianco sinistro aveva semplicemente smesso di dialogare con il ponte di comando. La gamba corazzata rimase inerte, pietrificata al suolo, mentre il braccio opposto si irrigidì in uno spasmo involontario. Il visore oscurato dell'elmetto lampeggiò per tre volte in rapida successione, proiettando una debole luce rossa d'emergenza attraverso il vetro. Era la sequenza di ricalibrazione forzata del sistema manuale.
+«Muoviti. Ora.» sussurrò Laura, atterrando fluidamente.
+Aveva già rinfoderato impercettibilmente il coltello nella guaina tattica legata alla coscia. Sgattaiolò davanti a Claudio, evitandolo a malapena, e puntò senza incertezze verso un anfratto che lui, nel panico, non aveva rilevato: un vecchio raccordo di manutenzione, un'apertura rettangolare stretta e bassa lungo il muro sinistro della banchina, perfettamente mimetizzata dall'ombra spessa di una colonnina portante in ferro battuto.
+
+Il buco era claustrofobico, non più largo di ottanta centimetri.
+Laura ci si infilò angolandosi di lato, strisciando ventre a terra, per poi raddrizzarsi a fatica dall'altra parte. Claudio, spronato dall'urgenza, la seguì alla cieca. Abbassò la testa fino a toccare il petto e spinse le spalle strette dentro l'apertura. Sentì il cemento grezzo e umido raschiargli la stoffa della giacca da entrambi i lati, soffocandolo. Nel passare, l'orlo della sua torcia frontale urtò malamente contro lo spigolo vivo della parete; la lente scricchiolò e la debole luce si spense del tutto.
+Il buio tornò a essere assoluto. Tangibile.
+
+Una mano lo afferrò all'improvviso per il polso.
+La presa era ferma, secca, autoritaria. Le dita sottili ma fortissime di Laura premettero sull'osso dell'avambraccio, tirandolo con forza in avanti. Claudio obbedì, avanzando a tastoni. I suoi piedi cercavano disperatamente l'appoggio su un pavimento irregolare che non potevano vedere, inciampando in detriti invischiati, mentre le sue spalle continuavano ad abrasirsi leggermente contro le strette pareti a ogni movimento.
+Il condotto doveva finire, pensò. E improvvisamente il pavimento si abbassò e la parete sparì.
+Claudio mise un piede nel vuoto e perse del tutto l'equilibrio.
+
+Non fece in tempo a percepire la caduta. Laura, con riflessi felini, intervenne immediatamente.
+Un braccio robusto lo cinse saldamente dietro la spalla, bloccando la torsione innaturale del busto, mentre l'altra mano di lei finì aperta e piatta contro il suo petto, sostenendo e bilanciando l'intero suo peso all'indietro per impedirgli di ruzzolare chissà dove.
+Si ritrovarono a sorreggersi a vicenda, nel buio più assoluto. Claudio ansimava di colpo, scombussolato. Per un istante rimasero letteralmente immobili, i petti a stretto contatto. In quella frazione di eternità silenziosa, Claudio sentì la vita pulsare: il respiro di Laura era vicinissimo, caldo e ritmato contro il suo viso, un effluvio inebriante che sapeva inaspettatamente di buio, audacia e terra fresca. Attraverso gli strati ruvidi delle rispettive giacche tattiche, poteva percepire il battito del cuore di lei. Non era una macchina, non era un algorimento. Era un essere umano reale, vibrante e spaventosamente concentrato, un solido nucleo di calore nell'abisso glaciale di cemento.
+Era un barlume di vera e disarmante connessione, un faro in mezzo alle ombre robotiche di ABITES.
+
+Laura non ritrasse le mani istantaneamente.
+Mantennero l'abbraccio involontario, quasi come se cercassero entrambi conferma nell'altro per radicarsi al momento presente. Un secondo denso di significato. Forse due. Claudio trattenne involontariamente il fiato, assorbendo il coraggio che lei irradiava.
+Poi, con delicata efficienza, Laura fece scivolare la mano dal petto e riprese saldamente la presa al polso. Ricominciò a guidarlo verso l'ignoto.
+«Respira lentamente dal naso per non farti sentire,» sussurrò lei nel buio, una carezza ruvida all'orecchio. «Il condotto porta dritto a una delle vecchie camere di ventilazione superiori. E lì, c'è l'aria aperta.»
+
+Claudio si affidò unicamente a quella mano nel buio.
+Il pavimento sotto i piedi cominciava ora a inerpicarsi in leggera salita. L'aria, prima satura di polvere inerte e ozono stantio, cambiava consistenza a ogni gradino invisibile: sempre meno sentore di macchina, sempre più odore vivo di terra bagnata e notte romana profonda. Il muscolo lacerato della coscia sinistra di Claudio gli inviava fitte pungenti a ogni affondo, ma lui strinse forte i denti. Manca poco.
+Laura si arrestò di colpo.
+Lasciò andare il suo polso sudato. Claudio sentì i palmi di lei esplorare nervosamente il muro liscio di fronte a loro: il suono leggero dei polpastrelli che scansionavano la superficie cieca in cerca di una sporgenza. Trovato. Un click meccanico scattò nel silenzio come uno sparo. Una serratura si era sbloccata mollemente sotto pressione. Un cigolio di ruggine antica accompagnò l'apertura.
+
 Luce.
-Non molta. La luce grigia e diffusa di Roma di notte. Lampioni lontani. Claudio chiuse gli occhi un secondo. Li riaprì lentamente.
-Erano in un cortile stretto tra due palazzi. Vicino a un cassonetto industriale e a una recinzione metallica arrugginita. Sopra di loro, il cielo notturno.
-Laura rimase accanto all'apertura del condotto. La schiena al muro. In ascolto. Aveva i capelli scuri appiccicati alla fronte. Una graffiatura sul collo, sopra la clavicola. Recente. Rossa. Guardava il cortile.
-Poi lo guardò.
-Un secondo soltanto. Diretto.
+Non era il sole spietato di Roma in agosto, ma la rassicurante e diffusa luce grigiastra e malata di una nottata nuvolosa di metropoli. I riverberi lontani dei lampioni al sodio della circonvallazione vicina. Claudio strizzò convulsamente gli occhi per un secondo, accecato persino da quel chiarore sbiadito, poi li riaprì lentamente per adattarsi.
+Si ritrovarono sbucati all'interno di un microscopico cortiletto d'aria murato tra i fianchi ciechi di due palazzoni. Erano rannicchiati vicino a un lurido cassonetto dell'immondizia industriale scoperchiato, a ridosso di un'alta ringhiera metallica sfregiata dalla ruggine. Ma alzando gli occhi, sopra lo squallore, c'era l'immenso e libero cielo stellato notturno.
+
+Laura rimase acquattata accanto allo sfiato quadrato del condotto da cui erano fuggiti, tenendo le spalle piatte e invisibili contro il muro in penombra. Sembrava una fiera in ascolto. Aveva ciocche indomabili di capelli corvini madide di sudore e attaccate senza forma alla fronte. Un lieve rigonfiamento rosso decorava la pelle pallida del collo, appena sopra l'elegante linea della clavicola: una graffiatura freschissima e pulsante del combattimento. Controllava tutto il perimetro visibile del cortile.
+Poi, si voltò a guardalo.
+Uno sguardo che durò esattamente un secondo soltanto. Diretto, esigente e senza compromessi.
 «Il drive?»
-Claudio portò una mano alla tasca interna. Il peso metallico era ancora lì. Immobile. Intatto.
-«Ce l'ho.»
-Laura annuì. Si stava già muovendo verso la recinzione. Valutava la via più rapida verso il perimetro del cortile.
-Claudio rimase fermo un altro secondo.
-Sentiva ancora la pressione delle sue dita sul polso. Il calore residuo che si dissipava lentamente nell'aria notturna.
-«Claudio.»
+
+Claudio portò d'istinto la mano tremante alla patta della giacca. Il pacchetto metallico rettangolare che custodiva con la vita c'era ancora; freddo, imperterrito e intatto al suo posto.
+«Ce l'ho. È qua.»
+Laura si concesse un sobrio cenno del capo. Senza troppi convenevoli, il corpo scattante era già proiettato in avanti verso il lato meno esposto della cancellata, lottando per tracciare la via di sgombero più rapida e meno indiziaria vero la strada maestra illuminata, dove avrebbero fatto perdere le proprie tracce tra i superstiti ignari della notte capitolina.
+Ma Claudio, esaurito dall'azione brutale, indugiò per qualche irrazionale e preziosissimo istante supplementare.
+Nella notte romana e frizzante, la sua pelle sentiva ancora palpabile e ustionante l'ombra del tocco risoluto di quelle mani sul polso. Assaporava il tenue calore residuo della compagna che ora fioriva nell'oscurità mentre iniziava, finalmente e liberamente, un nuovo capitolo dell'indagine.
+
+«Claudio. Non addormentarti in piedi.» la sua voce arrivò dall'oscurità come un ammonimento amichevole.
 Si mosse.
-La seguì lungo la recinzione verso un varco aperto sul viale. I passi veloci sul selciato bagnato. Il drive premeva contro le costole. La coscia sinistra bruciava ad ogni appoggio. Sopra di loro, lontano, il ronzio di due droni.
-Avevano forse quattro minuti prima che il pattern coprisse quella zona.
-Laura girò a destra senza esitare. Prese il marciapiede. Mantenne un passo veloce. Il passo di due persone che tornano a casa tardi. Claudio la affiancò. Le loro spalle si sfiorarono una volta. Due.
-Lei non si scostò.
-Lui neanche.
-Il ronzio dei droni rimase a nord. Virò lentamente verso est. Seguiva un'anomalia termica.
-Roma si stendeva intorno a loro. Palazzi bui. Lampioni gialli. Il Tevere da qualche parte a destra. Una città che dormiva sotto la Sincronia. I cerotti neurali al lavoro. Il Volition Engine che processava e ricalibrava.
-Il drive aveva quello che serviva per fermarlo.
-Mancava ancora la Radice.
-Mancava ancora un terminale.
-Laura girò in un vicolo stretto. Aprì una porta a vetri con un codice meccanico a rotelle. Scomparve dentro. Claudio la seguì. La porta si richiuse dietro di lui con un click sordo. Il rumore della città sparì.`;
+
+Riacquistando destrezza, la imitò con passo veloce verso uno squarcio strategico scovato in fondo al corridoio arrugginito della cancellata, fino a balzare sul marciapiede aperto del viale bagnato dalla pioviggine cittadina.  L'affilato Drive batteva ad ogni contatto tra giacca tattica e fianco, rassicurando e ammonendo contemporaneamente. Il bruciore alla gamba sembrava adesso uno spillo da nulla confronto all'urgenza e l'adrenalina rinnovate. Sopra la volta irraggiungibile tra i palazzi si intercettava un ronzio asettico che sfrecciava disperato verso altre longitudini periferiche romane; droni spia ad ala fissa con occhio rosso scuro in perlustrazione vana.
+Secondo la tabella temporale e tattica che l'esperto ingegnere aveva stampato nei gangli nervosi, possedevano tra i quattro e i  cinque minuti di tregua netti prima che il ridisegno ricorsivo della mappa ABITES includesse l'epicentro della loro fuga.
+Laura girò a colpo sicuro l'angolo alla prima destra, percorrendo agilmente la distesa asfaltata pedonale sotto tigli maestosi bagnati. Sapeva camminare con il piglio indifferente e leggero tipico dei normalissimi cittadini tiratardi che tornano verso casa nei feriali. Affiancandola per completare l'illusoria sceneggiata e mimetizzarsi con destrezza fra ipotetiche e sporadiche macchine lontane, le loro due sagome correvano l'una vicinissima all'altra, colmando quasi fisicamente un gap creato dall'individualismo indotto per lunghi mesi.  Un gomito sfiorò accidentalmente il braccio della ragazza. Poi una seconda volta ravvicinatissima sulla piegatura dello stradone verso rioni storici che Claudio faticava persino a tracciare.
+Questa volta, lei non retrocesse sgarbatamente.
+E lui decise di indugiare in quella prossimità.
+
+Le comunicazioni tattico-operative di controllo di rete dei droni intercettate continuarono ronzando per tutto il nord ed il nord-est senza allarme specifico per un inseguimento pedonale urbano localizzato; al contrario parevano convergere  in cerca della folle sagoma in assorbimento termico rilevata nella fittizia anomalia lasciata da Claudio appositamente verso i quadrati d'espansione ad est.
+E di fronte l'antica Capitale  romana si rivelava, addormentandosi finta ed innocente lungo il letto limaccioso cittadino alla loro destra sotto il controllo di una dittatura subdola celata da Sincronia: la città giaceva serena ed incosciente, governata dal suo diabolico capolavoro, il Volition engine. Quell'implacabile mente generava ed eliminava in sincroni  le infinite alternative al potere costituendosi legislatore finale di destini e opinioni.
+Ma adesso lui era di nuovo padrone di qualcosa che l'algoritmo non possedeva: i mezzi reali con incalcolabile pericolosità capaci di rovesciarlo e di estirparlo tramite un blocco dati nascosto a cuore battente sopra ai suoi polmoni in un semplice ma decisivo Drive.
+Tuttavia il piano disperato mancava ancora del fatale punto esecutivo d’accesso: il segreto collegamento senza filtrature ai livelli della “Radice.”
+
+Nessun computer locale comune avrebbe servito. Solo una console sicura. L'ultimo e nascosto accesso di un ingegnere caduto volontariamente in  disgrazia.
+Un buio scantinato.
+Laura aveva appena oltrepassato il vicolo successivo scomparendo in una traversa laterale invisibile di palazzi color rosso pompeiano scrostati. Si inerpicò veloce su qualche scala a chiocciola scartando serrature logore in silenzio felino; scomparve per sempre negli ombre di quella roccaforte protetta ed inespugnata in pochi attimi mentre Claudio la pedinava. Infine lei oltrepassò una porta blindata senza nessun sistema biometrico, un vecchio reperto antiquario ad altissima protezione garantita da complicate rotelle rotanti anti scasso. Il tempo che impiegò Claudio ad addentravi, tutto  fu racchiuso dal suono greve dal pesante tonfo della porta rimessa in sigillatura ermetica definitiva sui loro percorsi clandestini, spegnendo il rumore di Roma in agonia insieme  allo sferragliamento metallico finale dei paladini di ABITES.`;
