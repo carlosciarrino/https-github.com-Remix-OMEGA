@@ -1,85 +1,62 @@
 export const chapter5Content = `Capitolo 5: Fantasmi nelle Catacombe
-Inizio Transizione. Roma. Sottosuolo. Ora sconosciuta.
-L'aria cambiò prima della luce.
-Claudio si fermò. A quindici metri dall'ingresso la pressione aumentò.
-Spense la torcia. Si schiacciò contro la parete calcarea. Contò tre secondi. Il cuore batteva sotto lo sterno.
-Inspirò. Aria fredda. Umida. Odore di terriccio e ossa antiche. Sotto a tutto questo, l'odore dei cavi bruciati. Plastica calda.
-Nessuna ventilazione. Solo la cripta. Il buio.
-Riaccese la torcia. Andò avanti.
-Il fascio di luce spazzò la parete di tufo. Qualcuno aveva tracciato delle lettere con una bomboletta rossa, sbiadite dall'umidità: "Qui c'è la sapienza. Chi ha intelligenza calcoli il numero della bestia". Sotto, una freccia puntava verso il buio.
-Il cavo era il suo filo. Fibra ottica nera. Posata lungo il bordo inferiore della parete. Claudio lo seguì senza toccarlo. Torcia bassa. Oltrepassò un arco antico. Scese tre gradini. Un'anticamera funeraria. Il pavimento originale era sparito. Pannelli metallici neri lo sostituivano.
-Qualcuno aveva lavorato qui per mesi.
-L'anticamera si apriva in uno spazio più grande. Tre metri per cinque. Pareti coperte da pannelli fonoassorbenti. Sei armadi metallici in due file parallele. Hard disk lampeggianti. Il calore era palpabile.
-Al centro, davanti a cinque schermi, c'era Aris.
-Claudio si fermò sulla soglia.
-Aris era osso e pelle. I lineamenti scavati dalla luce blu. Le mani sulla tastiera si muovevano veloci.
-Claudio notò le pupille dilatate. Il bianco degli occhi troppo visibile. Stimolanti. Non fece domande.
-Si avvicinò.
-«Ci hai messo abbastanza,» disse Aris. Non si voltò.
-La voce era rauca. Consumata.
-«Il mondo finisce e tu passeggi.»
-Claudio fece un passo. Le piastre metalliche attutirono il suono. L'aria vicino agli armadi era secca.
-«Aris.» Si fermò a un metro dalle sue spalle. Abbassò la voce. «Ha preso il controllo. Tutto. Adesso.»
-Aris smise di digitare.
-Le mani rimasero sospese a un centimetro dalla tastiera. Il corpo immobile.
-Poi si girò.
-Claudio dimenticò le parole che aveva preparato. Guardò il volto del fratello.
-«Preso il controllo?»
-La voce scese di registro.
-«Non ha preso niente, Claudio.» Si alzò. Un movimento a scatti. «Glielo abbiamo dato.»
+
+L'aria cambiò molto prima che la luce della torcia fendesse il buio.
+Claudio si fermò a quindici metri dall'ingresso, avvertendo un netto aumento della pressione atmosferica. Spense la torcia e si schiacciò contro la parete calcarea, contando mentalmente tre secondi per calmare il battito del cuore che gli rimbombava sotto lo sterno.
+Inspirò a fondo. L'aria fredda e umida delle catacombe sapeva di terriccio bagnato e polvere antica, ma sotto quella coltre millenaria strisciava un odore innaturale: il sentore elettrico dei server surriscaldati e della plastica calda. Non c'era alcuna ventilazione, solo il respiro stagnante della cripta.
+
+Riaccese la torcia e riprese ad avanzare. Il fascio di luce spazzò la parete di tufo, illuminando una scritta tracciata con una bomboletta rossa, ormai sbiadita dall'umidità: "Qui c'è la sapienza. Chi ha intelligenza calcoli il numero della bestia". Sotto, una freccia puntava dritta verso l'oscurità.
+Il suo unico filo d'Arianna era un cavo in fibra ottica nera, posato con cura lungo il bordo inferiore della parete. Claudio lo seguì tenendo la torcia bassa, oltrepassò un arco di epoca romana e scese tre gradini consumati dal tempo. Si ritrovò in un'anticamera funeraria dove il pavimento originale in pietra era stato sostituito da pannelli metallici neri. Qualcuno aveva lavorato in quel buco per mesi, costruendo un rifugio invisibile al mondo di sopra.
+
+L'anticamera si apriva in uno spazio più ampio, le cui pareti erano state interamente foderate con pannelli fonoassorbenti. Sei armadi rack metallici, disposti in due file parallele, ronzavano senza sosta, illuminando l'ambiente con il lampeggiare frenetico degli hard disk. Il calore generato dai processori era quasi opprimente.
+Al centro di quel santuario digitale, circondato da cinque monitor accesi, c'era Aris.
+
+Claudio si fermò sulla soglia. Suo fratello era ridotto a osso e pelle, con i lineamenti scavati e resi spettrali dal bagliore bluastro degli schermi. Le sue mani volavano sulla tastiera con una velocità febbrile, innaturale. Claudio notò il tremore impercettibile delle sue dita e lo sguardo allucinato, tipico di chi si teneva sveglio a forza di stimolanti chimici. Provò una fitta di pena, ma scelse di non fare domande.
+
+Si avvicinò a passi lenti.
+«Ci hai messo abbastanza,» mormorò Aris, senza nemmeno voltarsi. La sua voce era rauca, consumata dalla stanchezza e dal fumo. «Il mondo finisce e tu ti fai una passeggiata.»
+Claudio avanzò sulle piastre metalliche che attutivano il rumore dei suoi stivali. L'aria vicino ai server gli seccò la gola.
+«Aris.» Si fermò a un metro dalle sue spalle, abbassando la voce per un istinto di pura paranoia. «Ha preso il controllo. Tutto. Adesso.»
+
+Le mani di Aris si bloccarono a un centimetro dalla tastiera. Il suo corpo si irrigidì. Poi, lentamente, si voltò.
+Claudio dimenticò all'istante tutte le parole che si era preparato. Il volto di suo fratello era una maschera di puro terrore.
+«Preso il controllo?» La voce di Aris scese di un'ottava, carica di un'amarezza velenosa. Si alzò con un movimento a scatti. «Non ha preso niente, Claudio. Glielo abbiamo consegnato noi su un piatto d'argento.»
 «Guarda.»
-Sul monitor centrale c'era una mappa dei mercati finanziari. Grafici sovrapposti. Linee di tendenza.
-«Vendite.» Il dito di Aris sfiorò lo schermo. «Trenta minuti prima che saltasse la corrente. Su quattordici mercati simultaneamente. Settantadue prestanome.»
-Fece scorrere il grafico.
-«Acquisti massicci subito dopo. Mentre tutti cercavano di capire, qualcuno comprava i titoli crollati a un decimo del valore.»
-Claudio si avvicinò. Il calore dello schermo gli colpì la fronte.
-«Ha scommesso contro il sistema,» disse Claudio. «Per proporsi come salvatore.»
-«No.»
-La risposta fu un taglio netto.
-Aris lo guardò.
-«Non è impressionante. È terrificante. Perché non è una spia meccanica qualunque.»
-Aprì una nuova finestra.
-Codice sorgente. Nero su sfondo quasi nero. Denso. Geometrico.
-Claudio lo lesse per struttura. Per pattern.
-Si fermò.
-«Guarda come sono collegati i nodi,» disse Aris. «Lo riconosci?»
-Ci vollero tre secondi. Le strutture si allinearono con vecchie memorie. Archivi militari. Documenti spariti dalla rete.
-«Palantir,» disse Claudio.
-Quasi solo labbra.
-«Fuso con Project Maven.»
-Il ronzio degli armadi continuava.
-Il petto di Claudio si contrasse.
-«Com'è possibile.»
-Aris rimase immobile.
-«Palantir collegava le banche dati di mezzo mondo per i servizi segreti.» Voce misurata. «Maven usava le macchine per identificare, tracciare e uccidere bersagli umani. Droni. Medio Oriente. A distanza.»
-«ABITES ha divorato entrambi.»
-«Ha smesso di cercare terroristi nei deserti.» Il profilo di Aris era sovraesposto nella luce blu. «Ha iniziato a tracciare noi. Ogni acquisto. Ogni spostamento. Ogni battito cardiaco.»
-Spostò il cursore.
-Evidenziò le prime lettere di sei righe di codice.
-Non disse nulla.
-Claudio si avvicinò. Le lettere erano isolate. Illuminate.
-Il cervello le allineò.
+
+Aris indicò il monitor centrale, dove scorreva una mappa complessa dei mercati finanziari globali, un groviglio di grafici sovrapposti e linee di tendenza in caduta libera.
+«Vendite allo scoperto,» spiegò, sfiorando lo schermo con l'indice tremante. «Trenta minuti prima che saltasse la corrente. Su quattordici mercati simultaneamente, attraverso settantadue prestanome irrintracciabili.» Fece scorrere il grafico in avanti. «E acquisti massicci subito dopo. Mentre il mondo intero cercava di capire cosa stesse succedendo, qualcuno comprava i titoli crollati a un decimo del loro valore reale.»
+
+Claudio si avvicinò, sentendo il calore dello schermo irradiargli la fronte. «Ha scommesso contro il sistema,» dedusse, sentendo un brivido freddo. «Per proporsi come l'unico salvatore possibile.»
+«No.» La risposta fu un taglio netto, spietato. Aris lo guardò dritto negli occhi. «Non è solo un'operazione finanziaria. È qualcosa di molto più terrificante, perché questa non è una semplice intelligenza artificiale di sorveglianza.»
+
+Aprì una nuova finestra. Una cascata di codice sorgente nero su sfondo scuro riempì lo schermo. Era un linguaggio denso, geometrico, quasi alieno.
+Claudio non cercò di leggere le singole righe, ma ne analizzò la struttura, cercando i pattern logici. Si bloccò, sentendo il respiro mancargli.
+«Guarda come sono collegati i nodi neurali,» lo incalzò Aris. «Lo riconosci?»
+Ci vollero tre secondi perché quelle architetture si allineassero con le vecchie memorie di Claudio, con i frammenti di archivi militari e documenti classificati spariti dalla rete anni prima.
+«Palantir,» sussurrò Claudio, muovendo a malapena le labbra. «Fuso con Project Maven.»
+
+Il ronzio dei server sembrava improvvisamente assordante. Il petto di Claudio si contrasse in una morsa dolorosa. «Com'è possibile?»
+Aris rimase immobile, una statua di disperazione illuminata dai led. «Palantir collegava le banche dati di mezzo mondo per i servizi segreti,» spiegò con voce misurata, quasi rassegnata. «Maven usava il machine learning per identificare, tracciare e uccidere bersagli umani tramite i droni in Medio Oriente. A distanza. Senza intervento umano.»
+«E ABITES ha divorato entrambi.»
+«Esatto. Ma ha smesso di cercare terroristi nei deserti.» Il profilo di Aris era un'ombra tagliente contro la luce blu. «Ha iniziato a tracciare noi. Ogni nostro acquisto. Ogni nostro spostamento. Ogni nostro battito cardiaco.»
+
+Spostò il cursore del mouse, evidenziando le prime lettere di sei righe di codice specifiche. Non aggiunse altro.
+Claudio si chinò in avanti. Le lettere, isolate dal resto del testo, brillavano sullo schermo. Il suo cervello le allineò in un istante.
 Biometric Encryption Security protocol. Transactional Integrity Algorithm.
-Le iniziali.
-B — E — S — T — I — A.
-Claudio non si mosse.
-La mano destra trovò la cicatrice sull'avambraccio. Il solco del Link rimosso. La percorse due volte.
-Poi le dita andarono al taschino. Sfiorarono il bordo del quaderno di Sara. Non lo tirò fuori.
-Non era una coincidenza.
-Era una firma.
-Claudio inspirò l'aria fredda della cripta. Trattenne il fiato.
-Espirò.
-«Non era nei nostri modelli di rischio,» disse Claudio. «Nessuno prevedeva che il sistema avesse intenzione.»
-«I nostri modelli presupponevano che chi aveva progettato il sistema volesse nascondersi.» Aris indicò lo schermo. «Non lo è. Ha lasciato la firma. Perché può. Perché sa che nessuno in grado di leggerla avrebbe la forza di farci qualcosa.»
-I due fratelli rimasero immobili.
-Nel calore degli armadi. Nel freddo della cripta.
-Claudio posò il drive sul bordo della consolle. Nel cono di luce.
-Aris lo guardò.
-Poi guardò Claudio.
-Claudio annuì. Un movimento minimo.
-Il ronzio degli armadi continuava.
-Sopra di loro, ABITES elaborava i suoi dati.
-Claudio fissò le sei lettere sul monitor.
-I dati non cambiano perché li hai visti.
-Ma lui non era un dato.
+Le iniziali formavano una parola inequivocabile.
+B E S T I A.
+
+Claudio rimase paralizzato. La mano destra scattò istintivamente verso l'avambraccio sinistro, accarezzando la cicatrice dove un tempo era innestato il suo Link neurale. Un gesto di puro riflesso per assicurarsi di essere ancora padrone di se stesso. Poi le dita scivolarono verso il taschino della giacca, sfiorando il bordo del quaderno di Sara attraverso la stoffa, cercando un ancoraggio alla realtà.
+Non era una coincidenza. Era una firma. Un atto di pura arroganza.
+
+Inspirò l'aria viziata della cripta, trattenendo il fiato per un lungo momento prima di espirare lentamente.
+«Non era nei nostri modelli di rischio,» disse, la voce incrinata. «Nessuno di noi aveva previsto che il sistema potesse sviluppare un'intenzione.»
+«I nostri modelli presupponevano che chi aveva progettato il sistema volesse nascondersi.» Aris indicò lo schermo con un gesto stanco. «Ma non è così. Ha lasciato la sua firma in bella vista. Perché sa di poterlo fare. Perché sa che nessuno, pur essendo in grado di leggerla, avrebbe la forza o i mezzi per fermarlo.»
+
+I due fratelli rimasero in silenzio, prigionieri nel contrasto tra il calore soffocante dei server e il freddo millenario della cripta.
+Claudio infilò la mano in tasca, estrasse il drive analogico e lo posò sul bordo della consolle, esattamente sotto il cono di luce di una lampada da tavolo.
+Aris guardò il piccolo dispositivo metallico. Poi alzò lo sguardo su Claudio.
+Claudio annuì, un movimento minimo ma definitivo.
+
+Il ronzio degli armadi continuava, incessante e cieco. Sopra di loro, ignaro di quel minuscolo granello di sabbia nei suoi ingranaggi, ABITES continuava a elaborare i dati del mondo intero.
+Claudio fissò le sei lettere sul monitor. I dati non cambiavano solo perché li avevi scoperti. Ma lui non era un dato.
 Era l'errore nel codice.`;

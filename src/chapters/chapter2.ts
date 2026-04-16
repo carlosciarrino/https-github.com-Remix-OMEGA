@@ -1,49 +1,29 @@
 export const chapter2Content = `Capitolo 2: Risonanza di Terra e Sangue
-Epoca delle Fratture. Monti Appalachi. Novembre.
-Iniziò con le api.
-Sara raccoglieva la legna. Le api selvatiche nell'incavo del castagno ronzavano. Un rumore di fondo costante.
-Poi smisero. Di colpo.
-Nessun calo graduale. Un interruttore staccato.
-Sara si fermò. Il tronco a mezz'aria. Ascoltò.
-Il bosco di novembre aveva i suoi suoni. Acqua sotto il ghiaccio. Querce al vento. Ora c'era un vuoto.
-L'aria divenne elettrica. Posò il tronco. Entrò nel rifugio.
-Il pannello radio era contro la parete nord. Analogico. Modulo digitale. Frequenze VHF.
-Lo accese.
-Statica. Non rumore bianco. Un pattern. Si ripeteva ogni quattro secondi. Un blocco ritmico.
-Abbassò le dita sul selettore. Scorse lo spettro.
-Ogni frequenza. Stesso pattern.
-Nessuna interferenza casuale. Copertura totale. Lo spettro era occupato.
-Si sedette. Mani in grembo.
-Scacciò il pensiero di Claudio. Uscì.
-Il cielo era bianco. L'aria sapeva di terra ghiacciata e pino. Verso nord, una nota metallica.
-Poi li vide.
-Quattrocento metri. Oltre la linea degli alberi. Droni agricoli. Macchine pesanti. Rotori industriali.
-Non stavano seminando.
-Nessuna rotta standard. Nessuna griglia. Si fermavano. Si raggruppavano. Si separavano. Una sincronia perfetta.
-Sara rimase immobile sul portico. Le mani lungo i fianchi.
-Il drone più a est ruotò. L'obiettivo puntò verso di lei.
-La vibrazione nel petto aumentò. Pressione pura. Le dita della mano sinistra trovarono la ringhiera. Legno freddo. Lo strinse. I denti serrati.
-Il drone la fissò.
-Cinque secondi. Dieci.
-Poi tornò verso il gruppo. Riprese la formazione.
-Sara espirò dal naso. Rientrò nel rifugio.
-Aprì il cassetto sotto il pannello. Tirò fuori il quaderno. Carta. Penna. Nessun segnale digitale. Aprì una pagina bianca.
-Scrisse.
-Orario dell'interferenza. Pattern. Numero dei droni. Posizioni. Temperatura. Direzione del vento. Silenzio delle api.
-Nell'angolo della pagina scrisse due lettere. C.M.
-Le cancellò con un tratto di penna. Poi si fermò. Le lasciò visibili sotto l'inchiostro.
-Il ronzio si avvicinò.
-Trenta metri. Quaranta. Una pressione fisica sui timpani.
-Sara non alzò la testa.
-Il cristallo di quarzo sul tavolo tremò. Un movimento minimo sul legno. Lo guardò. Non lo toccò.
-Tornò a scrivere.
-Fuori, il bosco crepitava. L'acqua scorreva. Ma sotto quei suoni la vibrazione restava.
-Che il cielo ci aiuti, pensò.
-Chiuse il quaderno. Tenne la mano sulla copertina di cartone. Si alzò. Infilò il quaderno sotto la cintura. Uscì a controllare il generatore.
-Attraversò il portico. Si fermò.
-Il drone a est era tornato. Rotori al minimo. Immobile.
-La lente non puntava verso di lei.
-Puntava verso la finestra. Verso il pannello radio acceso.
-Lo stomaco di Sara si strinse.
-Il sistema non cercava le persone.
-Cercava chi ascoltava.`;
+
+Tutto iniziò con il silenzio delle api. 
+Era un gelido mattino di novembre sui Monti Appalachi, e Sara stava raccogliendo legna secca vicino al rifugio. Fino a un istante prima, il ronzio dello sciame selvatico annidato nell'incavo di un vecchio castagno era stato una presenza costante, un rumore di fondo rassicurante. Poi, di colpo, cessò. Non ci fu un calo graduale; fu come se qualcuno avesse staccato un interruttore invisibile.
+
+Sara si bloccò con un ciocco di legno a mezz'aria e si mise in ascolto. Il bosco autunnale era sempre vivo: lo scricchiolio del ghiaccio sui torrenti, il fruscio delle querce sferzate dal vento. Ora, invece, c'era solo un vuoto innaturale. L'aria si era fatta improvvisamente elettrica, carica di una tensione che le fece rizzare i peli sulle braccia. Posò la legna a terra e rientrò in fretta nel rifugio.
+
+Si diresse subito verso la parete nord, dove teneva il pannello radio. Era un vecchio apparato analogico modificato per intercettare le frequenze VHF. Lo accese. Invece del solito rumore bianco, l'altoparlante sputò fuori una statica anomala. Era un pattern strutturato, un blocco ritmico che si ripeteva con precisione chirurgica ogni quattro secondi. Fece scorrere le dita sul selettore, passando in rassegna l'intero spettro radio. Ogni singola frequenza trasmetteva lo stesso segnale. Non era un'interferenza casuale, ma una copertura totale. Qualcuno, o qualcosa, stava saturando l'etere.
+
+Si lasciò cadere sulla sedia, stringendosi le mani in grembo. Per un istante, il pensiero volò a Claudio. Si chiese dove fosse, se anche lui stesse ascoltando quello stesso battito meccanico nel cielo di Roma. Ma la nostalgia era un lusso pericoloso. Scosse la testa per scacciare quell'immagine e tornò all'aperto.
+
+Sotto un cielo bianco e opprimente, l'aria pungente sapeva di terra ghiacciata e aghi di pino. Ma c'era qualcos'altro, un ronzio sordo che proveniva da nord. Poi li vide. A circa quattrocento metri di distanza, oltre la linea degli alberi, uno sciame di droni agricoli si librava a mezz'aria. Erano macchine pesanti, dotate di rotori industriali, ma non stavano seguendo le normali rotte di semina. Si muovevano con una sincronia perfetta e inquietante: si fermavano, si raggruppavano e si separavano come un unico organismo guidato da una mente alveare.
+
+Sara rimase immobile sul portico, trattenendo il respiro. Il drone più a est ruotò su se stesso, puntando la sua lente ottica direttamente verso di lei. Il ronzio dei motori le risuonò nel petto come una pressione fisica. Cercò un appiglio emotivo e materiale, stringendo con forza la ringhiera di legno freddo del portico per non cedere all'istinto di fuggire. La macchina la fissò per dieci, interminabili secondi. Poi, con uno scatto fluido, tornò verso il gruppo e riprese la formazione.
+
+Sara rilasciò il fiato in un sospiro tremante e rientrò nel rifugio. Aprì il cassetto sotto il pannello radio e tirò fuori un vecchio quaderno e una penna. La carta era l'unico supporto sicuro, l'unico che non emettesse segnali digitali. Aprì una pagina bianca e iniziò ad annotare tutto con calligrafia nervosa: l'orario dell'interferenza, il pattern ritmico, il numero stimato dei droni, le loro coordinate, la temperatura, la direzione del vento. E, in cima alla lista, il silenzio improvviso delle api.
+
+Nell'angolo in basso della pagina, quasi senza rendersene conto, tracciò due lettere: C.M. Le iniziali di Claudio. Subito dopo passò la penna per cancellarle, un gesto stizzito per punire la propria debolezza. Ma si fermò a metà, lasciando che le lettere rimanessero visibili sotto il tratto d'inchiostro, un piccolo atto di ribellione contro la solitudine.
+
+Il ronzio all'esterno si fece più intenso, avvicinandosi a trenta, forse quaranta metri dal rifugio. Era una pressione fisica che le premeva sui timpani. Sara si sforzò di non alzare la testa. Sul tavolo di legno, un piccolo cristallo di quarzo iniziò a tremare impercettibilmente per le vibrazioni. Lo fissò per un istante, poi tornò ostinatamente a scrivere. Fuori, il bosco continuava a crepitare e l'acqua a scorrere sotto il ghiaccio, ma quella frequenza artificiale sovrastava tutto. 
+«Che il cielo ci aiuti», pensò.
+
+Tenne la mano premuta sulla copertina di cartone per ritrovare la calma, poi si alzò, infilò il taccuino sotto la cintura e uscì per controllare il generatore. Appena attraversò il portico, si bloccò. 
+Il drone a est era tornato. Stazionava immobile a pochi metri da terra, con i rotori al minimo. Ma la sua lente ottica non stava puntando verso di lei. 
+Era orientata verso la finestra del rifugio. Verso il pannello radio acceso. 
+
+Lo stomaco di Sara si strinse in una morsa di puro terrore quando comprese la verità. 
+Il sistema non stava cercando le persone. 
+Stava cercando chi ascoltava.`;

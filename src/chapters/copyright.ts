@@ -1,6 +1,5 @@
-export const copyrightContent = `Copyright
-© 2025 Carlo Sciarrino. Tutti i diritti riservati. 
+export const copyrightContent = `© 2026 Carlos Ciarrino. Tutti i diritti riservati.
 
-Nessuna parte di questo libro può essere riprodotta, archiviata o trasmessa in alcuna forma o con qualsiasi mezzo — elettronico, meccanico, fotocopia, registrazione o altro — senza il permesso scritto dell’autore. Qualsiasi utilizzo non autorizzato dei contenuti è proibito dalla legge e sarà perseguito nelle sedi opportune.
+Nessuna parte di questa pubblicazione può essere riprodotta, archiviata in sistemi di recupero dati o trasmessa in qualsiasi forma—elettronica, meccanica o neurale—senza il permesso scritto dell'autore. 
 
-Quest'opera è frutto della fantasia dell'autore. Nomi, personaggi, luoghi e avvenimenti sono fittizi o usati in modo fittizio. Qualsiasi somiglianza con persone reali, vive o defunte, eventi o luoghi reali è puramente casuale.`;
+Questo romanzo è un'opera di finzione. Ogni riferimento a intelligenze artificiali attualmente in sviluppo, corporazioni globali o profezie escatologiche è puramente casuale. Forse.`;
