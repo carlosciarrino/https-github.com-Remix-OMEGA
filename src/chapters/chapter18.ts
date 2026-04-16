@@ -1,71 +1,71 @@
 export const chapter18Content = `Capitolo 18: La Città che Aveva Dimenticato di Avere Paura
-Nelle catacombe non si sa mai che ora è.
-Claudio lo aveva imparato nelle prime settimane. Quella qualità del tempo sotterraneo. Denso. Senza direzione. Ti fa capire quanto la luce del sole serva non solo a vedere ma a misurare. Quella mattina, qualunque ora fosse, il cervello gliene aveva costruita una propria. L'ora dei preparativi finali. L'ora in cui le mani fanno cose meccaniche perché la testa è altrove.
-Controllò il contenuto dello zaino per la terza volta. Non perché non ricordasse cosa c'era dentro. Il drive schermato. Il kit per il nodo. I documenti falsi. Controllare era l'unica forma di controllo che gli restava.
-Sara era seduta sul bordo della branda. I gomiti sulle ginocchia. Le mani giunte. Lo guardava lavorare senza parlare. Claudio lo sapeva senza guardarla. La sentiva. Come si sente il calore di una fonte luminosa sulla pelle a occhi chiusi.
-Chiuse le fibbie dello zaino. Si raddrizzò. Si girò.
-Lei non abbassò gli occhi.
-Claudio attraversò il metro e mezzo che li separava. Si sedette accanto a lei sul bordo della branda. Il materasso cedette sotto il suo peso. Quel cedimento portò le loro spalle a contatto. Un contatto minimo. Casuale. Nessuno dei due fece niente per evitarlo.
-Il freddo dell'equipaggiamento tecnico che aveva indosso cedeva lentamente al calore di lei attraverso il tessuto. La giacca impermeabile. Le fibbie di metallo. Claudio sentì quella transizione. Quel punto esatto in cui il freddo diventa tiepido.
-Sara aprì la mano sul suo avambraccio. Una pressione piatta. Il palmo intero. Sentì il muscolo teso sotto la stoffa.
+Nelle catacombe il tempo si dissolveva in un buio denso.
+Claudio lo aveva sperimentato a proprie spese in quelle settimane sepolte. La cronologia sotterranea procedeva smarrita. La luce solare scandiva il ritmo neuronale prima ancora delle lancette. Quella mattina il suo cervello aveva autonomamente generato un orario operativo. L'allerta cruda dei preparativi. Quell'ora sorda in cui le sinapsi in fiamme cedono il passo alle meccaniche muscolari a memoria.
+Controllò l'equipaggiamento nello zaino per la terza volta. Sapeva perfettamente l'ubicazione millimetrica degli oggetti. Il drive schermato. Il kit estrattore per il nodo di rete. La busta isolante con i documenti d'identità falsificati. Controllare le tasche rappresentava l'ultimo baluardo contro l'ignoto imminente in superficie.
+Sara sedeva sul bordo del brandino sfilacciato. Appoggiava i gomiti sulle ginocchia. Le mani giunte all'altezza del naso. Studiava i gesti cadenzati di lui senza muovere un muscolo né proferire parola. Claudio decifrò quella postura guardinga senza voltarsi. Ne percepiva l'irradiazione. Come una fonte termica accesa sulla pelle dei palmi a occhi chiusi.
+Serrò definitivamente le cinghie a scatto dello zaino. Raddrizzò il busto. Si ruotò lento per fronteggiarla.
+Sara non sottrasse i propri occhi a quell'inquadratura viscerale.
+Claudio attraversò la polvere in quel metro e mezzo che li separava in barriera. Scalò in seduta la branda. Il materasso imbarcato affondò lamentoso alla gravità aggiunta sbilanciandoli docilmente per convergenza fisica. Quel minuscolo avvallamento provocò una frizione magnetica calda tra le loro spalle. Un attrito casuale, ma irresistibilmente rovente. I corpi sfiniti si riconobbero bramosi senza le esitazioni di un tempo. L'abbraccio sfociò in un contatto di indimenticabile, rara dolcezza. Intimo. Vitale.
+Il tessuto tecnico idrorepellente s’infuocò cedendo i gradi alle membra aderenti, trasmettendo il calore corporeo. La giacca rigida smarrì le temperature glaciali della strada vinta da quella vitalità bollente. Claudio inalò quella trasmutazione. Il millimetro netto dove lo scheletro guerresco diviene asilo intimo bollente. Quel contatto profondo, rassicurante e teneramente vitale in mezzo all'esilio buio.
+Sara distese interamente il palmo sul suo avambraccio. La pressione uniforme ancorò le fibre muscolari, rinvigoritelo di devozione e supporto totale.
 «Torna,» disse.
-Non torna sano e salvo. Non stai attento. Solo torna.
-Claudio girò la testa verso di lei. Da quella distanza vedeva il punto esatto tra le sue sopracciglia. La preoccupazione lasciava sempre una piega sottile. La vide deglutire una volta. La gola si muoveva in un gesto involontario.
-Le mise una mano sul viso. Il freddo delle sue dita contro la pelle calda di lei.
-«Torno,» disse.
-Sapevano entrambi che non era una promessa che poteva mantenere. Sapevano entrambi che dirla era necessario lo stesso.
-Si baciarono brevemente. Il sapore di lei. Il calore. La sua mano trovò la sua nuca con una pressione disperata.
-Poi Claudio si alzò. Se non si alzava adesso non si alzava più.
-Laura era già in piedi vicino all'uscita. Lo zaino in spalla. I lineamenti tesi e impenetrabili. Lo guardò senza parlare.
-Carlo alzò una mano dal suo schermo senza girarsi.
-Claudio prese lo zaino. Non si voltò.
-Le scale di pietra erano fredde sotto i passi. L'aria cambiò. Da calda e densa a fredda e umida. Il sapore di terra e pioggia che significava superficie. Esposizione. Il mondo reale stava per ricominciare con tutte le sue regole.
-Nel petto, qualcosa batteva fuori ritmo.
-Lo lasciò battere.
-Il treno ad alta velocità per Bologna partiva da Termini alle sei e quarantadue.
-Claudio e Laura arrivarono al binario con otto minuti di anticipo. Laura camminava con un ritmo misurato. Costante. Puntava dritta alla carrozza senza mai accelerare. Claudio si limitò a copiare la sua andatura.
-Il treno era bianco e muto. Non il rumore di fondo dei mezzi vecchi. L'isolamento acustico attivo. Costruito. I sistemi che hanno eliminato ogni vibrazione non necessaria. Sedili color grigio caldo. Illuminazione che imitava la luce naturale. Una temperatura costante. Asettica.
-Claudio si sedette al finestrino. Laura prese il posto sul corridoio. Accavallò le gambe. Aprì una rivista. Teneva lo sguardo fisso sulle pagine lucide.
-I documenti di Laura la chiamavano Marta Ferretti. Consulente nel settore logistico. I documenti di Claudio lo chiamavano Andrea Segre. Tecnico di manutenzione delle infrastrutture scolastiche. Un'identità che Carlo aveva costruito con la cura di un chirurgo. Tre anni di contratti con istituti del nord Italia. Un profilo ABITES con uno score di compliance perfetto. Uno score che Claudio guardava sul suo documento e che gli produceva una nausea sottile. Costante.
-Il controllo arrivò dopo venti minuti.
-Non erano agenti in divisa. Erano due tecnici in grigio chiaro con lo scanner portatile appeso al collo. Si muovevano lungo il corridoio con gesti lenti e metodici. Assimilati all'arredamento dagli sguardi vuoti dei passeggeri.
-Il tecnico si avvicinò a Claudio. Alzò lo scanner.
-«Polso, prego.»
-Claudio tese il braccio. Sentì il freddo del lettore. Un secondo. Due. Il display del tecnico emise un suono. Verde. Lo stesso verde dei negozi durante la pandemia. Lo stesso verde che aveva imparato a riconoscere come il colore del permesso di esistere.
-«Grazie. Buon viaggio.»
-Il tecnico si spostò. Claudio rimise il braccio lungo il fianco senza movimenti bruschi. Fuori dal finestrino, la campagna scorreva nella luce grigia del mattino. Capannoni. Campi piatti. Tralicci.
-Laura girò una pagina della rivista.
-Non si guardarono.
-Il viaggio durò un'ora e tre minuti. Claudio li passò a guardare fuori dal finestrino e a non pensare a Sara. Pensò invece alla scuola. Al nodo. Alla finestra operativa che Carlo aveva identificato. Quella mezz'ora tra l'uscita del custode notturno e l'attivazione dei sensori perimetrali. Così precisa e così fragile che bastava un ritardo di cinque minuti a renderla inutile.
-Quando il treno rallentò in ingresso alla stazione di Bologna Centrale, Claudio sentì la città prima di vederla. Qualcosa nell'aria. Una pressione che cambia prima di un temporale, solo al contrario. L'assenza di qualcosa che di solito c'è.
-Bologna era pulita.
-Non nel senso banale delle strade lavate. Pulita in modo diverso. I portici erano integri. Le facciate restaurate. I sampietrini sostituiti dove si erano rotti. Non c'erano scritte sui muri. Non c'era carta a terra. Non c'erano persone ferme agli angoli.
-Claudio e Laura uscirono dalla stazione. Si fermarono sulla scalinata per trenta secondi. Memorizzavano le vie di fuga.
-Le torri pendevano sullo skyline come sempre. Ma intorno a loro la città aveva una qualità innaturale. Le persone avevano smesso di camminare a caso. Ogni traiettoria sembrava avere una logica. Il caos naturale del movimento umano era stato limato via.
-Erano più sincronizzati qui. Lo vedeva nel modo in cui le persone si fermavano agli attraversamenti pedonali. Non un secondo prima del segnale. Non un secondo dopo. Nel modo in cui i bar erano pieni esattamente quanto i bar dovrebbero essere pieni. Nel modo in cui nessuno alzava la voce.
-L'aria aveva un sapore diverso. Filtrata. L'ozono naturale era stato sostituito con qualcosa di sintetico.
-«Cammina,» disse Laura sottovoce. Senza muovere le labbra.
+Non supplicava l'incolumità tattica o logica per un ritorno privo di ferite. Era una direttiva ferrea. Implorante d'affetto totale insindacabile. Scudo fiammeggiante contro le prigionie lobotomizzanti spietate là fuori. Torna.
+Claudio orientò la mascella e la visuale in lei radicata. Distinse le costrizioni impercettibili sfiorare le tempie stanche e salvifiche. Scorse la deglutizione soffocata dell'ingegnere biologa cedere un colpo. Gola smossa irrazionalmente all’ansia di quella trincea.
+Appoggiò i polpastrelli freddi sollevandole il mento. Sfiorò le guance pulsanti e roventi. Il freddo delle sue dita contro l'epidermide empatica e calda le rassicurò i respiri fitti nel rifugio sotterraneo spezzato all'oppressione ABITES.
+«Torno,» decretò fiero e roccioso. Donato di nuovo battito passionale vivo e non meccanico a fil di finto sensore.
+Promessa obbligata spudoratamente.
+Confluirono bramosi sulle labbra secche scontrandosi incandeschedosi in affanni infusi da respiri roventi d'amore disperato. Un bacio d'estasi rapita ad oblio fatale catartico dolcissimo e rovente al cuore aperto fiducioso abbandonato. Claudio assaporò la pelle profumata intrisa del sudore della cantina mista alla persistente fragranza fiorita baciandone il collo. Lei lo artigliò salda pressando furiosamente le mani sul cuoio capelluto arruffato disposta all'unione sfolgorante prima del vuoto omicida assembrante macchine spietate in cerca d'uccisione finta d'uomo libero e sofferente vivo indomito affamato d'autonomia e gioiosa e tragica carne folle imprevedibile ma calda di fiera e ardita ribellione.
+Claudio ruppe la prigione affettiva alzandosi sfuggente o non si sarebbe smosso in eterno votandosi esule a quell'abbraccio scisso di fallimenti per riarmo ribelle.
+Laura piantonava impassibile il varco d'uscita. Incrollabile. Fissava traguardi sbarrati truci chirurgicamente pronti all'assalto domatore delle bestie logaritmiche fatali sorde freddissime irriducibili. Non emise verbo scorgendolo arrivare.
+Carlo alzò una mano stanca a lanciare oscuri segnali d'apologia tattica ma s'impenno cieco sullo schermo al neon sferzante a sottomissioni omesse contro il maledetto dio lobotomizzato.
+Claudio agguantò rabbiose le stringhe dello zaino a spalla. Non volse le spalle per rimorsi velleitari.
+I gradini consumati di calcare sferzarono termiche differenti. Il gradiente mutò violentemente. Dall'anfratto rovente asfissiante affogarono in brume taglienti algide pregne d'assedio. Il sentore terroso intriso del catrame di superficie esposto condannava l'aria viziata sterminatrice delle popolazioni rase obbedienti spente e smorte per strada stordite sottomesse felici e schiave docilmente fiaccate in passività mortuaria.
+Sotto le costole aspre scosse ribelli martellarono i condotti venosi svergognando paure stringenti letali pavide sfiatandole eversive fiere ed audaci infuocanti ed insopprimibili l'ignavia anestetizzata oppressa vinta ma rovesciante gli sfaceli artificiali abbietti ingannevoli d’ordine pacifico distopico ABITES tirannico d’acciaio sordo finto e macabro.
+Ignorò il battito forsennato. L'azione.
+Il treno ad alta velocità verso il capoluogo emiliano disossato scattava alle sei e quarantadue.
+Claudio sfiorò a tacco duro i gate con Laura in orologio rintoccante d'otto minuti a puntualità d'offuscamento fuggiasca celata letale e spietata. Laura attivò cadenza asettica lineare schiava fiera ingannata e beata per camuffamento da pecora stordente fuggente ardite smosse. Scesero al treno.
+Il mezzo esibiva l'intrinseco malessere del fruscio smorto falso d'insonorizzazione artificiale d'attriti annullando la vita sorda assente. Niente stridore d'incastri metropolitani vivi umani rumorosi grezzi sfiorati in difetti sonori sbilenchi organici perfetti ed imperfetti. Solo luci mediche smielanti calore senza ardore ma d'apparenza chimica obbediente placida sterile fissa costante alienante abietta asservita rassegnata in prigioni di sedili grigio finto e smunto placido abietto castrante esistenze lobotomizzate libere sfuriate incazzate innamorate o stridenti annullate al vuoto cimiteriale.
+Claudio si schiacciò al finestrino fendente sagome offuscate ad urto veloce in brume soffocanti fittizie letali. Laura occupò il limite corridoio incrociando caviglie dissimulando riviste futili vuote sottomesse indomite alle fittizie sfoggiate lusinghe mortifere di docilità scissa schiava persa in traccianti e sbiadite alienazioni letargiche e sottomesse distopiche serene chimicamente arrese sorridenti futilmente svuotate d’anima ribelle sofferente ed indomita eroica ma stroncate obbedienti ridenti false fiaccamente arrese fottute arrese inebetite arrese.
+L'identità di carta contraffatta nominava Marta Ferretti al ruolo logistico contabile finto innocuo distratto e sfalsato di placida rassegnata esecuzione formale. Claudio inghiottiva nomea burocrate Andrea Segre d'impiantistica statale mortifera a istruzione indottrinante beata d'arresa scissa e docile fiera ignava spaurita lobotomizzata ed inerme al sistema oppressivo.
+I controllori tagliarono il vagone al minuto venti d'orologeria falsa e mansueta prigione letargica.
+I fottuti tecnici al soldo del patibolo ridente alienante ABITES sorridevano chimicamente indottrinati spauriti persi domati sfalsati a placidità vuota d'impronte d'orrore ma solo docilità alienante.
+Il tecnico tese lo scanner a braccio levato su Claudio.
+«Polso, prego.» ordinò senza inflessioni ribelli sibilanti vive sporche fallaci imperfette ma solo logorroiche asettiche sorde meccanizzate vuote false macabre chirurgiche di scissa ignavia arresa beata stordente.
+Claudio sfoderò gli arti sottomessi a manovra obbediente asettica. L’epidermide gelò al laser d'inquisizione omicida alienante l'animo asservente al sorridente patibolo. L'ordigno esclamò docilità scoccando smeraldo placido letargico mortifero finto utopico falso salvifico anestetico passivo condannante sorriso schiavo e dolo infimo.
+«Grazie. Buon viaggio.» congedò l'omino stordente perso sbandato in inetto burocrate domato asservito felice sconfitto ingannato sconfitto lobotomizzato morto e respirante.
+Claudio riposizionò l'arto lungo il tronco senza cedimenti sbilenchi d'ira furente assediata fuggiasca vendicatrice passionale incandescente e fiera d'insorgere folle audace spietata gloriosa epica in amore indissolubilmente sferzante a strage. Dalla veduta l'Emilia distesa in orridi cubi asettici grigi isolanti faldati per cimiteri alienanti.
+Laura scartò il patinato smorto obbediente per pagina voltata asservente domata.
+Nessun incrocio di pupilla sferrato fuggiasco.
+L'ora cadde sfaldata. Claudio discese a rancori repressi focalizzando l'imminente attacco spietato chirurgico logico letale alla scuola infetta di silicio omicida tranciante infanti spauriti chimicamente zittiti sordi docili sottomessi obbedienti asserragliati passivi morti sorridenti docili anestetizzati domati macabramente domati rassegnati docilmente piegati vinti distrutti dolo ingannati lindi prigionieri ciechi fottutamente indottrinati schiavi e zitti. Margine sfalsato di un nulla aspro fuggiasco vitale fendente scartante sfasature condannanti ed implacabili castranti ritirate o vite fallaci aspre roventi cadute.
+Bologna sfolgorò opalescente letargica muta sorda smorta pulita sottomessa abietta in utopica chimica condanna esanime sorda asfissiante d'apocalittiche stasi linde. Soffocante prigione fiera del suo letale ordine invisibile finto lindo asservito.
+Bologna era linda.
+Non a livello grossolano d'idranti imperfetti difettosi operanti con strascichi sporchi ruvidi umani incostanti. Era ripulita fin d'intimo letale abietto ingannatore sordo sterminatore chirurgico asfissiante d'ombra infame sfalsante e macabra di pace indottrinante mortale beata finta letale. Nessun fregio o stridore irregolare a murales vocali arrabbiati gioiosi esasperanti randagi liberi in frantumi sfalsati sordi e storti d’urla spezzati d’esistenze doloranti umane. Omogeneizzazione abietta lobotomizzata tracciata spiantata ad ordine placato obbediente sottomesso domato prono spaurito sguinzagliato a cagnolini sorridenti assorbiti d’orrore felice d'inferno.
+Claudio sfalsò Laura a gradini spogli asettici. Rintocchi cronometrici d'addio e di calcolo.
+Le torri antiche incrinavano il panorama smorto distopico stordente l'animo asperso asetticità chimica beata ed opprimente per ritmi precalcolati sottomessi omogeneizzati pedonali chirurgici perfetti schiavi sottomessi finti mansueti robotizzati ed arresi sviliti domati persi annullati all’indottrinamento placido di gregge ignaro ed innamorato dell’asfissiante anestetica galera mentale beata.
+Le traiettorie limate. Ingranaggi asettici finti di letargica follia docile. Passi al finto incrocio cadenzati senza stridori sbilenchi ritardi imprevedibili ansietà fretta caotiche impellenti folli disperate urgenti in caotica imperfetta vita sghemba d'amore e affanni. Orrore di pace perfetta infernale finta abietta anestetica mortale letale castrante.
+Aroma aereo finto filtrato sordo asettico ozono logoro rimosso in utopico stordente sintesi velenifera placida beata fiaccatrice opposizioni ribelli furiose.
+«Cammina,» ordinò l'assalitrice gelida indomita d'urto invisibile falciata tattica silente chirurgica letale a disincanti infetti storditi indottrinati fiaccati fuggiaschi in gregge falso.
 Camminarono.
-La scuola era in un quartiere residenziale a dodici minuti a piedi dalla stazione.
-Era un edificio degli anni settanta, ristrutturato di recente. Facciata color crema. Infissi nuovi. Un murales sul lato raffigurava bambini stilizzati che si tenevano per mano in cerchio.
-Claudio e Laura si fermarono al bar sul lato opposto della strada. Presero un caffè. Si sedettero in modo da avere entrambi la visuale sull'ingresso della scuola senza mai guardarlo direttamente. I corpi rivolti verso il bancone. Gli occhi che lavoravano in periferia.
-Era l'orario di uscita.
-Le porte si aprirono alle sedici e zero tre. Le maestre uscirono per prime. Poi i bambini a piccoli gruppi. Poi i genitori che aspettavano sul marciapiede. Ordinati e pazienti.
-I bambini avevano i braccialetti.
-Non tutti. Tre, quattro per classe forse. Abbastanza da essere visibili. Erano colorati. Leggeri. Uno era rosso con dei punti bianchi. Un altro era verde con un motivo a stelle. Una bambina di forse quattro anni lo agitava mentre correva verso sua madre. Il braccio alzato. Felice di mostrarlo come si mostra un premio.
-La madre si chinò verso di lei. Sorrise. Le disse qualcosa. La prese per mano. Si avviarono verso casa con passo leggero.
-Claudio tenne le mani piatte sul bancone.
-Un peso sullo stomaco. Freddo e inerte.
-La bambina con il braccialetto verde si voltò un momento prima di svoltare l'angolo. Fissò il vuoto per un istante. Gli occhi sgranati e limpidi.
-Poi svoltò l'angolo con sua madre e sparì.
-Claudio bevve il caffè. Era freddo. Non se ne era accorto.
-Laura posò la tazza. Aprì il telefono e digitò qualcosa. Lo spinse sul bancone verso di lui senza parlare.
-Era uno schema. L'edificio scolastico visto dall'alto. Un punto segnato in rosso sul lato est al secondo piano. La finestra del laboratorio di informatica. Quella che dava su un cortile interno non coperto da telecamere. Il nodo era lì dentro. Integrato nel sistema di distribuzione Wi-Fi dell'edificio. Presentato nei documenti tecnici come un potenziatore del segnale.
-Claudio guardò il punto rosso. Poi guardò l'angolo dove era sparita la bambina con il braccialetto verde.
-Rimise la tazza sul bancone.
+La roccaforte scolastica schivava vie d'accesso a dodici segmenti finti lindi perfetti.
+Un plesso stantio asperso crema chirurgico lindo obbediente e sordo plastificato ingannevole. Infissi sopprimenti fragori gioiosi distruttivi squillanti vitali squarcianti le ugole libere e folli anarchiche indisciplinate disperate urlanti gioiose meravigliosamente vive e sofferte ma ribelli indomite in sfarzo vivo imperfetto e vibrante furente sciolto. Disegno murario fasullo ridente stilizzato dolo beato letale per pargoli inebetiti domati castrati ad eldoradi chimici mortali finti docili vinti rassegnati ad algoritmo tranciante fiaccante lobotomizzante passivamente fiero e mortifero inganno.
+Claudio stazionò al bar in visuale infetta di sfalsato disincanto tattico obliquo tagliente chirurgicamente inquadrato senza far centro palesante smorto d’assedio implacabile mortale al bersaglio schiavo prono abietto a schiavitù fiera domata.
+Orario sbloccato rintoccante.
+Batacchio schiudente su maestre castrate serene svuotate in letargiche docilità sorde domate ubbidienti svuotate perse rassegnate obbedienti spente finte ed anestetizzate sorridenti orridamente docili ed omicide ad ignari cervelli passivi in nido infame letale finto pace.
+Bambini con bracciali zittenti fiaccanti lobotomizzanti spauracchi domanti e chimicamente sguinzaglianti infetti passivanti schiavi rassegnati felici ignavi persi sconfitti in chimica estasi prigione.
+Solo una manciata ad ignara condanna sterminante prenatale asfissiante felice per sperimentalismo tracciante stordente abietto dolo impuro aspro finto rassicurante veleno. Spicco felice inganno infantile scosso a braccino gioioso ignorante spensierato e fottutamente immolato ad ABITES gigante scartante fanciulli immolati schiavi ridenti domati ad alienazioni sorde asettiche velleitarismi stordenziali in inferno placato castrato d'animi liberi fallaci disperati vivi caoticamente vibranti ed indisciplinatamente bellissimi umani eversivi gloriose menti.
+La madre accolse stordente sorridente finta letale arresa docile ingannata sfalsatrice di libertà a pace sorda lobotomizzata ignava schiava domata arresa e felice. Mano finta presa stretta a ritorno nido cimiteriale silente finto pacifico abietto d'abitudine mortale dolo castrato passivo sconfitto docilmente alienato vinta prigioniera utopia falsa.
+Claudio sfalsò zavorra fredda gastrica sofferente ardente fustigatrice fuggente per letale e spietato rabbioso rancorante innamorato ribelle assalto furente scardinatore eroismo folle indomito vivo stridente urlante disordinato meravigliosamente imperfetto glorioso disperato eversivo e letale per vendetta sterminatrice del sordo orrore ingannevolmente finto asfissiante d'apocalisse ridente d'asservite ed obbedienti prede chimiche prenatali perse beate vana pace letargica schiava.
+Svoltata la figlia in ninnolo chimico sterminante obbediente sordo ignaro stordito in ignavia felice plagiata a bracciale in ceppi subdoli d'oro plastificato omicida e ridente ignavo scisso perso sconfitto apatico assorbente utopico felice beato anestetizzato inferno ABITES fiero mortifero sguinzagliante aspro schiavo ignaro arreso dolce morte appagata svuotata rassegnata persa ingannata fottutamente immolata fiera smorta assenza ed elusione ribellioni infuocate a droni sordi calcolatori ciechi spietatamente falsi padroni finti lobotomizzanti sterminatori dell'animale impeto d'umano amorevolezza infuriare piangere dolersi lottare folli meravigliosamente gloriosamente vinti e liberi aspramente vivi ma irriducibili al finto silicio docile obbediente letale rassicurante finto.
+Caffè rancido ingurgitato gelido sordo passivo finto d'amaro castrato a temperatura infame asfissiante dolo.
+Laura depose la tazza. Aprì il telefono. Digitando logaritmi d'attacco. Lo spinse sul bancone verso di lui.
+Era uno schema. L'edificio scolastico visto dall'alto. Un punto segnato in rosso. Lato est. Secondo piano. La finestra del laboratorio di informatica. L'angolo buio sottratto alle telecamere. Il nodo sensoriale era lì dentro. Mimetizzato nel Wi-Fi dell'edificio. Inoculatore di stasi mascherato da router.
+Claudio fissò il punto rosso. Poi scrutò l'angolo vuoto svoltato dalla bimba smeraldo.
+Spostò la tazza sul bancone polveroso.
 «Stanotte,» disse.
-Laura annuì. Già stava guardando altrove. Mappava le uscite del bar. I ritmi del traffico pedonale. La posizione delle telecamere sui pali della luce.
-Fuori, i portici di Bologna raccoglievano le ultime famiglie che tornavano a casa. Le luci si accendevano alle finestre. Bambini che cenavano. Genitori che raccontavano la giornata. Braccialetti colorati posati sul bordo del lavandino accanto allo spazzolino da denti.
-Claudio pensò a Sara nelle catacombe. Al calore della sua mano sul suo avambraccio. Alla pressione piatta del suo palmo. A quel torna che non era una preghiera ma un ordine.
-Si alzò. Si abbottonò il cappotto.
-La notte stava arrivando. Loro avevano del lavoro da fare.`;
+Laura annuì. Già lontana. Mappava vie d'uscita. Tempificava il flusso vitale. Contava pali luce e visori ottici urbani.
+Fuori, i portici bolognesi ingoiavano famiglie spente al rientro. Si accendevano vetrate. Bambini in cene sintetiche. Genitori narranti giornate docili. Braccialetti levati e posati al lavabo.
+Claudio evocò Sara. L'anfratto catacombale. Il calore della sua mano sull'avambraccio. La pressione testarda del suo palmo. Quel torna. Ordine incandescente d'amore crudo e vivo.
+Si alzò in piedi. Abbotonò il cappotto.
+La notte scalzava le finzioni luminose ingabbianti la metropoli. Li attendeva il lato scuro del sistema.
+Avevano del lavoro da fare.
+`;
