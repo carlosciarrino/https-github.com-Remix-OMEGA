@@ -1,30 +1,32 @@
 export const chapter16Content = `Capitolo 16: Il Mercato delle Ombre
-Il cielo di Roma era una lastra di piombo. Gravava sui tetti. La pioggia acida era un pizzicore costante sulla pelle. Claudio camminava rapido. Il cappuccio calato sul volto.
-Laura lo precedeva di qualche metro. Non si voltava mai. Il suo passo si adattava al terreno. Fluido. Senza strappi.
-Erano arrivati al limite del settore 4. I checkpoint Teslaris erano più frequenti. Le luci blu dei sensori biometrici tagliavano il grigio della mattina.
-«Dobbiamo passare attraverso il mercato,» disse Laura. Si fermò all'angolo di un vicolo. «È l'unico posto dove la folla è abbastanza densa da confondere i droni.»
-Claudio annuì. Il drive nella tasca premeva contro il fianco.
-Il mercato di Testaccio era saturo di odori. Pesce marcio. Fumo di sigarette economiche. La scia acre del disinfettante usato nei Centri di Sincronizzazione. La gente si muoveva senza parlare. Gli occhi bassi.
-Ogni volta che una spia meccanica di ABITES passava sopra la folla, le spalle di Claudio si contraevano. Laura si faceva strada tra la gente. Urtava spalle. Scansava carretti. Non perdeva il ritmo.
-«Non guardare in alto,» mormorò. Non si voltò. «Se guardi i droni, loro guardano te.»
-Claudio abbassò lo sguardo. Le sue scarpe erano coperte di fango e polvere. Pensò a Sara. Le sue mani ferme sui controlli della radio.
-Arrivarono al banco del pesce nell'angolo più buio del mercato. Un uomo dal grembiule sporco di sangue puliva una spigola. Non alzò lo sguardo.
-«La merce è fresca?» chiese Laura.
-L'uomo si fermò. Il coltello sospeso a mezz'aria. «Dipende da chi la compra.» La sua voce era roca. Raschiata.
-Laura posò una moneta di rame sul bancone. Non era credito sincronizzato. Metallo reale. Pesante. L'uomo la prese. La fece sparire in una tasca del grembiule.
-«Seguitemi.»
-Li condusse in un retrobottega. Puzzava di ghiaccio e squame. In un angolo, un vecchio terminale era collegato a una serie di batterie per auto.
-«Avete cinque minuti,» disse l'uomo. Uscì. Chiuse la porta.
-Claudio estrasse il drive. Le sue dita erano gelide. Lo inserì nel terminale. Iniziò a digitare. Il codice scorreva sullo schermo. Illuminava il suo volto.
-«Sto caricando il virus nel nodo di Testaccio,» mormorò. «Se funziona, oscurerà i sensori biometrici per tutto il settore. Dieci minuti.»
-Laura era alla porta. L'orecchio teso verso l'esterno. «Fai in fretta. Sento i droni.»
-La barra di caricamento arrivò al cento per cento. Lo schermo sfarfallò. Si spense.
-«Fatto,» disse Claudio. Strappò il drive.
-Uscirono dal retrobottega. I primi droni entravano nel mercato. Le luci blu dei sensori erano spente. La folla si agitò.
-«Ora!» gridò Laura.
-Corsero verso l'uscita nord. I droni ronzavano sopra di loro.
-Uscirono dal mercato. Si infilarono in un vicolo laterale. La pioggia acida sferzava l'aria. Claudio teneva la mano in tasca. Le dita strette attorno al metallo del drive.
-«Ce l'abbiamo fatta,» disse Laura. Riprendeva fiato.
-Claudio guardò verso il cielo di piombo.
-«No,» disse. «Abbiamo solo iniziato.»
-Si incamminarono verso le catacombe. I passi veloci sul selciato bagnato.`;
+Il cielo di Roma gravava sui tetti decrepiti come una lastra di piombo titanico, riversando sulle arterie deserte del settore 4 una pioviggine gelida che inzuppava i tessuti e intorpidiva i recettori nervosi.
+Laura guidava la marcia a tre passi di distacco, il corpo inclinato in avanti contro il vento, i movimenti fusi in una progressione fluida che eludeva istintivamente le chiazze di luce sparse.
+Superato il confine perimetrale est, i posti di blocco della corporazione si facevano opprimenti. I fari dei sensori biometrici sfregiavano l'alba grigia spazzando le facciate decostruite alla ricerca di calore corporeo non allineato. Le postazioni autonome ABITES roteavano le torrette ottiche seguendo logiche algoritmiche implacabili, processando milioni di volti al secondo senza il minimo margine di errore umano.
+«Dobbiamo attraversare il mercato del Testaccio,» ordinò la disertrice rallentando per allinearsi alla spalla dell'ingegnere, mantenendo il respiro impercettibile. «Le rilevazioni termiche si saturano contro la densità della calca. L'unica finestra sfruttabile per ingannare i droni di sorveglianza passa dal sudore di mille disperati concentrati nello stesso quadrato.»
+Claudio recepì l'indicazione stringendo le dita attorno alla fodera interna del trench. Sessanta grammi di metallo letale premevano contro le sue costole.
+I vicoli coperti del Testaccio li travolsero con un'ondata opprimente di esalazioni stagnanti. Alogeni malfunzionanti illuminavano banchi intrisi di scarti ittici, nuvole pregne di tabacco chimico importato e la scia pungente degli agenti disinfettanti usati per mascherare la sporcizia. Una marea umana si riversava tra le bancarelle arrugginite, donne e uomini dagli sguardi abbassati, terrorizzati dall'idea di innescare una reazione nei sub-routines di tracciamento o di attirare attenzioni punitive.
+L'ingegnere percepiva le vibrazioni sorde dei rotori corazzati aerei eseguire i passaggi radenti sulle lamiere superiori. A ogni vibrazione i suoi muscoli dorsali si caricavano di acido lattico. Laura lo affiancò urtando miratamente le spalle dei passanti, aprendo la via attraverso barili rovesciati senza smarrire mai il ritmo della progressione.
+«Non sollevare il mento,» lo ammonì lei afferrandogli il gomito in una morsa dura. «Se i tuoi recettori incrociano le lenti orbitali, il software cattura il nervo ottico e marchia il tuo ID.»
+Claudio ancorò il campo visivo sulle proprie calzature incrostate, muovendosi per inerzia mentre il volto di Sara e i riverberi strazianti dell'ultima trasmissione radio collassavano contro i suoi pensieri.
+Raggiunsero un banco infossato nell'angolo meno illuminato dell'area nord, presidiato da un individuo robusto avvolto in un grembiule di gomma screpolata. L'uomo scagliava fendenti su una grossa spigola usando un coltello per sfilettare usurato dal tempo, ignorando deliberatamente i due nuovi avventori.
+«La merce pescata stanotte ha ancora le branchie vive?» domandò la ragazza agganciandosi al bancone ghiacciato.
+Il pescivendolo bloccò la lama a un millimetro dalla polpa azzurra, rivolgendo finalmente un'occhiata vitrea verso gli estranei. «La purezza della carne rispecchia esattamente il peso della conversione con cui si intende pagare.» La voce raschiava il fondo della gola asportando secchezza e disillusione.
+Laura estrasse un disco di puro rame dal taschino tattico, una lega fisica reale non tracciabile, sbattendola vigorosamente sul piano in teflon coperto di macchie sanguigne.
+L'uomo incamerò la valuta facendola scivolare fulmineamente tra le scaglie sciolte. «Il magazzino.»
+Li scortò dietro una pesante paratia di plastica a strisce logore. L'olfatto di Claudio venne aggredito dall'ammoniaca e dalla putrefazione rallentata e intrappolata nel ghiaccio sintetico. Contro la parete cieca trionfava una console rudimentale, alimentata a strappi da un banco di batterie al piombo rubate ai vecchi furgoni logistici.
+«Avete duecentosessanta secondi di fornitura energetica,» ringhiò l'uomo sbarrando il retrobottega dall'esterno.
+Claudio strappò il modulo Mythos-7 dal petto e lo incastrò con forza selvaggia nel lettore dell'unità isolata. La schermata divampò illuminando le sue iridi di codice verde. Le sue articolazioni percossero la tastiera sfondata iniettando blocchi esecutivi elaborati durante l'intera notte trascorsa nei sotterranei.
+«Sto scaricando il ceppo virale ricavato dal protocollo Fase 4 dentro il nodo periferico di quartiere,» illustrò l'ingegnere aumentando la rapidità di calcolo mentale. «Al comando di avvio il sistema innescherà una cecità temporanea per tutti i lettori biometrici nel raggio di sei isolati.»
+Laura sorvegliava le correnti d'aria dalla paratia, la mano fissa sul retro della cintura. «Brucia le tappe. I sensori di perimetro stanno convergendo.»
+Il tracciato d'installazione invase il settore finale. Il display soffocò in uno spasmo di pixel dorati collassando nel nero assoluto.
+«Andiamo!» esclamò Claudio estirpando il prisma dal terminale fuso.
+Infransero in corsa le strisce di plastica piombando nella piazza centrale del mercato. Sopra le calotte craniche della folla, i led blu spietati dell'armata ABITES subirono un minuscolo cortocircuito sfrigolante spegnendosi brutalmente. La psicosi irrazionale divampò istantaneamente. I civili presero d'assalto i corridoi lanciando grida soffocate di panico incanalandosi contro i pilastri principali.
+Claudio e Laura sfruttarono l'onda d'urto del terrore collettivo, fendendo il caos in uno scatto alla massima tensione. Sfuggirono all'illuminazione principale precipitando in una fessura di cemento armato stretta tra le tubazioni di scarico primarie di un complesso industriale in rovina, appena in tempo per eludere le pattuglie umane di ripiego corporativo scese dai trasporti.
+L'oscurità del vicolo li inghiottì, isolandoli completamente dal clamore esterno.
+Si ritrovarono premuti contro il muro ricoperto di salnitro, incastrati spalla a spalla nel perimetro angusto, respirando convulsamente. Il petto di Claudio si alzava in raffiche incontrollate, scontrandosi con il tessuto rigido della giacca di Laura. L'adrenalina residua bruciava nei muscoli infiammati, mentre l'ingegnere realizzava di aver appena sferrato il primo taglio effettivo sul ventre della belva che lui stesso aveva contribuito a creare.
+La disertrice scostò una ciocca incollata di sudore dalla tempia e sollevò lo sguardo verso l'alto. Nell'ombra compatta le corazze crollarono. Le mani calde della ragazza trovarono il viso di Claudio, sfiorando la pelle ispessita dalla fuga e le linee taglienti dei suoi zigomi con un calore esplosivo, vivo, travolgente.
+L'ingegnere si sciolse nell'immediatezza di quel calore. Un'energia vitale, pulsante e magnetica lo investì in pieno petto, polverizzando in un secondo tutta la morte artificiale che intossicava i cieli di quella città sfregiata. Portò i palmi sui fianchi di lei, attirandola con urgenza disperata contro di sé, avvolgendola per spezzare per sempre qualsiasi frammento di gelo persistente.
+Le sue labbra cercarono quelle di Laura e l'impatto fu disarmante. Vi fu un crollo immediato e assoluto delle rispettive barriere interne, uno spalancarsi del cuore verso una luce emotiva accecante. Il bacio divampò carnale e intenso, una connessione universale potentissima che li strappò dalla miseria del Testaccio proiettandoli nell'esatto centro della creazione umana. Il sapore della pelle di lei era calore crudo, pienezza e forza vibrante. Respirarono l'uno nell'altra, cancellando l'incubo di ABITES e la polvere circostante, scambiandosi attraverso quel contatto febbrile il giuramento fisico che l'esistenza meritava ancora di essere combattuta ferocemente. La sensualità estrema di quel trasporto spazzò via le geometrie dei terminali e le truppe nemiche, fondendo i loro corpi in un attimo di vita pura e incandescente.
+Laura interruppe delicatamente il contatto scivolando a un respiro dalla bocca dell'uomo. I suoi occhi brillavano di un fervore inedito, colmi della bellezza selvaggia di un essere umano finalmente libero di amare senza collari satellitari e inibitori mentali a frenarla.
+«Non interromperemo l'offensiva finché la corporazione non crollerà in fiamme,» sussurrò lei col viso ancora premuto contro quello di Claudio, la voce impregnata di sensualità spietata e determinazione inarrestabile.
+Claudio abbassò le palpebre riempiendosi i polmoni del suo profumo profondo, intrecciando saldamente le proprie dita in quelle della ragazza. Scivolarono in maniera fluida fuori dall'incavo fognario, abbandonando il mercato paralizzato per puntare dritti verso il cuore nascosto delle catacombe.`;

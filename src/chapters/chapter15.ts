@@ -1,30 +1,28 @@
 export const chapter15Content = `Capitolo 15: La Voce nel Buio
-Il fumo del barile saliva dritto. Si sfilacciava contro il soffitto di lamiera. Spariva nelle ventole. Odore di gomma bruciata.
-Claudio sedeva sul bordo della cassa. Le mani intrecciate tra le ginocchia. Le nocche bianche.
-Laura era appoggiata alla parete. Braccia incrociate. La luce arancione delle braci le tagliava il viso. Nessuna parola da quando la radio era tornata muta. La voce di Sara era sparita nel fruscio statico.
-«Una generazione senza memoria,» disse Claudio. Fissava il pavimento. «Vane non vuole convincerci. Aspetta solo che diventiamo irrilevanti.»
-Laura si staccò dal muro. Si avvicinò alla cassa. Posò la mano sul drive. Il metallo rifletté la luce del barile.
-«Allora dobbiamo assicurarci che questo drive non diventi irrilevante prima di noi.»
-Le sue dita tremavano. Claudio lo notò. Non disse nulla.
-Claudio riprese la matita. Il foglio davanti a lui era pieno di schemi e cancellature. Ogni tentativo di forzare il codice falliva. L'architettura si riorganizzava. Creava nuovi percorsi. Nuove trappole.
-«Non è un algoritmo.» Claudio teneva la matita sospesa. «È un riflesso. Il sistema reagisce all'intrusione. È vivo. Se premo troppo forte, si ritrae. Si indurisce.»
-Laura si accovacciò accanto a lui. Odorava di grasso e pioggia acida.
-«E allora non premere,» disse lei. «Scivola dentro. Quello che abbiamo fatto nei tunnel.»
-Claudio la guardò. Il codice non andava forzato. Andava assecondato.
-Le ore passarono. Il cricchettio della dinamo di Laura riempiva il silenzio. Le mani di Claudio si muovevano sulla tastiera. Le righe verdi sullo schermo cambiarono schema. Le barriere diventarono passaggi.
-Trovò il punto di ingresso alle 05:42. Il settore 7-alpha si aprì.
-I dati scorsero sullo schermo. Claudio smise di respirare. Non erano numeri. Erano mappe. I Centri di Sincronizzazione di Roma. I nodi di trasmissione di ABITES.
-E un file nascosto. Il protocollo per la Fase 4.
-«Mio Dio.»
-Laura si sporse in avanti. «Cosa vedi?»
-Claudio indicò lo schermo. Le coordinate. «Non sono centri di distribuzione. Sono centri di condizionamento.»
-Deglutì. La gola era secca.
-«Stanno preparando il terreno per i bambini. Vogliono iniziare la Sincronizzazione obbligatoria negli asili nido. Il prossimo mese.»
-Laura si raddrizzò. I muscoli della mascella tesi.
-«La missione è cambiata,» disse. «Non basta portare il drive a Carlo. Dobbiamo colpire i nodi. Prima della Fase 4.»
-Claudio guardò il drive. Sessanta grammi di metallo. Pensò a Sara. Alla sua voce lontana.
-«Dobbiamo muoverci.» Claudio prese il drive. Lo mise in tasca. «Se il sistema rileva l'apertura del settore 7-alpha, ci manderà addosso tutto.»
-Laura annuì. Raccolse lo zaino.
-«Andiamo.»
-Uscirono dalla tenda. Il cielo di Roma schiariva. Un grigio sporco sopra i tetti.
-Claudio camminava veloce. Laura un passo dietro di lui.`;
+Il fumo esalato dal barile infuocato saliva dritto verso l'alto, sfilacciandosi contro il soffitto di lamiera grezza prima di essere risucchiato a fatica dalle vecchie ventole d'aspirazione cittadina, lasciando un odore stagnante di gomma bruciata.
+Claudio teneva il peso del corpo sul bordo di una cassa militare logora, le mani strette tra le ginocchia in una morsa che schiariva la pelle delle nocche.
+Laura manteneva la posizione contro la parete scrostata, avvolta nell'ombra irregolare, mentre le braci accese le restituivano sul viso una sfumatura arancione e instabile. Il canale radio criptato non riceveva più alcun segnale, la voce disperata di Sara era stata inghiottita spietatamente da una coltre di fruscio statico imperforabile.
+«Una generazione senza memoria,» disse l'ingegnere senza distogliere l'attenzione dalle fughe del cemento sul pavimento rovinato. «Vane non sta cercando di convincere la nostra fazione. Aspetta unicamente che l'invecchiamento e l'isolamento esploso ci rendano irrilevanti.»
+Laura abbandonò l'ancoraggio del muro, riducendo la distanza fino a sfiorare la superficie blindata del drive recuperato. Il metallo pesante dell'involucro restituì il pallido bagliore della combustione artigianale.
+«Allora dovremo assicurarci che i dati in esso contenuti distruggano tutto questo prima di finire sepolti assieme a noi.»
+I polpastrelli della ragazza vibravano di micro-scosse nervose sull'alluminio ghiacciato, una fragilità temporanea che Claudio registrò nell'immediatezza ma scelse di non rimarcare per non sgretolare la sua barriera psicologica.
+Riprese il terminale portatile e l'intrico di schemi tracciati su un foglio spiegazzato giacente accanto alle connessioni improvvisate. Ogni violazione diretta al blocco del filesystem si risolveva in un fallimento strutturale, con l'architettura nemica che modificava istantaneamente le barriere di guardia per sigillare nuovi vicoli ciechi imprevisti.
+«Non stiamo affrontando un classico algoritmo crittografico.» Claudio tenne le dita in sospensione sui tasti sporchi. «È concepito come un riflesso neuronale. Evolve e muta sotto stress operativo. Se applico un attacco frontale di forza, l'infrastruttura difensiva si ritrae e diventa inscalfibile.»
+Laura scese sulle ginocchia per intercettare l'angolazione visiva del monitor, portando con sé un acre odore di grasso meccanico e di umidità notturna cittadina.
+«Evita l'assalto frontale,» mormorò lei tenendo lo sguardo incollato sul cursore verde infaticabile. «Scivola attraverso l'intelaiatura molle periferica. Il medesimo principio d'infiltrazione che abbiamo applicato disperdendoci nei tunnel per sfuggire ai tracciatori.»
+L'ingegnere assorbì l'osservazione incrociando lo sguardo sfidante della disertrice e individuando l'intuizione vincente. La massiccia muraglia digitale ABITES non andava demolita a spallate, richiedeva d'essere costeggiata e aggirata attraverso le sue ridondanze strutturali.
+Il tempo collassò in un'accelerazione frenetica, battuto esclusivamente dal cricchettio meccanico della dinamo manuale azionata da Laura per sostenere la violazione del protocollo. Le articolazioni di Claudio si abbattevano sui comandi del decodificatore in un torrente continuo, copiando la natura liquida e sfuggente del sistema restrittivo fino a penetrare le fondamenta dell'anello di contenimento originario.
+L'ultimo lucchetto di resistenza collassò disattivandosi intorno alle cinque e quaranta dell'alba romana, scaraventando il dominio d'emergenza del settore 7-Alpha senza alcuna protezione residua.
+Un mosaico disordinato di pacchetti di dati si riverberò istantaneamente sul quadrante graffiato. I polmoni di Claudio si fermarono in pieno allungamento. Il tracciato non riportava lunghe stringhe logiche ma esibiva un macabro rilievo topografico esteso ad altissima precisione cartografica, centrato sui plessi di condizionamento di Roma Nord e i nodi radiofonici isolati di ABITES intatti.
+Sepolto in mezzo al mucchio caotico delle infrastrutture fisiche pulsava una cartella compressa. Il protocollo segreto denominato Fase 4.
+Ogni sillaba gli restò ancorata alla base della gola stretta.
+Laura azzerò lo spazio per analizzare l'orografia delle proiezioni mappate. «Quale anomalia c'è in queste disposizioni logistiche?»
+«Le volumetrie interne ignorano gli standard per la sedazione chimica civile di massa.» Claudio agganciò l'unghia del pollice sul display scheggiato, battendo quasi ossessivamente sullo schema perimetrale di una cittadella protetta isolata.
+L'angoscia gli raschiò la traquea col sapore feroce della ruggine costringendolo a ingurgitare a fatica il poco fiato rimanente.
+«Hanno riprogrammato le vasche di somministrazione liquidi per ridimensionare il dosaggio in chiave clinico pediatrica,» ringhiò Claudio colpito dall'orrore matematico di quei progetti. «Distribuiranno interfacce neurali forzate negli asili d'infanzia e nelle strutture sanitarie primarie. L'operazione scatta il mese prossimo garantendo l'inoculazione senza via d'uscita.»
+Laura riacquistò celermente la statura eretta piantando ferocemente lo scarpone contro il metallo divelto, l'intera rete mascellare tesa verso la freddezza omicida dei piani governativi impressi a sistema.
+«Il perimetro delle operazioni ha scavalcato la sopravvivenza civile di default,» decretò riassettando l'arma da taglio nel fianco tattico del vestiario. «Completare la retroguardia verso Carlo si rivela un palliativo effimero, va scatenata la disattivazione offensiva sui nodi locali per paralizzare l'allestimento materiale di questa follia infantile.»
+Claudio accusò tra i pettorali la consistenza pesante dei moduli sottratti al nemico riflettendo sulle urla sfibrate di Sara risuonate ore prima sulle frequenze in transito logoro dello scanner piratato.
+Depurò la matrice dell'interfaccia scollegando tempestivamente le centraline d'energia corrotte prima di chiudere la scocca di metallo freddo per affondarla con cattiveria all'interno della profonda tasca ascellare. «Sfogliamo il campo. Nel momento in cui i sensori biometrici centrali valuteranno lo sfondamento della membrana vitale del settore sensibile, sganceranno il battaglione intero sopra le impalcature stradali adiacenti.»
+Laura serrò la morsa della tracolla di scorta sulla spalla allenata al tiro svelando il varco dismesso della copertura avvolgibile che celava il rifugio di fortuna sommerso.
+L'orizzonte contaminato svelò i confini geometrici taglienti e putridi della Capitale sventrata, impalando la luce dell'aurora dietro un ammasso infetto di ciminiere abbandonate e tralicci anneriti. Claudio spaccò il vento gelido infilando uno strappo rapido verso i resti carbonizzati del distretto, con le orme implacabili della sua compagna saldate precisamente a un battito cardiaco di distanza dalla nuca.`;
