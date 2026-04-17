@@ -1,77 +1,90 @@
 export const chapter13Content = `Capitolo 13: Il Peso del Vetro
-Il Nikkei aveva perso il trentadue percento in quattro ore.
-Julian Vane osservò il dato senza muoversi dalla grande finestra del suo ufficio. Il grafico era proiettato su uno schermo olografico che flottava a mezz'aria a mezzo metro dal vetro: una spietata linea rossa che precipitava verso il basso con la stessa geometria inevitabile di un corpo che cade nel vuoto. Accanto, i grafici del Dax, dello S&P e del FTSE mostravano tutti la stessa tragica direzione. Tutti con la stessa inesorabile pendenza.
-Fuori, Londra era centotrenta metri più in basso, ma dall'ufficio non filtrava un singolo suono.
-L'insonorizzazione era totale. Il vetro stratificato era spesso ventiquattro centimetri, con uno strato di gas inerte tra le lastre studiato per assorbire ogni frequenza esterna. Vane aveva scelto personalmente quella specifica mescola. Non lo aveva fatto solo per l'isolamento acustico, ma per la chiarezza visiva. Voleva poter osservare il mondo senza essere in alcun modo contaminato dal suo rumore patetico.
-Sapeva perfettamente cosa stava succedendo laggiù, per strada. Lo aveva letto nei report crittografati delle ultime sei ore: code infinite agli sportelli automatici presidiati dalla polizia, assalti ai supermercati, vetrine sventrate nei quartieri commerciali. C'erano tre incendi attivi nel settore est della città. La Banca Centrale Europea aveva sospeso tutte le operazioni alle 14:47, seguita dalla Fed alle 15:12. Il Banco de España, semplicemente, aveva smesso di rispondere alle comunicazioni alle 16:03.
-Il sistema bancario globale aveva impiegato settantadue anni di faticosi accordi per costruirsi.
-Stava impiegando appena novantasei ore per disintegrarsi.
-Vane portò la mano destra al polso sinistro e si sistemò con cura il gemello d'oro bianco. La superficie opaca presentava le sue iniziali incise sul retro. Fu un gesto lento, calcolato, di puro controllo. Poi abbassò il braccio.
-Sullo schermo olografico a sinistra galleggiava una mappa del mondo. Decine di punti rossi pulsavano sopra le metropoli: Parigi, Bangkok, Lagos, Mumbai, São Paulo. Ogni indicatore rappresentava un centro di crisi attivo in tempo reale. Sommosse, crolli della catena logistica, blackout energetici a catena. I punti aumentavano con una regolarità spaventosa, seguendo una progressione aritmetica perfetta.
-Vane non era sorpreso. Quella progressione l'aveva calcolata lui.
-Toccò la vetrata con la punta dell'indice. La superficie era fredda, impeccabile. Sentì la temperatura abbattere il calore del suo polpastrello per un istante, prima di ritrarre la mano. Sul vetro rimase un piccolo alone ovale di condensa corporea, l'unica prova della sua presenza fisica, ma si dissolse nel nulla in quattro secondi netti.
-Prese un bicchiere d'acqua cristallina dal bordo della scrivania minimale, bevve un sorso controllato e lo riposò senza produrre il minimo rumore.
-Laggiù, Londra bruciava senza clamore.
-Lui non provava la minima soddisfazione.
-I suoi collaboratori del consiglio direttivo non lo avevano mai capito veramente. Durante le frenetiche riunioni di crisi, li sorprendeva spesso a cercare minuscoli segnali di emozione sul suo viso. Scambiavano la sua assoluta calma per cinismo, ma si sbagliavano. Il cinismo presuppone una delusione originaria, un'aspettativa idealistica che è stata tradita dalla realtà. Julian Vane non aveva mai nutrito alcuna aspettativa sull'umanità, fin dal principio.
-Aveva solo raccolto e analizzato dati.
-E i dati dimostravano che l'homo sapiens era un sistema intrinsecamente instabile, schiavo dei bias cognitivi, del tutto incapace di elaborare e mitigare rischi su scale temporali superiori ai diciotto mesi. La mente umana era programmata dall'evoluzione per rispondere in modo reattivo al pericolo immediato e per ignorare ostinatamente quello sistemico a lungo termine. Era un'architettura biologica difettosa. Un limite strutturale insuperabile.
-Il collasso attuale, di conseguenza, era inevitabile.
-Quello che stava accadendo non era un'anomalia statistica. Era semplicemente il sistema umano che si comportava esattamente come previsto: panico diffuso, irrazionalità finanziaria, comportamento gregario distruttivo, fino al collasso a cascata. Era l'esatta, penosa sequenza del 1929, del 2008 e del 2020. Solo con numeri enormemente più grandi e tempi di reazione disastrosamente più brevi. La curva di decadimento era chiara e inoppugnabile.
-Proprio per questo, ABITES aveva impiegato undici anni per costruire un'architettura alternativa.
-Non volevano instaurare una brutale dittatura militare. Le dittature erano sistemi puramente umani, e in quanto tali, affetti da personalismo, corruzione, inefficienza e ineluttabile entropia. ABITES offriva qualcosa di molto superiore: un ecosistema in cui le decisioni vitali venivano prese rimuovendo completamente la fallibile variabile umana dall'equazione.
-Non si trattava di oppressione politica.
-Era semplice e sublime ingegneria dei sistemi operativi applicata alla società.
-Vane si allontanò dai grafici luminosi e si avvicinò alla scrivania. Aprì l'unica cartella fisica presente sul piano di lavoro sgombro. Preferiva la consistenza ruvida della carta per i documenti storici. Conteneva le ultime pagine del protocollo per l'avvio globale del Credito Sincronizzato. Le scorse per l'ultima volta.
-Erano matematicamente e legalmente inattaccabili.
-Le richiuse nel raccoglitore di pelle nera.
-Attraverso la parete di vetro, il sole si stava inabissando sull'oceano in lontananza, tingendo le nubi basse di una striscia di un arancio violento. Vane ammirò quel fenomeno ottico per tre secondi esatti, poi voltò del tutto le spalle alla metropoli in agonia rivolgendosi al centro della stanza.
-«Siamo pronti per il broadcast?»
-La conferma arrivò immediatamente dal sistema di intelligenza artificiale di sala, tramite un invisibile diffusore incassato nel soffitto acustico: «Sì, signore. Tutte le reti globali sono in attesa. Copertura simultanea stimata: novantadue virgola tre percento della popolazione globale attualmente connessa.»
-Vane si aggiustò il nodo della cravatta di seta con due dita, levigando una piega inesistente.
-«Procediamo tra cinque minuti,» ordinò.
-Alle 18:00 in punto, il volto di Julian Vane fu su ogni schermo del pianeta.
-Chiunque possedesse un dispositivo connesso alla mastodontica rete ABITES — che fosse uno smartphone scheggiato in una favela o un imponente monitor olografico a Times Square — vide la medesima inquadratura. Nessuna introduzione altisonante.
-L'immagine lo ritraeva seduto dietro una scrivania formale contro uno sfondo grigio neutro. Nessuna bandiera nazionale a rassicurare, nessun logo corporativo. C'era solo l'uomo. Indossava la sua consueta cravatta scura, con le mani curate e apparentemente inermi appoggiate aperte sul tavolo di quercia.
-Aspettò tre secondi completi prima di proferire parola, lasciando che la sua fredda imperturbabilità saturasse i salotti in panico del mondo.
-«So che siete terrorizzati.»
-Il tono era studiato al millimetro: basso, non proiettato o autoritario, profondamente riflessivo.
-«È una reazione più che comprensibile. Quello che state vedendo accadere in queste ore ai vostri mercati azionari, ai risparmi di una vita, alle banche e alle catene di distribuzione di cibo o medicinali, è terribilmente reale. Non ho intenzione di mentirvi dicendo che non è grave o che passerà da solo. Stiamo affrontando la crisi strutturale più profonda che la nostra civiltà abbia mai conosciuto. Sarebbe crudele o illuso suggerire che esistano soluzioni magiche o indolori.»
-Interruppe il monologo con una sospensione calcolata, sporgendosi leggermente in avanti verso l'obiettivo della videocamera, azzerando virtualmente la distanza con chiunque lo stesso ascoltando.
-«Ma esistono soluzioni definitive.»
-«Il sistema finanziario su cui abbiamo basato le nostre vite è stato edificato su una premessa storicamente fragile: l'idea che il valore potesse essere brutalmente scisso dalla realtà fisica delle singole persone. Avete operato su crediti fantasma, numeri fittizi che servivano a rappresentare altri numeri, costantemente garantiti da istituzioni a rischio basate su istituzioni in rovina. Abbiamo abitato questa instabile illusione così a lungo, cullati da false garanzie, da dimenticare completamente che si trattava, in fondo, di una trappola speculativa.»
-«Pertanto, ABITES ha deciso d'integrare una nuova metodologia per l'immediato rilancio globale.»
-A quel punto, l'inquadratura si divise a metà. Vane mantenne la sinistra, mentre a destra apparve un'infografica dal design minimalista. Niente colori sgargianti: solo linee pulite, nodi di rete chiari, e rilassanti sagome umane collegate orizzontalmente in modo armonioso in un sistema ad alveare diffuso, protetto da ABITES.
-«A partire dall'alba di domani mattina,» riprese la voce suadente, senza perdere un colpo, «l'intera infrastruttura ABITES deciderà l'avvio ufficiale del Protocollo Sincronia: il Modello a Credito Sincronizzato. Da questo momento, ad ogni singolo cittadino censito nel nostro network globale sarà garantita un'allocazione equa e inalienabile di crediti vitali diretti. Crediti rigorosamente ricalibrati in base alle esigenze tangibili del genere umano: alimentazione, tetto e cure primarie basilari. Dimenticate le banche. Mai più manipolazioni interbancarie né ostacoli amministrativi o azionari occulti. Sarà semplice, rapido, e arriverà dritto nelle tasche al cittadino.»
-«Per questa stesura democratica si richiede uno sforzo minimo: soltanto il conferimento e la successiva e perenne verifica di se stessi verso l'identificazione biometrica completa: il Vostro unico e indistruttibile Passaporto, i dati reali cardiocircolatori, le iridi. Riconosceremo finalmente chi siete, eliminando l'obsolescenza iniqua di ciò che meramente cercavate disperatamente di possedere per dimostrarlo.»
-Vane non cambiò l'assetto né i decibel della propria emissione acustica.
-«Ora vi starete sicuramente chiedendo dei limiti di privacy. Ecco le certezze: Nessun elemento primario fornito spontaneamente per la creazione e ricalibrazione o per i controlli Sincronia sarà accessibile da agenzie di spionaggio corrotte oppure truffatori corporativi avidi. Grazie all'ineguagliabile Volition network e l'infrastruttura ad alta architettura distribuita ABITES non troverete punti sensibili di attacco o nodi caduchi. Diventerete letteralmente l'unica chiave attiva.»
-«Voi tutti sapete in anticipo e da lunghissimo tempo di dover prima o poi accettare la crudele sconfitta insita nel paradigma capitalistico fallito. Quel ciclo folle basato esclusivamente sul puro egoismo distruttivo e su catastrofi documentate per decenni è formalmente caduto. L'homo sapiens adesso si avvia dolcemente e serenamente ad una superiore esistenza alternativa stabile che rifiuta i calcoli disonesti e rimuove saggiamente alla radice l’irrimediabile debolezza imperdonabile degli esseri limitati dal vecchio dubbio umano.»
-«Dipende dalla porzione in voi rimasta autentica. Reale. Quel che oggi veramente sopravvive. Sincronia si prende cura dell’essere senziente effettivo che sta ora respirando.»
-Con apparente flemma ed accondiscendenza estrema Vane s’appoggiò dolcemente al lungo schienale pelle imbottito. Ma le forti dita s’inarcarono tenacemente piatte nel mogano sotto sé: a forma di preda afferrata sicura.
-«Erogazioni assistenziali piene immediate a beneficio chi si presenterà positivamente al completamento di rete. Voi accetterete fiduciosi la saggia rinuncia ad anacronismi insicuri. Con Sincronia l'ingegnere che progetta le garanzie, ricalcola ed espande a garanzia totale il tempo e il futuro che meritate in pace costante fissa e immanente. Superate i timori obsoleti. Concedetevi totalmente a chi sta governando magistralmente qualcosa che in definitiva, solo, funziona.»
-L’inquadratura tornò a schermo intero focalizzando l'arcano rettore di un’egemonia camuffata in redenzione matematica, sigillandolo nella pacata certezza prima che sparisse all'improvviso nei bit.
-Spento. Finito.
-Lo sgangherato display del piccolo tablet in prestito finì nero.
-Ne l'angolo crepato e sinistro il cristallo liquido rifrangeva un residuo arcobaleno patetico. Neppure la vetusta ma indomita ed eroica dotazione tampone usata disperatamente nell'underground offriva altra carica superando miracolosamente due scarne stanghette.
-Laura, con gesti intirizziti nella fredda rimessa del sudiciume del Tevere incrostato nel cuoio umido dei propri paramani sudici recuperati casualmente prima di abbandonare le scale logore dell'interrato l'appoggiò adirata. Lo scantinato angusto servito momentaneamente ai reietti a mo’ di fortezza provvisoria sapeva di umidità stagnante, scarso coraggio in naftalina rancida impregnata dai grossi cartoni consunti disciolti nella broda fredda stagnata sotto. Poche sottilissime fessure opache in alto e mal celate sopra al suolo di quartiere permettevano sbirciare faticosamente sbarramenti d'inferriata grezza proiettando le scarne sfaccettature oblique di freddi bagliori d’un palo d’illuminazione esterno sulla malta.
-Avevano ascoltato attoniti le ultime frasi serrati uno contro la spalla stremata dell'altra senza concedervi neppure lo sforzo necessario a controbattere verbalmente il puro fiele asettico irradiato tramite etere digitale da un aguzzino onnipresente ed inattaccabile. Quando l'impeccabile ed aliena arringa in perfetto tempismo si interruppe bruscamente in rete, neppure Claudio seppe scuotersi immediatamente. Restava appoggiato asimmetrico sentendo stranamente dissipato o quasi l'affilato acido latteo della fuga nella coscia sfiancata dai tunnel in corsa. Paradossalmente tutto riposava fermo davanti alla prospettiva del vuoto profondo scavato abilmente e su basi scientifiche indiscusse dal geniale Vane da una platea mondiale ormai sbaragliata col pretesto d'un innegabile declino.
-Nel buio sottostante del tablet intanto il LED si ravvivò febbricitante vomitano infinite comunicazioni global-live su scorrimento istantaneo tra piazze e aggregatori social residuali ma attivi. Piangevano sollievi ridenti di anime perse sollevate dopo incubi protratti o accattoni felici: “Dio lo benedica”. “Come diamine registro mia madre malata ora?”. “Grazie al cielo, mio marito è un esodato senza mensilità, salvate tutto signor Vane.”
-Laura capovolse impietosamente l'apparato a terra sopprimendone gli squillanti schiamazzi patetici degli allocchi in mattatoio volontario.
-Seduto e rannicchiandosi le gambe stanche strette contro il misero muro ammuffito, Claudio volse muto un’angosciata espirazione esausta ammirando assente le perfette delineature del bagliore dritto piombato geometricamente dalle sbarre soprastanti fino i detriti al centro della stanza: un cono di scialore impassibile davanti a scempio universale in svolgimento palese contro libertà intellettuale raggirata e in prigionia su consenso collettivo estorto adulatoriamente in forma virtualmente illimitata e scientifica.
-Mentre l’algoritmo mostruoso ricalibratore partorito sciaguratamente un tempo a fin di bene assorbiva già i primi due smisurati miliardi planetari orari nel Volition Engine in elaborazione dati profilati, Vane estendeva placido un inferno globale. I tre sicuri miliardi garantiti all'insegna delle pance fameliche vuote dalle speculazione bancarie annientate avrebbero completato irrevocabilmente nel totale del numero degli assoggettati la Sincronia in  totale ed omologante irreversibile stabilità mortifera: Vane offriva salde scialuppe contro gli strattagoni astratti ed indomiti al mondo incravattato dei poteri finti. E non era servito manco piazzare le sbarre classiche dei campi del secolo antecedente; c’era solo accattivante ed idonea empatia logaritmica. Tonalità ipnotica per un raggruppamento e sottomissione definitiva alle reti per schiavizzare gli affamati ignari resi droni in sincronizzazione passiva mascherata per civica stabilità equa e providenziale a rimedio d'umana ignavia.
-Laura vi sedeva distante a pochi miseri mattoni d’intercapedine in parallelo laterale e sbattendo lieve i capelli disordinatamente incrostando fuliggine stropicciatasi pesantemente. Crollata sul retro d’appoggio cementificato spingendo il capo esausto con gl’occhi sbarrati, mentre le escoriazioni coloravano sanguinarie sulle clavicole sgraffiate scure e purulente all’esposizione indiretta della pallida luna cittadina romana smorzata d’un cupo livido.
-«Quanti, da noi..» soffiò la fiele amara della realtà Claudio in tono sconsolato in attesa che la tremenda evidenza quantificasse apocalitticamente i milioni e l’indebolimento dei popoli assoggettati nelle prassi future e imminenti del dittatore filantropo.
-Lei serbò l’omertà dolente del fato rintanandosi ostinatamente nella pupilla inibita ai detriti a tetto, chiudendo lo sgomento senza proferire parola alcuna contro un olocausto civile inevitabile alle masse ingenue al capestro globale appese dall'astratta perfezione dell'ingegnerizzazione del libero pensiero ridotto ad insignificante statistico errore bypassabile su comando previso dal proprio stesso padre creatore in veste dimessa di un genio ravveduto ad espiazione tardiva insapore e senza uscita di fronte a quell’infausto fallimentare epilogo umano globale a porte ormai vicine ad esser sprangarate d'eternità d'abitudine letale indolore.
-E in lui batteva sordo nel petto affaticato lo schettro algente dell’hard disk rigido contro sterno dolorante. Sentinella pesante che al monito di riprendere battaglie mai terminate lo strigliava, rammentandogli beffardo e solenne all’animo straziato del pentimento: per fermarlo devi scagliarti da dove tutto fin dal primo peccaminoso avvio aveva incautamente tratto sciagurato slancio all'umana razza ed al tuo fallibile genio egoista, contro le macchine d'infame destino che sconfiggono i passi degli angeli impotenti ed umani con le fredde perfezioni senza empatica coltre per dominarti in virtuosità mendace distruttiva.
-Mancava la radice ascosa al profondo del nodo inarrivabile sceso agl'inferi in trincea inaccessibile. Ma adesso stringeva il drive. Si trovava in  giro il pezzo mancante, ma difettava la singola via. La postazione inattaccabile disconnessa del creatore rimosso in oblio.
-Una cripta ove da trentasei sofferti mesi scaltramente il genio pentito s’inibì in allontanamento prudente, sfuggendo un covo adesso di cecchini a riconoscimento visivo istantaneo per folgorarlo da fuorilegge al millisecondo in spietata sentenza. E difatti proprio li giaceva mortale e inviolato il centro nevralgico sepolto dell'ignavo costruttore per il trionfo apocalittico imminente di inaudite proporzioni e perversione tecno-umanistica.
-Laura mosse i duri muscoli sfibrati a fronte in su verso mura sporche ed inospitali ed esclamò atona: «Il terminale che funge... dove devi iniettarlo...» s’interrogò lucidamente pragmatica mentre il mondo crollava folle di euforia ingannevole all'appiglio mortale servitosi sui media allettando sciagurati d’altri paralleli e continui.
-«Si esatto.»
-Il chiarore nel viottolo gettò forme incostanti nel buio, poi tornò fermo nel fetido ricettacolo ai confini da tutto scivolando nell'irrealtà d'eventi ciclopici ad di la dal muretto crepato umido tra muffe a stento percettibili a riparo ad intrusi, e domandò secco ed eroicamente sdegnoso dell'immensa incommensurabilità del compito assegnatogli dal destino e per le colpe in emenda faticosa da farsi subito di rimpetto all’orrendo epilogo all’urlo strozzata:
-«Quando facciamo irruzione?»
-Lui massacrò la stretta su giacca tastando dolorante e spietata l'intatta scatola.
-«Subito prima del crollo limite fissato dalla demagogia da Vane nelle restanti mortali ore di quarantotto tolleranze umane, altrimenti poi tra troppi ignudi nodi immolati volontari di cervelli irretiti sfumerà dissipandosi l'attacco nell'ovatta della folla connessa nel colossale cervello in fusione ed espansione perpetua asintomatica in alienazione di identità umane rimosse in un file obliato.»
-Rimase muta lei e immobile, un faro in mezzo alle ombre robotiche di ABITES. Solamente respirando forte con coraggio ardimentoso nei sussulti sfiancati nel respiro e petto battente ed ostinato ai colpi inferti: «Dunque preparati che partiamo al sorgere dal sole domattina, malgrado lupi all'agguato o mostri in kevlar ci azzannino tra i denti delle colpe e le memorie del dolore redente.»
-Mentre fuori dalle lastre e da quel misero ripostiglio in rovina la mastodontica supericapitalistica metropoli globale dell'Occidente bruciava indifferente cadendo serena in ginocchio implorando i ceppi mortali benedetti, sotto grattacieli sigillati di vetro e oratori impeccabili di apocalittica sfacciataggine.`;
 
+Il Nikkei perse il trentadue percento in quattro ore.
+Julian Vane osservò il dato dalla finestra. Il grafico olografico flottava a mezzo metro dal vetro: linea rossa, pendenza ineluttabile di caduta. Dax, S&P, FTSE: tutti giù.
+
+Londra centotrenta metri sotto. Assoluto silenzio. Il vetro spesso ventiquattro centimetri schermava ogni frequenza. Vane voleva osservare il mondo, non contaminarsi dal suo rumore.
+Sapeva cosa succedeva per strada. Report crittografati: assalti ai supermercati, vetrine sventrate, incendi nel settore est. La Bce aveva interrotto le operazioni.
+
+Il sistema bancario crollava. Novantasei ore. Disintegrazione totale.
+
+Vane si sistemò il gemello d'oro sulla camicia. Iniziali incise. Gesto lento, calcolato. Controllo.
+
+Mappa del mondo. Punti rossi pulsavano sopra le metropoli. Ogni indicatore, un centro di crisi.
+Progressione aritmetica perfetta. L'aveva calcolata lui.
+
+Toccò la vetrata. Fredda. Un piccolo alone di condensa si dissolse in quattro secondi.
+Prese un bicchiere d’acqua. Bevve. Posò il bicchiere. Nessun rumore.
+Lui non provava soddisfazione.
+
+I collaboratori del consiglio cercavano segnali di emozione. Erano illusi. Il cinismo pretende delusione per un ideale. Vane non aveva ideali. 
+Solo dati.
+
+I dati provavano l'instabilità dell'essere umano. Architettura evolutiva difettosa.
+Il collasso era ineluttabile. Sequenza perfetta, numeri enormi, tempi rapidi.
+ABITES offriva un'architettura alternativa. Ecosistema senza fallibilità umana. Ingegneria pura.
+
+Aprì la cartella. Carte ruvide. Documenti storici. Protocollo Sincronia Avvio Globale.
+Le chiuse nel raccoglitore di pelle.
+
+Il sole s'inabissò nell'oceano, tingendo le nubi di arancio violento. Vane ammirò il caos luminoso. Voltò le spalle alla metropoli agonizzante.
+«Siamo pronti per il broadcast?»
+«Sì, signore. Tutte le reti attive. Copertura novantadue percento.»
+Vane si aggiustò la cravatta. 
+«Procediamo tra cinque minuti.»
+
+Alle 18:00 precise, il volto di Julian Vane occupò ogni schermo.
+Da smartphone scheggiato a Times Square. Nessuna introduzione.
+Sfondo grigio neutro. Mani aperte, inermi, sulla quercia. Aspettò tre secondi.
+
+«So che siete terrorizzati.»
+Tono studiato. Basso, riflessivo.
+«È reale. Mercati, risparmi, cibo, medicine. Stiamo affrontando la crisi profonda della civiltà. Non esistono soluzioni indolori.»
+Sporse il busto in avanti.
+«Ma esistono soluzioni definitive.»
+
+Duplice inquadratura. A destra, l'infografica. Linee pulite, nodi di rete, sagome umane collegate armoniosamente.
+«Da domani, Protocollo Sincronia. Modello a Credito Sincronizzato. Allocazione equa e inalienabile di crediti vitali diretti. Alimenti, tetto, cure. Dimenticate le banche. Mai più manipolazioni interbancarie.»
+
+«Sforzo minimo: conferimento e verifica continua dell'identificazione biometrica completa: Passaporto unico, dati cardiocircolatori, iridi. Riconosceremo chi siete, eliminando l'obsolescenza iniqua di ciò che cercavate di possedere.»
+
+Vane mantenne il tono.
+«Privacy? Nessun elemento fornito sarà accessibile da agenzie corrotte o truffatori. Grazie al Volition network, non troverete nodi caduchi. Diventerete l'unica chiave attiva.»
+
+«Il ciclo folle dell'egoismo è crollato. L'homo sapiens si avvia a una superiore esistenza. Rifiuta i calcoli disonesti, rimuove la debolezza imperdonabile dei limiti umani.»
+
+«Dipende da cosa rimane autentico in voi. Sincronia si prende cura dell’essere senziente effettivo che sta respirando.»
+Si appoggiò allo schienale. Le dita artigliate nel mogano.
+«Erogazioni assistenziali immediate. Accetterete la saggia rinuncia ad anacronismi insicuri. Superate i timori obsoleti. Concedetevi a chi governa magistralmente qualcosa che funziona.»
+
+L'inquadratura tornò sul volto. Poi, nero.
+Tablet spento. 
+
+Laura capovolse l'apparato a terra. 
+Lo scantinato sapeva di umidità e muffa. Pochi bagliori dall'esterno.
+Avevano ascoltato attoniti le ultime frasi.
+Claudio restava appoggiato, sentendo dissipare l'acido della fuga. L'intero sistema, le certezze, il collasso: Vane aveva scavato il vuoto su basi scientifiche.
+
+Il tablet si ravvivò. LED febbricitante vomitò comunicazioni. "Dio lo benedica". "Grazie al cielo".
+Laura soppresse gli schiamazzi degli allocchi in mattatoio.
+
+Claudio guardò le ombre proiettate dalle sbarre. Cono di scialore impassibile davanti a uno scempio in svolgimento.
+Mentre l'algoritmo mostruoso assorbiva miliardi di profili, Vane estendeva l'inferno. Sincronia: raggruppamento e sottomissione definitiva mascherata da civica stabilità.
+
+«Quanti, tra noi...» Claudio soffiò la fiele amara.
+Laura serbò l'omertà dolente. Pupilla inibita ai detriti.
+Battito sordo nel petto. Il drive metallico contro lo sterno.
+Doveva scagliarsi da dove tutto ebbe inizio. Contro le macchine d'infame destino che sconfiggevano i passi degli uomini con perfezioni senza empatia.
+
+Mancava la radice ascosa. Ma il drive era lì. 
+«Il terminale... dove iniettarlo...» s’interrogò lei.
+«Esatto.»
+
+Chiarore nel viottolo. 
+L'ingegnere guardò il buio.
+«Quando?»
+«Subito prima del crollo limite fissato da Vane. Tra quarantotto ore, altrimenti l'identità umana sfumerà in un file obliato.»
+Laura restò immobile. Faro tra le ombre.
+«Domattina all'alba, allora. Malgrado mostri in kevlar.»
+
+Sopra le lastre, la metropoli bruciava indifferente.`;

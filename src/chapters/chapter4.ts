@@ -1,62 +1,79 @@
 export const chapter4Content = `Capitolo 4: La Geometria del Consenso
 
-L'aria all'ottantesimo piano era sterile, svuotata di qualsiasi traccia di vita. Nessun polline, nessuna polvere, nessun odore umano. Solo il freddo respiro dei filtri di purificazione. A Julian Vane piaceva così. 
+L'aria all'ottantesimo piano scorreva sterile, priva di polline o odori umani. I filtri di purificazione soffiavano un alito gelido che a Julian Vane serviva solo a mantenere intatta la lucidità.
 
-Si avvicinò all'immensa vetrata. Sotto di lui, Ginevra bruciava. Nel settore sud, i bagliori degli incendi improvvisati si riflettevano contro la coltre di smog denso che ristagnava sopra il lago Lemano, tingendo la nebbia notturna di un arancione malato. Julian osservava quello scempio senza provare assolutamente nulla.
+Si avvicinò alla vetrata. Sotto i suoi piedi, Ginevra bruciava. Nel settore sud, bagliori d'incendi improvvisati squarciavano la coltre di smog. La nebbia notturna assorbiva quel riflesso, trasformando il panorama in una lenta agonia color arancio. Julian fissava quello scempio. Non sentiva nulla.
 
-Si voltò verso la proiezione olografica che dominava la parete. Tre metri di dati puri, privi di qualsiasi colore superfluo. La mappa del settore sud-4 pulsava di piccoli punti rossi che indicavano densità di calore anomale: fuochi accesi nei cortili e nei bidoni della spazzatura. Erano passate quattro notti da quando l'Amministrazione aveva tagliato il riscaldamento nei blocchi residenziali dal B-17 al B-23. Quarantaduemila persone al gelo. Per il sistema, un'unità era misurabile e gestibile; un essere umano, con la sua disperazione, no.
+Si voltò verso la parete. La proiezione olografica riempiva tre metri di stanza con dati nitidi, privi di sfumature inutili. La mappa del settore sud-4 pulsava. Piccoli punti rossi indicavano il calore dei bidoni in fiamme e dei cortili trasformati in bivacchi. Quattro notti prima, l'Amministrazione aveva tagliato il riscaldamento nei blocchi dal B-17 al B-23. Quarantaduemila corpi assideravano al buio. Il sistema contava unità. Il sistema gestiva asset. L'angoscia umana rimaneva un rumore di fondo incalcolabile.
 
-Julian aveva letto il report alle cinque e quaranta del mattino. Le sue proiezioni si erano rivelate accurate con un margine di errore del due virgola tre percento. Adesso erano le undici di sera e la rivolta nel settore sud-4 era un fatto matematico. Traiettorie di massa, punti critici, saturazione prevista in quarantotto ore.
+Julian aveva letto il report alle cinque e quaranta. Le sue proiezioni scivolavano su quel caos con un margine di errore del due virgola tre percento. Adesso le undici di sera segnavano l'inizio della rivolta. Le traiettorie di massa si muovevano come le lancette di un orologio sincronizzato.
 
-Allungò la mano verso il pannello tattile. Il comando per attivare la Fase di Emergenza Sanitaria era un bottone grigio chiaro, del tutto anonimo. Lo premette. 
-Un tono basso confermò l'autorizzazione. Sul layer cartografico, l'intero settore cambiò colore, passando da "conflittualità civile" a "emergenza sanitaria". Il protocollo di risposta mutò all'istante: nessuna forza antisommossa, niente scudi o lacrimogeni. Solo squadre mediche di ABITES, pronte a distribuire kit di supporto nutrizionale. 
-E i cerotti neurali.
+Allungò una mano sul pannello. Premette il tasto grigio dell'Emergenza Sanitaria.
 
-Le porte a doppi battenti si aprirono alle sue spalle. Julian non si voltò subito; riconobbe il passo pesante, il rumore del cuoio militare sulla resina del pavimento. Quando finalmente si girò, il Generale Müller era già a metà stanza, con un tablet stretto nervosamente sotto il braccio. 
-Müller sudava. Una patina lucida gli copriva la fronte e il colletto dell'uniforme era stato slacciato per cercare aria.
+Un tono basso confirmò l'operazione. Sulla mappa, il settore sud mutava colore. Il rosso della rivolta sbiadiva nel bianco dell'emergenza medica. Il protocollo di risposta sostituiva scudi e lacrimogeni con le uniformi candide delle squadre di ABITES. Kit nutrizionali. Razioni.
 
-Julian lo guardò avvicinarsi senza fiatare.
-«Signor Vane, i dati del settore sud mostrano un pattern di aggregazione pericoloso. Se non interveniamo adesso con le unità antisommossa...»
-«Müller.» Il nome tranciò la foga militare come una lama. Il generale ammutolì all'istante.
-«Ha visto i dati di aggregazione del blocco B-17?» domandò Julian, la voce priva di inflessioni.
+E cerotti neurali.
+
+Alle sue spalle, le porte si spalancarono. Il passo cadenzato del Generale Müller risuonò sulla resina del pavimento prima ancora che l'uomo entrasse nel campo visivo di Julian. Il generale avanzava con un tablet stretto sotto il braccio, le tempie imperlate di sudore, il colletto dell'uniforme aperto per un bisogno d'aria negato dalla stanza.
+
+Julian attese. Volse il corpo solo quando il generale fu a metà stanza.
+
+«Signor Vane, i dati mostrano un pattern di aggregazione esplosiva. Se non interveniamo subito con le unità antisommossa...»
+
+«Müller.» Julian spezzò la foga del militare con una sferzata secca. Il generale si bloccò.
+
+«Ha analizzato le stime di aggregazione del blocco B-17?»
+
 «Sì, ma...»
-«L'aggregazione massima è prevista tra trentasei e quarantaquattro ore.» Julian indicò lo schermo con un cenno del capo. «Le unità antisommossa avrebbero una finestra operativa di appena sei ore. Dopodiché, i droni civili e le telecamere trasformerebbero l'intervento in un massacro mediatico.»
 
-Müller strinse la mascella, i muscoli del viso tesi. «Quindi non interveniamo e li lasciamo distruggere il quartiere?»
-«Abbiamo appena autorizzato la Fase di Emergenza Sanitaria.»
-«Le squadre mediche non basteranno a contenere una rivolta per il freddo...»
-«Non devono contenere nulla.» Julian gli piantò gli occhi addosso, gelidi. «Devono farsi vedere. Tre squadre per ogni blocco. Uniformi bianche, immacolate. Razioni proteiche ad alto rendimento. Voglio una presenza fisica e rassicurante nei punti di massima disperazione.»
+«L'apice della rivolta avverrà tra trentasei e quarantaquattro ore.» Julian indicò lo schermo con un cenno appena accennato. «Le sue unità antisommossa avrebbero sei ore di efficacia. Dopo, le telecamere e i droni civili trasformerebbero il suo intervento in un suicidio mediatico.»
 
-Müller aprì la bocca per ribattere, ma le parole gli morirono in gola. Capì. 
-«Le razioni...» mormorò alla fine. «Le condizionerà all'installazione del cerotto neurale.»
-«Le offriremo in abbinamento all'installazione,» lo corresse Julian, tornando a guardare la vetrata. «La scelta, come sempre, rimane libera.»
+Müller serrò le mascelle. «E la lascerà bruciare, questa città?»
 
-Müller deglutì a fatica, combattendo contro il nodo che gli serrava la gola. Strinse i pugni lungo i fianchi, per poi costringersi a rilassarli, impotente di fronte a quella logica disumana. 
-«Signor Vane, se aspettiamo altre quarantotto ore senza riattivare il riscaldamento, le proiezioni indicano trenta morti per assideramento. Forse di più.»
-«Ventisei virgola quattro.» Julian non si voltò. «Il modello è stato aggiornato questa mattina.»
+«Abbiamo attivato le squadre sanitarie.»
 
-Müller smise di respirare per un secondo. Le sue spalle rigide cedettero svuotate da una resa incondizionata.
-«Quarantaquattro mesi fa,» continuò Julian, «l'adesione volontaria ai cerotti neurali era ferma al tre virgola otto percento. Sa qual è la percentuale oggi?»
-Müller non rispose. Fissava il pavimento.
-«Trentuno virgola due.» Julian appoggiò i polpastrelli sul vetro freddo della finestra. «L'adesione aumenta del quattro virgola uno percento dopo ogni crisi acuta. E questo, generale, è il nostro settimo evento.»
+«Non basteranno a calmare gente che muore di freddo...»
+
+«Non devono calmare nessuno.» Julian fissò il generale. Gli occhi non brillavano. «Devono esserci. Tre squadre per ogni blocco. Uniformi bianche. Impeccabili. Razioni ad alto apporto proteico. Voglio che la loro presenza sia fisica, costante, rassicurante.»
+
+Müller aprì la bocca. Le parole restarono intrappolate nei polmoni. Quando comprese, il viso gli sbiancò.
+
+«Le razioni...» sussurrò. «Le distribuirà solo se installeranno il cerotto neurale.»
+
+«Le offriremo in abbinamento al supporto,» corresse Julian, tornando a osservare la nebbia arancione. «La scelta, ovviamente, resta libera.»
+
+Il generale deglutì. Le dita strette sul tablet tremavano lievemente. Müller cercò di distendere i muscoli delle mani, riducendole a due grumi inerti. «Signor Vane, se non riattiviamo il riscaldamento, le stime parlano di almeno trenta morti per assideramento.»
+
+«Ventisei virgola quattro.» Julian non si girò. «Il calcolo è aggiornato a questa mattina.»
+
+Müller bloccò il respiro. Le spalle cedettero, il petto si sgonfiò. Resa totale.
+
+«Quarantaquattro mesi fa,» riprese Julian, «l'adesione volontaria ai cerotti era ferma al tre virgola otto percento. Oggi?»
+
+Müller tacque.
+
+«Trentuno virgola due.» Julian posò le dita sul vetro freddo della finestra. «L'adesione cresce del quattro virgola uno percento dopo ogni catastrofe. Siamo alla settima. Il disegno è chiaro.»
+
 «E i ventisei morti?»
-«Sono una variabile fisiologica del modello.»
 
-L'aria nella stanza divenne improvvisamente irrespirabile per Müller. «E le unità che non aderiranno al programma neanche dopo questa crisi?» domandò, la voce ridotta a un sussurro raschiato.
-«Verranno gestite con il ciclo successivo.» Julian si allontanò dal vetro, tornando verso la scrivania. «Nel settore sud-7 l'infrastruttura idrica regge ancora, ma le proiezioni per l'estate indicano...»
-«Ho capito.» L'interruzione fu netta, carica di un disgusto che il generale non riuscì a mascherare.
+«Sono una costante del modello.»
 
-Julian lo squadrò. Müller teneva il mento ostinatamente alzato, ma la sua postura era quella di un uomo sconfitto. 
-«C'è altro, generale?»
-«No, signor Vane.»
-«Bene.»
+L'aria nella stanza divenne pesante. Müller riprese fiato con fatica. «E chi rifiuterà il programma anche dopo questo trauma?»
 
-Müller voltò i tacchi e uscì. Le porte a doppi battenti si richiusero alle sue spalle con un tonfo ovattato, sigillando di nuovo la stanza.
-Julian rimase in piedi al centro dell'ufficio. Contò mentalmente quattro secondi per lasciare che la tensione si dissipasse, poi si avvicinò al tavolo e bevve un sorso d'acqua.
+«Il sistema procederà al ciclo successivo.» Julian tornò al tavolo. «La rete idrica del settore sud-7 regge, ma per l'estate le proiezioni indicano...»
 
-La proiezione olografica continuava a mappare il settore sud-4. I punti caldi si stavano spostando verso il blocco B-19, esattamente come previsto. Fra trentasei ore le squadre mediche sarebbero arrivate con i kit salvavita. Fra quarantotto, la fame e il gelo avrebbero fatto il resto. Fra due settimane, l'adesione volontaria alla rete neurale di ABITES avrebbe registrato un nuovo picco. Il sistema si stava chiudendo su se stesso, inesorabile. Un punto percentuale alla volta.
+«Basta.» L'interruzione fu ruvida, trasudava disgusto.
 
-Julian posò il bicchiere. Fuori, la pioggia batteva contro il vetro blindato, invisibile e muta. Tornò a guardare il panorama.
-Ginevra bruciava, consumandosi in una lenta agonia arancione. Julian osservava quella luce con fredda soddisfazione. Sapeva che tra dieci anni la città non sarebbe più bruciata. 
-Non perché qualcuno avesse spento i fuochi. 
-Ma perché non ci sarebbe più stato nessuno con la volontà di accenderli.`;
+Julian lo misurò con lo sguardo. Il mento di Müller puntava ancora verso l'alto, come una barca rimasta in secca dopo la mareggiata.
+
+«Vada, generale.»
+
+Müller voltò le spalle. Il rumore dei suoi stivali morì contro le porte che si chiudevano.
+
+Julian contò quattro battiti. Si avvicinò al tavolo. Bevve un sorso d'acqua. 
+
+Sullo schermo, i punti caldi nel blocco B-19 bruciavano come previsto. Tra trentasei ore le squadre mediche avrebbero varcato la soglia. Tra quarantotto, la fame e il ghiaccio avrebbero compiuto l'opera. Tra due settimane, la rete neurale avrebbe assorbito un altro picco di adesioni.
+
+Julian posò il bicchiere. Osservò la pioggia invisibile batteva contro il vetro. Ginevra ardeva. Sapeva che entro dieci anni quel fuoco si sarebbe spento. Non perché qualcuno avrebbe salvato la città.
+
+Ma perché nessuno avrebbe più avuto la forza di appiccare l'ultimo incendio.`;

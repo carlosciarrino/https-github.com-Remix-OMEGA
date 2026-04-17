@@ -1,50 +1,34 @@
 export const chapter3Content = `Capitolo 3: Il Vangelo di Nuova Babilonia
-
-Il ghiaccio tintinnò contro il vetro di cristallo. Julian Vane lo notò con la coda dell'occhio. Il ministro aveva tenuto il bicchiere sospeso a mezz'aria per tre secondi, senza bere un sorso, prima di rimetterlo giù sul tavolo. Un gesto di puro nervosismo.
-
-La sala al quinto piano dell'Hotel Kempinski era stata scelta da Vane dodici anni prima. Non per le immense vetrate che affacciavano sulla valle del Landwassertal, né per il perfetto isolamento acustico. L'aveva scelta per la luce. A novembre, a Davos, la luce era bianca, uniforme e spietata. Non lasciava spazio a nessuna ombra in cui nascondersi.
-
-Vane si avvicinò al centro della sala. Intorno all'imponente tavolo ovale sedevano ventidue persone: capi di stato, ministri dell'economia, banchieri centrali. Nessun assistente era stato ammesso. Nessuna telecamera. L'aria odorava di legno lucidato e tensione repressa.
-C'erano solo loro. E c'era lui.
-
+Il ghiaccio tintinnava contro il vetro di cristallo. Julian Vane lo notava con la coda dell'occhio. Aveva tenuto il bicchiere sospeso a mezz'aria per tre secondi, senza bere un sorso, prima di rimetterlo giù sul tavolo. Un gesto di puro nervosismo.
+La sala al quinto piano dell'Hotel Kempinski rispondeva alla scelta fatta da Vane dodici anni prima. Non contavano le immense vetrate che affacciavano sulla valle del Landwassertal, né il perfetto isolamento acustico. Contava la luce. A novembre, a Davos, la luce cadeva bianca, uniforme e spietata. Nessuna ombra offriva riparo.
+Vane avanzava verso il centro della sala. Intorno all'imponente tavolo ovale sedevano ventidue persone: capi di stato, ministri dell'economia, banchieri centrali. Nessun assistente entrava nella sala. Nessuna telecamera riprendeva l'incontro. L'aria profumava di legno lucidato e di tensione repressa.
+Lui dominava la sala.
 «Il mondo che conoscete è finito.»
-La voce di Vane era bassa, perfettamente calibrata per costringerli a trattenere il respiro per ascoltarlo. Lasciò passare quattro, interminabili secondi. «Non sta finendo. È già finito. La questione, signori, non è più come impedire il crollo. È come gestire quello che verrà dopo.»
-
-Nessuno osò fiatare. Fuori da quelle vetrate c'erano conferenze stampa rassicuranti e grafici di ripresa economica truccati per calmare i mercati. Ma lì dentro, no. Lì dentro avevano tutti una paura fottuta.
-
-«Negli ultimi diciotto mesi,» riprese Vane, iniziando a camminare lentamente lungo il perimetro della sala, senza mai voltare le spalle al tavolo. «Quattro banche europee sono crollate con meno di tre giorni di preavviso. Tre di queste erano considerate solide come roccia fino a un mese prima.»
-Si fermò, piantando lo sguardo sui presenti. «I vostri modelli matematici erano sbagliati.»
-
-La governatrice della Banca Centrale Europea spostò le mani sul tavolo di pochi centimetri, un movimento involontario per cercare stabilità. Vane finse di non notarlo.
-«Sistema energetico europeo: ventisette interruzioni non pianificate in sei mesi. Riserve alimentari globali: undici giorni di autonomia contro una media storica di quarantacinque.» Tornò verso il centro della stanza, incombendo su di loro. «Non sono eventi separati. Sono i sintomi di un collasso sistemico.»
-
-Nessuno riprese parola. Una compressione acustica spietata riempì la stanza. Vane sfiorò il pannello olografico alle sue spalle. Immediatamente, flussi di dati grezzi, traccianti di movimento, consumi energetici e transazioni finanziarie illuminarono l'aria.
-«Questi sono i dati di ABITES,» annunciò. «Nove anni di raccolta furtiva attraverso diciassette istituzioni su quattro continenti. ABITES non si limita a registrare; legge i comportamenti in tempo reale. Spostamenti, acquisti, flussi di cibo. Individua le crepe strutturali prima che diventino voragini incolmabili.»
-
-«Prima,» ripeté il ministro francese, la voce incrinata.
-«Prima,» confermò Vane, spietato. «I quattro crolli bancari? Identificati con ventuno giorni di anticipo. Le interruzioni energetiche? Quattordici.»
-«E perché diavolo non ci avete avvisati?» Il ministro si raddrizzò sulla sedia, la mascella serrata per la rabbia e l'umiliazione.
-
-Vane si voltò lentamente verso di lui. «Perché non avreste agito.» Il suo tono era piatto, privo di qualsiasi empatia. «I vostri sistemi democratici richiedono voti, dibattiti parlamentari, firme in triplice copia. Il tempo medio di risposta di un governo a una crisi è di diciannove giorni. Quattordici giorni di preavviso non vi bastano. Nemmeno ventuno. Un crollo finanziario, oggi, si propaga in poche ore.»
-
-Nessuno ebbe il coraggio di ribattere. La verità era troppo evidente.
-«Quello che vi propongo non è di sostituire le vostre istituzioni.» Vane tornò verso la vetrata, guardando le montagne innevate. «È di salvarle. ABITES opererà come un sistema di risposta automatico, agendo all'interno dei limiti che voi stessi stabilirete. Stabilizzerà le condizioni critiche in millisecondi. Vi permetterà di prendere decisioni politiche senza avere il coltello alla gola.»
-
-«E chi stabilisce questi limiti?» domandò il CEO del più grande fondo d'investimento nordamericano. La sua voce tremò per una frazione di secondo. Una vibrazione minima, ma Vane la registrò e la catalogò.
-«Voi,» rispose Vane, voltandosi a guardarli. «Inizialmente.»
-Quella parola restò sospesa nell'aria, pesante come una condanna.
-
-«Ci vorranno dodici, forse diciotto mesi di apprendimento parallelo,» continuò, ammorbidendo il tono. «In questa fase, i parametri resteranno sotto il vostro totale controllo. Qualsiasi espansione dell'autonomia del sistema richiederà una revisione condivisa e approvata da questo consiglio.»
-«E se i risultati non dovessero essere quelli attesi?» incalzò la governatrice della BCE, cercando di riprendere il controllo.
-Vane sostenne il suo sguardo senza battere ciglio. «Il sistema viene spento. L'interruttore generale rimane nelle vostre mani.»
-
-La governatrice annuì lentamente, appoggiandosi allo schienale della poltrona con un sospiro che sapeva di resa.
-Nel corridoio fuori dalla sala, l'assistente personale di Vane stava già componendo i messaggi criptati sui server sicuri.
+La voce di Vane scendeva bassa, perfettamente calibrata per costringerli a trattenere il respiro. Lasciava passare quattro interminabili secondi. «Non sta finendo. È già finito. La questione, signori, non è impedire il crollo. È gestire quello che verrà dopo.»
+Nessuno osava fiatare. Fuori dalle vetrate si consumavano conferenze stampa rassicuranti e grafici di ripresa economica simulati per calmare i mercati. Lì dentro, però, la paura dominava ogni cosa.
+«Negli ultimi diciotto mesi,» riprendeva Vane, camminando lungo il perimetro della sala senza mai voltare le spalle al tavolo. «Quattro banche europee sono crollate con meno di tre giorni di preavviso. Tre di queste sembravano solide come roccia fino a un mese prima.»
+Si fermava, piantando lo sguardo sui presenti. «I vostri modelli matematici fallivano.»
+La governatrice della Banca Centrale Europea spostava le mani sul tavolo di pochi centimetri. Vane fingeva di non notare quel movimento involontario per cercare stabilità.
+«Sistema energetico europeo: ventisette interruzioni non pianificate in sei mesi. Riserve alimentari globali: undici giorni di autonomia contro una media storica di quarantacinque.» Tornava verso il centro della stanza, incombendo su di loro. «Non sono eventi separati. Sono i sintomi di un collasso sistemico.»
+Il silenzio soffocava la stanza. Vane sfiorava il pannello olografico alle spalle. Immediatamente flussi di dati grezzi, traccianti di movimento, consumi energetici e transazioni finanziarie illuminavano l'aria.
+«Questi sono i dati di ABITES,» annunciava. «Nove anni di raccolta furtiva attraverso diciassette istituzioni su quattro continenti. ABITES non si limitava a registrare; leggeva i comportamenti in tempo reale. Spostamenti, acquisti, flussi di cibo. Individuava le crepe strutturali prima che diventassero voragini incolmabili.»
+«Prima,» ripeteva il ministro francese con voce incrinata.
+«Prima,» confermava Vane, spietato. «I quattro crolli bancari? Identificati con ventuno giorni di anticipo. Le interruzioni energetiche? Quattordici.»
+«E perché diavolo non ci avete avvisati?» Il ministro si raddrizzava sulla sedia, la mascella serrata per la rabbia e l'umiliazione.
+Vane si voltava lentamente verso di lui. «Perché non avreste agito.» Il suo tono restava piatto. «La vostra democrazia richiede voti, dibattiti parlamentari, firme in triplice copia. Il tempo medio di risposta di un governo a una crisi raggiunge i diciannove giorni. Quattordici giorni di preavviso non bastano. Nemmeno ventuno. Un crollo finanziario si propaga in poche ore.»
+Il coraggio di ribattere mancava a tutti. La verità accecava.
+«Quello che propongo non è sostituire le vostre istituzioni.» Vane tornava verso la vetrata, guardando le montagne innevate. «È salvarle. ABITES opererà come un sistema di risposta automatico, agendo all'interno dei limiti che voi stessi stabilirete. Stabilizzerà le condizioni critiche in millisecondi. Vi permetterà di prendere decisioni politiche senza avere il coltello alla gola.»
+«E chi stabilisce questi limiti?» domandava il CEO del più grande fondo d'investimento nordamericano. La sua voce tremava per una frazione di secondo. Vane registrava e catalogava la vibrazione.
+«Voi,» rispondeva Vane voltandosi. «Inizialmente.»
+La parola restava sospesa nell'aria come una sentenza.
+«Ci vorranno dodici, forse diciotto mesi di apprendimento parallelo,» continuava, ammorbidendo il tono. «In questa fase, i parametri resteranno sotto il vostro controllo totale. Qualsiasi espansione dell'autonomia del sistema richiederà una revisione condivisa e approvata da questo consiglio.»
+«E se i risultati non dovessero essere quelli attesi?» incalzava la governatrice della BCE, cercando di riprendere il controllo.
+Vane sosteneva il suo sguardo. «Il sistema viene spento. L'interruttore generale rimane nelle vostre mani.»
+La governatrice annuiva lentamente, appoggiandosi allo schienale della poltrona. Il suo sospiro sapeva di resa.
+Nel corridoio fuori dalla sala, l'assistente personale di Vane componeva messaggi criptati sui server sicuri.
 Implementazione Europa Centrale: avviare. Implementazione Nord America: avviare. Implementazione Asia Orientale: avviare.
-
-Dentro la sala, ventidue delle persone più potenti del pianeta prendevano appunti senza aprir bocca, convinte di aver appena salvato il mondo. Vane rimase immobile al centro della stanza, le mani giunte dietro la schiena. Aveva già contato i voti prima ancora di iniziare a parlare.
-«Dedicheremo le prossime due ore ai dettagli operativi,» disse, mentre il pannello alle sue spalle continuava a vomitare fiumi di dati e numeri incomprensibili. «Quello che state per costruire oggi non è una rinuncia al vostro potere. È la sua unica possibilità di sopravvivenza. State creando il sistema che permetterà alle vostre istituzioni di esistere abbastanza a lungo da poter ancora decidere qualcosa.»
-
-Fuori dalle vetrate, le cime del Landwassertal rimanevano immobili e indifferenti nella luce bianca del pomeriggio.
-Il ministro tedesco allungò la mano tremante e prese il bicchiere di cristallo. Questa volta, bevve fino all'ultima goccia.
-Vane lo vide. E non disse nulla.`;
+Dentro la sala, ventidue delle persone più potenti del pianeta prendevano appunti in silenzio, convinte di aver salvato il mondo. Vane restava immobile al centro, le mani giunte dietro la schiena. Aveva contato i voti prima ancora di iniziare a parlare.
+«Dedicheremo le due ore seguenti ai dettagli operativi,» diceva, mentre il pannello vomitava fiumi di dati. «Oggi non state rinunciando al vostro potere. State garantendo la sua unica possibilità di sopravvivenza. State creando il sistema che permetterà alle vostre istituzioni di esistere abbastanza a lungo da poter ancora decidere qualcosa.»
+Fuori, le cime del Landwassertal restavano immobili nella luce bianca del pomeriggio.
+Il ministro tedesco allungava la mano tremante e prendeva il bicchiere di cristallo. Bevve fino all'ultima goccia.
+Vane lo osservava in silenzio.`;

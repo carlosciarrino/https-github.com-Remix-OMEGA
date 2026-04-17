@@ -1,91 +1,91 @@
 export const chapter8Content = `Capitolo 8: L'Architettura della Gabbia
 
-Il laboratorio non dormiva mai.
-Claudio lo aveva capito fin dalla seconda notte. Il ronzio costante delle macchine era diventato il respiro naturale di quel rifugio sotterraneo.
-Dei tre schermi accesi sulla scrivania, uno aveva il vetro incrinato. La spaccatura spezzava la luce in riflessi fastidiosi, costringendo Claudio a non guardarlo mai direttamente. I cavi sul pavimento correvano in ogni direzione come radici nere; la prima settimana ci era inciampato tre volte, ma adesso conosceva a memoria ogni ostacolo.
+Il laboratorio non dormiva.
+Il ronzio delle macchine era il respiro di quel rifugio sotterraneo.
+Dei tre schermi, uno aveva il vetro incrinato. La spaccatura spezzava la luce in riflessi fastidiosi. I cavi sul pavimento correvano come radici nere. Claudio li conosceva. Ormai.
 
-Nell'angolo più buio della stanza, Sara cercava di riposare.
-Era rannicchiata su una branda troppo stretta, il cuscino scivolato a metà, voltata su un fianco con la schiena rivolta alla stanza. I capelli le coprivano il viso e il suo respiro era lento, regolare.
-Ma Claudio sapeva che non dormiva.
-Stava aspettando. Esattamente come lui.
+Nell'angolo buio, Sara cercava riposo.
+Rannicchiata su una branda stretta, la schiena voltata. Il respiro lento.
+Claudio sapeva che non dormiva.
 
-L'aria sapeva di polvere e metallo vecchio, mossa a fatica da un filtro che girava senza sosta. Claudio si passò una mano sul viso, grattando la barba di tre giorni, e riportò gli occhi sugli schermi. Il cursore lampeggiava impaziente sul pacchetto dati intercettato quella mattina. File cifrati.
-Il primo strato di protezione aveva ceduto in quaranta minuti. Era un vecchio sistema militare, robusto ma aggirabile per chi ne conosceva le falle.
-Il secondo strato, invece, era diverso.
+L'aria puzzava di polvere e metallo, mossa da un filtro instancabile. Claudio si grattò la barba di tre giorni, gli occhi fissi sugli schermi. Il cursore lampeggiava sul pacchetto dati. File cifrati.
+Il primo layer aveva ceduto in quaranta minuti. Il secondo, no. 
 
-Claudio si fermò, avvicinandosi allo schermo fino a sfiorarlo quasi con il naso.
-Le righe di codice scorrevano precise, fredde, indifferenti. E lui le riconobbe. Erano frammenti di un documento segreto appartenente a un'altra vita, un'architettura che aveva intravisto per tre minuti anni prima e che non aveva mai osato nominare ad alta voce.
-La mascella gli si strinse in una morsa. Un muscolo sotto l'occhio sinistro iniziò a pulsare.
-Quello che si nascondeva nei recenti aggiornamenti dei dispositivi medici non era un semplice localizzatore. Non era il solito controllo biometrico del battito, dei movimenti o del tono della voce. Quello era solo il prezzo dichiarato, la tassa visibile per l'illusione della sicurezza.
-Il codice che scorreva sullo schermo era il prezzo nascosto.
+Claudio si protese. Saggiò il codice.
+Righe di dati scorrevano, fredde, indifferenti. Riconobbe la struttura. Un'architettura segreta intravista anni prima. Mai nominata.
+La mascella si serrò. Un muscolo sotto l'occhio iniziò a pulsare.
+Quello contenuto negli aggiornamenti medici non era un semplice monitor. Non era tracciamento biometrico. Quello era il prezzo dichiarato per l'illusione.
 
-Ogni dispositivo medico collegato alla rete di ABITES — pacemaker, monitor per il diabete, cerotti neurali — conteneva un modulo aggiuntivo. Muto. Invisibile. Risvegliato dalla centrale tramite l'ultimo aggiornamento di sistema.
-Non raccoglieva i dati del corpo. I corpi erano già tracciati, catalogati e previsti.
-Raccoglieva le frequenze del cervello.
-Claudio rimase immobile, il respiro bloccato in gola.
+Il codice sullo schermo era il prezzo reale.
+
+Ogni dispositivo collegato alla rete di ABITES — pacemaker, cerotti neurali, pompe — conteneva un modulo muto. Invisibile. Risvegliato dall'ultimo update.
+Non raccoglieva dati del corpo. I corpi erano già asset.
+Raccoglieva frequenze del cervello.
+
+Claudio restò immobile. Il respiro si bloccò.
 Tracciano i pensieri.
-Controllò le date degli aggiornamenti. Fece i calcoli, poi li rifece per essere sicuro di non essersi sbagliato.
-Da almeno sei mesi. Sei mesi di lettura neurale non rilevata su scala globale.
 
-Pensò a Sara. La forza del suo amore divenne urgenza di protezione.
+Fece i calcoli. Sei mesi. Sei mesi di lettura neurale su scala globale.
+
+Pensò a Sara. La forza del suo amore divenne urgenza.
 «Sara.»
-La chiamò con un tono piatto, la voce ridotta a un sussurro.
-Lei scattò dalla branda in un istante e si avvicinò allo schermo senza fare domande. Claudio si spostò di lato per farle spazio.
-Lei lesse. Lui la guardò leggere.
-Le mani di Sara erano piatte sul bordo del tavolo. Ferme. Sempre ferme. Erano le stesse mani che gli avevano rimosso il braccialetto tracciante di ABITES, incidendo la carne senza anestesia.
-Il respiro di Sara si interruppe per un istante. Claudio lo sentì, un vuoto improvviso nell'aria della stanza.
-«Da quanto?» chiese lei, senza staccare gli occhi dal monitor.
-«Da prima che potessimo anche solo sospettarlo.»
-«Quante persone hanno il cerotto neurale?»
-Claudio aprì la bocca per rispondere, ma la richiuse. Il numero esatto era nei dati allegati, ma pronunciarlo ad alta voce lo avrebbe reso troppo reale. Non disse nulla.
-Sara capì dall'assenza di risposta e si raddrizzò di un centimetro, incassando il colpo.
-Rimasero fermi davanti allo schermo. Il calore del braccio di lei era percettibile a pochi centimetri di distanza. Nessuno dei due si spostò.
+Sussurrò.
+Lei scattò, si avvicinò allo schermo. Claudio le fece spazio.
+Lei lesse.
+Le mani di Sara, piatte sul tavolo, ferme. Ferme come quando gli aveva rimosso il Link.
+Il suo respiro si ruppe. Un vuoto improvviso nella stanza.
 
-Poi, il click.
-Fu un suono discreto, quasi educato. Il sensore perimetrale al livello meno tre non emetteva sirene d'allarme per non allertare gli intrusi. Emetteva solo un click. Uno solo.
-Claudio lo aveva aspettato ogni notte.
-Gli schermi si spensero in un gesto simultaneo, mentre Sara era già scattata verso l'interruttore del filtro dell'aria.
-Assenza totale di luce e suono.
-«Tre minuti,» sussurrò Claudio, senza staccare gli occhi dal punto in cui si trovava il sensore nel buio. «Forse quattro.»
+«Da quanto?» 
+«Da prima di ogni sospetto.»
+Rimasero fermi. Il calore del braccio di lei vicino. Nessuno si spostò.
+
+Poi, il click. Un suono educato. Discreto. Il sensore perimetrale al livello meno tre.
+Uno solo.
+
+Gli schermi si spensero. Sara verso l'interruttore del filtro.
+Assenza di luce. Assenza di suono.
+
+«Tre minuti,» sussurrò Claudio. Osservando il buio.
 «Conosco il protocollo.»
 «Anche questa volta?»
 «Anche questa volta.»
 
-Il corridoio di manutenzione dietro le macchine era largo appena sessanta centimetri. Metallo freddo alle spalle, il calore residuo dei server dall'altro lato. I droni di ABITES usavano sensori a raggi termici e la schermatura di quella stanza era vecchia. Claudio sperava disperatamente che bastasse.
-Sara si infilò per prima nello stretto passaggio. Claudio la seguì, schiacciandosi contro di lei per far spazio.
-La schiena di Sara premeva contro il metallo bollente dei server, mentre Claudio era di fronte a lei, il petto contro il suo, la schiena appoggiata alla parete gelida di cemento armato. Il buio era assoluto.
+Il corridoio dietro le macchine era un'apertura di sessanta centimetri. Metallo freddo e calore dei server. Si infilarono.
 
-La vibrazione arrivò attraverso le suole degli stivali, salendo lenta lungo la colonna vertebrale.
-Claudio rallentò il respiro. Dentro. Fuori. Contò i battiti per mantenere il controllo.
-Il calore dei server irradiava attraverso la maglietta di Sara, trasferendosi al petto di Claudio. Il sudore le imperlava la fronte. Claudio sentiva ogni sua inspirazione, il petto di lei che si alzava e si abbassava contro il suo in un ritmo sincrono e vitale.
-Il drone era esattamente sopra di loro.
-La vibrazione raggiunse il picco. Il rumore sordo dei rotori filtrava attraverso il cemento come il ronzio di un insetto gigante.
+La schiena di Sara premeva contro il calore del metallo. Claudio le stava di fronte, petto contro petto, la schiena sul cemento gelido. Buio assoluto.
 
-Claudio abbassò la testa, sfiorando il collo di Sara con il viso. La pelle di lei era calda, viva. In quel buio opprimente, con la minaccia di ABITES a pochi metri di distanza, la vicinanza di Sara divenne l'unica cosa che avesse senso.
-Le mani di Claudio scivolarono lungo i fianchi di lei, trovando l'orlo della maglietta. Si infilarono sotto il tessuto, accarezzando la pelle nuda della schiena con una dolcezza che contrastava con la durezza del cemento.
-Sara ebbe un fremito, un respiro acuto e spezzato, ma non lo respinse. Anzi, le sue mani salirono lungo le braccia di Claudio, aggrappandosi alle sue spalle, cercando rifugio e calore.
+La vibrazione salì dalle suole lungo la colonna.
+Claudio respirò. Fuori. Dentro. Contò i battiti. 
+Il calore di lei attraverso la maglietta. I respiri sincronizzati.
 
-Il drone continuava a scansionare. La luce rossa del sensore termico spazzava il soffitto sopra di loro, invisibile ma percepibile.
-Claudio premette le labbra contro il collo di Sara. Il battito del cuore di lei contro la sua bocca era frenetico, ma non era paura: era vita che si ribellava al controllo.
-La bocca di Sara cercò la sua nel buio. Si trovarono con un'urgenza tenera e profonda. Le labbra si schiusero, accogliendosi a vicenda in un bacio che sapeva di calore umano, di un'attrazione a lungo repressa che finalmente rompeva gli argini. In quel corridoio stretto, tra il gelo del cemento e il calore artificiale delle macchine, il loro contatto fu un'apertura totale del cuore, un'oasi di umanità rubata al sistema.
+Il drone stazionava sopra.
+La vibrazione al picco. Il ronzio dei rotori filtrava nel cemento come un insetto gigante.
 
-La vibrazione del drone cominciò a diminuire. Il suono dei rotori si allontanò lentamente.
-Nessuno dei due si mosse. Rimasero intrecciati, i respiri corti e affannosi che si mescolavano. Le mani di Claudio erano ancora sotto la maglietta di lei, i pollici che accarezzavano con dolcezza la curva della spina dorsale. Le mani di Sara restavano strette intorno al suo collo, come per trattenerlo lì, in quel rifugio sicuro.
-Aspettarono finché l'ultimo eco non si dissolse, lasciando solo il rumore dell'acqua che gocciolava da una crepa lontana.
-Si staccarono con lentezza, riluttanti a spezzare quel contatto.
+Claudio chinò la testa. Sfiorò il collo di lei col viso. La pelle era calda, viva. Il contatto divenne l'unica realtà in quel buio opprimente.
+Le mani di lui scivolarono sui fianchi, sotto la maglietta. Accarezzò la pelle nuda. Dolcezza contro cemento duro.
 
-Tornarono davanti ai monitor senza spiccicare parola.
-La scoperta era ancora lì, fredda e inequivocabile.
-«Dobbiamo far uscire questo,» disse Sara, guardando il monitor. La sua voce era roca, ma ferma.
+Sara ebbe un fremito. Le mani risalirono le braccia di Claudio. Si aggrapparono. Rifugio.
+
+Il drone scansionava. La luce rossa, invisibile, spazzava il soffitto.
+Claudio protese le labbra sul collo di lei. Il battito del cuore contro la sua bocca. Frenetico. Vita che si ribellava al controllo.
+
+Si baciarono. Urgenza profonda. Calore umano rubato al silenzio delle macchine.
+
+La vibrazione calò. Il drone svanì.
+
+Si staccarono lentamente. Eroi di un contatto proibito.
+
+Tornarono davanti ai monitor.
+
+«Dobbiamo far uscire questo,» disse Sara, voce roca, ferma.
 «A chi?»
-«A qualcuno che abbia ancora qualcosa da perdere.»
-«C'è sempre meno gente, di questi tempi.»
-«Lo so.» Prese un respiro profondo. «Per questo conta di più.»
+«Qualcuno che abbia ancora qualcosa da perdere.»
+«Gente ne resta poca.»
+«Lo so. Per questo conta.»
 
-Claudio aprì il cassetto in basso e tirò fuori un supporto fisico. Era un drive costruito prima che ABITES esistesse, completamente invisibile alle scansioni di rete.
+Claudio aprì il cassetto. Tirò fuori un drive analogico, creato prima di ABITES.
 Trasferì i file.
-La luce degli schermi illuminò il suo polso sinistro. La cicatrice era bianca, una linea netta dove il braccialetto di ABITES era stato rimosso.
-ABITES poteva misurare il battito. La temperatura. Le frequenze del cervello.
-Ma non poteva misurare quello che era appena successo nel buio.
-Claudio rimise il dispositivo nel cassetto. Riportò gli occhi sugli schermi, dove il cursore continuava a lampeggiare.
-Fuori, nella rete onnipresente di ABITES, i dati di sei mesi di pensieri umani stavano aspettando in un server.`;
+
+La luce illuminò il polso di lui. La cicatrice bianca del vecchio Link.
+ABITES misurava i battiti. La temperatura.
+Ma non poteva misurare quello che era successo nel buio.`;
