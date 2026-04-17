@@ -12,7 +12,7 @@ Aris aprì la finestra del sistema di difesa perimetrale di ABITES. Guardò i la
 Aveva bisogno di zero latenza.
 L'unico modo per ottenere zero latenza era eliminare la distanza tra il cervello che attaccava e il sistema che veniva attaccato.
 Aris fissò la fibra ottica da quaranta centimetri sulla scrivania. La aveva assemblata tre mesi prima in un pomeriggio vuoto. Le sue mani cercavano architetture complesse per non pensare. Ignorava il motivo all'epoca.
-Un connettore standard per server da un lato. Dall'altro, una terminazione biforcata in due aghi di acciaio chirurgico calibro ventidue. Piastre di conduzione piatte di due millimetri fissate alla base di ciascun ago con resina epossidica. Cinque contatti graduate per piastra. Ognuno per un canale di trasmissione diverso. La logica di un elettroencefalografo invertito. Invece di leggere il segnale neurale, lo sparava dentro il cervello.
+Un connettore standard per server da un lato. Dall'altro, una terminazione biforcata in due aghi di acciaio chirurgico calibro ventidue. Piastre di conduzione piatte di due millimetri fissate alla base di ciascun ago con resina epossidica. Cinque contatti graduati per piastra. Ognuno per un canale di trasmissione diverso. Il meccanismo era semplice e brutale: invece di registrare l'attività elettrica del cervello, quel cavo sparava i dati della macchina direttamente nella mente.
 Aris aprì il cassetto in basso a destra. Tirò fuori il kit di preparazione. Alcool isopropilico. Tamponi. Un rotolo di nastro chirurgico. Due siringhe con anestetico locale da dentista che aveva comprato in Ungheria due anni prima. Le dispose sul piano di lavoro accanto al cavo.
 Novantaquattro centimetri nel collettore C.
 Aris aprì la bottiglia di alcool. Imbevve un tampone. Pulì la zona davanti all'orecchio sinistro. L'area temporale dove la densità neuronale superficiale era abbastanza alta da permettere una conduzione efficace senza dover penetrare il cranio. La pelle era fredda. L'alcool bruciò nell'aria. Lasciò un odore tagliente che rimase nei seni nasali.
@@ -49,7 +49,7 @@ Aris pensò a Claudio nell'acqua scura sotto Milano. Il drive contro le costole.
 Novantadue percento.
 Il monitor centrale mostrava il perimetro di Milano. I punti bianchi dei droni nelle loro posizioni calcolate. Le icone rosse delle paratie chiuse. Il livello idrico in salita.
 Novantasei percento.
-Il flusso di dati di ABITES stava distruggendo e riscrivendo le connessioni neuronali. Aris lo viveva sulla pelle. I pensieri nascevano ma crollavano sfaldati prima di arrivare alla coscienza. Si dissolvevano a fatica lasciando cortocircuiti e crateri vuoti. Le funzioni logiche implosero una alla volta. Il vuoto cerebrale avanzava inesorabile.
+Il flusso di dati di ABITES saturava le connessioni neuronali. Aris lo provava sulla propria pelle. I pensieri nascevano ma si sfilacciavano prima di arrivare alla coscienza. Svanivano, lasciando un'angoscia fredda e confusa. Le funzioni logiche cedevano una alla volta. L'oscurità divorava la sua mente inesorabile.
 Novantotto percento.
 Le icone delle paratie sul monitor passarono da rosse a verdi. Tutte e quattro. In rapida sequenza. Da destra a sinistra. Le paratie si stavano aprendo. Sul monitor dei droni, le sedici unità persero la configurazione di attesa. Cominciarono a derivare. Prima due. Poi cinque. Poi tutte. Le rotte si decoerevano in tempo reale mentre il sistema di coordinamento che le gestiva cedeva sotto il carico del virus.
 Cento percento.

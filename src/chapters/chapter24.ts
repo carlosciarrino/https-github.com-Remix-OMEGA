@@ -3,7 +3,7 @@ La breccia durava undici secondi.
 Cyrus la guardò sui monitor senza muoversi dalla posizione in cui si trovava. In piedi. Le braccia lungo i fianchi. A un metro e mezzo dalla parete di schermi che occupava l'intera facciata nord della sala operativa. Undici secondi in cui il perimetro di contenimento aveva smesso di esistere in un segmento di quarantadue metri nella sezione sud-ovest. Una propagazione da sinistra a destra che aveva seguito esattamente la sequenza di disattivazione dei nodi.
 Non una sequenza casuale. Una sequenza progettata.
 La sala operativa del centro di Milano misurava trenta metri per dodici. Un soffitto in cemento gretto ospitava l'impianto di raffreddamento. Tubi grigi. Isolamento bianco. Le ventole producevano un flusso d'aria fredda a caduta verticale sulle postazioni. Temperatura inchiodata a sedici gradi. Metà degli operatori in turno fissava la stessa anomalia cartografica illuminata sullo schermo principale.
-Nessun suono spaccò la concentrazione.
+Nessuno disse niente.
 Cyrus si avvicinò al monitor centrale. Ingrandì la sezione della breccia. Il sistema aveva già registrato la sequenza di riavvio dei nodi e la stava analizzando. I tempi di risposta. L'ordine di propagazione. La durata della finestra. Cyrus lesse i parametri senza usare la funzione di analisi automatica. Non ne aveva bisogno.
 Lethe. Conosceva il nome perché era nel codice sorgente che aveva letto quando gli avevano dato accesso ai layer più profondi del Volition Engine sei mesi prima. Un sottoprotocollo di emergenza. Documentato in tre righe di commento nel codice originale di Ferretti. Classificato come misura teorica e non operativa. Mai testato in ambiente reale. Mai usato.
 Fino a undici secondi prima.
@@ -15,7 +15,7 @@ Il canale verso Müller si attivò alle 03:14.
 «Per undici secondi. È già richiuso.»
 «È entrato.»
 «Sì.»
-Il respiro di Müller sul canale. Controllato. Nasale. L'aria passava forzata attraverso i denti serrati.
+Il respiro di Müller sul canale era controllato e nasale. L'aria passava forzata attraverso i denti serrati.
 «Voglio squadre di terra nella zona della breccia entro—»
 «No.»
 Il canale restò aperto in tensione viva. La pressione fisica del dissenso di Müller non mutò minimamente la postura di Cyrus o il tono di risposta.
