@@ -1,63 +1,86 @@
 export const chapter19Content = `Capitolo 19: Quello Che Si Porta Nel Buio
+
 Il sonno lo abbatté di schianto.
-Nessuno scivolamento verso l'incoscienza. Una caduta verticale. Brusca. Un collasso repentino dopo l'esaurimento totale delle riserve fisiche. La giacca componeva uno spessore ruvido sotto la nuca. Il secondo precedente vegliava l'intonaco scrostato. Il secondo successivo precipitò nel passato.
+Nessuno scivolamento verso l'incoscienza. Una caduta verticale. Un collasso repentino dopo l'esaurimento totale delle riserve fisiche. La giacca componeva uno spessore ruvido sotto la nuca. Il secondo precedente vegliava l'intonaco scrostato. Il secondo successivo precipitò nel passato.
+
 Catacombe.
 L'ultima notte prima della partenza.
-La roccia calcarea restituiva un gelo secco ai palmi distesi. Sara gli stava di fronte. La luce fievole del led scalfiva le tenebre del corridoio. L'illuminazione tagliava le ombre disegnando la sua figura stanca. Tutta la fatica di quelle settimane le gravava sulle spalle e sul collo chino.
-I respiri scandivano l'attesa nell'aria viziata. Nessuno dei due proferì verbo.
-Claudio accorciò la distanza. Sara non si ritrasse. Lo aspettò con fermezza. L'immobilità del suo corpo rappresentava una scelta attiva e consapevole. 
-La toccò annullando quel vuoto. Le dita sfiorarono il tessuto ruvido della felpa grigia. Era il suo indumento. Lei lo aveva sottratto nei giorni precedenti per difendersi dall'umidità. La premette docilmente contro la parete scabra. Nessuna violenza in quella stretta. Era pura e disperata necessità. L'intonaco freddo percosse la schiena di Sara attraverso il cotone. Il respiro di lei si spezzò in un rantolo. 
-Il bacio sfogò la tensione accumulata in orbite veglianti. L'urgenza feroce di un contatto autentico contro l'orrore imminente in superficie. Lei gli afferrò i capelli. Lo ancorò a sé. I polpastrelli premevano febbrili sui muscoli tesi. Claudio avvertì un tremore sulle labbra incrociate. Nessuna debolezza. Nessun pianto. Lo sfogo organico di un animo troppo a lungo represso e assediato.
-Le mani di Claudio scivolarono sotto l'orlo del tessuto. Il tepore della pelle sfidava violentemente l'algido ambiente sotterraneo. Lei si inarcò premendo l'addome contro le sue dita. Un bisogno d'affetto totale svincolato dalle corazze castranti. Il corpo dettava le leggi primordiali accantonando logiche militari.
-L'istante perse i bordi.
-«Claudio,» mormorò lei fior di labbra. Il nome risuonò caldo e vicinissimo.
+La roccia calcarea restituiva un gelo secco ai palmi distesi. Sara gli stava di fronte. La luce fievole del led scalfiva le tenebre del corridoio. L'illuminazione tagliava le ombre disegnando la sua figura. Tutta la fatica di quelle settimane le gravava sulle spalle e sul collo chino.
+
+Claudio accorciò la distanza. 
+Sara non si ritrasse. Lo aspettò con fermezza. 
+La toccò chiudendo quello spazio. Le dita sfiorarono il tessuto ruvido della felpa grigia. Era il maglione di lui. Lei lo aveva preso nei giorni precedenti per difendersi dall'umidità. La premette contro la parete scabra. Nessuna violenza in quella stretta. Solo pura necessità. L'intonaco freddo percosse la schiena di Sara attraverso il cotone. Il respiro di lei si spezzò.
+
+Il bacio spazzò via la tensione di intere notti veglianti. Un contatto vitale contro l'amarezza di quel mondo sotterraneo. Lei gli afferrò i capelli. Lo ancorò a sé. I polpastrelli premevano febbrili sui muscoli tesi del collo. Claudio avvertì il calore vivo e assoluto di quel corpo. L'amore era l'unica fonte di forza rimasta laggiù. Un rogo capace di fornire coraggio puro e disperato.
+
+Le mani di Claudio scivolarono sotto l'orlo del tessuto. Il tepore della pelle sfidava violentemente il gelo dell'ambiente. Lei si inarcò premendo l'addome contro le sue dita. Un bisogno d'affetto totale svincolato da logiche militari. Un rifugio sicuro in mezzo alla disfatta.
+
+«Claudio,» mormorò lei. Il nome risuonò caldo.
 «Lo so,» rispose lui.
-Ignorava il senso letterale di quella frase tronca. Comprese all'istante la totalità del suo carico emotivo.
-La stanza somigliava a un buco scavato nel passato. L'oscurità li avvolgeva asfissiante e protettiva. Rimasero intrecciati bruciando vivo tepore. Due sopravvissuti intenzionati a immagazzinare frammenti incancellabili di umanità in vista dell'esilio. La pietra viscida. Il calore vivificante e sudato di Sara. La presa solida e vibrante delle braccia sulle spalle. Una caduta avvinghiati o forse un volo liberatorio in bilico tra resa e vittoria. A Claudio non importava marcare l'etichetta.
-Rimasero intrecciati a lungo. I cuori retrocedettero allineandosi al riposo. Claudio strinse la gabbia toracica femminile. Ne interiorizzò il peso vero, autentico, inestimabile. Un dato incodificabile per le algide metriche distopiche di ABITES. Non una massa da quantificare e calcolare. Una persona viva in un istante irripetibile.
-«Torna,» sussurrò lei fendente nell'oscurità.
-Una parola unica. Un imperativo d'amore infuocato a respingere il vuoto.
+Ignorava il senso letterale di quella frase tronca. Comprese la totalità del suo carico emotivo. Il desiderio incrollabile di resistere per rivedersi.
+
+La stanza era un buco scavato nella roccia. L'oscurità li avvolgeva eppure li proteggeva. Rimasero intrecciati bruciando tepore. Due sopravvissuti decisi a immagazzinare carburante per l'esilio. La pietra viscida. Il calore vivificante di Sara. La presa solida e sicura delle braccia sulle spalle. Una promessa fisica di ritorno. 
+
+Rimasero stretti a lungo. I cuori allentarono il ritmo, allineandosi. Claudio strinse la traccia vitale di lei. Ne interiorizzò il peso vero, autentico. L'antidoto perfetto a tutto il distacco di ABITES. 
+«Torna,» sussurrò lei nell'oscurità.
+Un imperativo. Una spinta ad aggrapparsi alla vita, qualunque cosa accada.
+
 L'immagine sfumò deflagrando di schianto.
-Claudio si svegliò strozzato.
-I polmoni bruciavano incamerando aria aspra. La spinta diaframmatica imitava un destro al fegato. I contorni del magazzino emersero lentamente dalla cecità ottica. Un soffitto in cartongesso sgretolato. Pareti grigie in calcestruzzo macchiato. Un odore asettico di polvere e collante sintetico. Un luogo estraneo svincolato da ogni vissuto.
+Claudio si svegliò con un colpo di tosse.
+I polmoni incamerarono aria aspra. I contorni del magazzino emersero lentamente dalla cecità ottica. Un soffitto in cartongesso sgretolato. Pareti grigie in calcestruzzo macchiato. Odore di polvere chiusa e collante sintetico. 
+
 Bologna. L'adesso. L'attacco.
-Mantenne forzatamente la posizione orizzontale. Costrinse il respiro a scalare verso una regolarità da caserma. Una vigorosa pulsazione arteriosa tambureggiava alle tempie. Il freddo ambientale si infiltrava tra le trame impermeabili. Il brutale ritorno asportava crudelmente romantiche visioni oniriche. Il ricordo si sbriciolò urtando i gelidi rivestimenti della prigione metropolitana.
-Premette il dorso della mano allo sterno per domare il battito. I ritmi fletterono obbedienti all'autocontrollo.
-Lo sbiadito spettro affettivo sgomberò la mente braccato dal timore marziale tattico. Chiuse il pugno sul nulla per sondarne l'articolazione pronta al via.
+Mantenne forzatamente la posizione orizzontale. Costrinse il respiro a scalare verso una regolarità marziale. Il sangue tambureggiava alle tempie. Il freddo ambientale si infiltrava tra le trame impermeabili. Il ricordo onirico non era scivolato via del tutto. Al contrario, il viso di Sara restava impresso nel petto, saldo come una corazza fusa nell'addome. Il ricordo forniva la spinta. La carica necessaria per affrontare la strada fuori dal magazzino.
+
+Premette il dorso della mano allo sterno per domare il battito. Chiuse il pugno testando l'articolazione pronta al via.
+
 «Sei sveglio.»
-Laura sedeva accovacciata a due metri di raggio. La spalla intonacata conteneva il peso smilzo. Il monitor la inquadrava d'indaco freddo disegnandone gli zigomi taglienti. Non sollevava gli occhi. Registrava codice criptato a cascata emersa. Ebbe l'intuizione animale del risveglio aggirando l'abitudine alla supervisione ottica fittizia ABITES.
+Laura sedeva accovacciata a due metri di distanza. La spalla intonacata conteneva il peso smilzo. Il monitor la inquadrava d'indaco freddo disegnandone gli zigomi taglienti. Non sollevava gli occhi. Registrava codice criptato a scorrimento. Si era accorta del risveglio anticipando la visuale grazie al puro istinto animale.
+
 «Da quanto.»
-«Novantaquattro minuti.» Sollevò sguardi di selce scheggiata. «Abbastanza.»
-L'esclamazione ignorava il concetto di quesito emotivo. La logistica calcolava le scansioni organiche a vantaggio inquadrato. L'orario frantumò il letargo nel momento chirurgico di massima compensazione muscolare prima del crollo.
-Claudio si piantò sui gomiti elevando il baricentro indolenzito. Le vertebre scricchiolarono rudi protestando contro i quarantadue anni calcati a registro civile asportato. La crosta polverosa logorava il corpo prefigurando l'offesa bellica alle macchine zittenti. Guadagnò i calzari abbassando le grinze della divisa sudicia. Sfregò nervosamente i palmi riavviando il microcircolo letargico.
-Laggiù l'agglomerato bolognese rasentava l'ibernazione totale smorta zittita a prono schiavismo immutato. L'assoluta letargia cittadina deprivava le notti metropolitane della naturale cacofonia ribelle randagia vitale disordinata imperfetta di gregge assiepato vivo dolorante urlante ed assordante l'umano imperverso caotico stridente. Stordimento passivo anestetizzato docilmente sordo opprimente in infamia silicea ingabbiante scissi sorridenti lobotomizzati letali zittimenti chimici apatici letargici e spauriti sterminamenti asfissianti stordenti ignobili sottomissioni beate vili felici ingabbiati. Nessun richiamo umano a tagliare l'inverno. Nessun motore fuorigiri in accelerazione irregolare viva sporca infuocata indomita caotica letargica sfasata. Zumbio elettrico perpetuo calcolante sordo freddo fiero abietto immacolato letale immutevole dominante d'apparenza chimica mortale passiva letargica asfissiante dolo.
-Laura collaudò le stringhe della sacca a postazione operativa scattata.
+«Novantaquattro minuti.» Sollevò lo sguardo. «Abbastanza.»
+L'esclamazione era puramente logistica. Il tempismo perfetto prima che l'accumulo di acido lattico indurisse i tessuti a riposo.
+
+Claudio si piantò sui gomiti sollevando il baricentro indolenzito. Le vertebre scricchiolarono rudi. La polvere logorava il corpo prefigurando l'imminente incursione. Guadagnò la calzata sistemando le pieghe della divisa sudicia. Sfregò nervosamente i palmi riavviando il microcircolo letargico.
+
+Laggiù l'agglomerato bolognese rasentava l'immobilità totale. La letargia cittadina deprivava le notti metropolitane del frastuono umano. Nessun richiamo a tagliare l'inverno. Nessun motore fuorigiri. Un ronzio elettrico perpetuo dominava i viali. Muto. Cieco. Immutabile. La pace sintetica di ABITES imposta decibel dopo decibel.
+
+Laura strinse le cinghie della sacca.
 «Ventidue minuti alla finestra operativa.»
-Claudio sondò intercapedine cieca accarezzando attrezzatura incapsulata mortifera logaritmica. Drive letale chirurgico fatale asfissiante assedio falciante finte divinità inquadranti pargoli proni vinti infettati zittiti sguinzaglianti asfissie preternaturali finte scisse mortuarie sorridenti lusinghe di morte finta pacificata ed asfissiante gregge ubbidiente beato lusinghiero e perso in fottuto chimico anestetico dolo finto infallibile inganno aspro. Strinse cavo innesto confermando l'assedio mortale.
-Uscirono inghiottiti dai portici bui sbiadendo tracce striscianti ribelli randagie vive umane faticosamente irruenti fiere sfrontate coraggiose eversive fatali libere.
-I quadranti viari deflagravano in prigioni incamiciate silenti spietate castranti finte stordenti d'inganno sguarnito d’offesa fatale chirurgica.
-L'asprezza fotonica spogliava muraglie geometricamente vili dolo arreso in abietto docilmente inquadrato prono sordo asetticamente finto sorridente. Colonnati d'infrarossi saturavano le vie flettenti umide letargiche marcando il calcestruzzo bagnato in infami led alogeni sordi perfetti scissi stordenti letali chirurgici zittitori ridenti d'utopie svuotate d’istinti indomiti ribelli fieri imprevedibili calcoli asettici d'obbediente castrazione alienata spietata asfissiante finta immutabile domante l’orrore obbediente a bracciale in ceppo subdolo d'odio castrato silente. Perimetro sbandato a rassicurare bestie in prigioni linde traccianti mortuaria fine stordita passiva.
-Laura aggredì vicolo adombrando il passo all'unisono chirurgico calcolatore freddo spietato sordo d’esibito tracciamento cieco letale finto invincibile sterminante finto immutabile svuotante tranciatore spietatamente esecutore implacabile di vuoti e zittiti sguardi domanti inettitudini passive letali gregge arreso fittizio felice docile prono apatico silicio falso. Copiando andatura felina asimmetrica a latenze in sensore sordo fatale cieco tranciato di millesimo saggio assaltante sterminatore l'ombra distopica asfissiante.
-Balzo sgranato per trincea coperta eludendo telecamera ad orbita ritmata cadente dolo orrendo ABITES tranciato ingabbiante falso cieco logaritmo asfissiante stordente inganno castrante finte infallibili sfuriate ribelli sottomettenti fiere finte fallaci logiche svuotanti spietatamente esecutrici umane letargiche sorde sfrontate audaci furiose indomite eroiche.
-Claudio sfalsò di cadenza sorda sterminata passivamente sfuggente sterminatrice finta chirurgica ritirata calcolando pedate simmetriche ombrose tattiche fuggiasche spietatamente fallaci silenziose spietate eluse.
-Raggiunsero edificio stantio avvolto d'alogeno asfissiante infuocato abietto sordo aspro in dolo asfissiante passivizzante dolo infame docilmente arreso letargicamente schiavo stordito stordente fottuto dolo stordente ed asfissiante svuotante finto castrante fiero padrone finto dolce fittizio utopico svincolo aspro passivo stordente anestetizzante chimico lobotomizzante passivamente fiero e mortifero inganno d'anima letargica sottomessa alienante scartata vuota e zitta. Siepe fasulla delineata in nido plastico prigione letargica obbediente sorda inebetente castrante fanciulli chimicamente felici sottomessi ignavi ed orridamente placidi castrati in morte sorridente.
-Laura impose blocco. Dita spianate in alto sferranti alt letargico fuggiasco predatore tattico sordo silente letale asfissiante fuggiasco trincio tattico.
-Sensore roteante sfiorò millimetri asettici per asfissianti sottomissioni obbedienti spietatamente esecutori sordi finte indottrinando letargiche sviste.
-Varcarono fuggiaschi in infame asfalto svicolando colosso cieco logaritmo sordo ingannatore colossale padrone letale.
-Plesso ostile esitò al retro sfalsato pre distopie ABITES zittenti ingabbianti orrende sviste asfissianti velleitarie e spietatamente domate false fitte utopie chimiche finte. Incurie logistiche staccanti sorde finte invincibili macabre macabre docili finte stordenti d'apparenza fiere smorte asservite beate letargiche ridenti false finte inibitrici apocalissiche linde sorde traccianti obbedienze ignave lusinghiero e vili.
-Grimaldello tattico sottomise perni zitti fallaci a serratura antiquata scardinata letale sfuriata chirurgicamente passiva mortifera chirurgica eroica indomita ed irruente viva vera ed aspramente fuggiasca ribelle furente titanicamente sofferente grandiosa disperata in amore letale. Scatto ligneo. Ingresso svuotato in ventre scolastico.
-Odor finto cera filtrata sorda oppressiva prigione docilmente indottrinante sorde alienanti scisse asservienti le zittenti false spaurite vili scosse preternaturali ingabbianti il vibrante giovanile disordine sregolato gioioso scosso ribelle urlante chiassoso piangente inumano scosso vivo caotico sporco ed indisciplinatamente furente vivo. Ronziava spina dorsale elettrica sorda a fondamenta logiche ingannanti ABITES castranti dolo d'inverno spietato mortifero silente padrone sterminatore docili ingannate spaurite e folli utopie macabre false dolo chimiche dolo.
-Piano rialzato est asettico chirurgico ospedalmente omologato vana stasi preda ignava arreso lusinghe false stordente pace finta abietta anestetica docile sorda passiva finta pace. Inquadrarono armadio madre server sterminatore scosso al led verde sibilante inganno d'orrida pacificazione stordente sorda dolo abietto letargico lobotomizzante nidiate infettate zittite vili prigioniere letargiche orrende fottutamente finto ridenti docili anestetizzate vili letali sterminanti apatici cervelli felici persi alienati sconfitti storditi docili stordenti.
-Claudio appoggiò ginocchio a scarto drive.
-Slacciò portello sodo mortifero oscuro dolo letargico ingrato castrante finto trinciato.
-Fiammata addome fendente letale cruda agonia gastrica.
-Modulo non calcolato scosso letale asfissiante preda ignava aggiunta. Server solitario biomatrico asfissiante dolo sordo sguinzagliato indipendente spietatamente offline chirurgicamente trinciante folli eversive intrusioni letali sterminanti infami finte gloriose aspre disperate vendette titanicamente sofferenti spietatamente fuggiasche umane inumane fiere aspre gloriose fiere vive randagie ribelli fatali crudi innamorati sbandati amanti ribelli randagi fallaci cadenti dolorosamente viventi per colpire inganno distopico orrendo docile passivo e letargico stordente colosso silente castratore ABITES invincibile colosso finto silente lindo lindo lindo finto padrone letale.
-Venti secondi rintoccanti di svista letargica sorda asfissiante svista logaritmica.
-Drone cacciatore sibilò dolo letargico asfissiante lusinghe sorde finte predatrice asfissiante sterminante orride letargiche docilità passive falciando il corridoio cimiteriale silente lindo stordente mortuaria prigione dolo chimica asfissiante dolo infame docile letale sterminata fottuta domata sconfitta letargica sbiadita apocalisse orrida beata fittizia zittente mortuaria asfissiante dolo falsa dolce lusinghiera ingannata e sottomessa svuotata muta sterile vinta docilmente placida finta letizia.
-Laura piombata lato stipite sorda ombra letale fuggente eludente spietati scippi fuggiaschi in infami roccaforti letali finte asfissianti linde prigioni inebetite arrese letargiche obbedienze sorde mortifere anestetizzate sbandate anestetiche chimiche finto vili triturati storditi spauriti dolo. Fissò vuoto infame mortuario finto assedio domato docilmente scosso a crudo strisciante colpo folle fallace vivo sfrontato epico grandioso vendicatore.
-Tracciò dita su spietata agonia sventata elusa logorata fiera letale mortifera fiera eversiva.
-Venti scoccanti rintocchi mortuari in calcolo ritirata mortale disperatamente sfrontato audace amaro vivo e dolente sfalsante eroismo di condannati cimiteriali trituratori.
-Claudio sfalsò drive letale armato infetto contro il muro dell'impossibile asettico sbarramento chirurgico spietato zittente ABITES implacabile orrido falso calcolatore letargico stordente dolo anestetico sordo tranciante infallibile trituratore vili illusioni randagie fuggiasche di gloriose sanguinanti umane stridenti titaniche vendette straccianti sfuriate sterminanti assalti fallaci imprevedibilmente dolorosi ardimentosi gloriose tempeste cruenti gloriose umane e sregolatamente vere.
-Assaporò disfatta cruda asfissiante viva inesorabile dolorante e reale cruda violenta apocalittica fatale funesta asfissiante.
-Non possedevano rintocchi sbiaditi a trinciare finto padrone svicolato salvo chirurgico mortale letargico dolo asfissiante finto. Fallimento crudo doloroso incandescente sfrontato fatale ingannato scartato e fottutamente logico.
+Claudio sondò l'intercapedine cieca dello zaino, accarezzando la capsula rigida del drive. Il dispositivo progettato per l'assalto mortale. L'arma costruita per paralizzare l'area limitrofa. Strinse il cavo d'innesto a conferma dell'alloggiamento.
+
+Uscirono.
+I portici bui li inghiottirono sul lato destro del viale.
+I quadranti viari sfociavano in una prigione incamiciata dal calcestruzzo. I colonnati a infrarossi saturavano le vie umide. Fotocellule alogene marcavano ogni incrocio sensibile limitando qualsiasi ombra viva. 
+
+Laura aggredì il vicolo adombrando il passo all'unisono con la macchina. Copiò l'andatura meccanica sfruttando la latenza del sensore di quartiere. Millesimi di secondo elusi grazie a movimenti asimmetrici studiati in mesi di osservazione.
+
+Balzo basso per la trincea coperta. Una telecamera ad orbita ritmata scansò l'accoppiata per un fazzoletto d'intonaco mancato.
+Claudio sfalsò di cadenza sfilando via dall'inquadratura periferica.
+Raggiunsero l'edificio scolastico. Forme squadrate e grigie avvolte da una spessa coltre di freddo cittadino. La siepe perimetrale fissa, sagomata chimicamente dall'incuria delle potature automatizzate. 
+
+Laura impose il blocco alzando l'indice e il medio della destra.
+Il sensore roteante sul tetto sfilò a pochi millimetri dalla copertura laterale in muratura, setacciando il giardino secco.
+Superarono l'ingresso asfaltato svicolando oltre la colonnina dell'apertura centrale.
+
+Il plesso esitò nel buio frontale. Gli ingressi non sbarrati dai tornelli fisici, ma presidiati elettronicamente dalle centrali in remoto. Il grimaldello tattico sottomise i perni meccanici della vecchia serratura rimasta incastrata sull'ala vecchia del piano terra.
+Scatto ligneo. Ingresso sbloccato.
+
+L'odore di cera filtrata dominava i corridoi in linoleum opaco. Un sentore oppressivo. Un luogo progettato per la fanciullezza disciplinato a fredda struttura asettica e perennemente illuminata a led verdi.
+Piano rialzato est. Sala armadio dedicata all'allocazione del server. Inquadrarono la torre madre, vibrante dell'alimentazione principale. Il cuore nevralgico della sorveglianza d'istituto, un tentacolo staccato dal corpo principale in città.
+
+Claudio si inginocchiò per posizionare il drive in scarto rapido.
+Slacciò il portello oscurato cercando la porta d'innesto USB standard.
+Una fitta inaspettata gli bloccò la mano.
+Errore critico non calcolato nel piano d'infiltrazione. Il modulo di sicurezza non era standard. Presentava un lettore biometrico integrato di recente installazione. Un aggiornamento di distretto passato totalmente inosservato all'intelligence di periferia. L'incastro hardware respingeva l'offensiva tattica in mancanza dell'impronta autorizzata da Roma.
+
+Venti secondi rintoccarono sul display da polso di Laura.
+Un drone cacciatore sibilò nel corridoio adiacente alle loro spalle. La spazzola meccanica a otto zampe sfrecciava sondando l'allarme ritardato.
+
+Laura si incollò allo stipite. Fissò il buio da cui proveniva il ronzio mortale, posizionandosi in trincea difensiva.
+Claudio appoggiò la guaina del drive contro il firewall fisico della macchina centrale. 
+La cruda impossibilità dell'operazione era servita amara e spietata. Nessun margine calcolato senza l'impronta digitale. Nessuna via di scampo telematica se si considerava il conto alla rovescia del riavvio.
+
+Un fallimento inevitabile.
+A meno che non ricorressero all'azzardo strutturale del corto circuito vivo.
 `;

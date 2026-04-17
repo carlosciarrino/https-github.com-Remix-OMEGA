@@ -1,110 +1,133 @@
 export const chapter20Content = `Capitolo 20: Diciassette Secondi
+
 Diciassette secondi.
-Non era un'opinione. Era fisica. La latenza del modulo biometrico locale prima che il segnale raggiungesse il nodo centrale. Claudio lo sapeva perché lo aveva scritto lui. In una sala riunioni di Milano con vista sui tetti. Convinto che quella latenza fosse un margine di sicurezza.
-Adesso era la distanza tra lui e la morte.
-Il drive era in mano. Il calore del metallo contro il palmo. Caldo di tasca. Caldo di corpo. L'unica cosa calda in quel laboratorio dove l'aria sapeva di cavi bruciati e gomma fredda. Il connettore del server era a venti centimetri. Il modulo biometrico lampeggiava rosso nell'angolo dello schermo. Un occhio piccolo e paziente che aspettava l'impronta sbagliata.
+Non era un'opinione. Era fisica. La latenza del modulo biometrico locale prima della comunicazione col nodo centrale. Claudio lo sapeva. Lo aveva scritto lui. In una sala riunioni di Milano con vista sui tetti. Aveva venduto quella latenza come un margine di sicurezza.
+Adesso misurava la distanza tra lui e la morte.
+
+Il drive era in mano. Il calore del metallo contro il palmo. Caldo di tasca. Caldo di corpo. L'unica cosa viva in quel laboratorio di cavi bruciati e gomma fredda. Il connettore del server era a venti centimetri. Il modulo biometrico lampeggiava rosso all'angolo dello schermo. Un occhio in attesa dell'impronta sbagliata.
+
 Dal corridoio: il ticchettio.
-Ritmico. Secco. Otto zampe su pavimento di cemento. Il drone ragno era a dodici metri. Forse dieci. Il suono si amplificava nel corridoio vuoto. Il passo di qualcosa che sa di avere tutto il tempo del mondo.
-Claudio non si mosse.
-Il suo cervello stava lavorando su due binari paralleli. La chiarezza dissociata che arriva solo quando il tempo si comprime abbastanza da fermarsi. L'impronta autorizzata o il cortocircuito fisico. Primo: non aveva un'impronta autorizzata. Non aveva scanner. Non aveva una mano tagliata da qualche tecnico ABITES. Non aveva niente che il modulo biometrico avrebbe riconosciuto. Secondo: il cortocircuito richiedeva un ponte tra i connettori ad alto voltaggio sul lato sinistro del server. Il punto caldo che aveva visto appena entrato. Il punto che aveva mentalmente catalogato come non toccare mai.
+Ritmico. Secco. Otto zampe su pavimento di cemento. Il drone ragno era a dodici metri. Forse dieci. Il suono riempiva il corridoio vuoto. Il passo di una macchina con tutto il tempo del mondo.
+
+Claudio si immobilizzò.
+Il suo cervello lavorava su due binari paralleli. La chiarezza fredda arriva solo quando il tempo si comprime. Esistevano due vie: l'impronta autorizzata o il cortocircuito fisico. Primo: non aveva scanner. Non possedeva il calco biometrico di un tecnico ABITES. Secondo: il cortocircuito richiedeva un ponte tra i connettori ad alto voltaggio sul lato sinistro del server. Il punto di massima allerta. Quello da non toccare mai.
+
 Laura era alla sua destra. Ferma.
-Guardava il corridoio attraverso il vetro sottile della finestra laterale. Non il drone. Il punto in cui il drone sarebbe apparso.
-Il ticchettio si avvicinò.
-Si mosse senza avvisarlo.
-Non una parola. Non un gesto verso di lui. Solo il corpo che lasciava il muro e scivolava verso la porta. Una velocità che non quadrava con l'assenza assoluta di rumore dei suoi passi. Il suono era una variabile scartata a priori.
+Controllava il corridoio attraverso il vetro della finestra laterale. Fissava l'angolo di imminente comparsa. 
+
+Il ticchettio accorciò la distanza.
+Lei scattò.
+Nessuna parola. Nessun gesto d'intesa. Il corpo scivolò lungo il muro verso la porta. Una velocità incompatibile con l'assenza di rumore. Il rumore era un limite fisico superato dall'addestramento.
+
 La porta si aprì di tre centimetri.
-Abbastanza.
-Claudio vide la sua mano destra estrarre dalla cintura qualcosa di piccolo. Cilindrico. Nero. Non più lungo di un dito. Lo tenne chiuso nel pugno. Si appiattì contro il muro accanto all'apertura. La schiena al cemento. La testa girata verso il corridoio.
-Il ticchettio era vicinissimo.
-Claudio trattenne il respiro senza deciderlo.
-Il drone apparve nel rettangolo di luce. Basso. A venti centimetri dal pavimento. Le otto zampe si muovevano con la precisione millimetrica di qualcosa che non conosce la stanchezza. I sensori ottici ruotavano in cicli di tre secondi. Quello che Claudio ricordava dai file di progetto: il punto cieco era di quattordici centimetri alla base della gamba anteriore sinistra. Un'ingenuità di design che nessuno aveva corretto perché nessuno si aspettava che qualcuno la conoscesse.
-Laura sapeva.
-Il braccio uscì dalla porta nel mezzo del ciclo ottico. Tre centimetri di finestra. La mano premeva il cilindro contro il corpo del drone con una precisione che non lasciava margine.
-Il flash EMP esplose senza alcun suono.
-Un crepitio secco. Quasi inudibile. Il drone si bloccò. Tutte e otto le zampe si irrigidirono simultaneamente. I sensori ottici si spensero in sequenza come luci in un appartamento al buio. Cadde sul lato con un rumore sordo che sembrò assordante nel corridoio vuoto.
-Laura rientrò. Richiuse la porta.
+La misura appena necessaria.
+Claudio vide la mano destra di Laura estrarre un cilindro dalla cintura. Nero. Lungo quanto un dito. Lo strinse nel pugno. Si appiattì contro il muro accanto allo stipite. La schiena aderente all'intonaco. La testa girata verso il pericolo.
+
+Il ticchettio era addosso.
+Claudio bloccò la respirazione.
+Il drone superò il varco. Basso. A venti centimetri dal suolo. Le otto zampe macinavano metri con precisione inesauribile. Il faro ottico rotativo scattava in cicli di tre secondi. Claudio analizzò l'immagine dai ricordi di progetto. Quel design aveva un punto cieco strutturale. Quattordici centimetri alla base della zampa anteriore sinistra. Un'ingenuità ignorata nei collaudi perché impensabile da sfruttare in azioni ravvicinate.
+
+Laura conosceva la faglia.
+Il braccio tagliò l'aria in mezzo al ciclo ottico. Tre centimetri di passaggio. La mano premette il cilindro sul fianco del drone con bersaglio assoluto. Nessun margine d'errore.
+
+Il flash EMP scattò.
+Un crepitio secco. Un'interferenza ruvida e strozzata. Il drone interruppe la marcia. Le otto gambe di titanio si irrigidirono di scatto. I sensori esaurirono l'alone rosso interno. Luci fulminate in un appartamento al buio. La macchina crollò sul fianco destro. Il tonfo metallico sbatté brutale sul pavimento.
+
+Laura accostò la porta.
 Guardò Claudio.
-Sette secondi erano passati.
-Ne restavano dieci prima che il sistema centrale notasse l'assenza di segnale dalla sentinella.
-Claudio si girò verso il server.
-I connettori ad alto voltaggio erano sulla sinistra. Due pin metallici da cinque millimetri. Separati da tre centimetri di plastica isolante. Il voltaggio era scritto nell'etichetta gialla che nessun tecnico avrebbe mai dovuto ignorare: 480V. Corrente continua. Il tipo che non lascia tempo al cuore di decidere se fermarsi o continuare.
-Aprì lo zaino. Tirò fuori l'attrezzo che aveva portato per tutt'altro uso. Una chiave esagonale in acciaio inossidabile. Dodici centimetri di metallo solido.
-Laura lo vide.
+Sette secondi andati.
+Ne restavano dieci prima del check di routine del sistema centrale. L'assenza di segnale dalla sentinella avrebbe scatenato l'assalto.
+
+Claudio puntò il server.
+I morsetti ad alto voltaggio occupavano la sinistra. Due poli esposti di cinque millimetri. Separati da tre centimetri di isolante. Sull'etichetta gialla il voltaggio avvisava il lettore: 480V. Corrente continua inarrestabile. Nessun margine di tolleranza per il cuore umano.
+
+Aprì lo zaino. Estrasse la chiave esagonale in acciaio. Dodici centimetri di massa solida e affilata.
+Laura decifrò il gesto.
 «Claudio.»
 «Cinque secondi.»
-Non era una risposta. Era un calcolo.
-Prese la chiave con la mano destra. Il metallo freddo contro le dita. Con la sinistra tenne il drive pronto. Guardò i due connettori. Il ponte doveva durare abbastanza da saturare il modulo biometrico con un segnale falso. Mezzo secondo. Forse meno. Il tempo in cui il circuito avrebbe bruciato tutto indiscriminatamente. Incluso il drive se non lo inseriva nel momento esatto.
+Non era una giustificazione. Era l'ultimo riepilogo aritmetico.
+
+Strinse la chiave con la destra. Metallo freddo contro la pelle umida. Mantenne il drive in bilico con la sinistra. Fissò i connettori. Il ponte doveva saturare il modulo biometrico con un falso positivo. Durata prevista: mezzo secondo. Forse meno. L'arco elettrico avrebbe fuso indiscriminatamente i circuiti. Drive compreso, in caso di ritardo.
+
 Tre variabili. Un tentativo.
 Inspirò.
-Il metallo toccò il primo connettore.
-Il dolore arrivò prima del suono. Una scarica risalì dal polso al gomito alla spalla con la velocità di qualcosa che non chiede il permesso. I muscoli del braccio destro si contrassero involontariamente. La mano cercava di aprirsi. Claudio strinse più forte. Se mollava adesso il circuito si interrompeva e il drive non era ancora dentro.
-La chiave toccò il secondo connettore.
+Il metallo baciò il primo connettore.
+
+Il dolore arrivò prima dell'odore di bruciato. Una frustata termica risalì dal polso alla spalla. Rapida. Devastante. I muscoli del braccio destro si contrassero da soli. Rifiutavano l’energia immessa. La mano cercò di spalancarsi. Claudio serrò la presa lottando contro il proprio scheletro. Perdere il contatto significava il fallimento. Il drive non era ancora dentro.
+
+La chiave sfiorò il secondo polo.
 Il mondo diventò bianco.
-Non visivamente. Era buio nel laboratorio. Il buio di emergenza dei led rossi. C'era qualcosa nel cervello che produceva luce quando il corpo riceveva abbastanza corrente. Una luminosità che non veniva dagli occhi. Bruciava dall'interno verso fuori.
+La vista non c'entrava. Il laboratorio restava immerso nell'emergenza rossa. Il cervello produsse pura luce a causa del sovraccarico. Una radiazione abbacinante dritta dall'interno verso l'esterno.
+
 Infilò il drive con la mano sinistra.
-Il clic fu il suono più bello che avesse mai sentito.
-Mollò la chiave.
-Cadde contro il banco con il braccio destro che non rispondeva più. I muscoli bloccati in una contrazione che non voleva cedere. Le dita aperte in una posizione innaturale come qualcosa che si è rotto nel punto sbagliato. L'odore arrivò un secondo dopo. Carne bruciata. Plastica fusa. Il sapore metallico dell'aria ionizzata che sapeva di temporale in un posto chiuso.
-Lo schermo del server divampò.
-Poi si spense.
-Il suono che seguì non era un allarme.
-Era qualcosa di peggio. Il vuoto acustico di un sistema che smette di respirare. Seguito da tutti i sistemi di backup che si accendono simultaneamente. Le luci di emergenza passarono dal rosso al bianco abbagliante. Da qualche parte nell'edificio, tre piani sopra, si aprì un portone con uno schianto metallico che risuonò in tutta la struttura.
-Laura era già al banco.
-Le sue mani trovarono il braccio destro di Claudio. Fredde. Precise. La pressione nei punti esatti per valutare il danno senza aggravarlo. Lui la sentì fare questo. Sentì anche che il braccio faceva male in un modo che non riusciva ancora a quantificare. Il cervello era ancora occupato a processare la scarica.
+Il clic d'inserimento chiuse il colpo.
+Mollò la chiave esagonale.
+
+Si accasciò contro il banco. Il braccio destro ignorò i comandi. Muscolatura pietrificata in contrazione fissa. Dita ritratte in una postura spezzata. L'odore invase le narici. Pelle ustionata. Plastica fusa. Un sapore aspro di ioni nell'aria. Il sentore crudo dei temporali violenti.
+
+Lo schermo del server bruciò in una nube grigia.
+Poi calò l'oscurità elettronica.
+Il rantolo del condizionamento artificiale si spense. I sistemi di backup scattarono in mezzo secondo. Le luci di emergenza passarono dal rosso al bianco freddo. Tre piani sopra scattò una paratia anticendio d'acciaio. Lo schianto echeggiò nelle fondamenta.
+
+Laura raggiunse il banco.
+Le sue mani scorsero il braccio martoriato di Claudio. Movimenti decisi. Mirati. Sondavano danni nervosi e rotture capillari. Lui registrò quel tocco in lontananza. Il braccio trasmetteva un dolore incontrollabile. I recettori neurologici faticavano a codificare la gravità dell'ustione.
+
 «Cammini?»
 «Sì.»
 «Sicuro?»
-Claudio si alzò.
-Le gambe reggevano. Il braccio destro penzolava con una rigidità che non era normale ma non era rotto. Solo i muscoli contratti. Le terminazioni nervose strillavano tutte insieme in una frequenza che gli saliva fino alla mascella.
-«Sicuro,» ripeté.
-Laura raccolse lo zaino. Il suo. Poi il suo. Lo mise sulla spalla sinistra di Claudio senza chiedere.
-Dal piano di sopra: passi. Pesanti. Coordinati. Il ritmo di stivali tattici su pavimento duro.
-«Uscita secondaria,» disse Laura.
-Non aspettò risposta.
-Il corridoio di servizio puzzava di tubo fognario e cemento umido. L'odore di Roma. L'odore delle catacombe. L'odore di tutto quello a cui erano sopravvissuti nelle ultime settimane. Claudio lo respirò mentre correva. Sentì qualcosa di quasi familiare in quella fetidità. Il peggio aveva sempre questo odore. Ormai lo riconosceva.
-Laura era tre metri avanti.
-Non correva. Si spostava. Una distinzione che lui aveva imparato a fare nelle ultime settimane. Correre era inefficiente. Rumoroso. Impossibile da sostenere nel buio. Quello che faceva lei era qualcosa di diverso. Velocità distribuita su ogni passo. Il peso si spostava dai talloni alla punta con una sequenza che non produceva echeggio.
-Claudio faceva del suo meglio.
-Il braccio destro aveva ripreso parzialmente a rispondere. Abbastanza da non sbilanciarsi nelle curve. Non abbastanza da essere utile se ne avesse avuto bisogno.
-Una porta laterale. Laura la aprì con la spalla. Senza rallentare.
-Scala antincendio. Ferro freddo. Umido. Le scarpe trovavano ogni gradino nell'oscurità quasi totale.
-Sopra di loro: voci. La frequenza radio degli auricolari delle squadre tattiche. Non parole. Solo il ritmo delle comunicazioni operative. Breve. Continuo.
-Si stavano distribuendo sull'edificio.
-Avevano meno di due minuti prima che il perimetro esterno fosse chiuso.
-Laura aprì la porta al pianterreno.
-L'aria fredda di Bologna li colpì in faccia. Umida. Quell'odore di nebbia bassa che si depositava sui portici della città come qualcosa di antico. Il cielo era ancora buio. Le tre e venti del mattino. Forse le tre e trenta.
-Dal lato est dell'edificio: luci. I fari dei veicoli tattici di ABITES convergevano sulla scuola con la coordinazione muta di qualcosa che non aveva bisogno di urlare per essere terrificante.
-Laura prese a sinistra senza esitare.
-Claudio la seguì.
-Correvano sotto i portici.
-I passi rimbombavano sulla pietra. Impossibile eliminare quel suono. Impossibile correre su cinquecento anni di selciato bolognese senza lasciare traccia acustica. Claudio lo sapeva. Sapeva anche che la nebbia attenuava i sensori ottici a lungo raggio. Le squadre tattiche avevano bisogno di trenta secondi per riposizionarsi da un punto a un altro.
-Trenta secondi per volta.
-Abbastanza se non smettevi di muoverti.
-Il braccio bruciava in modo costante adesso. Non più la scarica acuta della corrente. Qualcosa di più profondo e insistente. Come il calore di una ferita che ha deciso di ricordarti di esistere. La manica del giubbotto era incollata alla pelle nel punto in cui il metallo aveva tenuto più a lungo. Non guardò.
-Laura svoltò in un vicolo.
-Poi in un altro.
-La topografia di Bologna era nei suoi piedi. Claudio lo capì guardandola muoversi. Il modo in cui sceglieva le svolte senza rallentare. Senza consultare niente. Aveva studiato questa città prima di arrivarci. Forse molto prima.
-Si fermarono sotto un portico.
-Sulla colonna di mattoni rossi accanto a loro, un volantino strappato a metà sbatteva al vento. C'era scritto a pennarello: "Non temete ciò che state per soffrire. Sii fedele fino alla morte e ti darò la corona della vita. Apocalisse 2:10".
-Il respiro di entrambi era visibile nell'aria fredda. Nuvole brevi. Rapide. Si dissolvevano prima di poter essere viste da lontano.
-Laura si girò verso di lui.
-Le sue mani tornarono sul braccio destro. Questa volta più lente. Più attente. Sollevò la manica con un movimento che sapeva già quello che avrebbe trovato. La bruciatura era una striscia di dieci centimetri sul polso interno. Rossastra. I margini bianchi del danno termico. Non profonda. Abbastanza da fare male per settimane.
-Claudio la guardò guardare il braccio.
-«Funzionerà?» disse lei. Non stava parlando del braccio.
-«Il nodo è fritto. La Fase 4 a Bologna ha perso almeno tre settimane di sincronizzazione.» Deglutì. «Funzionerà.»
-Laura rimase ferma un secondo.
-Tirò fuori dalla cintura una benda elastica. La avvolse attorno al polso di Claudio con la stessa precisione con cui faceva tutto il resto. Né troppo stretta né troppo lenta. Esattamente abbastanza.
-Dal lato della scuola arrivò una luce. Il fascio di un riflettore spazzava i portici in sequenza. Lontano. In avvicinamento.
-«Dobbiamo muoverci,» disse Laura.
-Claudio stringeva la benda con la mano sinistra. La sentiva ancora calda delle sue dita.
-Si alzò.
+Claudio forzò i bicipiti femorali e si sollevò in piedi.
+Il braccio penzolava di lato. Rigido, scosso dai nervi sovraeccitati, ma non rotto. Una selva di crampi perforava i tessuti salendo fino alla mascella.
+
+«Sicuro.»
+Laura imbracciò il proprio zaino e sollevò quello di Claudio, passandoselo sulla spalla sinistra. Nessuna parola di troppo.
+Al piano superiore rimbombarono i passi. Pesanti. Coordinati. Stivali ignifughi in marcia militare su piastrelle di granito.
+
+«Uscita secondaria.»
+Laura non aspettò conferma. Varcò la porta ovest senza frenare.
+Scala antincendio. Ferro gelato al tatto. Discesa rapida, le suole setacciavano i gradini in scivolamento calibrato.
+Voci calarono dall'alto. Modulazioni radio intrasquadra. Gracchii secchi, secchi ordini tattici. Il ritmo spietato del rastrellamento blindato.
+
+La rete d'assalto chiudeva l'edificio.
+Quaranta secondi al sigillo del perimetro esterno.
+Laura incassò la paratia al pianterreno a spallata tesa.
+
+L'aria gelida di Bologna tranciò i polmoni. Nebbia sporca calata sui mattoni. Un filtro grigio e umido. Tre e mezza del mattino. Motori diesel aggredirono le strade dal fronte est. I fari abbaglianti dei blindati ABITES sigillavano il piazzale scolastico. Nessuna sirena spianata. La vera forza si muove tacendo ogni allarme acustico. Terrificante ed inesorabile.
+
+Svolta a sinistra.
+Claudio eseguì la stessa traiettoria in scia.
+Corsa sotto i portici.
+I passi battevano sul ciottolato. Nessun trucco per zittire le scarpe sulla pietra consumata. Claudio faceva del suo meglio. Il braccio destro aveva ripreso parzialmente a rispondere. Abbastanza per non sbandare nelle curve. Inutile in caso di scontro da fuoco. La fitta coltre di nebbia azzerava la visibilità termica dei droni per i primi cento metri. Trenta secondi d'aria libera tra uno spostamento e l'altro. 
+
+Il braccio bruciava in modo costante. La fase acuta della scossa era scemata. Rimaneva il calore sordo e profondo di un'ustione grave. La manica del giubbotto si era fusa aderendo alla pelle. Evitò di guardarla.
+
+Discesa in via secondaria.
+Poi vicolo chiuso.
+Laura dominava la mappa mentale. Scartava le esitazioni, imboccava incroci e traverse a puro istinto spaziale. Addestramento assimilato sfociato in navigazione cieca.
+
+Arresto improvviso sotto l'ultimo portico prima della piazza.
+Accanto al pilastro di marmo un brandello di carta tremava frustato dal vento. Inchiostro scuro, tratto rapido: "Non temete ciò che state per soffrire. Sii fedele fino alla morte e ti darò la corona della vita. Apocalisse 2:10".
+
+I polmoni sversavano nubi passeggere. Nuvole grezze e calde sparate nel freddo.
+Laura effettuò una rotazione completa affrontando il compagno.
+Le dita scesero caute verso l'arto ustionato. Delicata minuzia. Premura umana senza secondi fini. Sollevò la stoffa bruciata. Dieci centimetri di cicatrice viva svettarono sulla radice del polso. Rossa e viva, con i bordi bianchi dalla temperatura fuori scala. Sanguinolenta. Il dolore si era appena installato permanentemente.
+
+Claudio cercò i suoi occhi.
+«Funzionerà.» Non le stava mentendo. «Il nodo locale è fuso. La rete regionale ci metterà quarantotto ore a risincronizzare il distretto.»
+Laura annuì.
+Districò una garza compressiva dalla bottoniera e avvolse la piaga. Fasciatura professionale ed efficace. Polso fermo e sicuro.
+
+Il muro a tre metri vibrò. Fari fendinebbia spazzarono le arcate portanti con scansioni asettiche.
+«Via da qui,» soppesò l'urgenza.
+Claudio artigliò la benda con le dita libere. Ne assorbì l'attrito e l'ombra del tocco di lei sfumò la fitta elettrica.
+Si raddrizzò facendo perno sui lombari.
+
 Pensò a Sara.
-Non come pensiero elaborato. Come fame improvvisa. Come il momento in cui il corpo realizza quanto tempo è passato dall'ultimo pasto. Il suono della sua voce nella radio a onde corte. Le parole spezzate dalla statica. Claudio, se riesci a sentirmi.
-Lui l'aveva sentita.
-Era ancora vivo per dirlo.
-Seguì Laura nel buio della città.
-I passi sotto i portici. Il respiro nell'aria fredda. La bruciatura sul polso pulsava a ogni battito come un orologio che aveva deciso di non smettere.
-Bologna dormiva intorno a loro. O fingeva. Era la stessa cosa.
-Da qualche parte nelle catacombe di Roma, su una frequenza che le spie meccaniche di ABITES non riuscivano ancora a trovare, una radio a onde corte aspettava un segnale che non arrivava.
-Arriverà, pensò Claudio.
-Accelerò il passo.`;
+Nessuna divagazione tattica. Solo il suo nome. Un ancoraggio contro il freddo che saliva. Un rifugio capace di combattere le fitte elettriche al braccio. Ricordò il tepore dell'abbraccio sotterraneo. Il suono della sua voce alla radio rimbombava nel cranio. Claudio, se riesci a sentirmi.
+
+Aveva sentito. E si stava tenendo in piedi per quello.
+Prese il passo dietro la sagoma dritta di Laura.
+Assalto ritmato verso le fessure cieche della città. Bologna dormiva, vigliacca e al sicuro nel suo sonno sintetico. Oltre l'orizzonte emiliano, la catacomba romana abbracciava un sintonizzatore spaccato e l'attesa di un segnale.
+
+Avremo una voce, pensò.
+Aumentò l'andatura.
+`;

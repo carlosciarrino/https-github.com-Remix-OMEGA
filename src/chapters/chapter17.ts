@@ -1,55 +1,78 @@
 export const chapter17Content = `Capitolo 17: Il Peso di Quello Che Sappiamo
+
 La pioggia non lavava più via niente.
-Claudio lo capì attraversando via della Lungara. Teneva la testa bassa. Il colletto del cappotto sfiorava gli zigomi. L'acqua cittadina scivolava pungente lungo la nuca. Lasciava sulla pelle uno strato opaco. Un retrogusto ferruginoso incollato ostinatamente alle labbra.
-Laura tracciava la rotta due passi davanti a lui. Bilanciava il peso sotto la giacca tattica scura. Si muoveva con l'andatura guardinga dei sopravvissuti. Spezzava le traiettorie. Si arrestava all'improvviso. Ripartiva con scatti brevi. Claudio la tallonava. Intuiva ogni suo movimento. La concentrazione feroce della ragazza costituiva l'unica vera corazza per mantenerli in vita.
-Un drone incrociò la rotta oltre la linea delle grondaie sgocciolanti. Il suo sensore ottico rosso forò la nebbia sottile. Il ronzio basso vibrava direttamente nei molari. Claudio slittò svelto sotto l'arco di un cornicione. Laura aderì all'intonaco del muro adiacente. I suoi occhi sfidarono le nubi senza concedere il minimo movimento muscolare.
-Il predatore aereo superò i tetti. La ritirata riprese.
-Il drive giaceva nella tasca interna del cappotto di Claudio. Aris lo aveva sigillato in un panno antistatico. Il blocco metallico premeva contro le costole a ogni passo. Quel rettangolo compatto conteneva l'intero apparato della Fase 4. L'elenco nominativo dei bersagli infantili. Le mappe di quarantadue complessi scolastici internazionali. Futuri campi d'addestramento ABITES. Quei braccialetti biometrici colorati avrebbero schedato le emozioni dei bambini. Li avrebbero marchiati e riprogrammati dall'interno della loro stessa evoluzione.
-Una generazione soppressa prima ancora di poter sbocciare.
-Claudio stritolò il tessuto del cappotto attorno all'oggetto. Aspirò l'aria umida per ricacciare in gola la rabbia. Forzò i muscoli a mantenere quel ritmo inclemente.
-Laura bloccò la marcia all'angolo di vicolo del Cedro. Sollevò il dorso della mano. Tre uomini sbarravano la strettoia. Indossavano l'equipaggiamento ibrido della divisione sorveglianza urbana. Scansionavano i moduli di un anziano sotto la luce giallastra di un lampione. L'uomo teneva il polso sollevato. La sua schiena assecondava l'esasperazione logorante di una routine infame. Un trillo acuto autorizzò il transito. L'anziano riprese la strada a testa chinata.
-Laura tagliò fluidamente l'angolo opposto. Claudio invertì la direzione nella sua scia.
-Impiegarono quaranta minuti per esaurire un percorso di un quarto d'ora. Raggiunsero l'anfratto d'accesso alle catacombe. Sfociarono in un cortile dismesso. Un portone di ferro rugginoso presidiava l'ingresso clandestino. I quadricipiti di Claudio subirono un forte cedimento nervoso. La conseguente reazione organica dopo ore di fuga alla cieca. Laura batté una sequenza ritmica sul metallo infreddolito. La serratura interna scattò liberando sedimenti terrosi. Il ventre della terra li accolse.
-L'esalazione termica delle caverne sotterranee spazzò via il gelo metropolitano.
-L'aria racchiusa in quel rifugio odorava di terriccio vivo e scorie di silicio surriscaldate. Claudio si aggrappò alla parete calcarea. Scese lungo i gradini irregolari. Lasciò abituare gli occhi alle file di LED improvvisati lungo il corridoio principale.
-La scorse immediatamente.
-Sara presidiava i supporti della consolle di Carlo. Dava loro le spalle. Le dita lunghe stringevano un caos di plichi stampati. La coda sciatta lasciava cadere una ciocca nervosa sull'attaccatura del collo. Indossava il camice sotto quella sformata felpa grigia. La stessa che l'ingegnere le aveva prestato all'inizio della loro odissea.
+Claudio lo capì attraversando via della Lungara. Teneva la testa bassa. Il colletto del cappotto sfiorava gli zigomi. L'acqua cittadina scivolava pungente lungo la nuca. Lasciava sulla pelle uno strato opaco. Un retrogusto metallico sulle labbra.
+
+Laura tracciava la rotta due passi davanti a lui. Bilanciava il peso dell'attrezzatura sotto la giacca tattica. Si muoveva con l'andatura guardinga di chi è da sempre abituato a scappare. Spezzava le linee dritte. Si arrestava all'improvviso. Ripartiva con scatti brevi. Claudio la tallonava. Intuiva ogni suo movimento.
+
+Un drone incrociò la rotta sfiorando la linea delle grondaie. Il sensore ottico bucò la nebbia. Il ronzio basso vibrava direttamente nei molari. Claudio slittò sotto l'arco di un cornicione. Laura si appiattì contro il muro. I suoi occhi seguirono la macchina senza concedere il minimo movimento al corpo.
+
+Il drone superò i tetti. La marcia riprese.
+Il drive giaceva nella tasca interna di Claudio. Aris lo aveva sigillato in un panno antistatico prima di morire. Il blocco metallico premeva contro le costole a ogni passo. Conteneva interamente il progetto Fase 4. L'elenco nominativo dei bersagli infantili. Le mappe di quarantadue complessi scolastici. Quei braccialetti biometrici colorati avrebbero schedato le emozioni dei bambini. Cavi e algoritmi inseriti direttamente nella loro evoluzione.
+
+Una generazione azzerata prima ancora di poter parlare.
+Claudio stritolò il tessuto del cappotto attorno al blocco. Le nocche gli sbiancarono.
+
+Laura bloccò l'avanzata all'angolo di vicolo del Cedro. Sollevò la mano sinistra. Tre uomini sbarravano la strettoia. Pattuglia di sorveglianza urbana. Scansionavano i moduli di un anziano sotto la luce giallastra di un lampione rotto. L'uomo teneva il polso sollevato. La sua schiena curva assecondava una procedura infame diventata routine. Un trillo metallico autorizzò il transito. L'anziano riprese la strada a testa bassa.
+
+Laura aggirò l'incrocio dal lato opposto. Claudio la seguì.
+Impiegarono quaranta minuti per esaurire un percorso di un quarto d'ora. Raggiunsero l'accesso alle catacombe. Sfociarono in un cortile chiuso. Un portone di ferro rugginoso nascondeva l'ingresso clandestino. I muscoli delle gambe di Claudio subirono un cedimento netto. Il riflesso incondizionato dopo ore di tensione estrema. Laura batté una sequenza ritmica sul metallo pesante. La serratura scattò liberando terra. Scesero al riparo.
+
+L'umidità delle grotte assorbì subito il gelo metropolitano.
+L'aria racchiusa là sotto odorava di terriccio vivo e calore umano. Claudio si appoggiò alla parete calcarea. Scese i gradini irregolari. Si abituò alla fila di lampadine a vista lungo il corridoio.
+
+La vide immediatamente.
+Sara era al tavolo della consolle vicino a Carlo. Dava loro le spalle. Le dita lunghe riordinavano cavi intrecciati e fogli. I capelli raccolti male. Indossava la sua felpa grigia per combattere l'umidità. 
+
 «Claudio.»
-Un'espirazione carica di sollievo smosse l'atmosfera ovattata della cripta.
-Sara si voltò. Lasciò cadere i fogli a terra. Azzerò lo spazio tra loro con urgenza viscerale. Lanciò le braccia al collo del fuggiasco per stringerlo a sé.
-L'abbraccio sfociò in un contatto di rara dolcezza. Intimo e vitale. Sara affondò il viso nell'incavo della sua spalla. Il suo respiro caldo inebriò il tessuto rigido. Claudio assecondò immediatamente il contatto. La cinse forte con un gesto solido e protettivo. Riconobbe la consistenza delle sue curve sotto l'indumento pesante. Posò delicatamente i polpastrelli fra le scapole femminili. Avvertì le fibre muscolari allentare la pressione acuminata del terrore persistente. Condividevano un'oasi temporanea e bellissima di conforto irrazionale.
-I vestiti di Claudio conservavano l'umidità della strada. Il retrogusto tagliente della fuga urbana. La pelle di Sara gli restituì immediatamente calore puro.
-«Sono intero,» la rassicurò morbidamente.
-Sara allentò l'ancoraggio. Piantò le iridi decise nei tratti provati per scrutare a fondo il vigore ritrovato. Tastò il giubbotto per sfiorare delicatamente l'integrità del torace oppresso. La sua cura empatica cicatrizzò le asperità esterne della notte. Accendeva fiducia totale. Fiera bussola tra anime congiunte a scudo contro il gelo artificiale della strada.
-Ritrasse le mani. Tornò vigile e operativa.
-«Carlo ha decifrato la matrice radice sfondando i firewall,» lo avvertì recuperando autorevolezza tattica. «L'orrore logistico è smascherato.»
-L'anarchico in sedia a rotelle sedeva incastrato in una voragine di cavi aggrovigliati. Le lenti spesse riflettevano le righe crittografate. Sfrecciava sulle tastiere infestate assemblando stringhe offensive ardite.
-Si voltò col busto ingobbito. Indicò il monitor centrale abbagliante.
-Claudio azzerò le distanze affrontando i fosfori verdi accecanti.
-I pannelli proiettavano spietate planimetrie di edilizia scolastica. I tracciati rossastri segnavano brutali invasioni nei cortili elementari. Il Volition Engine attestava l'impermeabilità mentale parziale degli organismi adulti. Indirizzava lo sterminio all’infanzia sguarnita. Lo mascherava in dispositivo rintracciante per genitori terrorizzati. Un baratto cinico e mostruoso per la creatività eversiva della nuova generazione.
-«Hanno snellito la tabella di marcia d'avvio impunemente,» informò tagliente Carlo. Abbatté pesanti percussioni sulla scocca della consolle. «I siti pilota attivi pompano dati grezzi da Bologna Lione e Rotterdam. Li sfornano continui all'interfaccia centrale ABITES. L'ufficio propaganda immette questi collari elogiandone la custodia satellitare infatuando il gregge dei genitori. Accettano il tracciamento firmando clausole.»
-Laura fissava glaciale gli schermi illuminati. Calcolava asetticamente punti ciechi di ricognizione militare in accampamento civile da assaltare. Strinse i polsi conserti per bloccare l'empito indomabile covato nelle dita tese. Assaltatrice urbana implacabile e sicura.
-Sara assestò il corpo rassicurante a spalla con lui in trincea ardimentosa.
-«Mappando fin dall'asilo biologico il neonato asettico assorbiranno la formazione neuro-emotiva,» sezionò cruda la biologa ascesa stratega. «ABITES innesterà un loop per inattivare la genesi sentimentale. Impediranno formazioni oppositive umane spezzando il libero volere. Un condizionamento irreversibile fin dall'educazione primaria.»
-Claudio estrasse rabbiosamente il blocco metallico gettandolo senza riguardi sul banco illuminato.
-«Qui riposano le sequenze radice originali usate sui bersagli,» asserì inquadrando i compagni. «Le antenne per l'irradiazione giovanile sfruttano bande cortissime. Frequenze circoscritte ai perimetri educativi degli asili preposti. Isolando quelle reti locali prima della loro connessione alla Sincronia centrale manderemo in panne il test. Distruggeremo il loro raggio d'apprendimento precludendo l'espansione globale.»
-Carlo valutò fessurando gli occhi velati dalle lenti opache la prospettiva audace e distruttiva delineata dall'Ingegnere ribelle fuggiasco dai colossi aziendali.
-«Hai formalizzato un attacco chirurgico inossidabile o brancoliamo sperando un macello disperato al santuario bolognese infantile per scaricare il rimorso morale del nostro retaggio corporativo fottuto e colpevole?»
-«Siamo l'amalgama fatale e rovente di entrambe le pulsioni,» confessò onesto e tagliente l'Ingegnere senza alibi tattici o assoluzioni personali immeritate.
-Laura avanzò risoluta sul calcare con passo guerriero chiudendo i dubbi operativi in azioni concrete ed esplosive.
-«Sfruttando immediatamente le credenziali anagrafiche sottratte da Mara sbarcheremo a Bologna scavalcando le tratte ferroviarie secondarie entro l'alba. Lione ci polverizzerebbe in agguati non previsti estendendo ricognizioni oscure. Rotterdam nasconde i ponti.» Fissò decisa il recluso programmatore geniale ma spiantato. «Il tuo margine olandese copre la ritirata nei data center o langue reciso?»
-«Il mio fetido mercato ristagna moribondo incatenato dalla repressione ABITES,» ammise a denti stretti Carlo. Abbassò il capo. «Ignoro i contatti capaci di galleggiare ancora al margine dell'ombra.»
-«Aggrediamo l'Emilia senza deroghe.» deliberò freddamente Laura scatenando un impeto bellico sulla squadra. «Richiedo pianta aggiornata catastale. Dislocazione nodale. Sorveglianza della caserma ed il battito esatto delle ronde ricreative dei turnisti. L'innesco irreversibile suona tra settantadue ore.»
-Carlo affondò le nocche sferzando assalti digitali devastanti. Perforò le muraglie di crittografia estraendo toponomastica letale.
-Claudio sostenne l'assedio mentale delle cifre mortuarie sbattute sul monitor. Asili ricolmi di ragazzini tramutati a breve in droni biologici dalla vanità corporativa. Un impero inossidabile fondato sull'apatia dei vinti sottomessi da braccialetti chimici in forma di balocchi fluorescenti innocui.
-Avvertì lo sconforto gelargli le arterie. L'orrore imminente insostenibile.
-Poi avvertì la mano di Sara incastrarsi caldamente alla sua.
-Le loro dita si intrecciarono con una forza granitica. L'ancoraggio vigoroso scatenò scosse viscerali e passionali risolutrici. Condividevano l'energia ribelle di due combattenti fusi assieme, accerchiati dai nemici ma immortali d'animo glorioso titanico indistruttibile innalzato feroce al grigiore.
-«Oltrepassata la soglia cortilizia in asilo bolognese eliminiamo il ritorno sui binari alla luce del giorno chiudendo ritirate codarde fuggitive,» mormorò fiera risollevando lo stordito guerrigliero compagno al proprio lato letale affettivo indomabile.
-«Ne ho soppesato l'impatto distruttore irreversibilmente conscio e spietato in fuoco d'anima vendicatrice,» confermò deciso lui suggellando la presa pulsante guerriera e sfrontata colma d'ammirazione inesauribile invincibile sacra immutata al destino catastrofico soverchiante.
-Si scandagliarono gli occhi spietati letali indissolubili accesi vibranti dardi mortali in ribellione suprema fiammante senza rassegnazioni apatiche d'umanità sconfitta o castrata dal regime beato in divinità deviata padrona invisibile ABITES dominante impietosamente la distopia asfissiante cieca piegante.
-«Annienteremo il tiranno digitale liberando i figli futuri oggi stesso,» giurò lei inesorabile.
-Nella stanza echeggiò il ritmo furioso battuto da Carlo. Laura mappava vie d'imboscata urbana soppesando irruzioni fatali.
-Fuori dalle catacombe umide ronzavano cieli oppressivi avvolti d’artifici spietati in caccia furente perpetua padrona metropolitana finta salvezza ingannevole assassina.
-Ma Claudio teneva salda la mano bollente e ribelle di Sara.
-E la rivoluzione iniziò a tracciare la propria vendetta.`;
+Un respiro carico di vuoto riempì la cripta.
+Sara si voltò. Mollò le carte sulla scrivania e azzerò la distanza. Gli buttò le braccia al collo, stringendolo contro di sé con forza.
+
+Era un contatto intimo, vitale. Sara affondò il viso nell'incavo della sua spalla. Il suo respiro attraversò il tessuto bagnato del trench. Claudio la strinse forte in una morsa salda. Le sue mani le circondarono la spalla e i fianchi, ancorandosi a lei. I muscoli tesi dal terrore dell'esterno si allentarono. In un attimo, in quel minuscolo angolo sottoterra, trovarono il rifugio che la strada gli aveva negato.
+
+I vestiti di Claudio sapevano di pioggia e di asfalto amaro. La pelle di Sara gli restituì calore vivo.
+«Sono intero,» la rassicurò lui a bassa voce.
+Sara allentò la presa per guardarlo in faccia. Scrutò i suoi occhi stanchi per cercare sicurezze. Gli posò le mani sul petto, testandone l'integrità. Nel suo tocco c'era cura e coraggio. La promessa di fare fronte comune senza indietreggiare.
+
+Arretrò di un passo tornando al tavolo, di nuovo rapida e vigile.
+«Carlo ha bucato il firewall del drive,» lo avvertì riprendendo possesso del ruolo operativo. «Il tracciato è completo.»
+
+Carlo sedeva in carrozzina avvolto da fili sparsi. Le lenti spesse dei suoi occhiali riflettevano le righe del codice. Digitava a velocità serrata, assemblando blocchi senza staccare mai gli occhi dallo schermo.
+Si voltò indicando il monitor centrale.
+
+Claudio si avvicinò alla scrivania studiando i file aperti.
+I planimetrie mostravano complessi materni e asili nido. Linee rosse invadevano i perimetri dei cortili scolastici interni. Il motore di ABITES si era arreso all'imprevedibilità degli adulti. Aveva ricalibrato il tiro sulle menti in formazione dei bambini. Distribuivano gli inibitori mascherati da dispositivi geolocalizzanti per tutelare i più piccoli.
+
+«Hanno accorciato i tempi,» spiegò tagliente Carlo sbattendo la nocca sul telaio di ferro. «I siti pilota battono su Bologna, Lione e Rotterdam. Estraggono di continuo e riversano a Roma. La propaganda fa leva sull'ansia da controllo: i genitori accettano di farsi taggare i figli credendo di proteggerli dai criminali.»
+
+Laura calcolava a vista i punti deboli delle telecamere affisse ai muri del plesso in esame. Fissa e impassibile.
+«Neutralizzando il processo psicologico a quell'età aggireranno l'indole naturale,» sezionò logica Sara. «Introdurranno freni per isolare gli istinti base finché saranno ancora malleabili. Un format senza ribellione fin dalle fondamenta.»
+
+Claudio cavò fuori il drive avvoltolato nel panno. Lo sbatté pesantemente contro il tavolo di formica scrostata. 
+«Da qui preleviamo la frequenza del vettore infettante,» disse. «Posano antenne sui tetti didattici trasmettendo reti chiuse per il raggio scolastico. Isoliamo un plesso recedendo il canale con Roma per pochi minuti: scarichiamo un payload dentro il kernel centrale mascherando un impulso d'errore fatale che si trasmetterà globalmente durante la sincronizzazione mensile.»
+
+Carlo arrestò il tambureggiamento sulla rotella del mouse analizzando Claudio.
+«Una mossa fredda e impeccabile, oppure la scusa mascherata per immolarti all'interno dell'asilo di Bologna e liberarti la coscienza per aver scritto l'algoritmo genetico che ci sta fottendo?»
+«È la miscela di entrambe,» sentenziò l'Ingegnere seccamente e senza sconti alla propria natura.
+
+Laura agganciò la fondina alla coscia e avanzò in mezzo al gruppo.
+«Requisiamo lo shuttle merci aziendale. Tratta a binario cieco verso nord prima che l'alba spunti. Dimenticate Lione e tantomeno le roccaforti centrali. È saturo.» Puntò il dito addosso a Carlo. «I tuoi referenti olandesi sono vivi e raggiungibili in caso di sgancio rapido e ritirata estesa?»
+Il criminale digitale abbozzò una smorfia torva alla domanda tattica. Scosse meccanicamente il capo stempiato.
+«I mercati fantasma languono seppelliti da raid chirurgici del mese precedente. Ignoro agganci olandesi attivi senza incappare nei droni esecutori.»
+«Bologna sia la tomba del sistema,» confermò letale Laura imbracciando lo spallaccio in cuoio logoro. «Mi serve topografia. Muro murario. Griglia oraria. E incroci delle pattuglie turnisti nel quadrato adiacente al polo bolognese. Fase 4 spara a fuoco tra tre giorni esatti.»
+
+Carlo riposizionò le dita sull'attrezzatura hackerando l'interfaccia protetta estrapolando diagrammi tattici al laser del sito bersaglio emiliano est. 
+L'informazione visuale ferì gli occhi stanchi di Claudio. Interagire con schermi ricolmi delle stime aziendali d'infiliatura gli rivoltava il fegato, prospettando un vuoto infinito fondato sul controllo incondizionato e schiavistico dell'evoluzione intellettiva dell'infanzia umana.
+Percepì gelo scendergli dritto allo stomaco. Disperazione imminente allo stato puro.
+
+Poi il tocco saldo e rovente di Sara avvolse la sua mano.
+Strinsero reciprocamente la presa serrando due mondi disastrati fusi in un interblocco risoluto. 
+Nel disastro che lo sminuiva, la forza e il supporto inesauribile ed organico donatogli da quella ragazza costituiva radici incrollabili su cui poggiare l'anima per reagire senza crollare. Lei trasmetteva caparbietà indomita, rifugio calcolabile tangibilmente.
+Claudio respirò lentamente traendo una massiccia sorsata di fiducia. Guardò i due penetranti occhi neri che ricambiavano la promessa impetuosamente in bilico sul baratro.
+
+Non era un assalto isolato di folli martiri persi nei loro deliri logistici. Combatteva una guerra vera spalleggiato dall'essere umano più vivo concesso dalla disgraziata sorte dell'impero corporativo corrotto.
+Avvertì un sorriso spigoloso tendere le rughe umide d'acqua sporca sulle sue labbra di fuggiasco indurito.
+
+Siamo le variabili errate. Il cancro al codice matrice, pensò annodando i lacci del bavero protettivo. 
+L'assalto operativo prese la rampa per l'esterno di nuovo.
+`;

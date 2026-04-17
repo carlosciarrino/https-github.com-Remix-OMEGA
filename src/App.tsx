@@ -922,10 +922,9 @@ Claudio guardò la bilancia digitale al tornello. Non misurava solo il peso del 
         </motion.h1>
         <div className="flex justify-center mb-6 mt-4">
           <img 
-            src="https://storage.googleapis.com/generativeai-downloads/images/15893345-2026-04-15-09-29-00.jpg" 
+            src="/cover.jpg" 
             alt="Omega Volume 1: L'Eclissi di Roma" 
             className="rounded-lg shadow-[0_0_20px_rgba(251,191,36,0.2)] border border-amber-400/30 w-full max-w-3xl h-auto object-cover"
-            referrerPolicy="no-referrer"
           />
         </div>
         <p className="text-gray-400 text-sm max-w-2xl mx-auto mb-6">

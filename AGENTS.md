@@ -5,6 +5,8 @@
 - **SHOW THE MOMENT:** Instead of naming a pause, show it through a physical gesture, a breath, a shift in gaze, or a specific detail in the environment.
 - **NO EXPLANATORY "AS IF":** Avoid using "come se" (as if) to explain a character's subconscious motivations or the "meaning" of a gesture. Let the gesture speak for itself.
 - **PARATASSI ESTREMA (NO RUN-ON SENTENCES):** Le frasi devono essere brevi, taglienti e lineari. Soggetto, verbo, oggetto. Punto. È severamente vietato concatenare troppe azioni con "e", virgole o gerundi (es. "corse guardando indietro e cadde sbattendo la testa"). Spezza le frasi lunghe. Il testo deve essere scorrevole e ritmato.
+- **LINGUAGGIO MODERNO E IMMERSIVO:** Usa un linguaggio odierno, semplice e fisico. Niente insalate di parole, aggettivi arcaici o stile teatrale. Il lettore deve potersi riconoscere per appassionarsi.
+- **REGOLA DEL CUORE APERTO:** L'amore è forza, rifugio e coraggio. Quando un personaggio pensa alla persona amata, lo fa per trovare speranza e forza. È ASSOLUTAMENTE VIETATO descrivere pensieri d'amore o baci con sensazioni negative ("sapore di paura", "crampi di stomaco", "agonia").
 - **PROFESSIONAL PROSE:** Trust the reader's intuition. Do not over-explain. Use simple, powerful Italian.
 - **AUTHENTIC HUMANITY:** Characters should feel like real people, not archetypes being analyzed by a narrator.
 
