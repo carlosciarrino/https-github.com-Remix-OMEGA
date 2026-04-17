@@ -54,7 +54,7 @@ Laura aggiustò le fibbie dello zaino rigido. Afferrò il calcio della sua arma.
 
 Claudio ripose il dispositivo riparandolo nella tasca della giacca. 
 Pensò a Sara. 
-Il volto di lei scacciò il gelo dell'oceano dai suoi linfonodi. L'amore lo incendiò internamente con un calore protettivo. La promessa solida di riportarla in un mondo da ricostruire divenne un propulsore fisico invincibile. Lei era la fiaccola che gli permise di fronteggiare il molo d'acqua nera circondato di blindati pronti ad ucciderlo. 
+Il volto di lei scacciò il gelo dell'oceano dai suoi polmoni. L'amore lo abbracciò internamente con un calore protettivo. La promessa di riportarla in un mondo da ricostruire divenne la ragione per restare in piedi. Lei era la spinta vitale che gli permise di fronteggiare il molo d'acqua nera circondato dai blindati. 
 
 Guardò Laura nel buio rovesciato. Lei ricambiò annuendo in un assenso netto. Azione pura, ruvida, inarrestabile.
 Claudio premette il tasto fisico sul ricevitore col dito sano.

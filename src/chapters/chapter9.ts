@@ -3,7 +3,7 @@ export const chapter9Content = `Capitolo 9: Fango e Kevlar
 La pioggia cadeva senza fare rumore.
 Il sistema tattico integrato nell'elmetto registrava il dato con fredda precisione: precipitazione a tre gradi Celsius, intensità media, impatto acustico inferiore alla soglia di rilevamento. L'HUD classificava la pioggia come una variabile ambientale neutrale e, di conseguenza, la filtrava visivamente, riducendola a un fastidio statistico.
 Ma Marcus Draken la sentiva. Avanzava attraverso il bosco con il fucile basso e il respiro controllato — quattro secondi dentro, quattro secondi fuori — un ritmo che gli era stato calibrato a forza nel reparto di potenziamento di Ginevra diciotto mesi prima.
-Dietro di lui, i cinque elementi della squadra Teslaris-7 si muovevano in formazione aperta, mantenendo dieci metri di distanza l'uno dall'altro come ombre silenziose.
+Dietro di lui, i cinque elementi della squadra Teslaris-7 si muovevano in formazione aperta. Mantenevano dieci metri di distanza rigida sfumando nella vegetazione.
 
 Il visore tattico dipingeva il mondo in strati sovrapposti.
 Il layer biometrico non segnalava alcuna firma termica nel raggio di duecento metri. Il layer strutturale evidenziava tre costruzioni dalle coordinate precise, baracche fatte di legno non trattato e lamiera arrugginita. Il layer operativo, invece, lampeggiava: sei anomalie biometriche. Sconnessi attivi. Probabilità di resistenza armata stimata al settantanove percento.
@@ -77,6 +77,6 @@ Draken non aveva guardato le fotografie nel database. Aveva guardato il blocco c
 Reyes batté una mano guantata sul tetto del veicolo.
 «Pronti a muovere.»
 Draken rimase seduto per altri tre secondi sul bordo del portellone. La pioggia gli bagnava i capelli corti, scivolando lungo il collo, entrando nel collare del kevlar fino a raggiungere la pelle nuda tra le scapole. Un brivido lo attraversò da cima a fondo.
-Si alzò in silenzio e salì sul veicolo. Il portellone si chiuse con un tonfo sordo, isolandoli dal mondo esterno.
+Si alzò ignorando i compagni e montò sul veicolo. Il portellone si chiuse con un tonfo sordo, isolandoli dal mondo esterno.
 Il trasporto si mosse nel buio del bosco. Marcus Draken rimase a fissare il finestrino laterale antiproiettile, sentendo ancora il fango nel polsino. Teneva l'elmetto appoggiato sulle ginocchia.
 Dentro il casco, il visore tattico era spento. Completamente nero.`;

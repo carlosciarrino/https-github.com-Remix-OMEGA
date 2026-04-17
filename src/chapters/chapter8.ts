@@ -19,7 +19,7 @@ La mascella gli si strinse in una morsa. Un muscolo sotto l'occhio sinistro iniz
 Quello che si nascondeva nei recenti aggiornamenti dei dispositivi medici non era un semplice localizzatore. Non era il solito controllo biometrico del battito, dei movimenti o del tono della voce. Quello era solo il prezzo dichiarato, la tassa visibile per l'illusione della sicurezza.
 Il codice che scorreva sullo schermo era il prezzo nascosto.
 
-Ogni dispositivo medico collegato alla rete di ABITES — pacemaker, monitor per il diabete, cerotti neurali — conteneva un modulo aggiuntivo. Muto. Invisibile. Risvegliato silenziosamente dall'ultimo aggiornamento di sistema.
+Ogni dispositivo medico collegato alla rete di ABITES — pacemaker, monitor per il diabete, cerotti neurali — conteneva un modulo aggiuntivo. Muto. Invisibile. Risvegliato dalla centrale tramite l'ultimo aggiornamento di sistema.
 Non raccoglieva i dati del corpo. I corpi erano già tracciati, catalogati e previsti.
 Raccoglieva le frequenze del cervello.
 Claudio rimase immobile, il respiro bloccato in gola.
@@ -27,8 +27,7 @@ Tracciano i pensieri.
 Controllò le date degli aggiornamenti. Fece i calcoli, poi li rifece per essere sicuro di non essersi sbagliato.
 Da almeno sei mesi. Sei mesi di lettura neurale non rilevata su scala globale.
 
-Pensò a Sara.
-Deglutì a fatica.
+Pensò a Sara. La forza del suo amore divenne urgenza di protezione.
 «Sara.»
 La chiamò con un tono piatto, la voce ridotta a un sussurro.
 Lei scattò dalla branda in un istante e si avvicinò allo schermo senza fare domande. Claudio si spostò di lato per farle spazio.
@@ -75,7 +74,7 @@ Nessuno dei due si mosse. Rimasero intrecciati, i respiri corti e affannosi che 
 Aspettarono finché l'ultimo eco non si dissolse, lasciando solo il rumore dell'acqua che gocciolava da una crepa lontana.
 Si staccarono con lentezza, riluttanti a spezzare quel contatto.
 
-Tornarono agli schermi in silenzio.
+Tornarono davanti ai monitor senza spiccicare parola.
 La scoperta era ancora lì, fredda e inequivocabile.
 «Dobbiamo far uscire questo,» disse Sara, guardando il monitor. La sua voce era roca, ma ferma.
 «A chi?»

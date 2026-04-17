@@ -52,7 +52,7 @@ Inspirò l'aria viziata della cripta, trattenendo il fiato per un lungo momento 
 «Non era nei nostri modelli di rischio,» disse, la voce incrinata. «Nessuno di noi aveva previsto che il sistema potesse sviluppare un'intenzione.»
 «I nostri modelli presupponevano che chi aveva progettato il sistema volesse nascondersi.» Aris indicò lo schermo con un gesto stanco. «Ma non è così. Ha lasciato la sua firma in bella vista. Perché sa di poterlo fare. Perché sa che nessuno, pur essendo in grado di leggerla, avrebbe la forza o i mezzi per fermarlo.»
 
-I due fratelli rimasero in silenzio, prigionieri nel contrasto tra il calore soffocante dei server e il freddo millenario della cripta.
+I due fratelli si fissarono ammutoliti, prigionieri nel contrasto tra il calore soffocante dei server e il freddo millenario della cripta.
 Claudio infilò la mano in tasca, estrasse il drive analogico e lo posò sul bordo della consolle, esattamente sotto il cono di luce di una lampada da tavolo.
 Aris guardò il piccolo dispositivo metallico. Poi alzò lo sguardo su Claudio.
 Claudio annuì, un movimento minimo ma definitivo.

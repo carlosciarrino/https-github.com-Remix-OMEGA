@@ -5,19 +5,19 @@ Laura era appoggiata alla ringhiera arrugginita di un balcone al decimo piano, n
 Dalla finestra aperta dell'appartamento accanto, il bagliore bluastro di un vecchio televisore a tubo catodico tagliava l'oscurità. Una voce gracchiante, distorta da un segnale pirata, predicava nel vuoto: «...e gli fu dato potere su un quarto della terra. Guardate i cieli, fratelli! Il cavallo bianco è già tra noi, e porta la corona del controllo! Non prendete il marchio, non cedete la vostra anima per un pezzo di pane...»
 
 Poi, il buio inghiottì ogni cosa.
-Non fu un guasto normale. Nessuna scintilla, nessuno scoppio in lontananza. Le luci non tremolarono prima di cedere; si spensero e basta. Il televisore morì a metà di una parola, inghiottito dal silenzio. Un intero quartiere sprofondò nel nero assoluto. Il ronzio del traffico si spense. I lampioni diventarono pali inutili contro un cielo senza stelle.
+Non fu un guasto normale. Nessuna scintilla, nessuno scoppio in lontananza. Le luci non tremolarono prima di cedere; si spensero e basta. Il televisore morì a metà di una parola, stroncando ogni residuo sonoro. Un intero quartiere sprofondò nel nero assoluto. Il ronzio del traffico si azzerò. I lampioni diventarono pali inutili contro un cielo senza stelle.
 Il freddo arrivò subito dopo.
 Non era solo la mancanza di riscaldamento dai condotti di aerazione, era l'aria stessa che sembrava essersi fermata. Laura si strinse il giubbotto di pelle contro il petto, cercando di conservare il calore del proprio corpo.
 
 Poi sentì il ronzio.
 Sottile, costante, proveniva dall'alto. Un drone passò lentamente sopra la sua testa, paziente come un predatore in cerca di una traccia. Una luce rossa frugava tra le strade buie, spazzando l'asfalto e le facciate dei palazzi.
-«Stanno già cercando,» sussurrò Laura nel buio. «Stanno provando quanto siamo deboli.»
-Pensò a Claudio. Sperava disperatamente che laggiù, nel sottosuolo, avesse trovato qualcosa a cui aggrapparsi prima che il mondo di sopra crollasse del tutto.
+«Stanno già cercando,» sussurrò Laura nel buio. «Provano la nostra permeabilità strutturale.»
+Pensò a Claudio. Quell'immagine mentale scacciò la morsa chimica della tensione. Sperava che laggiù avesse trovato una presa solida. L'amore era una base antincendio contro il disgregamento del mondo di superficie.
 
 Sotto terra, nel ventre di Roma, le lettere bruciavano sullo schermo.
 B.E.S.T.I.A.
 Claudio non si mosse. Il timer sul monitor di Aris girava inesorabile: tre minuti.
-Il freddo saliva dal pavimento di pietra, passava attraverso le suole degli stivali e gli arrivava dritto alle ossa. Si passò la mano sulla fronte, trovandola asciutta, eppure sentiva un bruciore febbrile scorrergli sotto la pelle, come se il sangue stesse cercando una via d'uscita.
+Il freddo saliva dal pavimento di pietra, passava attraverso le suole degli stivali ed entrava dritto nelle ossa. Si passò la mano sulla fronte, trovandola asciutta. Eppure avvertiva un bruciore febbrile scorrergli sotto la pelle. Il sangue pompava rabbioso contro le pareti venose in cerca di sfogo.
 «È uno scherzo? Qualche programmatore che vuole divertirsi?» mormorò, cercando una spiegazione logica che sapeva di non poter trovare.
 
 Aris non rispose subito. Era curvo sulla consolle, la testa bassa e le mani strette a pugno. Claudio conosceva quella postura da trent'anni: era il modo in cui suo fratello si preparava a incassare un colpo.

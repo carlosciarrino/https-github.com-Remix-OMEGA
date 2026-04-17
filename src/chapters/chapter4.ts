@@ -15,9 +15,9 @@ E i cerotti neurali.
 Le porte a doppi battenti si aprirono alle sue spalle. Julian non si voltò subito; riconobbe il passo pesante, il rumore del cuoio militare sulla resina del pavimento. Quando finalmente si girò, il Generale Müller era già a metà stanza, con un tablet stretto nervosamente sotto il braccio. 
 Müller sudava. Una patina lucida gli copriva la fronte e il colletto dell'uniforme era stato slacciato per cercare aria.
 
-Julian lo lasciò avvicinare in silenzio.
+Julian lo guardò avvicinarsi senza fiatare.
 «Signor Vane, i dati del settore sud mostrano un pattern di aggregazione pericoloso. Se non interveniamo adesso con le unità antisommossa...»
-«Müller.» Il nome cadde nel silenzio come una lama di ghigliottina. Il generale si zittì all'istante.
+«Müller.» Il nome tranciò la foga militare come una lama. Il generale ammutolì all'istante.
 «Ha visto i dati di aggregazione del blocco B-17?» domandò Julian, la voce priva di inflessioni.
 «Sì, ma...»
 «L'aggregazione massima è prevista tra trentasei e quarantaquattro ore.» Julian indicò lo schermo con un cenno del capo. «Le unità antisommossa avrebbero una finestra operativa di appena sei ore. Dopodiché, i droni civili e le telecamere trasformerebbero l'intervento in un massacro mediatico.»
@@ -35,7 +35,7 @@ Müller deglutì a fatica, combattendo contro il nodo che gli serrava la gola. S
 «Signor Vane, se aspettiamo altre quarantotto ore senza riattivare il riscaldamento, le proiezioni indicano trenta morti per assideramento. Forse di più.»
 «Ventisei virgola quattro.» Julian non si voltò. «Il modello è stato aggiornato questa mattina.»
 
-Müller smise di respirare per un secondo. Le sue spalle, un attimo prima rigide per la tensione militare, si abbassarono in una resa silenziosa.
+Müller smise di respirare per un secondo. Le sue spalle rigide cedettero svuotate da una resa incondizionata.
 «Quarantaquattro mesi fa,» continuò Julian, «l'adesione volontaria ai cerotti neurali era ferma al tre virgola otto percento. Sa qual è la percentuale oggi?»
 Müller non rispose. Fissava il pavimento.
 «Trentuno virgola due.» Julian appoggiò i polpastrelli sul vetro freddo della finestra. «L'adesione aumenta del quattro virgola uno percento dopo ogni crisi acuta. E questo, generale, è il nostro settimo evento.»

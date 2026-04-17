@@ -2,28 +2,29 @@ export const chapter24 = `Capitolo 24: La Rete a Strascico
 La breccia durava undici secondi.
 Cyrus la guardò sui monitor senza muoversi dalla posizione in cui si trovava. In piedi. Le braccia lungo i fianchi. A un metro e mezzo dalla parete di schermi che occupava l'intera facciata nord della sala operativa. Undici secondi in cui il perimetro di contenimento aveva smesso di esistere in un segmento di quarantadue metri nella sezione sud-ovest. Una propagazione da sinistra a destra che aveva seguito esattamente la sequenza di disattivazione dei nodi.
 Non una sequenza casuale. Una sequenza progettata.
-La sala operativa del centro di Milano era lunga trenta metri e larga dodici. Un soffitto alto sei metri ospitava l'impianto di raffreddamento. Tubi grigi. Isolamento bianco. Ventole giravano a velocità costante e producevano un flusso d'aria fredda che scendeva verticalmente sulle postazioni di lavoro. La temperatura era mantenuta a sedici gradi. Ogni postazione aveva due monitor, una tastiera, un operatore in turno di dodici ore. Erano le tre e undici del mattino. Metà degli operatori stava fissando la stessa sezione di mappa che fissava Cyrus.
-Nessuno disse niente.
+La sala operativa del centro di Milano misurava trenta metri per dodici. Un soffitto in cemento gretto ospitava l'impianto di raffreddamento. Tubi grigi. Isolamento bianco. Le ventole producevano un flusso d'aria fredda a caduta verticale sulle postazioni. Temperatura inchiodata a sedici gradi. Metà degli operatori in turno fissava la stessa anomalia cartografica illuminata sullo schermo principale.
+Nessun suono spaccò la concentrazione.
 Cyrus si avvicinò al monitor centrale. Ingrandì la sezione della breccia. Il sistema aveva già registrato la sequenza di riavvio dei nodi e la stava analizzando. I tempi di risposta. L'ordine di propagazione. La durata della finestra. Cyrus lesse i parametri senza usare la funzione di analisi automatica. Non ne aveva bisogno.
 Lethe. Conosceva il nome perché era nel codice sorgente che aveva letto quando gli avevano dato accesso ai layer più profondi del Volition Engine sei mesi prima. Un sottoprotocollo di emergenza. Documentato in tre righe di commento nel codice originale di Ferretti. Classificato come misura teorica e non operativa. Mai testato in ambiente reale. Mai usato.
 Fino a undici secondi prima.
 Quello che il sistema non poteva sapere. Quello che nessun algoritmo di analisi avrebbe estratto dal log del riavvio. Era la ragione per cui Lethe funzionava in quel modo specifico. Cyrus la conosceva perché aveva letto il file di Ferretti dall'inizio alla fine. Aveva capito come pensava. Ferretti costruiva i failsafe partendo dal presupposto che il sistema principale fosse già compromesso. Costruiva le uscite di emergenza usando la struttura del sistema contro se stessa. Non sfondava i muri. Chiedeva ai muri di aprirsi e poi di dimenticare di averlo fatto.
 Era elegante. Era anche una firma perfetta.
 Cyrus aprì una finestra di analisi topografica sulla sezione sud-ovest del perimetro. Iniziò a lavorare.
-Il canale aperto verso Müller si aprì alle 03:14.
-«Cyrus.» La voce del Generale era piatta. Una qualità che indicava che era sveglio da ore e che non era la stanchezza a rendere la voce così. «Il perimetro ha ceduto.»
+Il canale verso Müller si attivò alle 03:14.
+«Cyrus.» La voce del Generale graffiò le frequenze piatte di chi comanda senza dormire. «Il perimetro ha ceduto.»
 «Per undici secondi. È già richiuso.»
 «È entrato.»
 «Sì.»
-Il respiro di Müller sul canale. Controllato. Nasale. L'aria forzata a fatica attraverso i denti serrati. «Voglio squadre di terra nella zona della breccia entro—»
+Il respiro di Müller sul canale. Controllato. Nasale. L'aria passava forzata attraverso i denti serrati.
+«Voglio squadre di terra nella zona della breccia entro—»
 «No.»
-Il canale rimase aperto. L'assenza di voce di Müller pesò sulla linea. Una pressione fisica che non cambiò niente nella postura di Cyrus o nel suo tono quando riprese a parlare.
+Il canale restò aperto in tensione viva. La pressione fisica del dissenso di Müller non mutò minimamente la postura di Cyrus o il tono di risposta.
 «Lethe non è una via d'ingresso,» disse Cyrus. «È una firma. Ferretti ha usato un protocollo che lui stesso ha scritto, con parametri che conosco perché li ho studiati. So da dove è entrato. So la direzione di fuga probabile nel raggio di duecento metri dal punto di breccia.» Fece scorrere la mappa sulla schermata davanti a lui e ingrandì la zona. «Se mandiamo squadre di terra adesso, lui le vede arrivare e cambia direzione. Perdono la firma e lo perdiamo.»
 «Allora cosa proponi.»
 «I droni mantengono il pattern di griglia sopra la zona di breccia per altri trenta minuti. Non cercano. Simulano un pattern di ricerca attivo. Nel frattempo uso i dati topografici per identificare dove si è nascosto.»
 Müller non rispose subito. Sul monitor, la mappa mostrava i droni in griglia. Puntini bianchi che si muovevano in strisce parallele sopra la periferia sud di Milano. Regolari. Metodici. Alla ricerca di un obiettivo che non trovavano.
 «Tienimi aggiornato,» disse Müller. Il canale si chiuse.
-Cyrus non si mosse dalla posizione davanti ai monitor. Un operatore alla sua sinistra stava per dirgli qualcosa. Aprì la bocca. La richiuse quando Cyrus spostò lo sguardo verso di lui senza girare la testa. Solo con gli occhi. L'operatore tornò al proprio schermo.
+Cyrus restò immobile davanti ai monitor. Un operatore alla sua sinistra intercettò il suo sguardo per parlare. Aprì la bocca. La richiuse subito dopo. Cyrus aveva ruotato gli occhi senza muovere la testa imponendo l'ordine con uno sguardo. L'operatore tornò al proprio schermo.
 La topografia del settore era sul monitor in quaranta secondi.
 Cyrus sovrapppose tre livelli di dati. La mappa stradale della periferia sud. La rete fognaria del comune di Milano aggiornata al 2019. L'ultimo anno in cui le mappe erano state rese disponibili prima che ABITES assorbisse la gestione delle infrastrutture urbane. Il registro delle ispezioni tecniche dei tombini nel raggio di mezzo chilometro dal punto di breccia.
 Il tombino era su Via Savona, sezione C. L'ultimo dato di ispezione registrava il coperchio come «parzialmente disallineato, intervento non urgente». Data: sette mesi prima. Nessun intervento successivo.
@@ -37,7 +38,7 @@ Il comando impiegò tre secondi a propagarsi al sistema di controllo. Altri sei 
 Con le quattro paratie chiuse, l'acqua meteorica che continuava ad affluire nella rete non aveva più dove andare. La pioggia non aveva smesso. Si accumulava nei collettori. Il livello saliva.
 Cyrus aprì un monitor secondario che mostrava i sensori di livello idrico nei collettori del settore. I valori erano già in movimento. Lentamente. Qualche centimetro per minuto. In modo continuo e misurabile.
 La sala operativa respirava nel suo ritmo notturno.
-Le ventole del soffitto giravano. Gli operatori digitavano a intervalli irregolari. Il monitor centrale mostrava la mappa del perimetro con i droni in griglia e i sensori idrici con i valori che salivano. Due display paralleli. Due progressioni che andavano nella stessa direzione ma a velocità diverse.
+Le ventole del soffitto giravano costanti. Gli operatori digitavano comandi a ritmi spezzati. Il monitor centrale divideva lo schermo a metà. Da una parte la mappa del perimetro mostrava i droni in griglia. Dall'altra parte i sensori idrici proiettavano i valori in salita inesorabile. Due progressioni dirette al medesimo esito mortale correndo su binari temporali diversi.
 Cyrus rimase in piedi davanti ai monitor.
 Sul display idrico, il collettore principale aveva già guadagnato ventidue centimetri dal momento in cui le paratie erano state chiuse. Il ritmo di accumulo dipendeva dall'intensità della pioggia in superficie. Non mostrava segni di diminuzione, secondo i dati meteorologici integrati nel sistema. A quella velocità, il livello nel collettore principale avrebbe raggiunto il metro e venti in poco più di un'ora. A un metro e venti, un essere umano in piedi poteva ancora muoversi. Ogni cosa che portava con sé diventava un problema. Zaino. Attrezzatura. Qualsiasi oggetto che non poteva bagnare. A un metro e ottanta, la fisica decideva al posto delle intenzioni.
 Ferretti aveva due scelte. Entrambe visibili sui monitor davanti a Cyrus. Restare nel condotto finché l'acqua non lo costringeva a emergere. O emergere autonomamente prima che il livello diventasse critico. In entrambi i casi emergeva. La domanda era solo dove e quando.
@@ -48,8 +49,5 @@ Sul monitor, il livello del collettore principale segnava quarantaquattro centim
 Un operatore alla postazione tre si girò verso Cyrus. «Segnale termico debole nel collettore C, sezione est. Potrebbe essere—»
 «È la variazione termica dell'acqua che si accumula. Non è biologico.» Cyrus non aveva guardato il monitor dell'operatore. Aveva già visto lo stesso dato sul suo schermo. Aveva già calcolato l'origine. «Continuate a monitorare i tombini di uscita.»
 L'operatore si girò verso il suo monitor.
-Cyrus pensò a Ferretti nel buio del condotto. L'acqua che saliva intorno alle caviglie. Poi ai polmoni. Il polso ustionato che la temperatura dell'acqua avrebbe reso più acuto. Il drive che cercava di tenere fuori dal livello crescente. Pensò a come Ferretti stava leggendo la situazione in quel preciso momento. Il lettore modificato che gli mostrava i droni in superficie. La pressione dell'acqua che cresceva alle gambe. La necessità di una decisione da prendere con dati incompleti e tempo che si consumava.
-Ferretti era un problema architetturale. Aveva costruito un sistema con un difetto strutturale. Quel difetto si chiamava Radice. Finché il difetto esisteva il sistema non era integro. Cyrus correggeva i difetti strutturali. Era quello per cui era lì.
-Il monitor idrico segnò cinquantotto centimetri.
-I droni in superficie mantenevano le loro posizioni apparentemente irregolari. Le loro rotte apparentemente casuali. La loro logica invisibile a qualsiasi occhio tranne quello che l'aveva costruita.
+Il livello cresceva accumulando pressione liquida e letale.
 Cyrus incrociò le braccia sul petto e aspettò.`;

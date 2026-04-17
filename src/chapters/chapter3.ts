@@ -18,8 +18,8 @@ Si fermò, piantando lo sguardo sui presenti. «I vostri modelli matematici eran
 La governatrice della Banca Centrale Europea spostò le mani sul tavolo di pochi centimetri, un movimento involontario per cercare stabilità. Vane finse di non notarlo.
 «Sistema energetico europeo: ventisette interruzioni non pianificate in sei mesi. Riserve alimentari globali: undici giorni di autonomia contro una media storica di quarantacinque.» Tornò verso il centro della stanza, incombendo su di loro. «Non sono eventi separati. Sono i sintomi di un collasso sistemico.»
 
-Il silenzio riempì la stanza, denso e soffocante. Vane sfiorò il pannello olografico alle sue spalle. Immediatamente, flussi di dati grezzi, traccianti di movimento, consumi energetici e transazioni finanziarie illuminarono l'aria.
-«Questi sono i dati di ABITES,» annunciò. «Nove anni di raccolta silenziosa attraverso diciassette istituzioni su quattro continenti. ABITES non si limita a registrare; legge i comportamenti in tempo reale. Spostamenti, acquisti, flussi di cibo. Individua le crepe strutturali prima che diventino voragini incolmabili.»
+Nessuno riprese parola. Una compressione acustica spietata riempì la stanza. Vane sfiorò il pannello olografico alle sue spalle. Immediatamente, flussi di dati grezzi, traccianti di movimento, consumi energetici e transazioni finanziarie illuminarono l'aria.
+«Questi sono i dati di ABITES,» annunciò. «Nove anni di raccolta furtiva attraverso diciassette istituzioni su quattro continenti. ABITES non si limita a registrare; legge i comportamenti in tempo reale. Spostamenti, acquisti, flussi di cibo. Individua le crepe strutturali prima che diventino voragini incolmabili.»
 
 «Prima,» ripeté il ministro francese, la voce incrinata.
 «Prima,» confermò Vane, spietato. «I quattro crolli bancari? Identificati con ventuno giorni di anticipo. Le interruzioni energetiche? Quattordici.»
@@ -42,7 +42,7 @@ La governatrice annuì lentamente, appoggiandosi allo schienale della poltrona c
 Nel corridoio fuori dalla sala, l'assistente personale di Vane stava già componendo i messaggi criptati sui server sicuri.
 Implementazione Europa Centrale: avviare. Implementazione Nord America: avviare. Implementazione Asia Orientale: avviare.
 
-Dentro la sala, ventidue delle persone più potenti del pianeta prendevano appunti in silenzio, convinte di aver appena salvato il mondo. Vane rimase immobile al centro della stanza, le mani giunte dietro la schiena. Aveva già contato i voti prima ancora di iniziare a parlare.
+Dentro la sala, ventidue delle persone più potenti del pianeta prendevano appunti senza aprir bocca, convinte di aver appena salvato il mondo. Vane rimase immobile al centro della stanza, le mani giunte dietro la schiena. Aveva già contato i voti prima ancora di iniziare a parlare.
 «Dedicheremo le prossime due ore ai dettagli operativi,» disse, mentre il pannello alle sue spalle continuava a vomitare fiumi di dati e numeri incomprensibili. «Quello che state per costruire oggi non è una rinuncia al vostro potere. È la sua unica possibilità di sopravvivenza. State creando il sistema che permetterà alle vostre istituzioni di esistere abbastanza a lungo da poter ancora decidere qualcosa.»
 
 Fuori dalle vetrate, le cime del Landwassertal rimanevano immobili e indifferenti nella luce bianca del pomeriggio.

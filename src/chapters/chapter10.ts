@@ -10,7 +10,7 @@ L'aria cambiò consistenza, diventando più fredda e pesante, satura di un odore
 I muri si allargarono all'improvviso. La torcia di Aris illuminò archi enormi e pilastri tozzi che reggevano volte di mattoni romani, disposti con la precisione millenaria della spina di pesce. Claudio appoggiò una mano su un arco; la pietra era gelida e piccole venature di umidità scendevano verso il basso come lacrime nere.
 In superficie, i droni di ABITES quadrettavano Roma, tenendo i sensori biometrici aperti su ogni vicolo e ogni respiro. Lì sotto, invece, c'era solo il buio e la memoria dell'acqua.
 
-«Quanto è grande?» chiese Claudio, la voce ridotta a un sussurro per non disturbare il silenzio.
+«Quanto è grande?» chiese Claudio. La sua voce usò un sussurro per non generare echi nella pancia di pietra.
 «Non l'ho mai misurata,» rispose Aris. «Carlo dice che arriva fino sotto il Gianicolo.»
 Quella cisterna non esisteva nei database di ABITES. Claudio ne era certo, perché aveva lavorato in prima persona alla mappatura delle infrastrutture sotterranee e nessuno l'aveva mai inserita nei registri. Era un punto cieco nel sistema perfetto.
 
@@ -21,7 +21,7 @@ Non era elettricità. Erano decine di candele disposte su mensole di pietra, su 
 Carlo era seduto su uno sgabello basso, le spalle curve su un tavolo di legno scuro. Non alzò la testa al loro arrivo.
 Era un uomo vecchio, dalla carnagione pallida come la carta pergamena. Le vene delle sue mani spiccavano bluastre sotto la pelle sottile, e i capelli bianchi erano tagliati cortissimi. L'occhio destro era velato da una patina opaca, cieco, ma l'occhio sinistro era scuro, vivo e terribilmente attento.
 Davanti a lui c'era un libro aperto dalle pagine ingiallite, i cui margini erano fitti di annotazioni scritte a mano con una grafia minuta.
-«Aris,» disse Carlo, senza smettere di leggere. La sua voce era bassa e rauca, come se non la usasse da giorni. «Hai portato qualcuno che sa costruire gabbie.»
+«Aris,» lo chiamò Carlo. Continuò a leggere la pagina. La sua voce grattava ruvida, crepata dal disuso prolungato. «Hai portato qualcuno che sa costruire gabbie.»
 
 Claudio rimase fermo sulla soglia dell'arcata. Le dita della sua mano destra cercarono istintivamente il bordo della pietra e vi si aggrapparono.
 Aris non rispose. Si avvicinò a Carlo, gli posò una mano sulla spalla per un secondo in un gesto di muto rispetto, poi si spostò di lato, appoggiandosi al muro in attesa.
@@ -52,7 +52,7 @@ I cerotti neurali di ABITES lavoravano esattamente in quel modo. Partivano dalla
 «Secondo secolo dopo Cristo,» rispose Carlo con calma. «Forse anche prima.»
 Il freddo della pietra risalì attraverso le suole degli stivali, ma Claudio non riuscì a muoversi.
 «Questo testo,» continuò Carlo, «parla di un marchio. Non un marchio impresso sulla pelle a fuoco, ma nella volontà. Dice che verrà un tempo in cui nessuno potrà agire, comprare o scegliere senza portare questo marchio. E specifica una cosa fondamentale: il marchio non sarà imposto con la forza dall'esterno. Sarà accolto. Sarà desiderato.»
-Fece una pausa, lasciando che le parole risuonassero contro le volte di mattoni.
+Carlo serrò le labbra. L'eco del suo respiro rimbalzò contro le volte di mattoni bagnati.
 «L'Apocalisse di Giovanni non era un'allegoria del passato. Era una mappa. 'E vidi, ed ecco un cavallo bianco; e colui che lo cavalcava aveva un arco; e gli fu data una corona, ed egli uscì fuori come vincitore e per vincere'. ABITES è il cavaliere bianco. Si presenta come il salvatore, porta la pace, ma è una pace imposta, sterile. È il falso messia. E dopo di lui, verranno gli altri: il cavallo rosso della guerra, il nero della carestia, il verdastro della morte. ABITES sta solo preparando il terreno.»
 
 «La Sincronia è stata accettata volontariamente da oltre due miliardi di persone,» ribatté Claudio, cercando una logica a cui aggrapparsi.

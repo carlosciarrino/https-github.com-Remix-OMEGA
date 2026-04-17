@@ -41,7 +41,7 @@ Lo sportello dell'unità si aprì con uno scatto secco. Claudio infilò due dita
 Il tono acuto nel ronzio era ancora lì, e stava crescendo.
 Le luci bianche del soffitto diventarono rosse.
 Fu una transizione graduale che impiegò tre secondi esatti. Il bianco clinico si affievolì, inghiottito da un rosso allarme che trasformò la sala server nell'anticamera dell'inferno.
-Nessuna sirena urlante. Solo l'efficienza silenziosa del sistema.
+Nessuna sirena urlante. Il sistema strangolava i corridoi azzerando ogni allarme acustico.
 Una voce sintetica, calma e priva di inflessioni, annunciò: «Anomalia rilevata. Settore F. Contenimento in corso. Il personale non autorizzato deve identificarsi immediatamente al sistema.»
 Le pesanti porte tagliafuoco iniziarono a scendere dal soffitto.
 Un sibilo pneumatico accompagnava la discesa inesorabile dei pannelli di solido metallo, che si andavano a inserire nelle guide a pavimento per sigillare ogni via d'uscita.
