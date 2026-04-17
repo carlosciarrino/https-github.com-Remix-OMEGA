@@ -1,40 +1,38 @@
 export const chapter36 = `Capitolo 36: Caduta Libera
 Il vento sulla terrazza aveva denti.
-Claudio lo sentì attraverso la giacca. Attraverso la camicia. Attraverso la medicazione. Si era imbibita di qualcosa di caldo e denso. Il freddo lo stava già raffreddando contro la pelle. Si alzò usando il bordo dell'unità di condizionamento come leva. Le braccia facevano il lavoro che le gambe non riuscivano a fare completamente da sole. Rimase in piedi con il peso spostato sul lato destro.
-Laura era già in movimento verso il perimetro della terrazza. Trovò la scala antincendio esterna nell'angolo nord-est. Ferro arrugginito. Staffe fissate al cemento con bulloni che avevano visto almeno vent'anni di pioggia acida. Una ringhiera su un solo lato. Si sporse a guardare in basso. Tornò verso di lui.
-Non disse che era pericoloso. Non aveva senso dirlo.
-Lo prese sotto il braccio sinistro. Lui accettò il peso che lei offriva. La sua spalla contro il suo costato. Si avviarono verso la scala insieme con un passo che era diventato qualcosa di condiviso. Il bordo della terrazza era a tre metri. Due. Uno.
-La prima griglia di ferro risuonò sotto le suole con un timbro che Claudio sentì salire su per le ossa delle gambe fino alla colonna. Il piede destro cercò il piolo successivo. Lo trovò. Il sinistro seguì. E così via verso il basso in una progressione che richiedeva tutta la concentrazione che gli restava. Il bordo del campo visivo aveva cominciato a fare una cosa che non gli piaceva. Pulsava leggermente. In sincronia con il battito del cuore. Un refresh rate troppo basso.
-Laura era sul piolo sopra di lui. Una mano sulla sua scapola. Non spingeva. Solo presente.
-Al quarto piolo il braccio sinistro cedette per un secondo. Lui si fermò con il petto contro la scala. Il ferro freddo attraverso la giacca. La guancia quasi a contatto con la ruggine. Poi il braccio tornò a funzionare e riprese a scendere.
-La città cresceva sotto di lui mentre scendevano. Il settore nord era per metà buio. Il confine tra le luci accese e quelle spente si stava spostando verso est con una lentezza geologica. Tra i blocchi di buio si vedevano ancora finestre illuminate. Singole. Alimentate da batterie o generatori locali. Isole di resistenza involontaria in un mare che stava imparando a stare al buio.
-Toccarono il livello della strada in un vicolo stretto tra due facciate di cemento grigio. Il selciato era bagnato di una pioggerellina che non era cominciata sul tetto. Lassù il vento la portava via prima che si sentisse. Qui in basso si raccoglieva in uno strato sottile e freddo. Rifletteva le luci sparse in frammenti irregolari.
-Claudio si appoggiò alla parete. Lasciò il peso del corpo cadervi contro. Per un momento si limitò a respirare e a guardare il vicolo.
-All'imbocco, cinquanta metri più avanti, la strada principale era visibile in sezione. Un segmento di marciapiede. La carreggiata. Il marciapiede opposto. Un semaforo lampeggiava arancione in modo aritmico. Non la sequenza di emergenza standard. Qualcosa di rotto a metà tra due protocolli. Un veicolo a guida autonoma era fermo obliquo alla corsia. Le quattro ruote bloccate. I fari accesi fissi senza logica direzionale. Un secondo veicolo, più piccolo, aveva montato il marciapiede. Si era fermato con il muso contro un cestino dell'immondizia rovesciato.
-Le persone stavano uscendo.
-Non tutte insieme. Non in modo organizzato. A coppie. Qualcuna sola. Una famiglia con un bambino che qualcuno portava in braccio. Uscivano dai portoni. Dalle porte dei negozi. Si fermavano sul marciapiede e guardavano i veicoli fermi. Il semaforo rotto. Il buio che avanzava sul settore nord. Non facevano niente perché non avevano strumenti per decidere cosa fare. Tre anni di Progetto Quietus avevano tolto quella capacità con precisione chirurgica. Adesso il sistema non forniva più le istruzioni. Il risultato era questo. Persone in piedi sul marciapiede bagnato che guardavano il cielo vuoto.
-Laura toccò il braccio di Claudio. Indicò con la testa verso destra. Il vicolo curvava verso un passaggio pedonale coperto.
+Claudio respirava a stento. La camicia incollata al fianco. Rosso denso. Umido. Si sollevò facendo leva sul condizionatore. Le braccia reggevano il tronco. I piedi cercavano l'equilibrio.
+Laura stava già al bordo. Scala antincendio. Ferro marcio. Bulloni mangiati dalla pioggia. 
+Guardò in basso. Si voltò. Senza parole.
+Claudio si accostò. La spalla di lei contro il suo costato. Un unico corpo.
+La griglia di ferro gemette sotto i passi. Claudio scendeva. Ogni gradino un'esplosione di dolore. Il campo visivo pulsava. Rosso, nero, rosso. Un ritmo malato.
+Il ferro era gelo puro. Le dita di Laura una presenza ferma sulla scapola. Non spingeva. Era lì. Un pilastro invisibile.
+Al quarto supporto il braccio cedette. Claudio crollò contro la scala. In bocca aveva un sapore strano. Poi il muscolo ripartì. Giù. Al suolo.
+La città era sotto di loro. Un gigante che moriva a pezzi. Il settore nord sprofondava nel buio. Un isolato alla volta. Luci coraggiose resistevano qua e là. Isole di follia nel nero.
+Il vicolo soffocava. Cemento grigio. Pioggia fine. Fredda. Rifletteva il caos delle luci spente.
+Claudio si schiantò contro la parete. Respiri corti. 
+La strada principale era una ferita aperta. Semafori impazziti in arancio. Auto autonome, cieche, bloccate come giganti morti.
+La gente usciva. Senza scopo. Uomini soli. Famiglie nel pianto. Stavano immobili. Guardavano il vuoto. Tre anni di Quietus avevano strappato loro l'istinto di salvezza. Ora, senza istruzioni, erano manici di scopa nel vento.
+Laura indicò il passaggio. Ombra a destra.
 Si mossero.
-Avevano percorso venti metri quando il drone terrestre comparve dall'altra estremità del vicolo.
-Era una piattaforma bassa su sei ruote. Carenatura nera opaca. Una torretta centrale con sensori che ruotavano in scansione continua. Claudio lo riconobbe. Modello di pattuglia locale. Protocolli di emergenza isolati dalla rete centrale per garantire operatività minima anche in caso di interruzione del segnale. Nessuna connessione a ABITES. Nessuna interferenza dall'Omega. Solo algoritmi di rilevamento e risposta scritti nel firmware locale. Duri e limitati. Un riflesso spinale.
-I sensori si orientarono verso di loro.
-Laura aveva già smesso di camminare. Claudio si fermò contro la parete. Il braccio sinistro cedeva di nuovo. Lui lo ignorò tenendo la spalla in tensione.
-Il drone emise un segnale acustico breve. Poi una voce sintetica pre-registrata. «Soggetti identificati. Rimanete fermi. Attendete verifica.»
-Laura lasciò andare il braccio di Claudio con delicatezza. Fece tre passi verso il drone.
-Il drone arretrò di mezzo metro. I sensori ricalibravano la distanza. La torretta ruotava per seguirla.
-Lei si abbassò di colpo. Non verso il drone ma lateralmente. Verso la parete del vicolo. Nel movimento tirò fuori qualcosa dalla tasca laterale che Claudio non riuscì a vedere bene nella luce scarsa. Il drone corresse la traiettoria per seguirla. I sensori perdevano mezzo secondo nell'adattamento. In quel mezzo secondo Laura era già sotto la linea di rilevamento ottico della torretta. Contro il fianco sinistro della piattaforma.
-Quello che fece dopo fu veloce e preciso. Claudio non ne vide tutti i dettagli. Vide la sua mano inserirsi sotto la carenatura laterale. Un suono metallico breve. Poi il drone si bloccò con un clic secco. I sensori fermi. Le ruote smisero di girare. Laura si rialzò con un cavo in mano. Tre connettori all'estremità. Lo lasciò cadere sul selciato bagnato senza guardarlo.
-Tornò verso Claudio. Riprese il suo braccio.
-«Quanto manca.»
-La voce era bassa. Non per cautela. Per volume necessario e sufficiente.
-«Via Corte,» disse Claudio. «Tre isolati. Sotto la lavanderia con l'insegna rotta.»
-Uscirono dal vicolo nel passaggio coperto. Da lì verso una strada laterale che correva parallela alla principale. Qui il panico aveva una temperatura diversa. Più fredda. Più silenziosa. Una donna seduta su un gradino con le mani in grembo guardava il pavimento. Un uomo in piedi al centro della strada vuota girava lentamente su se stesso. La testa alzata a scrutare l'architettura. Un gruppo di quattro persone parlavano tutte insieme in modo sovrapposto. I gesti ampi e disordinati. Nessuno ascoltava nessun altro.
-Claudio camminava e guardava. Il campo visivo continuava a fare quella cosa ai bordi. Il pulsar basso e costante aveva smesso di essere allarmante solo perché richiedeva troppa attenzione essere allarmato. Contava i suoi passi invece. Cento passi. Poi ricominciava da uno.
-Laura portava quasi la metà del suo peso. Lo faceva senza modificare il ritmo del passo. La spalla ferma sotto il suo braccio. La mano teneva il suo polso con una presa che non stringeva ma non cedeva.
-Via Corte era un vicolo cieco che finiva contro un muro di mattoni. Qualcuno aveva dipinto una mappa del metrò undici anni prima. Sbiadita fino a diventare quasi illeggibile. La lavanderia aveva un'insegna al neon spenta da mesi con due lettere mancanti. Sotto l'insegna c'era una porta di ferro grigio con una toppa che non corrispondeva alla serratura originale.
-Claudio si fermò davanti alla porta. Mise la mano nella tasca interna della giacca. Quella destra. Dove teneva le cose che dovevano stare separate da tutto il resto. Le dita toccarono una chiave piccola, ottone. Un'asimmetria nel profilo che aveva riconosciuto al tatto migliaia di volte.
-La inserì nella toppa. Girò. La porta si aprì verso l'interno.
-L'odore che uscì era di chiuso, di medicinali e di metallo. Non sgradevole ma denso. L'aria di un posto che respira pochissimo e lentamente. Scesero tre gradini nell'oscurità. Laura trovò un interruttore a muro. Una luce a batteria si accese gialla e insufficiente su una stanza bassa con pareti di mattoni a vista. Un tavolo metallico. Scaffali con materiale medico in scatole di plastica trasparente.
-Claudio raggiunse il tavolo e ci si appoggiò con entrambe le mani. Rimase in quella posizione. Il peso sulle braccia. La testa abbassata. Sentì il respiro uscire lento e non del tutto controllato.
-Laura aveva già aperto la seconda scatola sullo scaffale. Quella che conteneva il necessario per quello che andava fatto. La stava portando verso di lui quando il bordo del campo visivo di Claudio smise di pulsare. Cominciò a restringersi. Lentamente. Dai lati verso il centro. Il giallo insufficiente della luce diventava più piccolo e più lontano.
+Il drone apparve nel vicolo. Basso. Sei ruote nere. Torretta ruotante. Freddo firmware locale. Senza ABITES. Senza pietà. Algoritmo di morte puro.
+I sensori puntarono il volto.
+Il drone gracchiò: «Soggetti identificati. Restate fermi.»
+Laura svanì.
+Si lanciò verso la parete. Laterale. Rapida. Un'ombra che tagliava la luce. Il drone curvò i sensori. Mezzo secondo di ritardo. 
+Laura fu addosso alla scocca. Mano sotto la carenatura. Metallo contro metallo.
+Click.
+Il drone morì in un istante. Laura lanciò un cavo a terra. Tornò da Claudio. Lo riprese sotto il braccio.
+«Quanto.» 
+La voce. Un soffio d'acciaio.
+«Via Corte,» rispose lui. «Lavanderia.»
+Uscirono nella strada laterale. Il panico qui era gelido. Silenzioso. Una donna seduta sul marciapiede guardava il suo nulla. Un uomo girava su se stesso, perso. Persone parlavano sovrapposte, urla senza senso. Nessuno ascoltava.
+Claudio contava i passi. Uno. Dieci. Cento. Contare era l'unica disciplina rimasta.
+Via Corte era un vicolo cieco. Muro di mattoni. Mappa sbiadita del metrò, un fantasma di carta. Lavanderia. Insegna neon morta. Porta grigia.
+Claudio infilò la chiave. Girò.
+Il buio li inghiottì. Odore di medicinali. Respiro pesante. 
+Laura trovò l'interruttore. Giallo sporco. Piccola stanza. Bassa.
+Claudio crollò sul tavolo metallico. Spinta nelle braccia. Peso scaricato.
+Laura setacciò le scatole mediche. Le stava portando a lui.
+Il campo visivo si strinse. Un cono che si chiudeva. Il mondo attorno diventava nero. Lontano.
+Claudio sentì le mani scivolare dal metallo freddo. Il buio aveva vinto.
 Le sue mani scivolarono dal bordo del tavolo.`;

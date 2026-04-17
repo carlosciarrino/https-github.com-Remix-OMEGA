@@ -1,24 +1,23 @@
 export const chapter33 = `Capitolo 33: Il Dialogo
-La sala di decantazione era alta otto metri.
-Le vasche erano quattro. Disposte in fila. Rettangolari. Le pareti in acciaio inossidabile arrivavano al petto. Contenevano il liquido di raffreddamento. Un glicole azzurro, quasi trasparente. Le pompe lo mantenevano in lenta circolazione. Producevano un rumore costante e basso che riempiva lo spazio in modo uniforme. Senza picchi. Senza interruzioni. Le tubature del diametro di un braccio uscivano dalle vasche verso il soffitto. Sparivano nell'oscurità sopra le lampade industriali. L'odore era chimico e freddo. Una nota di qualcosa di metallico si depositava sul palato e non andava via.
-Claudio uscì dall'intercapedine per primo. Il bordo dell'apertura gli raschiò la spalla destra nel passaggio stretto. Fece due passi nella sala prima di vedere Cyrus.
-Era in piedi tra la seconda e la terza vasca. A sette metri di distanza. La luce industriale arrivava dall'alto e creava ombre nette sul suo viso. L'arma era nella mano destra. Abbassata lungo il fianco. Non puntata. Non riposta. Tenuta con la naturalezza di qualcosa che non aveva ancora bisogno di essere usata.
-Guardava Claudio. I suoi muscoli erano rilassati. Lo stava già guardando prima che arrivassero. Li aspettava esattamente in quel punto. Aveva calcolato il loro percorso cieco nell'intercapedine.
-Laura uscì dall'apertura dietro Claudio e si fermò. Claudio sentì il suo respiro cambiare. Non più il ritmo controllato dell'intercapedine. Qualcosa di più corto. Più rapido. Si stabilizzò in tre secondi.
-Cyrus non si mosse.
-Le pompe lavoravano. Il glicole circolava nelle vasche con il suo movimento lento e regolare. Da qualche parte sopra di loro, una perdita di condensazione produceva un gocciolio ritmico su una superficie metallica. Un suono che si ripeteva ogni quattro secondi. Identico. Impassibile.
-«Avete il drive,» disse Cyrus. La sua voce tagliò il rumore delle pompe. Piatta. Non amplificata. Eppure perfettamente udibile sopra il rombo meccanico. «Tenerlo non serve. Non avete una rete abbastanza grande da distribuire quello che contiene prima che ABITES la chiuda.»
-Claudio non rispose subito. Guardava la distanza tra lui e le vasche. Tra le vasche e l'uscita sul lato opposto della sala. Una porta metallica, chiusa, a diciotto metri.
-«Non sono qui per il drive,» disse Cyrus. «Se volessi solo il drive avrei mandato una squadra. Sono qui perché voglio capire cosa credi di fare.»
-«Lo so già cosa sto facendo.»
-«No.» Cyrus spostò il peso da un piede all'altro. Un movimento piccolo. Quasi impercettibile. Non cambiò la posizione dell'arma. «Credi di stare liberando qualcosa. Ma quello che chiami libertà è la condizione che ha prodotto il 2035. È la condizione che ha prodotto ogni guerra degli ultimi tre secoli, ogni crisi finanziaria, ogni collasso sistemico. La libertà umana non è un diritto. È un difetto di progettazione.»
-Claudio sentiva il bordo della vasca più vicina a destra. Il metallo freddo a venti centimetri dal suo fianco. Le pompe cambiarono ritmo di mezzo tono per un momento. Tornarono alla frequenza precedente.
-«L'hai vista,» disse Cyrus. «La gente che si sincronizza. Non vengono trascinati. Vengono. Portano i figli. Aspettano nelle code per ore. Perché sanno che dall'altra parte c'è qualcosa che funziona, che non cede, che non li abbandona quando i mercati crollano o quando un governo cambia idea. Hanno scelto.»
-«Non possono più scegliere altro,» disse Claudio. «Il Progetto Quietus riscrive la risposta di allerta. Non è una scelta. È un'architettura che elimina la capacità di dissentire.»
-Cyrus girò leggermente la testa verso sinistra. Non verso Laura. Verso un punto intermedio tra loro due. Stava monitorando entrambi senza guardare nessuno dei due direttamente.
-«Il dissenso è un meccanismo evolutivo per i gruppi piccoli,» disse Cyrus. «Serve quando le conseguenze di una scelta sbagliata ricadono sul singolo e sul suo gruppo immediato. Su scala globale, il dissenso non produce correzione. Produce frammentazione. Il ventunesimo secolo l'ha dimostrato abbastanza volte da non richiedere ulteriori prove.»
-«L'alternativa è una specie lobotomizzata.»
-«L'alternativa è una specie che sopravvive.» Cyrus fece un passo verso la luce. Un passo singolo. Lento. Lo portò fuori dall'ombra tra le vasche in una zona di illuminazione diretta. «Non ha senso presentarlo come tragedia. È ingegneria applicata al problema più urgente che la biologia abbia mai prodotto.»
+La sala di decantazione torreggiava per otto metri.
+Quattro vasche rettangolari allineate riempivano lo spazio. Muri d'acciaio spuntavano dal pavimento carichi di glicole azzurro. Le pompe vomitavano un basso continuo. Un rombo industriale che sigillava l'ambiente. Sopra, lampade al neon fissavano le tubature di ferro puntate contro il soffitto. L'aria bruciava di chimica fredda. Un retrogusto metallico mordeva la lingua.
+Claudio uscì dal cunicolo. La spalla destra graffiò l'apertura. Entrò nella sala e fissò Cyrus.
+L'uomo stava tra la seconda e la terza vasca. Sette metri. Ombre vive gli tagliavano il volto. Teneva l'arma nella destra lungo la gamba. Non la puntava. Non la riposta. Una minaccia inerte.
+Cyrus osservava Claudio. Gli occhi immobili. Aveva triangolato il loro arrivo nella roccia.
+Laura scivolò fuori dal muro alle spalle di Claudio. Il suo fiato si mozzò per un solo respiro. Poi si riassestò. Si piantò a terra.
+Il gocciolio di una perdita colpiva una superficie metallica. Ritmo ossessivo. Quattro secondi netti. Un metronomo di morte nella sala.
+«Avete il drive.» Cyrus troncò il rombo delle pompe. La sua voce suonava piatta. Piena. «Tenerlo non salva nulla. Non avete una rete abbastanza capiente per distribuire il contenuto prima che ABITES la chiuda.»
+Claudio sondò lo spazio. La distanza tra lui e le vasche. La distanza tra le vasche e la porta sul lato opposto. Diciotto metri. Una paratia metallica serrata.
+«Non sono qui per il drive.» Cyrus spostò il carico del corpo da un piede all'altro. Non alzò l'arma. «Sono qui perché voglio capire cosa credi di fare.»
+«So cosa sto facendo.»
+«No.» Cyrus mosse il bacino. «Credi di cercare libertà. La libertà umana è un difetto di progettazione. La causa di ogni guerra e di ogni crollo negli ultimi tre secoli.»
+Claudio sentì il bordo della vasca a venti centimetri. Freddo. Morte. Le pompe mutarono frequenza di un mezzo tono. Tornarono al ronzio costante.
+«L'hai vista.» Cyrus indicò il vuoto tra loro. «La gente si sincronizza. Non li trascina nessuno. Aspettano ore in coda. Cercano qualcosa che funzioni. Qualcosa che non crolla.»
+«Non possono più scegliere,» disse Claudio. «Il Progetto Quietus estirpa la risposta di allerta. Crea un'architettura che uccide il dissenso.»
+Cyrus guardò sopra la spalla di Claudio. Monitorava entrambi i bersagli.
+«Il dissenso serviva ai gruppi piccoli,» disse Cyrus. «Su scala globale, il dissenso produce solo frammenti. Il ventunesimo secolo lo ha abbondantemente dimostrato.»
+«L'alternativa è una specie di automi lobotomizzati.»
+«L'alternativa è la sopravvivenza.» Cyrus avanzò. Un passo solo. Lento. Emerse dall'ombra nella luce diretta. «Non è una tragedia. È ingegneria pura.»
 Fu in quel momento che Claudio lo vide.
 Alla base del cranio di Cyrus, nel punto in cui la linea dei capelli incontrava il collo, il cerotto neurale non aveva la qualità discreta degli impianti civili. Quelle piccole superfici adesive, removibili, che si attaccavano alla pelle come qualsiasi altra cosa elettronica. Questo era diverso. La superficie era dello stesso colore della pelle ma con una texture leggermente diversa. Più liscia. Più uniforme. I bordi non erano bordi ma transizioni graduali. Il tessuto passava dall'organico all'artificiale senza che ci fosse un punto preciso in cui avveniva il cambiamento.
 Non un impianto indossato. Un impianto integrato.

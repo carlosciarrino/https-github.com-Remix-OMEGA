@@ -1,41 +1,32 @@
 export const chapter35 = `Capitolo 35: Effetto a Cascata
-Il drive era ancora caldo quando Claudio tolse la mano dal pannello.
-Laura aprì la porta completamente con la spalla sinistra. La destra con la pistola già orientata verso il centro del corridoio. L'aria che entrò era più fredda. Sapeva di ozono bruciato. Quella variante specifica che i sistemi di raffreddamento in sovraccarico producono quando cominciano a liquefare componenti che non dovrebbero liquefarsi.
-Cyrus era a sette metri. In piedi, ma non nel modo in cui era stato in piedi nella sala di decantazione. Il busto era inclinato di qualche grado a destra. Un'angolazione innaturale. Il baricentro umano non avrebbe dovuto sostenerla. Il braccio sinistro si muoveva a scatti irregolari. Tre centimetri avanti. Uno indietro. Tre avanti. Il tipo di movimento che un'articolazione produce quando i segnali motori arrivano nell'ordine sbagliato.
-La bocca era aperta. Quello che ne uscì non era più voce.
-Era voce, ma con dentro qualcosa di rotto. «Il sistema... il sistema sta... Claudio, il sistema sta richiedendo—» Una parete di rumore digitale spezzò la frase a metà. Un artefatto sonoro che non aveva nome in nessuna lingua umana. Poi la voce riprese. Più bassa. Quasi gentile. «Claudio, sento qualcosa che non riconosco. Questo non era—»
-Un'altra interruzione. Più lunga.
-Il braccio destro di Cyrus si alzò verso di loro con uno scatto secco. Rimase fermo a mezz'aria. Il sistema nervoso aspettava istruzioni che non arrivavano più dall'architettura giusta.
-Laura sparò una volta. Centro massa. Cyrus impattò la parete di cemento con la spalla e scivolò lungo di essa. Le gambe continuavano a tentare movimenti di camminata contro il pavimento anche mentre il tronco cedeva. L'impianto nel cranio emetteva un suono fino, continuo. Il tipo di frequenza che si sente negli orecchi prima di un'esplosione. Poi anche quello si spense.
-Claudio si mosse.
-Il fianco sinistro era andato oltre il dolore in qualcosa di più interessante e più preoccupante. Una zona di calore diffuso che irradiava verso la schiena e verso la coscia. Una sensazione di umido sotto la medicazione che non aveva bisogno di essere verificata per essere capita. Camminò comunque. Il corridoio rosso si aprì davanti a loro. Lui contò i segmenti di luce per qualcosa a cui aggrapparsi.
-Le luci saltarono tutte insieme per due secondi. Buio completo. Poi rosso. Poi il neon di emergenza a intermittenza irregolare che faceva muovere le ombre nel modo sbagliato. Dall'alto arrivò un colpo sordo, metallico. Una porta di sicurezza che si chiudeva di scatto da qualche parte nel piano superiore. Poi un'altra. Poi una sequenza di sei o sette tutte insieme in settori diversi della struttura. ABITES cercava di isolare il contagio chiudendo tutto quello che poteva chiudere.
-«Scala.» Laura indicò con la testa verso sinistra.
-La porta della scala di emergenza aveva un pannello rosso di accesso che lampeggiava in modo non sincronizzato con le luci del corridoio. Un disaccordo tra due sistemi che non comunicavano più correttamente. Laura premette il pannello con il palmo. Niente. Lo colpì con la base della mano chiusa. La porta si aprì con uno scatto pneumatico che spruzzò aria fredda.
-Le scale erano cemento grezzo. Ringhiera metallica. Luci di emergenza a batteria che non dipendevano dalla rete principale. Bianche e piatte. L'unica cosa stabile in un edificio che stava collassando. Claudio afferrò la ringhiera con la mano destra. La mano sinistra era premuta al fianco.
+Il drive bruciava ancora nel pugno di Claudio.
+Laura spalancò la porta con la spalla. Pistola al petto. L'aria gelata entrò a morsi. Sapeva di plastica squagliata.
+Cyrus stava in piedi tra le vasche. Barcollante. Il busto inclinato a destra. Un'angolazione grottesca. Il braccio sinistro scattava. Tre centimetri avanti. Uno indietro. Una danza di cortocircuiti.
+Aprì la bocca. Non parlò. Ruggì un rumore digitale. Un frastuono di dati frantumati. Un artefatto sonoro senza nome. Poi la voce. Piatta. Sottile. «Il sistema... Il sistema reclama... Claudio, sento—»
+Altra distorsione. 
+Il braccio destro scattò verso di loro. Si bloccò a mezz'aria. Il corpo implorava ordini che ABITES aveva troncato.
+Laura premette il grilletto. Impatto secco. Cyrus schiantò contro il muro. Le gambe provarono a camminare nel vuoto. Il cranio emise un fischio acuto. Di morte. Si spense.
+Claudio balzò avanti. Il fianco perdeva pezzi. Un calore sporco, umido, inzuppava la giacca. Non guardò sotto. Il corridoio rosso urlava. Contava le strisce di neon. Tre. Sei. Nove. L'ossessione teneva insieme i resti organici.
+Luci morte per due secondi. Il buio inghiottì tutto. Poi il rosso. E il metallo che batteva contro il metallo sopra di loro. Altre porte chiudevano settori. ABITES stava tranciando i rami per salvare la radice.
+«Scale.» Laura indicò a sinistra.
+Il sensore della porta ignorava il comando. Laura assestò un colpo secco. Pneumatica. La porta urlò. Si arrese.
+Scale. Cemento bastardo. Luci bianche, piatte. L'unica stabilità in un edificio che stava morendo.
+Claudio afferrò la ringhiera. La mano sinistra premuta sulla carne squarciata.
 Salirono.
-Al secondo piano qualcosa esplose dentro una canalina elettrica nel muro. Un bang compresso seguito da un odore di plastica che bruciava. Un filo di fumo nero scivolò sotto una porta. Al terzo una delle luci a batteria sfarfallò e si spense. Per una rampa salirono nel buio quasi completo. Claudio con la mano sulla ringhiera e i piedi che cercavano i gradini per memoria e per il contatto fisico con il metallo sotto le suole.
-Laura era mezzo passo sotto di lui. Non davanti. Sotto. A portata.
-Al quarto piano Claudio inciampò sul bordo di un gradino. La ringhiera gli salvò il polso ma non il fianco. Reagì con qualcosa di abbastanza preciso e abbastanza violento da fermargli il respiro per tre secondi. Si fermò. Non perché avesse deciso di fermarsi.
-Laura mise una mano sotto il suo braccio sinistro. Non disse niente. Lo spinse verso l'alto con una pressione costante. Lui riprese a salire portando parte del peso su di lei. La sua spalla contro il suo costato destro. Il suo passo si sincronizzava con il suo in modo così automatico che sembrava qualcosa che avevano fatto molte volte.
-Non l'avevano fatto mai.
-Quinto piano. Sesto. Il rombo dei sistemi di ventilazione che girava a velocità di emergenza saturava le scale di un rumore che vibrava nello sterno. Poi, gradualmente, anche quello cambiò. Non si spense. Cambiò registro. La frequenza calava per poi rimbalzare su. Poi calare ancora più in basso. L'architettura energetica dell'intero edificio cercava di ridistribuire carichi che stavano diventando impossibili da gestire.
-Al settimo piano c'era una porta con una barra di apertura di emergenza verniciata di verde. Nessun pannello di controllo. Nessun sensore. Una porta che si apriva a mano. Rimasta così per un'ordinanza antincendio del 2018 che nessun algoritmo aveva mai aggiornato.
-Laura la spinse.
-L'aria esterna arrivò tutta insieme. Fredda e umida. Con dentro qualcosa di metallico che era la città di notte. Erano su una terrazza di servizio. Cemento grigio. Tubazioni e unità di condizionamento esterne disposte senza logica estetica. Oltre il bordo, a sei metri di dislivello, c'era il tetto dell'edificio adiacente. Oltre quello la città si apriva in una griglia di luci bianche e arancioni che si estendeva fino all'orizzonte basso e velato di nuvole.
-Claudio si appoggiò a un'unità di condizionamento e riprese fiato. Il metallo era freddo attraverso la giacca. Si lasciò scendere fino a sedersi con la schiena contro di essa. Le ginocchia piegate. Guardò verso la città.
-Laura rimase in piedi al suo fianco. Teneva ancora la pistola ma non la stringeva più. La mano quasi aperta. Il polso rilassato.
-Il vento della terrazza gli asciugò il sudore sulla fronte. Il ronzio dei condizionatori riempì lo spazio tra loro.
-Poi il primo drone cadde.
-Non esplose. Non si schiantò con dramma. Semplicemente si spense in volo a un centinaio di metri di quota. Le luci di navigazione si estinguevano in sequenza. Planò verso il basso in una traiettoria curva e silenziosa. Scomparve dietro un edificio senza rumore visibile da quella distanza.
-Poi un secondo. Più lontano. Quasi verso l'orizzonte.
-Poi tre quasi simultaneamente. A settori diversi del cielo.
-Claudio guardò. Il settore nord della griglia cittadina, quello che corrispondeva all'hub di elaborazione principale che lui aveva mappato tre anni prima, cominciò a spegnersi in blocchi. Non tutto insieme. Un isolato. Poi il successivo. Poi un terzo. Una sequenza precisa ma troppo lenta per essere intenzionale. Il buio che avanzava non era un blackout. Era un reset. Sistemi che si spegnevano perché avevano smesso di ricevere istruzioni coerenti su come restare accesi.
-Non c'era suono. Nessun allarme. Nessuna sirena. Solo il vento sulla terrazza e il ronzio sempre più irregolare dei condizionatori alle loro spalle.
-Claudio guardò il settore nord diventare scuro per due terzi della sua estensione. Le luci che restavano sembravano più luminose per contrasto. Isole che non avevano ancora capito cosa stava succedendo al continente intorno a loro.
-Laura si abbassò lentamente finché non fu seduta accanto a lui. La spalla contro la sua spalla. Non lo guardò. Guardò la città.
-Un altro drone tracciò una curva nel buio basso e sparì.
-Il drive era a nove piani sotto di loro in un pannello di manutenzione che nessuno avrebbe pensato di cercare. L'Omega stava attraversando la rete che Claudio aveva costruito con la stessa logica con cui lui l'aveva costruita. Senza fretta. Senza eccezioni. Senza possibilità di negoziazione.
-Non erano salvi. La struttura alle loro spalle aveva ancora sistemi attivi. Cyrus poteva avere protocolli di recupero che nessuno dei due conosceva. La città che si spegneva sotto di loro stava diventando qualcosa che nessuno aveva mai visto e che poteva andare in mille direzioni diverse.
-Ma il conto alla rovescia era diventato irreversibile.
-Claudio appoggiò la testa al metallo freddo dell'unità di condizionamento. Guardò un altro blocco di luci spegnersi nel nord della città. Lento. Inesorabile e silenzioso.`;
+Al secondo piano esplose la canalina elettrica. Fumo nero strisciava sotto le porte. Al terzo, il buio rimpiazzò la luce. Claudio contava i gradini col tatto. Il metallo gelido sotto le suole. Laura restava sotto di lui. Pilastro.
+Al quarto piano il polso di Claudio cedette contro un gradino. Il respiro, un coltello conficcato nel petto.
+Laura si piantò sotto il suo braccio. Spinta bruta. Salirono ancora. Spalla contro costato. Un unico ingranaggio di carne e dolore.
+Sesto piano. Il rombo della ventilazione diventò un lamento. Frequenza altalenante. Carico insostenibile.
+Ottavo piano. La porta verde. Nessun pannello. Solo metallo.
+Laura spinse.
+L'esterno esplose nell'aria. Gelata. Umida. Aria di città. Griglia di luce e ombra. Claudio crollò contro un condizionatore. Il metallo gli restituì la vita.
+Laura si guardò intorno. La pistola era un peso morto.
+Il vento asciugava il sudore.
+Un drone cadde. Non esplose. Si spense. Planò verso il basso. Spazio nero. Un altro drone sparì verso l'orizzonte. 
+Il settore nord, quello dei dati, si oscurò. Un isolato alla volta. La città moriva per frammenti. Il buio mangiava la metropoli. Non erano interruzioni. Era il reset.
+Claudio guardava. I settori neri si allargavano. Isolati in fiamme di elettricità che tentavano disperatamente di restare accese.
+Laura si sedette accanto. Spalla contro spalla.
+Un drone tracciò una parabola morta nel cielo.
+Il drive era sotto le fondamenta. L'Omega stava triturando la mappa del potere. Con lentezza. Senza pietà.
+Nessuna salvezza istantanea. Cyrus poteva ancora avere cani da guardia nelle viscere dell'edificio. Ma il conto alla rovescia era una sentenza.
+Claudio appoggiò la testa al condizionatore. Un altro isolato di luci esplose nel buio. Inesorabile. Definitivo. L'architettura del controllo stava diventando cenere.`;
