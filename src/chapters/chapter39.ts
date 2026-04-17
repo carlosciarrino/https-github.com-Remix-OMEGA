@@ -1,5 +1,5 @@
 export const chapter39 = `Capitolo 39: Danni Collaterali
-Il furgone era conficcato nel palo della luce. L'impatto suggeriva velocità sostenuta e nessun tentativo di frenata.
+Il furgone era conficcato nel palo della luce. Il metallo della carrozzeria arrotolato attorno al ferro. Le ruote anteriori sollevate da terra.
 Claudio lo vide da lontano. Una forma irregolare sul lato destro della strada. Il profilo del veicolo era spezzato a metà altezza. Il palo aveva attraversato la carrozzeria. Il logo dell'emittente era ancora leggibile sul fianco. TeleNord. Caratteri bianchi su fondo blu scuro. Deformati dall'impatto.
 Si avvicinarono rasente al muro. Laura era mezzo passo avanti. Quando furono abbastanza vicini, Claudio vide la porta laterale aperta. Nel buio del vano di carico c'era una telecamera con l'obiettivo in pezzi. Sopra, una mano femminile con il palmo rivolto verso l'alto.
 Non entrò a verificare. Non ce n'era bisogno.
