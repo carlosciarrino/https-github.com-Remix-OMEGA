@@ -1,50 +1,68 @@
 export const chapter23 = `Capitolo 23: Lethe
-Il display del lettore toccò lo zero. Claudio premette invio.
-Non successe niente di visibile per i primi due secondi. Poi i tre droni in formazione triangolare sopra lo spiazzo persero la sincronia. Non bruscamente. Fu un cedimento progressivo. Il drone di destra rallentava leggermente mentre gli altri due mantenevano la quota. Poi il riposizionamento mancato. Poi tutti e tre derivarono di qualche grado dalla traiettoria calcolata. Piccolo. Quasi impercettibile. Claudio lo vide perché sapeva dove guardare e cosa cercare.
-Poi i nodi fisici si spensero.
-Non li vedeva. Non erano visibili a occhio nudo. Erano scatole metalliche grigie inserite nelle recinzioni e nei muri e nei pilastri della zona industriale. Progettate per confondersi con l'infrastruttura esistente. Ma il lettore li mostrava. Sulla mappa schematica, i punti che formavano la linea continua del perimetro lampeggiarono una volta. Scomparvero in una sequenza che si propagò da sinistra a destra lungo il fronte che li separava dal centro operativo.
+
+Display a zero. Claudio premette invio.
+Due secondi, vuoto. Poi i droni in formazione triangolare persero sincronia. Cedimento progressivo. Il drone di destra rallentò. Il riposizionamento mancò. Derivarono dalla traiettoria calcolata. 
+
+I nodi fisici si spensero.
+Scatole grigie inserite nei muri della zona industriale. Invisibili a occhio nudo, chiarissimi sul lettore. Punti lampeggianti lungo il fronte operativo. Scomparvero.
+
 La finestra era aperta.
-«Adesso,» disse Claudio. Stava già correndo prima di finire la parola.
-Il fango era più profondo di quanto sembrasse dalla tettoia.
-Il primo passo fuori dallo spiazzo cementato lo portò dentro uno strato di terra che cedette sotto il peso. Inghiottì lo stivale fino alla caviglia. Claudio dovette strapparlo fuori con un suono sordo prima di riprendere il ritmo. La pioggia era più forte qui, senza la protezione parziale della tettoia. Batteva orizzontale. Spinta da un vento che veniva da ovest. Portava con sé l'odore di un'industria che bruciava qualcosa a qualche chilometro di distanza. Qualcosa di chimico e pesante che si depositava in fondo alla gola.
-Laura era alla sua sinistra. Mezzo passo avanti. Le gambe lavoravano in modo diverso dal suo. Passi più corti e più frequenti. Il peso dello zaino spostato verso il basso con le bretelle strette al massimo. Il fango non sembrava rallentarla nello stesso modo.
-Claudio teneva il lettore nella mano sinistra. Guardava la mappa ogni tre secondi mentre correva. Un'occhiata rapida. Poi gli occhi di nuovo davanti ai piedi. Poi ancora la mappa. I punti del perimetro erano ancora spenti. La finestra reggeva. Avevano percorso forse duecento metri dall'attivazione di Lethe.
-Dovevano coprirne ancora seicento prima di uscire dalla zona di rilevamento primario.
-Il polso destro reclamò attenzione. Il salto torse la fasciatura contro il tessuto ustionato. Mandò una fitta acuta fino alla spalla. Claudio deglutì forzatamente. Non rallentò. Il binario era arrugginito e parzialmente sepolto nel terreno. Erba alta appiattita dalla pioggia lo circondava in tutte le direzioni. Oltre il binario c'era uno spazio aperto. Un vecchio piazzale di carico. Le guide per i carrelli giacevano ancora cementate nel suolo. I denti metallici esposti dalla corrosione sporgevano a intervalli irregolari.
-«Attento al centro,» disse Laura senza girarsi.
-Claudio spostò la traiettoria verso il bordo del piazzale. La suola dello stivale sfiorò uno dei denti metallici e non ci rimase sopra.
-Il fiato usciva a strattoni. Non per la distanza. Per il peso e il fango e il fatto che le ultime settimane avevano consumato qualcosa che non si recuperava dormendo quattro ore per notte su pavimenti di cemento. I polmoni bruciavano. L'aria entrava fredda e usciva calda. Un ritmo forzato che non aveva niente a che fare con la corsa sportiva. Tutto a che fare con la sopravvivenza.
-Quattrocento metri dalla finestra. Trecento ancora.
-Lo schermo del lettore cambiò.
-Claudio lo vide nell'occhiata successiva. I punti del perimetro stavano riprendendo forma. Da destra verso sinistra questa volta. La sequenza inversa dell'apertura. Non tutti insieme. Prima i nodi di destra. Poi quelli centrali. Poi quelli di sinistra rimanenti. La finestra si stava richiudendo alle loro spalle con la stessa progressione con cui si era aperta. Solo più veloce.
-Lethe aveva cancellato la memoria locale di ogni nodo che aveva toccato. Era questo il costo dell'apertura. La ragione per cui il sistema impiegava tempo a riavviarsi invece di reagire nell'istante. Ma il riavvio era in corso. I nodi che erano tornati attivi stavano già trasmettendo dati al centro operativo. Posizione dell'anomalia. Timestamp. Vettore di penetrazione.
-Duecentocinquanta metri ancora.
-I droni sopra di loro si erano riorganizzati. Non nella formazione triangolare originale. Una configurazione diversa. Più stretta. Le tre unità convergevano verso un punto che Claudio riconobbe sulla mappa come la loro posizione stimata tra novanta secondi se mantenevano il ritmo attuale.
-Il sistema non stava cercando dove erano stati. Stava cercando dove sarebbero stati.
-Qualcuno dall'altra parte aveva visto l'anomalia. Aveva già calcolato la traiettoria.
-«Più veloce,» disse Claudio.
-Laura stava già accelerando. I muscoli delle gambe tesi sotto i pantaloni bagnati. La schiena piegata in avanti per bilanciare il peso dello zaino.
-Il piazzale di carico finì contro una recinzione metallica a tre metri di altezza. Il filo spinato in cima corroso dalla ruggine fino a perdere parte dell'efficacia ma non tutta. Laura raggiunse la recinzione senza fermarsi. Infilò le dita nelle maglie. Iniziò a salire con una velocità che rendeva il gesto quasi verticale. Claudio la seguì un secondo dopo. La mano sinistra ancora con il lettore. La destra afferrò il metallo bagnato. Scivolò. Riprese la presa. Il polso urlò. Continuò a salire.
-In cima, Laura era già dall'altra parte. Claudio scavalcò il filo spinato tenendo il corpo basso. Le punte di ferro agganciarono il tessuto della giacca. Lo strapparono lungo il fianco destro con un suono secco. Claudio mollò la presa. Cadde dall'altra parte su entrambi i piedi. Le ginocchia assorbirono l'impatto. Cedettero verso il basso prima di raddrizzarsi e spingere la corsa.
+«Adesso.»
+Corsa. 
+Fango profondo.
+
+Inghiottì lo stivale. Claudio strappò il piede. Pioggia orizzontale. Vento da ovest. Odore di industria chimica pesante.
+
+Laura alla sinistra. Mezzo passo avanti. Brevi passi frequenti. Brevi. Pesanti.
+
+Claudio controllò il lettore. Mappa di corsa. Punti spenti. Perimetro aperto.
+Duecento metri. Senza visibilità.
+
+Dolore al polso. Fasciatura torta contro ustione. Fitta acuta verso la spalla.
+Binario arrugginito, erba piatta per la pioggia. Vecchio piazzale. Guide cementate sporgenti. Denti di corrosione.
+«Attento al centro.»
+
+Fiato a strattoni. Peso. Fango. Polmoni in fiamme. Ritmo forzato, non sportivo. Sopravvivenza.
+Quattrocento metri. Trecento. 
+
+Schermo cambiato.
+Punti che riprendevano forma. Sequenza inversa dell'apertura. Nodi attivi che trasmettevano al centro operativo. Posizione anomalia. Timestamp.
+
+Droni riorganizzati. Formazione stretta. Convergenza verso Claudio e Laura.
+Il sistema non cercava dove erano. Calcolava dove sarebbero stati. 
+«Più veloce.»
+Laura accelerò.
+
+Recinzione. Tre metri d'altezza. Filo spinato corroso. Le dita di Laura serrarono le maglie. Salita verticale. 
+Claudio al seguito. Punte di ferro agganciarono la giacca. Strappo. Caduta dall'altra parte. Ginocchia nell'asfalto. Spinta.
+
 Cento metri.
-Lo schermo del lettore mostrava il perimetro quasi completamente richiuso.
-Rimaneva una lacuna. Un segmento di quaranta metri circa nella sezione centrale. L'ultimo tratto di Lethe che non aveva ancora finito il ciclo di riavvio. Era davanti a loro. Era lì. Cinquanta metri di distanza. Poi quaranta. Poi il fango si fece più morbido sotto i piedi. Claudio capì che stavano attraversando una zona drenata male. Rallentò il passo per aggirarla e non affondare.
-Laura non ruppe il ritmo. Saltò la zona morbida con due passi lunghi. Atterrò su una superficie dura. Vecchio asfalto crepato. Ciuffi d'erba tagliavano le fessure grigie. Lei continuò la spinta.
-Claudio la seguì d'istinto.
-Trenta metri. Venti. Il lettore mostrava la lacuna che si restringeva dai bordi verso il centro mentre i nodi laterali completavano il riavvio. Dieci metri. La lacuna era di quindici metri adesso. Poi dodici. Poi dieci.
-Claudio attraversò il punto sulla mappa in cui la linea del perimetro avrebbe dovuto essere.
-Il lettore emise una vibrazione diversa da tutte le precedenti. Breve. Singola. Una qualità che non aveva mai sentito in settimane di uso. Non un allarme. Una conferma. Erano dentro.
-Non si fermarono.
-Venti metri oltre il perimetro, Laura girò a sinistra senza preavviso. Claudio la seguì istintivamente. Cambiò direzione senza capire ancora verso cosa stesse andando. Poi lo vide. Un tombino sul lato della strada. Il coperchio di ghisa parzialmente spostato. Una catena metallica lo teneva ancorato al bordo invece di permettergli di scivolare via. Qualcuno lo aveva spostato di recente. Abbastanza di recente da non aver lasciato ricrescere il muschio nel gap tra il coperchio e il bordo.
-Laura infilò le dita nel gap. Sollevò il disco di ghisa facendo leva sulle ginocchia. Lo spostò di lato sfoderando tutta la forza del busto. Sotto c'erano gradini di metallo arrugginito protesi nell'oscurità. L'odore di acqua stagnante aggredì le narici. Liquame tossico. Cemento umido e morte chimica sigillata da anni in uno spazio cieco.
-Laura scese per prima. Claudio guardò i droni. Li sentiva prima ancora di vederli. Il ronzio veniva da nord. Si stava abbassando di quota. La formazione convergeva sulla posizione in cui erano stati trenta secondi prima. Poi guardò giù nel tombino dove Laura era già scomparsa nell'oscurità.
+Perimetro quasi richiuso.
+Lacuna di dieci metri davanti a loro. 
+Fango morbido. Claudio rallentò per aggirare.
+Laura non ruppe il ritmo. Saltò. Atterrò sull'asfalto.
+
+Claudio al seguito.
+Dieci metri. Lacuna di cinque.
+Attraversarono.
+Lettore: vibrazione singola. Conferma. Dentro.
+
+Laura girò a sinistra. Tombino. Coperchio spostato di recente.
+Mano nel gap. Sollevò ghisa. Forza di busto.
+Gradini arrugginiti. Buio. Liquame.
+
+Laura giù. Claudio guardò i droni. Ronzio che si abbassava. Convergenza sulla posizione di trenta secondi prima.
 Scese.
-I gradini erano scivolosi sotto le suole bagnate. Tenne una mano sulla parete del condotto mentre scendeva. Cemento grezzo. Umido. Incrostazioni calcaree si staccavano al contatto. I piedi toccarono il fondo. Il livello dell'acqua raggiunse le caviglie. Fredda. Scura. Una corrente quasi impercettibile veniva da est. Si girò verso l'alto. Spinse il coperchio di ghisa nel posto più vicino alla posizione originale che riuscì a raggiungere dal basso.
-Il coperchio si chiuse con un suono sordo e definitivo.
-Il buio fu immediato e totale.
-Claudio rimase fermo. Le mani sul muro. L'acqua alle caviglie. Il respiro usciva in sbuffi rapidi nell'aria chiusa del condotto. Sopra di lui, attutito dallo spessore del cemento e della ghisa, il ronzio dei droni cresceva di intensità. Cominciava a percorrere la zona sopra di loro. Sistematico. A strisce. Il pattern di ricerca a griglia che Claudio aveva progettato nel 2022 come protocollo standard per la localizzazione di obiettivi a bassa firma termica in ambiente urbano.
-Funzionava.
-Lo sentiva lavorare sopra la sua testa. Perfetto. Esatto. Implacabile. Funzionava perché lui lo aveva costruito per funzionare.
-Una luce si accese nel buio davanti a lui. La torcia di Laura. Piccola. Puntata verso il basso per non illuminare il condotto verso l'alto. Nel cerchio di luce, l'acqua scura rifletteva il fascio in mille direzioni irregolari. Laura aveva già identificato la direzione del flusso. Si stava muovendo controcorrente. Verso est. Verso il centro della città.
+
+Gradini scivolosi. Muro umido. Fondo. Acqua alle caviglie. Fredda. Corrente verso est.
+Chiusura coperchio. Definitiva.
+
+Buio totale.
+Mani sul muro. Respiro rapido nell'aria chiusa.
+Sopra, ronzio. Sistematico. Griglia di caccia a bassa firma termica. Claudio l'aveva progettato nel 2022. Funzionava.
+
+Torcia di Laura. Nel cerchio, acqua scura.
+Movimento controcorrente. 
 Verso il centro operativo.
-Claudio mosse il primo passo nell'acqua e la seguì nel buio del condotto. Il drive premeva contro le costole. Il polso fasciato pulsava. I droni percorrevano la griglia sopra di lui con la precisione di qualcosa che non si stanca e non smette.`;
+
+Passo nell'acqua. Drive contro le costole. Polso pulsante. Droni che setacciavano la griglia. Implacabili.`;

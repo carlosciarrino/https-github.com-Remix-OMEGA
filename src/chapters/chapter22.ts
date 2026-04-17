@@ -1,65 +1,56 @@
 export const chapter22 = `Capitolo 22: Il Perimetro
 
-La pioggia aveva il sapore del mare e del ferro.
-Claudio lo sentì sulle labbra screpolate. Il sale del Mediterraneo si mescolava ai fumi di scarico industriali. Erano scesi dal treno merci a Gioia Tauro. Quattordici ore di buio insonne sui pianali di legno. Quattordici ore di vibrazioni spaccacostole verso il confine sud del continente.
+Pioggia. Sapore di ferro.
+Claudio respirò il sale del Mediterraneo mischiato ai fumi. Gioia Tauro. Quattordici ore di vibrazioni sui pianali di legno. 
 
-Camminava tenendo la spalla sinistra aderente al muro del terminal portuale. Cemento armato nero di salsedine. La mano destra fasciata sfiorava la parete per mantenere l'equilibrio. Nessun cedimento.
+Spalla sinistra contro il muro del terminal. Cemento infetto da salsedine. Mano destra fasciata, appoggiata alla parete per l'equilibrio. Nessun cedimento.
 
-Laura avanzava a tre metri da lui. La testa bassa. Il cappuccio inzuppato di pioggia. Le spalle strette per fendere l'acqua battente. Portava lo zaino tattico con la radio e lo scanner.
+Laura a tre metri. Testa bassa. Cappuccio inzuppato. Zaino tattico.
 
-Il paesaggio apparteneva all'hub navale corporativo. ABITES aveva costruito un porto logistico sulle ceneri del mercato mercantile. Capannoni chiusi da serrande antisfondamento. Gru a portale altissime e scure. Recinzioni di titanio percosse dal temporale. Un'area blindata, integrata nell'architettura bellica della Sincronia. Oltre quel limite, il relitto del mare aperto. E più a fondo, la torre madre off-shore. L'incubatrice subacquea della Fase Quattro.
+Hub navale corporativo. ABITES. Capannoni serrati. Gru scure come spettri. Recinzioni di titanio sotto il temporale. Oltre: il mare. A fondo: la torre madre. Fase Quattro.
 
-Claudio sentiva il polso destro pulsare contro le bende rigide.
-Il dolore sfidava l'ipotermia. L'ustione scavava nella carne. Le fasciature create da Laura sul treno bloccavano le emorragie.
+Polso destro pulsante. Dolore che scavava. Fasciature rigide.
 
-La pioggia martellava il cemento del piazzale est.
-Trovarono copertura sotto la stiva rialzata di un container marittimo. Una lamiera staccata dal suolo di mezzo metro. Si infilarono nello spazio stretto. Odore di catrame e alghe. Il vento sbatteva contro il metallo sopra di loro.
+Pioggia sul piazzale.
+Sotto la stiva di un container. Spazio stretto. Odore di catrame. Vento contro lamiera.
 
-Laura accese la torcia tattica. La abbassò sulla ghiaia bagnata. Il fascio rosso delineò i tratti dei loro visi.
-Lei si avvicinò. Gli prese il braccio ferito con fermezza.
+Laura accese la torcia. Rosso.
+Prese il braccio ferito.
 «Gira il polso.»
-Claudio obbedì. Il fango gelido gli penetrava i pantaloni.
+Claudio obbedì.
 
-Lei aggiustò l'inclinazione della garza sporca. Le sue dita lavoravano bagnate e veloci. Trasmisero un calore netto alla sua pelle. Claudio non si ritrasse. Assorbì quel contatto fisico vitale. L'infezione pulsante retrocesse dietro la sicurezza di quel gesto. Il tocco tracciò un confine umano contro l'impero d'acciaio che li braccava.
+Lei aggiustò la garza. Dita veloci, bagnate. Calore netto. L'infezione pulsante retrocesse. Il tocco tracciò un confine umano contro l'acciaio. 
+Laura incontrò lo sguardo di lui. Coraggio imposto.
 
-Laura mollò la benda. Incontrò lo sguardo di lui. La sua ostinazione impose coraggio ai muscoli sfiniti di Claudio.
+«Verso i moli subacquei.»
+Claudio estrasse il lettore. Il dispositivo vibrò. Non vibrazione da droni. Muraglia di segnali.
 
-«Dobbiamo avvicinarci ai moli di lancio sottomarini,» disse Laura. Infilò la torcia nel tascapane.
+Sbirciò oltre la recinzione.
+Fumo bucato da stroboscopiche celesti. APR pesanti. 
+Nodi a terra. Rete chiusa. Latenza zero.
 
-Claudio estrasse il lettore portatile dalla giacca. Il dispositivo hackerato ascoltava le reti senza emettere frequenze tracciabili.
+Architettura progettata da Claudio. Cordone sanitario classe zero. Identificazione biometrica radiale. Un secondo.
 
-La scocca incrinata vibrò.
-Non il solito impulso distanziato dei droni di ronda. Una pressione meccanica costante contro il palmo. Una muraglia di segnali compattati.
-
-Claudio strisciò sul pietrisco e sbirciò oltre la recinzione primaria.
-Il fumo della costa era bucato da punti stroboscopici celesti. Tre quote di volo. Una linea ininterrotta di APR aeronavali pesanti. Sorvegliavano il bacino d'acqua profonda del molo portuale.
-Controllò lo schermo monocromatico verde. I nodi del perimetro a terra distavano ottanta metri l'uno dall'altro. Rete chiusa. Scambio dati fulmineo. Latenza zero.
-
-Claudio riconobbe l'architettura. L'aveva progettata lui stesso tre anni prima. Cordone sanitario di classe zero. Nessuna mitragliatrice automatizzata. Solo identificazione biometrica radiale. Il varco scannerizzava l'aria ambientale incrociando i profili col database genetico centrale in un secondo.
-
-Laura analizzò i grafici oltre la barriera della sua spalla.
+Laura studiò i grafici.
 «Bucabile?»
-«Sì,» rispose Claudio incrociando righe di testo cifrato. «Uso un modulo back-door. Lo battezzai Lethe a suo tempo. Riavvia forzatamente la porzione di rete locale attraversata cancellando temporaneamente la cache del sensore in uso.»
-«Il preavviso di ritardo.»
-«Subito dopo il passaggio, il nodo si riallinea a catena con la centrale. L'algoritmo rileva il salto o la discrepanza del log. L'allarme tattico suona in tutta la base in contemporanea.»
+«Sì. Lethe. Riavvia la rete cancellando la cache. Poi, riallineamento fulmineo e allarme.»
 
-La pioggia sommergeva i binari morti del porto.
-Claudio estrasse il drive primario dal petto. Un chilo di schede integrate pesantissime. Conteneva l'ecosistema radice trafugato in Svizzera. Lo unì al dispositivo portatile innestandolo a forza.
-Digitò a una mano il bypass numerico. L'architettura software rigettò le firme corporative obbedendo al codice creatore originale. Il modulo Lethe si autoarmò nel buffer di caricamento.
+Pioggia sui binari.
+Claudio innestò il drive primario nel lettore. Digito rapido a una mano. Modulo Lethe in armamento.
 
-«Abbiamo venti minuti esatti dall'innesco alla rilevazione automatica,» chiarì Claudio, fissando le sagome del traliccio battute dalla burrasca.
-Laura aggiustò le fibbie dello zaino rigido. Afferrò il calcio della sua arma. Si preparò allo scatto in base.
+«Venti minuti dall'innesco.»
+Laura afferrò l'arma. Preparata allo scatto.
 
-«Venti minuti coprono l'assalto ai minisommergibili marini,» rispose dritta lei. «Sotto la linea dell'acqua le letture dei droni saltano e non tracciano. Sfrutteremo la traccia del cavo dati principale sottomarino fino alla torre off-shore.»
+«Venti minuti per l'assalto ai sottomarini,» tagliò lei. «Sotto l'acqua i droni non leggono. Seguiremo il cavo fino alla torre.»
 
-Claudio ripose il dispositivo riparandolo nella tasca della giacca. 
+Claudio ripose il dispositivo. 
 Pensò a Sara. 
-Il volto di lei scacciò il gelo dell'oceano dai suoi polmoni. L'amore lo abbracciò internamente con un calore protettivo. La promessa di riportarla in un mondo da ricostruire divenne la ragione per restare in piedi. Lei era la spinta vitale che gli permise di fronteggiare il molo d'acqua nera circondato dai blindati. 
+Faccia capace di scacciare il gelo. La promessa di ritorno: ragione per stare in piedi. Spinta vitale contro il molo nero. 
 
-Guardò Laura nel buio rovesciato. Lei ricambiò annuendo in un assenso netto. Azione pura, ruvida, inarrestabile.
-Claudio premette il tasto fisico sul ricevitore col dito sano.
-Il display divenne una riga verde incandescente. La gabbia scanner sparì frantumata digitalmente. Disinnescata.
+Guardò Laura nel buio rovesciato. Scambio d'assenso.
+Premette il tasto.
+Display verde. La gabbia scanner sparì.
 
 «Andiamo.»
-Uscirono dall'ombra del container per lanciarsi a testa bassa sui moli sottomarini, spaccando il buio ostile dell'impero verso il fondo del mare.
+Lancio sui moli, verso il fondo del mare.
 `;
