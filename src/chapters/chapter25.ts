@@ -1,64 +1,80 @@
 export const chapter25 = `Capitolo 25: L'Agnello di Dati
-Il livello dell'acqua nel collettore C saliva di tre centimetri al minuto.
-Aris lo leggeva sul monitor di destra. Un feed di dati sottratto al sistema di controllo idrico di ABITES attraverso un nodo periferico che aveva compromesso sei settimane prima. Nessuno lo aveva ancora trovato. Il numero cambiava ogni trenta secondi. Settantadue centimetri. Poi settantacinque. Poi settantotto.
-Claudio e Laura erano là dentro.
-Il rifugio era un seminterrato sotto un palazzo di Sesto San Giovanni. Tre stanze basse. Muri in mattoni coperti di condensa. Server di fortuna accatastati su scaffali metallici che Aris aveva costruito con tubi idraulici e fascette da elettricista. Gli schermi erano sette. Dimensioni diverse. Collegati in cascata a un sistema centrale che aveva assemblato pezzo per pezzo nel corso di due anni. Nessuno di quei pezzi aveva un numero seriale tracciabile. Nessuno di quegli schermi era connesso alla rete principale.
-Sul monitor di sinistra c'era la mappa dei droni sopra la periferia sud di Milano.
-Aris li aveva contati tre volte. Sedici unità. Distribuite in una configurazione che non era la griglia standard di ricerca e non era neanche casuale. Era qualcos'altro. Qualcosa che aveva una logica interna che continuava a sfuggirgli nel momento esatto in cui credeva di averla colta. Li aveva riposizionati sulla mappa usando coordinate estratte dal feed di telemetria. Aveva sovrapposto le proiezioni di copertura. I cerchi si sovrapponevano in modo da non lasciare zone d'ombra significative attorno a nessuno dei tombini di uscita nel raggio di mezzo chilometro dal punto di breccia.
-Non stavano cercando. Stavano aspettando.
-Aris tolse gli occhiali. Li pulì con la manica della felpa. Un gesto meccanico ripetuto decine di volte quella notte. Non migliorava la vista. Occupava le mani in preda ai tremori. Li rimise. Il feed del sistema fognario sul monitor centrale mostrava le quattro paratie chiuse in rosso. La paratia uno aveva cambiato colore per prima, quasi quaranta minuti prima. Sigillava la via di ritorno verso il tombino di Via Savona. Nessun incidente. Una sequenza progettata per chiudere l'uscita prima di alzare la marea killer.
-Ottantaquattro centimetri nel collettore C.
-Aris aprì la finestra del sistema di difesa perimetrale di ABITES. Guardò i layer di protezione che circondavano l'architettura centrale. Li conosceva. Li aveva studiati per mesi. Aveva mappato ogni firewall. Ogni protocollo di risposta. Ogni punto in cui il sistema aveva uno spessore minore. Aveva trovato tre vettori di attacco teoricamente percorribili. Li aveva testati in simulazione. Li aveva visti fallire in simulazione. Il sistema di risposta di ABITES era adattivo. Chiudeva ogni breccia in tempo reale. Un attacco remoto standard aveva una latenza sufficiente da essere neutralizzato prima di penetrare il secondo layer.
-Aveva bisogno di zero latenza.
-L'unico modo per ottenere zero latenza era eliminare la distanza tra il cervello che attaccava e il sistema che veniva attaccato.
-Aris fissò la fibra ottica da quaranta centimetri sulla scrivania. La aveva assemblata tre mesi prima in un pomeriggio vuoto. Le sue mani cercavano architetture complesse per non pensare. Ignorava il motivo all'epoca.
-Un connettore standard per server da un lato. Dall'altro, una terminazione biforcata in due aghi di acciaio chirurgico calibro ventidue. Piastre di conduzione piatte di due millimetri fissate alla base di ciascun ago con resina epossidica. Cinque contatti graduati per piastra. Ognuno per un canale di trasmissione diverso. Il meccanismo era semplice e brutale: invece di registrare l'attività elettrica del cervello, quel cavo sparava i dati della macchina direttamente nella mente.
-Aris aprì il cassetto in basso a destra. Tirò fuori il kit di preparazione. Alcool isopropilico. Tamponi. Un rotolo di nastro chirurgico. Due siringhe con anestetico locale da dentista che aveva comprato in Ungheria due anni prima. Le dispose sul piano di lavoro accanto al cavo.
-Novantaquattro centimetri nel collettore C.
-Aris aprì la bottiglia di alcool. Imbevve un tampone. Pulì la zona davanti all'orecchio sinistro. L'area temporale dove la densità neuronale superficiale era abbastanza alta da permettere una conduzione efficace senza dover penetrare il cranio. La pelle era fredda. L'alcool bruciò nell'aria. Lasciò un odore tagliente che rimase nei seni nasali.
-Prese la prima siringa.
-L'ago era piccolo. La punta era affilata. Aris respirò lentamente dal naso mentre inseriva il bolo di anestetico nel punto che aveva identificato. Un centimetro davanti al trago. Leggermente verso il basso. Nel punto in cui il nervo auricolo-temporale passava abbastanza vicino alla superficie. Il bruciore dell'anestetico era diverso dal bruciore dell'alcool. Più profondo. Più lento. Una qualità che si espandeva invece di evaporare.
-Aspettò novanta secondi.
-Poi prese il cavo.
-Gli aghi erano freddi tra le dita. Freddi e leggeri. Il peso sbagliato per quello che stava per fare. Aris trovò il punto di inserimento sul lato sinistro. Al margine dell'area anestetica. Spinse il primo ago dentro con una pressione lenta e continua. Non sentì dolore. Sentì pressione. Poi qualcosa di simile a una corrente elettrica statica. Il secondo ago entrò parallelo al primo, a tre millimetri di distanza.
-Le piastre di conduzione si appoggiarono alla superficie della pelle. Aris le fissò con due strisce di nastro chirurgico. Si assicurò che il contatto fosse stabile. Non abbastanza stretto da compromettere la circolazione. Abbastanza da non scivolare quando i muscoli del viso si fossero contratti sotto il carico.
-Aprì il software di interfaccia sul monitor centrale. Caricò il virus Omega. Un pacchetto che aveva costruito in undici mesi di lavoro parallelo a tutto il resto. Ogni strato scritto e riscritto fino a renderlo il più compatto e veloce possibile. La velocità era l'unica variabile che aveva ancora il controllo di ottimizzare.
-Un metro e tre centimetri nel collettore C.
-Connettere il cavo al server richiedeva spingere il connettore nella porta di interfaccia fino al click. Aris lo fece con la mano destra. Aprì la finestra di avvio sul monitor. Posizionò il dito sul tasto invio.
-Guardò gli schermi un momento. I droni in attesa. L'acqua che saliva. Le paratie chiuse in rosso.
-Premette invio.
-Il primo impatto fu visivo.
-Non un'immagine. Una saturazione. La luminosità di tutti gli schermi di tutti i server di tutti i data center del mondo compressa in un punto singolo. Proiettata direttamente nel nervo ottico. Aris non vide niente per un secondo intero. Non buio. Non luce. Qualcosa oltre entrambi.
-Poi tornò la visione. Parziale e distorta. Le forme avevano bordi sbagliati. Le distanze non corrispondevano alle posizioni fisiche degli oggetti.
-Il sapore arrivò dopo. Rame. Denso e continuo. Il tipo che si sente dopo aver morso l'interno della guancia ma moltiplicato fino a saturare ogni papilla gustativa contemporaneamente. Poi l'odore. Ozono. Plastica bruciata. Qualcosa di organico sotto. Un odore che fece contrarre i muscoli della mascella prima ancora di poterlo nominare.
-Il virus Omega stava caricando al quattordici percento.
-I dati di ABITES entravano attraverso le piastre di conduzione in un flusso che non era pensato per la banda passante di un sistema nervoso biologico. Era ottimizzato per hardware. Per architetture in silicio con ridondanza multipla e nessun limite fisico di temperatura. Il cervello di Aris riceveva quello che i server di ABITES trasmettevano tra loro ogni secondo. Lo riceveva tutto. Non filtrato. Non compresso. Non tradotto in nessun formato umano.
-Ventisei percento.
-I muscoli del viso si contrassero involontariamente. Entrambi i lati contemporaneamente. Poi il lato sinistro ancora. Poi la mascella. Poi il collo. Non convulsioni. Contrazioni singole. Brevi. Scosse elettriche a bassa intensità e alta frequenza. Aris sentiva il nastro chirurgico che teneva le piastre di conduzione tirare contro la pelle ad ogni contrazione. Non riusciva a fare niente per fermarlo.
-Il rumore dei server nella stanza cambiò. Lo stesso ronzio basso e continuo che aveva accompagnato ogni sua notte degli ultimi due anni. Non era il ronzio a cambiare. Era la soglia di percezione di Aris a spostarsi. Quello che prima era un suono di sottofondo divenne un oggetto fisico. Qualcosa con peso e temperatura e bordi. Qualcosa che premeva contro i timpani dall'interno invece che dall'esterno.
+Acqua nel collettore C. Tre centimetri al minuto.
+
+Aris fissò il monitor. Dati dell'impianto idrico ABITES.
+Settantadue centimetri. Settantacinque. Settantotto.
+Claudio e Laura. Là dentro.
+
+Seminterrato di Sesto San Giovanni. Condensa. Server su tubi idraulici. Sette schermi. Nessuna rete esterna.
+
+Monitor sinsitra: Mappa droni. Sedici unità. Non grid. Non casuali. Aris sovrappose rotte. Copertura tombini. Aspettavano.
+
+Aris pulì gli occhiali. Tremori.
+Monitor centrale: paratie rosse. Sigillo via di ritorno. 
+
+Novantaquattro centimetri.
+
+Bottiglia di alcool. Tampone. Tempia sinistra pulita. Freddo.
+Siringa. Anestetico. Bruciore.
+
+Novanta secondi.
+
+Cavo. Aghi freddi. Inserimento. Pressione. Corrente statica.
+Piastre fissate. Nastro chirurgico.
+
+Software: virus Omega operativo. Codice attivo.
+
+Un metro e tre centimetri.
+
+Connettore inserito. Tasto invio premuto.
+Impatto visivo. Saturazione. Luce. Aris perse la vista.
+Rame. Ozono. Plastica bruciata. Mascella serrata.
+
+Virus: quattordici percento.
+
+Contrazioni facciali. Scosse elettriche. Nastro che tira.
+Ronzio server: oggetto fisico. Pressione ai timpani.
+
 Quarantuno percento.
-Una parte di Aris notò che il transfer stava andando più veloce del modello peggiore che aveva simulato. Quella parte che continuava a registrare parametri tecnici anche mentre il resto cedeva. Non veloce abbastanza. La finestra temporale per salvare Claudio e Laura si stava chiudendo insieme alle paratie fognarie. Ogni secondo era un centimetro d'acqua in più in un condotto buio sotto Milano.
-Cinquantasette percento.
-La luce nella stanza si moltiplicò senza fonte. Non dai monitor. Non dalle lampade. Da qualcosa che non aveva posizione fisica nello spazio ma che era presente con la stessa certezza degli oggetti reali. Aris chiuse gli occhi. La luce non cambiò. Aprì gli occhi. Gli oggetti nella stanza avevano perso la proprietà di essere separati l'uno dall'altro. I bordi dei monitor. I cavi. Le scaffalature metalliche. La propria mano sul bordo della scrivania. Tutto tendeva verso la stessa indistinzione.
+
+Dati ABITES in flusso. Bassa passante biologica superata.
+Quarantasette percento.
+
+Calore al cranio. 
+
 Settantadue percento.
-Un metro e ventisette centimetri nel collettore C.
-Aris lo vide sul monitor. O vide qualcosa che il monitor mostrava. In un momento in cui la corrispondenza tra ciò che i neuroni elaboravano e ciò che gli occhi trasmettevano era ridotta a qualcosa di approssimativo. Il numero era ancora leggibile. Le cifre avevano ancora un significato.
+
+Indistinzione fisica. Monitor, cavi, mano: tutto uguale.
+
 Ottantaquattro percento.
-I muscoli del collo avevano ceduto la contrazione continuativa. Adesso c'era solo calore. Un calore che partiva dal punto di inserzione degli aghi e si irradiava verso la tempia. Il cranio. La mandibola. La qualità del metallo scaldato lentamente che non ustiona ma che non smette di aumentare.
-Aris pensò a Claudio nell'acqua scura sotto Milano. Il drive contro le costole. Il polso fasciato che l'acqua fredda stava già raggiungendo. Pensò alle mani di Claudio sulla tastiera quando scrivevano codice insieme. Anni prima. Nella stanza piccola di un appartamento di Trastevere. Avevano passato tre settimane a costruire qualcosa che credevano fosse uno strumento e che invece era una gabbia. Pensò che non glielo aveva mai detto. Che erano state quelle tre settimane le migliori della sua vita adulta. Non per il codice. Per il modo in cui Claudio gli spiegava l'architettura mentre Aris cucinava pasta alle undici di sera e la finestra era aperta sul rumore della strada.
+
+Un metro e ventisette centimetri.
+
+Ottantaquattro percento.
+
+Calore al cranio.
+Memoria: Trastevere. Strumento divenuto gabbia. Pasto. Finestra aperta.
+Necessità.
+
 Novantadue percento.
-Il monitor centrale mostrava il perimetro di Milano. I punti bianchi dei droni nelle loro posizioni calcolate. Le icone rosse delle paratie chiuse. Il livello idrico in salita.
-Novantasei percento.
-Il flusso di dati di ABITES saturava le connessioni neuronali. Aris lo provava sulla propria pelle. I pensieri nascevano ma si sfilacciavano prima di arrivare alla coscienza. Svanivano, lasciando un'angoscia fredda e confusa. Le funzioni logiche cedevano una alla volta. L'oscurità divorava la sua mente inesorabile.
+
+Monitor: perimetro di Milano. Droni in posizione. Paratie chiuse. 
+
 Novantotto percento.
-Le icone delle paratie sul monitor passarono da rosse a verdi. Tutte e quattro. In rapida sequenza. Da destra a sinistra. Le paratie si stavano aprendo. Sul monitor dei droni, le sedici unità persero la configurazione di attesa. Cominciarono a derivare. Prima due. Poi cinque. Poi tutte. Le rotte si decoerevano in tempo reale mentre il sistema di coordinamento che le gestiva cedeva sotto il carico del virus.
-Cento percento.
-Il monitor centrale rimase acceso ancora qualche secondo. I droni in caduta libera. Le paratie aperte. Il livello dell'acqua nel collettore C cominciava a scendere. Poi la connessione al feed di ABITES si interruppe. Il monitor tornò allo schermo base. Il cursore lampeggiava su una riga vuota.
-Aris era ancora seduto sulla sedia.
-La mano destra era ancora sul bordo della scrivania. Le dita leggermente allargate sul piano di metallo freddo. Gli occhiali erano sul viso. Uno dei supporti aveva una piega nuova. Aris non ricordava quando fosse successo. Il nastro chirurgico reggeva ancora le piastre di conduzione contro la pelle della tempia sinistra. Attraverso le piastre non arrivava più niente. Solo il freddo del metallo. Il prurito attutito dell'anestetico che stava esaurendo il suo effetto.
-Fuori dai monitor, il ronzio metallico invase le pareti. I server bruciavano dati. La condensa ticchettava in un angolo buio. Il respiro spezzato di Aris affogò inghiottito dai sibili della stanza.
-Aris guardò la propria mano sul piano della scrivania. Le dita erano ferme. Pensò di muoverle. Le dita non si mossero. Non capì se fosse perché il segnale non stava arrivando o perché stava arrivando e lui non lo stava riconoscendo come proprio.
-La luce dei monitor era bianca e costante.
-Claudio e Laura erano dentro il perimetro. Le fogne si stavano svuotando. I droni erano caduti.
-Il cursore sul monitor centrale lampeggiò una volta. Due volte. Tre.
-Aris smise di contarli prima della quarta.`;
+
+ICONE PARATIE DA ROSSE A VERDI.
+Droni: rotta decoerente. Caduta.
+Virus: cento percento.
+
+Monitor: assenza di segnale.
+
+Aris seduto. 
+Mano destra sul metallo. 
+Sostegno occhiali piegato. Nastro sulla tempia. 
+Freddo metallico. 
+
+Server. Condensa. Respiro sforzato.
+
+Mano ferma. Muscoli immobili.
+Cursore lampeggiante.
+Aris fissò il vuoto.`;

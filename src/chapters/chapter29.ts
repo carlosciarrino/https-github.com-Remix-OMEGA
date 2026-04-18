@@ -1,44 +1,55 @@
 export const chapter29 = `Capitolo 29: Sangue sui Server
 Claudio si staccò dal vetro.
-Lo fece nel momento in cui la voce dell'Agente stava dicendo qualcosa sul nome di battesimo della madre di Laura. Il suono di quel nome. Attutito. Filtrato attraverso cinque centimetri di materiale. Fu quello che lo fece girare invece di tenerlo fermo. Non poteva ascoltare ancora. Non perché non reggesse. Ogni secondo che passava era un secondo in cui il sistema consolidava la separazione. Lui non stava facendo niente per cambiarla.
-Il corridoio laterale si apriva a destra dell'incrocio. Quello che aveva visto prima della discesa delle paratie. Quello che curvava dopo dieci metri verso qualcosa di non visibile. Claudio ci entrò con il lettore in mano. La mappa del drive aperta sullo schermo. Cercava di ricostruire la geometria del livello dalla posizione attuale.
-I riflessi moltiplicavano la geometria del corridoio sfalsando le distanze spaziali. Claudio compì tre passi tra le lastre parallele e si scontrò visivamente con l'inganno ottico. Cinque proprie immagini riflesse circondavano la sua posizione. Tutti stringevano un lettore in mano. Tutti mostravano polsi fasciati. Il trucco architettonico stringeva il passaggio reale disorientando la mente. Claudio strinse i denti, scartò le illusioni e calibrò il peso in avanti.
-La curva a sinistra era reale. Oltre, il corridoio si allargava in un'area di stoccaggio. Rack di server disposti in file. Le luci verdi delle spie di funzionamento punteggiavano il buio tra un armadio e l'altro. L'aria aveva cambiato densità. Più carica di ozono. Più fredda di due gradi almeno. Un rumore di fondo che era il ronzio dei server moltiplicato per cinquanta unità in uno spazio relativamente piccolo. Una vibrazione che si sentiva attraverso le suole e saliva lungo le tibie.
-Dal drive, la mappa mostrava un corridoio di manutenzione che correva parallelo al settore di Laura. Accessibile da qualche punto in questa area di stoccaggio. Doveva trovare la porta.
-Le vide prima che le sentisse. Tre torce tattiche si muovevano tra i rack dal lato opposto dell'area di stoccaggio. Puntate verso il basso. I fasci di luce illuminavano i piedi dei server e il pavimento in resina in cerchi che si spostavano in modo sistematico. Un rack per volta.
-Tre tecnici in tenuta tattica avanzavano in formazione spina convergente. Indossavano gilet balistici e caschi con visiera. Le armi riposavano nelle fondine mentre le mani brandivano torce e scanner biometrici. Perlustravano la zona con procedure standard rigidamente scolpite nell'addestramento aziendale. Claudio pesò le probabilità. Loro neutralizzavano intrusi comuni tra uffici immacolati. Lui aveva appena violato tre livelli isolati dal mondo. L'adrenalina decise al suo posto. Attaccare per primo offriva l'unica via d'uscita.
-Si mosse verso la guardia di sinistra. Quella più vicina. Quella con la torcia puntata verso il rack di fronte invece che verso di lui. Si tenne nell'ombra tra le file di server finché non fu a tre metri di distanza. L'ozono e il freddo dei server riempivano ogni centimetro dello spazio tra i rack. La guardia non lo aveva visto. Stava controllando la spia di funzionamento di un'unità. Inclinata di lato.
-Claudio uscì dall'ombra. La prese per la nuca e per la spalla. Usò il proprio peso verso il basso per portare la testa della guardia contro lo spigolo del rack metallico. Abbastanza forza da essere definitivo senza essere letale. La guardia scivolò sul pavimento tra i cavi di alimentazione che correvano sotto i rack.
-Le altre due torce si girarono verso il suono.
-La seconda guardia era più vicina di quanto Claudio avesse calcolato.
-La torcia arrivò in faccia. Lui chiuse gli occhi e si girò di lato. Sentì le mani della guardia sulla giacca. Una presa solida. Doppia. Usava il tessuto per controllare il movimento. Claudio spinse verso l'esterno con entrambi i gomiti cercando di rompere la presa. Ci riuscì con il sinistro. Non con il destro. Il polso cedette nel momento in cui il gomito connetteva. Il dolore che salì lungo il braccio fu abbastanza da perdere mezzo secondo di coordinazione.
-La guardia incamerò quel ritardo e sferrò una gomitata brutale al fianco destro di Claudio. Il colpo spietato dimostrò un duro addestramento al corpo a corpo. Claudio incassò il montante. Impuntò i talloni e trascinò la guardia verso il montante del server sfuttando la presa sulla sua spalla sinistra. Lo schianto dell'uomo contro il telaio inondò l'aria di vibrazioni ronzanti.
-La terza guardia stava già girando intorno al rack laterale per chiudere l'angolo.
-Claudio mollò la seconda guardia. Scivolò di lato. Ancora in piedi ma spostata. Si girò verso la terza. Vide il braccio che saliva. Vide il dispositivo di scansione biometrica. Non era solo un dispositivo di scansione. Era anche un oggetto metallico pesante che stava per arrivare verso il suo viso. Si abbassò sotto l'arco del colpo. Sentì il metallo passare sopra la nuca con un vento leggero.
-Dal basso portò la spalla sinistra nel plesso solare della terza guardia. Non aveva il peso di qualcuno che sta bene. Aveva la traiettoria giusta. La guardia perse l'equilibrio. Le gambe non trovarono appoggio abbastanza veloce. Andarono entrambi sul pavimento in resina con Claudio sopra.
-Il pavimento era duro e freddo. Claudio sentì il polso destro nell'impatto. Sentì qualcosa di caldo dentro la fasciatura che non doveva essere caldo. Qualcosa che stava ricominciando a sanguinare. Si rialzò prima che la guardia sul pavimento potesse recuperare. Portò il ginocchio verso il petto della guardia abbastanza forte da toglierle il respiro per i secondi necessari.
-La seconda guardia era tornata.
-Claudio la vide nel riflesso del vetro laterale. Un'immagine che arrivò un secondo prima del contatto reale. Abbastanza da girare la testa invece di ricevere il colpo pieno in faccia. Lo prese sulla guancia sinistra. Un impatto che mandò un lampo bianco attraverso il campo visivo. Ruotò la testa di quarantacinque gradi. Claudio assorbì la rotazione invece di combatterla. Usò il momentum per portare il gomito sinistro all'indietro verso il viso della guardia.
-Connettì con qualcosa. Non vide cosa. La guardia produsse un suono involontario. La presa sulle sue spalle cedette.
-Claudio infilò le mani nel giubbotto della guardia. La sbatté contro il rack con tutta la forza che aveva rimasta. Il rack vibrò. Due spie verdi passarono a rosse nell'impatto. La guardia scivolò lungo il metallo. Rimase sul pavimento con le spalle contro il rack. Non si rialzò.
-Il respiro di Claudio era l'unico suono nell'area di stoccaggio adesso. Oltre al ronzio dei server. Oltre al sangue che sentiva nella guancia sinistra dove il colpo aveva aperto qualcosa di piccolo ma continuo. Lo sentiva scendere lungo il mento. Caldo in quell'aria fredda. Una temperatura fuori posto su tutto il resto.
-Si appoggiò al rack. Aspettò che i puntini bianchi sparissero dal campo visivo.
-La chiave d'accesso era sul giubbotto della seconda guardia. Una tessera magnetica in una tasca con velcro sul petto. Il logo del livello meno due impresso sul retro. Una banda RFID sul fronte. Claudio la prese senza guardare la guardia in viso. Fece in tre secondi quello che non aveva tempo di fare con più attenzione.
-Tornò alla mappa sul lettore. La porta di manutenzione laterale era indicata come accesso tecnico M-7. Posizionata sul lato est dell'area di stoccaggio. Nel gap tra il penultimo e l'ultimo rack della fila destra. Claudio percorse la fila tenendosi al centro della corsia. Le suole bagnate lasciavano impronte sottili sul pavimento in resina bianca. Trovò la porta esattamente dove la mappa indicava. Una superficie metallica opaca larga ottanta centimetri. Un lettore RFID integrato nello stipite destro. Senza display. Senza tastiera.
-Strisciò la tessera.
-La porta si aprì verso l'interno con un clic pneumatico. Un filo d'aria ancora più fredda veniva da un corridoio stretto e buio. Claudio entrò. Lasciò che la porta si richiudesse alle sue spalle. Avanzò nel buio tenendo una mano sulla parete sinistra. Il metallo freddo sotto i polpastrelli. La fasciatura sul polso destra era umida in modo diverso da prima. Umida e tiepida nel punto in cui il tessuto ustionato aveva ripreso a sanguinare.
-Il corridoio era corto. Quindici metri. Una curva. Luce che filtrava sotto una seconda porta sul fondo. Claudio ci arrivò. Strisciò di nuovo la tessera. Spinse.
-La porta si aprì sul corridoio di Laura.
-Era alle sue spalle. La vide dall'angolo che il corridoio formava. La schiena verso di lui. Le spalle leggermente piegate in avanti. La voce dell'Agente continuava a parlare dagli altoparlanti sul soffitto. La paratia di vetro era venti metri più avanti. Visibile dal lato di Laura come una superficie trasparente. Invisibile da questo lato perché Claudio era già oltre. Era già nel suo settore.
+La voce dell'Agente martellava dettagli privati. Claudio girò i tacchi. La separazione fisica era un errore tattico. Poteva fissarla. Non ascoltarla.
+
+Corridoio laterale. Geometria ingannatrice. Claudio scartò le immagini riflesse. Calibrò il peso.
+Curva a sinistra. Area di stoccaggio.
+Ronzo dei server. Vibrazione costante attraverso le suole.
+
+Tre tecnici tattici. Gilet balistici. Torce.
+Perlustrazione sistematica.
+Claudio calcolò. Attaccare per primo.
+
+Si mosse. Ombra.
+Presa sulla nuca del primo tecnico. Schianto contro rack metallico. Definitivo.
+
+Le altre due torce scattarono verso di lui.
+Claudio chiuse la distanza.
+Presa. Spinta. Gomitata al fianco.
+Claudio incassò. Impuntò i talloni. Trascinò la guardia contro il telaio del server. Vibrazioni rovinose.
+
+Terza guardia. Dispositivo di scansione pesante.
+Claudio schivò l'arco del colpo. Spalla nel plesso solare. Impatto al suolo.
+Claudio si rialzò. Ginocchio sul petto della guardia. Respiro spezzato.
+
+Seconda guardia ritornata.
+Claudio ruotò la testa. Colpo di striscio.
+Lampo bianco nel campo visivo.
+Gomitata sinistra al viso. Presa ceduta.
+Claudio scagliò la guardia contro il rack. Luci rosse. Schianto.
+Guardia immobile.
+
+Respiro. Sangue dalla guancia calda sulla pelle fredda.
+Tessera magnetica sfilata dal gilet. 
+Corridoio buio. Accesso M-7.
+Porta aperta. Clic pneumatico.
+
+Corridoio di Laura. 
+Oltre la paratia. Claudio era nel suo settore.
+
 «Laura.»
-Claudio forzò la voce graffiata e dolorante dalla fatica. Laura si voltò di scatto. L'ombra dura causata dall'interrogatorio dell'IA si sgretolò dal suo volto. L'angoscia collassò e lasciò spazio a un travolgente senso di rifugio. I suoi occhi ritrovarono l'ancora solida dell'unica persona capace di strapparla al massacro digitale.
-Cancellò i venti metri di svantaggio con ampie falcate precise. Arrestò la corsa a un passo da lui e innalzò la mano sinistra. Fermò le dita a un millimetro dallo zigomo spaccato. Claudio assorbì il calore della sua pelle bruciare contro la fredda aria dei condizionatori. Quel tracciato intimo senza contatto gli iniettò speranza pura direttamente nel sangue.
-«Non è profonda,» disse lui.
-Laura abbassò la mano. Guardò il polso fasciato. La fasciatura visibilmente più scura nel punto centrale. Guardò la sua faccia. Poi si girò verso gli altoparlanti. La voce stava ancora modulando parole sulle scelte di chi non può più scegliere. La guardò per un secondo. I muscoli del suo viso si indurirono in una decisione che non richiedeva parole.
-«Il nucleo,» disse. «Quanto siamo lontani.»
-Claudio aprì il lettore. La mappa mostrava la loro posizione nel corridoio est del Livello meno due. Il corridoio di accesso al Livello meno uno. Il nucleo del Volition Engine. Partiva da un punto settantadue metri più avanti.
-«Settantadue metri,» disse.
-Laura aprì lo zaino. Tirò fuori le ultime bende pulite rimaste nel kit. Le porse a Claudio senza guardarlo. Guardava il corridoio davanti. Guardava i settantadue metri da coprire.
-Claudio prese le bende. Le tenne in mano un momento. Le rimise nello zaino. Il polso sanguinava ma non abbastanza da essere un problema immediato. Non aveva tempo per i problemi che non erano immediati.
-«Andiamo,» disse.
-La voce dell'Agente Interrogatore continuò a parlare nel corridoio vuoto alle loro spalle mentre si allontanavano. Le parole diventavano meno distinguibili ad ogni passo. Poi solo frequenza. Poi solo il ronzio dei server che riempiva tutto lo spazio che la voce lasciava libero.`;
+Lei si voltò. L'angoscia crollata. 
+Falcate precise. Falcate brutali.
+Claudio a un passo. Calore corporeo contro aria gelida. Un punto di ancoraggio nel massacro.
+
+«Non è profonda,» disse.
+Laura guardò il polso, poi la faccia. Si girò verso gli altoparlanti. La voce dell'Agente continuava. Parole di ricatto, inutili.
+«Il nucleo. Distanza?»
+Claudio aprì il lettore.
+«Settantadue metri.»
+
+Laura non perse tempo. Zaino imbracciato.
+Claudio ignorò la ferita. Il dolore era una costante. Non un ostacolo.
+
+«Andiamo.»
+La voce dell'Agente alle spalle svanì nel ronzio dei server. Silenzio rotto solo dai passi.. Poi solo frequenza. Poi solo il ronzio dei server che riempiva tutto lo spazio che la voce lasciava libero.`;

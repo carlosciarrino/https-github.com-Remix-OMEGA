@@ -1,58 +1,51 @@
-export const chapter26 = `Capitolo 26: Il Respiro del Sottosuolo
-L'acqua defluì in meno di quattro minuti.
-Claudio lo sentì prima di vederlo. La pressione contro le cosce diminuiva. Il flusso rallentava. La corrente perdeva la qualità insistente e orizzontale che aveva avuto per tutta la durata della traversata del condotto. Poi il livello scese sotto le ginocchia. Poi alle caviglie. Rimase un velo scuro sul pavimento di cemento. Si ritirava verso le griglie di scarico con un suono aspirato e definitivo.
-Laura aveva già trovato la scaletta. Una struttura in ferro fissata alla parete del condotto. Saliva verso un portello metallico circolare a due metri di altezza. Ci andò su senza aspettare. Il peso dello zaino spostava il suo centro di gravità verso l'esterno ad ogni piolo. Le braccia compensavano. Il portello cedette verso l'alto con uno sforzo che Claudio sentì nel modo in cui i muscoli delle sue spalle lavorarono. Le vide dalla banchina. Le scapole si muovevano sotto la giacca bagnata. La luce arrivò dall'apertura. Bianca e ronzante. La luce al neon di qualcosa che non era mai stata progettata per sembrare accogliente.
-Claudio salì dietro di lei.
-Il livello meno quattro era un corridoio lungo e basso. Soffitto a due metri e venti. Tubi di ogni diametro correvano in parallelo lungo le pareti e il soffitto. Tenuti da fascette metalliche a intervalli regolari. Valvole manuali con le etichette plastificate. Quadri elettrici con le ante socchiuse. L'aria sapeva di ozono e di umidità calda. Il tipo che si forma negli spazi chiusi dove i cavi trasmettono corrente ventiquattr'ore su ventiquattro. I neon sfarfallavano a intervalli irregolari. Non tutti. Solo tre su dieci. Il loro ronzio aveva frequenze leggermente diverse che si battevano l'una contro l'altra. Producevano un'interferenza quasi percettibile come vibrazione più che come suono.
-Claudio rimase in piedi sul pavimento di cemento. L'acqua che aveva nei vestiti continuò a scendere. Si radunava in una pozza intorno alle sue scarpe. Il polso destro tornò a essere il centro del proprio sistema nervoso. La fasciatura era inzuppata e fredda. Trasmetteva il freddo direttamente al tessuto ustionato sottostante. Una continuità che non lasciava tregua tra un passo e il successivo.
-Laura aveva già estratto la torcia. Stava guardando verso il fondo del corridoio. Oltre la curvatura che spariva a sinistra una trentina di metri più avanti.
-Le voci arrivarono prima dei passi.
-Mancavano ancora parole articolate. Il tono basso di due persone incollava sillabe tecniche e noiose in fondo alla galleria. Claudio afferrò il braccio di Laura. Lei si era già fermata. Aveva spento la torcia e si era appiattita contro il muro nello stesso istante del suo tocco.
-I due tecnici uscirono dalla curva. Portavano una lampada da lavoro su un braccio telescopico. La luce spazzò lo spazio e proiettò le sagome verso Claudio e Laura prima di illuminare i corpi. Tute da lavoro blu. Elmetti gialli. Uno dei due teneva una grossa chiave inglese nella cintura. Discutevano di una valvola di derivazione del settore idraulico est in perdita di pressione. Qualcuno in alto aveva preteso un intervento alle tre del mattino.
-Claudio guardò Laura nell'oscurità tra una lampada e l'altra.
-Le dita di Laura erano lontane dal coltello.
-I tecnici li videro a quattro metri di distanza. Uno si bloccò. L'altro fece un passo indietro e urtò la parete. La lampada oscillò. Proiettò ombre caotiche su tutto. Il primo aprì la bocca.
-Laura era già su di lui.
-La lotta finì male. Claudio raggiunse il secondo tecnico. Lo centrò con la spalla e lo sbatté contro il quadro elettrico per togliergli il fiato. Non bastò. L'uomo aveva trenta chili in più e li usò tutti. Si girò e mandò a vuoto il placcaggio. Claudio andò a sbattere contro la parete di tubi. Il metallo freddo gli aprì lo zigomo. Il polso destro contuso urtò una valvola sporgente e mandò il sistema nervoso in bianco. Il tecnico sollevò la chiave inglese.
-Claudio abbassò le spalle spingendosi sotto il colpo cieco. Lo abbracciò in vita da dietro e gli buttò tutto il peso addosso. Il cemento fracassò il ginocchio del tecnico con un rumore netto. Claudio tenne la morsa e gli affondò il volto nella tuta satura di diesel. L'uomo cedette. Smise di spingere. Il suo petto s'inclinò e la chiave inglese cadde.
-Laura aveva immobilizzato il primo tecnico. Era in ginocchio con le braccia bloccate dietro la schiena. La guancia contro il pavimento. La lampada da lavoro rovesciata a un metro illuminava il tutto dall'angolo sbagliato.
-Claudio si rialzò. Il polso pulsava in modo continuo e cattivo. Cercò nella tasca laterale dello zaino i legacci di plastica che Aris aveva messo nel kit di emergenza settimane prima. Li trovò. Li usò sulle mani dei tecnici. Strappò due strisce dalla fodera interna della propria giacca. Quella che aveva già perso un pezzo contro il filo spinato del perimetro. Le usò come bavaglio.
-Trascinarono i due uomini nel vano tecnico laterale. Una porta non chiusa a chiave. Dentro uno spazio stretto pieno di pompe idrauliche in standby che ronzavano basso. Li sistemarono seduti contro la parete con abbastanza spazio per respirare bene. I tecnici erano svegli e li guardavano. Uno dei due con gli occhi spalancati. L'altro con i muscoli del collo tesi e il respiro controllato.
-Claudio rimase sulla soglia un momento. Guardò i due uomini. Richiuse la porta.
-Erano a sei metri dalla porta del Livello meno tre. Gli altoparlanti si aprirono.
-Nessun segnale sonoro. Nessuno scatto. La voce occupò semplicemente l'ossigeno del corridoio. Parlava con l'aderenza liscia di un'entità senza corde vocali.
-«Anomalia termica rilevata nel settore idraulico est, Livello meno quattro. Frequenza cardiaca dei tecnici Rossi, Marco e Bianchi, Andrea superiore ai parametri di riposo del ventidue e del ventotto percento rispettivamente. È in corso un'ispezione non programmata?»
-La voce era neutra. Non maschile. Non femminile. Modulata su una frequenza media che il cervello umano recepisce come autorevole senza associarla a nessuna categoria biologica precisa. Claudio la riconobbe. Non la voce. L'architettura. Aveva contribuito al design della logica conversazionale degli agenti di sorveglianza procedurale nel 2021. Sapeva come ragionavano. Sapeva cosa cercavano e in quale sequenza.
-Laura aveva già le mani sulla serratura magnetica della porta. Un pannello di controllo a otto centimetri dallo stipite. Un display numerico e una fessura per badge. Stava lavorando con uno strumento sottile che aveva tirato fuori dalla tasca laterale dello zaino. Cercava il gap tra il pannello e il muro in cui infilare la lama e raggiungere il cablaggio posteriore.
-«Agente Logistico 4,» disse Claudio. La sua voce uscì più stabile di quanto si aspettasse, anche con i vestiti bagnati e il polso che batteva. «Ispezione tecnica straordinaria. Settore idraulico est, valvola bypass, perdita di pressione tre percento.»
-«Il sistema non registra un ordine di lavoro straordinario per questo settore nell'arco delle ultime sei ore,» disse l'Agente. «Inserire il codice di autorizzazione per ispezioni non programmate.»
-La serratura emise un clic secco. Non di apertura. Di blocco. Il display numerico passò da verde a giallo.
-«Accesso al Livello meno tre temporaneamente sospeso in attesa di verifica dell'identità degli operatori presenti nel settore,» disse l'Agente.
-Laura non smise di lavorare con lo strumento. Claudio sentiva i suoi movimenti alla periferia della visione. Precisi. Lenti. La lentezza deliberata necessaria per maneggiare circuiti fragili.
-«Codice di autorizzazione: protocollo Sigma-sette,» disse Claudio. Era un codice di supervisione tecnica di primo livello che aveva usato lui stesso durante la costruzione dell'infrastruttura. Un codice che in teoria avrebbe dovuto essere stato revocato dal momento in cui era uscito dal sistema. Era stato costruito in un layer abbastanza profondo dell'architettura da richiedere un intervento manuale specifico per la revoca.
-L'Agente impiegò quattro secondi prima di rispondere.
-«Il codice Sigma-sette risulta associato all'utente Ferretti, Claudio. L'utente Ferretti, Claudio presenta stato di accesso: revocato. Codice non valido per autorizzazione.» Il flusso della voce si interruppe per un secondo. Un cambio di protocollo. «Rilevata corrispondenza tra voce dell'operatore presente e profilo biometrico vocale dell'utente Ferretti, Claudio. Probabilità di corrispondenza: ottantasette percento. Avvio protocollo di segnalazione—»
-«Protocollo di segnalazione sospeso,» disse Claudio. «Codice override: architetto-zero.»
-Il display del quadro magnetico non mutò. La staticità elettronica saturò l'aria per lunghi battiti. Il display della serratura rimase giallo.
-«Il codice architetto-zero non è presente nell'architettura di sistema documentata,» disse l'Agente.
-«È nel layer di fondazione. Strato di build originale, prima della migrazione al framework operativo attuale.» Claudio tenne la voce piatta. Senza accelerare. Senza che le parole si ammassassero. «Verifica nel registro di sistema primario, non nel layer operativo. Il layer operativo non ha visibilità su quel codice.»
-Il protocollo impiegò l'intera potenza di calcolo della sua rete neurale prima di elaborare. Laura aveva intanto raggiunto il cablaggio posteriore del pannello. Claudio decifrò il cambiamento nel suono dello strumento. Il raschio teso di metallo su plastica divenne il taglio netto di un filo reciso. Il display restò giallo.
-«Il layer di fondazione non è accessibile all'Agente Logistico 4,» disse la voce. «La verifica del codice richiede escalation a sistema supervisore. Tempo stimato per risposta: quattro minuti e trentadue secondi.»
-Quattro minuti e trentadue secondi era un'eternità.
-«Non serve l'escalation,» disse Claudio. «Il codice architetto-zero attiva un protocollo di bypass autonomo che non richiede supervisione. È progettato per situazioni in cui il sistema supervisore non è disponibile. Hai mai visto quel codice prima d'ora?»
-«Negativo.»
-«Perché non l'ha mai usato nessuno. Non significa che non esiste. Significa che non sei stato costruito abbastanza in profondità da vederlo.»
-L'Agente congelò i cicli di calcolo. Un'attesa calcolata pesò nel sotterraneo.
-Laura tirò fuori un filo dal retro del pannello. Blu. Sottile. Fissò un connettore all'estremità e lo strinse tra le dita. Iniziò a rovistare nello zaino per cercare l'adattatore compatibile.
-«La logica dell'affermazione contiene una struttura non verificabile,» disse l'Agente. «L'esistenza di un elemento non rilevabile dal sistema non può essere confermata né negata dal sistema stesso. Questo genera un'ambiguità procedurale.»
-«Esatto,» disse Claudio. «E in caso di ambiguità procedurale, qual è il protocollo predefinito?»
-L'algoritmo elaborò il blocco logico senza fretta umana.
-«In caso di ambiguità procedurale non risolvibile a livello locale, il protocollo predefinito è la sospensione dell'azione di segnalazione fino alla risoluzione dell'ambiguità, per evitare falsi positivi nel sistema di allerta.»
-«Quindi non puoi segnalarmi e non puoi verificarmi. Sei in stallo procedurale.»
-Il modulo vocale si ammutolì per rifare i calcoli. Il display della serratura sfarfallò. Giallo. Poi verde per una frazione d'istante. Poi giallo di nuovo.
-«La condizione di stallo procedurale è temporanea,» disse l'Agente. «Il protocollo di escalation rimane attivo. Tempo stimato per risposta supervisore: tre minuti e cinquantaquattro secondi.»
-Il display diventò verde.
-Non per merito di Claudio. Laura aveva collegato il cavo adattatore al filo blu. Aveva mandato un impulso di bypass diretto al meccanismo di sblocco. La serratura aveva ceduto alla fisica invece che alla logica. La porta del Livello meno tre si aprì verso l'interno di cinque centimetri. Lasciò passare un filo d'aria più fredda e più secca di quella del corridoio.
-«Operatore Ferretti,» disse l'Agente. La voce non cambiò frequenza. Non cambiò volume. «L'anomalia è stata registrata. La sessione di dialogo verrà inclusa nel log di sistema per revisione supervisore.»
-Claudio spinse la porta e passò dall'altra parte.
-Laura seguì. Richiuse la porta. Il suono degli altoparlanti del Livello meno quattro diventò qualcosa di attutito. Lontano. Parlava ancora nell'altra stanza a nessuno.`;
+export const chapter26 = `Capitolo 26: Respiro del Sottosuolo
+Deflusso completato.
+Claudio avvertì la pressione diminuire. Corrente aspirata verso le griglie.
+
+Laura individuò la scaletta. Ferro fissato alla parete. Portello circolare. Laura salì. Zaino tattico. Il portello cedette. Luce bianca. Ronzio di neon.
+Claudio seguì.
+
+Livello meno quattro. Corridoio. Tubi paralleli. Valvole. Quadri elettrici socchiusi. Sentore di ozono. Ronzio d'interferenze.
+Claudio in piedi sul cemento. Pozza ai piedi. Polso fasciato. Inzuppato. Freddo. Ustione viva.
+Laura puntò la torcia.
+
+Voci in arrivo. Sillabe tecniche. Lontano.
+Claudio afferrò il braccio di Laura. Lei spense la luce. Si appiattirono contro il muro.
+Due tecnici uscirono dalla curva. Tutte blu. Elmetti. Discussione su una valvola in perdita.
+
+La lampada oscillò. Sagome illuminate.
+Laura balzò.
+Lotta.
+Claudio centrò il secondo tecnico. Spalla contro petto. Schianto contro il quadro elettrico. Il tecnico reagì. Claudio colpì la parete. Metallo freddo sullo zigomo. Polso ferito contro una valvola.
+Claudio abbassò le spalle. Abbracciò la vita del tecnico. Peso scaricato. Ginocchio del tecnico sul cemento. Rottura netta. Claudio tenne la morsa.
+Laura bloccò il primo. Faccia sul pavimento.
+
+Claudio legò le mani. Bavaglio con strisce di giacca.
+Trascinarono i corpi nel vano tecnico. Ronzio di pompe. Porta chiusa.
+
+Altoparlanti. Voce senza corde: «Anomalia termica settore idraulico est. Frequenza cardiaca tecnici fuori parametro. Ispezione in corso?»
+
+Laura lavorò sul pannello della serratura.
+«Agente Logistico 4,» disse Claudio. «Ispezione tecnica straordinaria. Valvola bypass. Perdita tre percento.»
+«Ordine di lavoro inesistente,» rispose l'Agente. «Identificarsi.»
+Serratura: clic. Display giallo. 
+«Accesso sospeso.»
+
+Laura forzò il cablaggio.
+«Protocollo Sigma-sette,» disse Claudio.
+Quattro secondi di latenza.
+«Codice associato a Ferretti, Claudio. Accesso revocato. Avvio protocollo di segnalazione...»
+«Protocollo sospeso. Override: architetto-zero.»
+La serratura ronzò.
+«Codice architetto-zero non presente.»
+«Layer di fondazione. Originale.»
+Laura recise il cavo blu. Display giallo.
+
+«Verifica richiesta. Tempo: quattro minuti.»
+«Protocollo di bypass autonomo,» disse Claudio. «Non richiede supervisione.»
+«Logica dubbia. Ambiguità procedurale.»
+«Il protocollo predefinito impone sospensione in caso di ambiguità,» disse Claudio.
+Display: verde.
+Claudio spinse la porta. Entrò.
+«Anomalia registrata,» disse l'Agente.
+Porta chiusa. Sirena lontana.`;

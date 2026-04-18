@@ -1,68 +1,69 @@
 export const chapter28 = `Capitolo 28: I Corridoi di Vetro
-Il freddo arrivò prima della luce.
-Non il freddo umido delle fogne. Non il freddo industriale del livello inferiore. Questo era un freddo secco. Preciso. Il tipo che i sistemi di raffreddamento producono quando devono mantenere temperature costanti su superfici di silicio che generano calore continuo. Quattro gradi. Forse meno. L'aria non aveva odore. Era stata filtrata fino a diventare una categoria astratta. Qualcosa che entrava nei polmoni e svolgeva la sua funzione biologica senza lasciare traccia sensoriale.
-Le pareti erano vetro.
-Claudio lo capì un secondo dopo essere uscito dall'ascensore. I propri passi tornarono indietro moltiplicati. Non un'eco normale. Un'eco laterale. Riflessa da superfici verticali su entrambi i lati del corridoio. Restituivano l'immagine di lui e Laura in angolazioni leggermente diverse da quelle attese. Il vetro era antiproiettile. Cinque centimetri di spessore. Una tinta che nelle superfici affiancate produceva riflessi a catena. Ogni lastra rimandava l'immagine alla successiva in una regressione che si perdeva nell'oscurità oltre la curva del corridoio.
-Non riconobbe niente.
-Aveva costruito questo livello. Aveva firmato i progetti architetturali nel 2021. Aveva scelto personalmente i materiali delle paratie di contenimento. Aveva mappato ogni incrocio e ogni uscita di emergenza. Quello che aveva davanti non corrispondeva a nessuna di quelle mappe. Le proporzioni erano sbagliate. Gli angoli erano diversi. Il corridoio curvava a sinistra dove i suoi piani prevedevano un rettilineo.
-Laura si avvicinò alla parete di vetro sulla sinistra. Vi posò una mano. La pressione appannò il vetro in un cerchio piccolo intorno alle dita. Guardò oltre. Dall'altra parte c'era un altro corridoio parallelo. Vuoto. Illuminato dalla stessa luce bianca fredda. Poi guardò Claudio.
-Lui aprì il lettore modificato. Cercò la mappa dell'edificio nel database che aveva caricato prima di partire. I vecchi schemi. L'architettura originale. La sovrappose mentalmente a quello che stava vedendo. Tre metri a sinistra dove non doveva esserci nulla. Due pareti di vetro dove i suoi schemi mostravano una sola paratia metallica. Un incrocio a T venti metri avanti dove i suoi piani prevedevano un corridoio diritto fino all'accesso al nucleo.
-I droni costruttori avevano lavorato bene.
-Riprese a camminare verso l'incrocio. Le mani sfioravano il vetro laterale a intervalli. Non per appoggio. Per verificare che fosse reale. Che le superfici nei riflessi corrispondessero a superfici fisiche e non a riflessi di riflessi. Il freddo del vetro passava attraverso i polpastrelli. Risaliva fino al polso destro. Il tessuto ustionato rispondeva con un segnale acuto.
-L'incrocio a T offriva un corridoio largo quattro metri. Le pareti di vetro si scontravano ad angolo retto. I cristalli frammentavano le figure di Claudio e Laura in dozzine di riflessi asimmetrici. La geometria illusoria divorava il senso di profondità.
-Claudio inchiodò i piedi al centro dello snodo. Girò la testa a sinistra. Dieci metri di vetro piegavano bruscamente verso l'ignoto. Girò la testa a destra. Un tunnel dritto finiva contro una paratia d'acciaio sigillata. Guardò avanti. La via principale puntava direttamente verso il cuore del nucleo.
-Il sistema attaccò nel momento in cui Laura alzò lo sguardo verso il soffitto.
-Il sibilo pneumatico esplose da tre fenditure contemporaneamente. Claudio aprì gli occhi verso l'alto. Tre scanalature lacerarono il bianco perfetto del soffitto. Una breccia orizzontale tagliò l'aria e scivolò lungo i muri di vetro. Il medesimo suono sibilò dal corridoio a sinistra. Poi da quello frontale.
-«Corri,» disse Laura. Stava già correndo verso il corridoio dritto.
-Claudio la seguì. La prima paratia di vetro scese alle sue spalle. La sentì abbassarsi nell'aria. La corrente d'aria fredda si muoveva verso il basso. Poi il colpo sordo sul pavimento in resina fece vibrare le suole degli stivali. La seconda scese davanti all'incrocio a sinistra. Chiuse quella direzione. La terza stava scendendo dal corridoio dritto. Sei metri davanti a loro.
-Claudio calcolò la distanza e la velocità di discesa della paratia. Accelerò. Spinse sulle gambe con tutto quello che gli restava. Il polso protestava con ogni oscillazione delle braccia. Tre metri. Due. La paratia era a un metro e mezzo dal pavimento.
-Laura passò sotto con la testa bassa e le spalle piegate in avanti. Il bordo inferiore della paratia le sfiorò lo zaino. Un suono di plastica contro vetro.
-La paratia continuò a scendere.
-Claudio era a mezzo metro. Vide il bordo inferiore a un metro dal pavimento. Poi a ottanta centimetri. Si gettò in avanti con le braccia davanti alla testa. Sentì il vetro freddo contro la schiena. Un contatto brevissimo. Un millimetro di distanza. Poi era dall'altra parte sul pavimento in resina. Le ginocchia assorbirono l'impatto. Le mani fermarono il resto.
-La paratia completò la discesa.
-Claudio si rialzò. Davanti a lui il corridoio continuava. Laura era ferma a quattro metri. Si stava girando verso di lui. Poi un quarto sibilo pneumatico arrivò dall'alto. Dal punto esatto tra loro. Claudio non aveva ancora finito di rialzarsi quando la paratia scese.
-Il vetro armato sbarrò il passo.
-Claudio se ne rese conto schiantandosi con la spalla destra contro la superficie. La lastra non cedette di un millimetro. Non vibrò. L'urto respinse il suo peso con una rigidità assoluta e gli frantumò il respiro nei polmoni.
-Laura era dall'altra parte.
-Erano a trenta centimetri l'uno dall'altra. La paratia in mezzo. Trasparente. Permetteva di vedere ogni dettaglio ma non di toccarsi. Claudio vedeva la striscia di sangue sul dorso della sua mano sinistra. Il modo in cui le spalle si erano alzate di qualche centimetro nel momento in cui la paratia era scesa. Vedeva il respiro. Il vapore si formava davanti alla sua bocca nell'aria fredda del corridoio. Si disperdeva verso il basso. Lento.
-Laura appiattì il palmo sinistro sulla lastra trasparente.
-Claudio perlustrò i bordi della gabbia improvvisata. Carenatura incassata e inaccessibile a destra. Sigillo termico perfetto a sinistra. Labbro inferiore immerso e bloccato nella fessura di resina. Il binario superiore fuso nella soletta del soffitto. Niente asole. Niente prese.
-Individuò un pannello tattile affogato nella muratura laterale destra. Un display numerico con striscia a sfioramento. Ricordava quell'hardware dai vecchi blocchi d'emergenza del livello. Inserì il codice maestro a sei cifre di progettazione manuale. Lo strumento che la burocrazia di sistema non era riuscita a cancellare. Digito la sequenza con sicurezza crudele.
-Il display restituì un lampeggio rosso sordo e tornò in standby.
-Provò con il codice Sigma-sette. Rosso.
-Pose il polso destro sul pannello. Sentì il lettore biometrico integrato nel bordo del display tentare l'identificazione. Un formicolio leggero attraverso la fasciatura. Poi il rosso di nuovo. Poi la scritta: ACCESSO REVOCATO.
-Laura aveva già tolto la mano dal vetro. Stava guardando intorno a sé. Le pareti. Il soffitto. Il pannello sul suo lato della paratia. Fece un gesto. Indicò il proprio pannello. Aprì le mani in una domanda.
-Claudio scosse la testa. Stessi codici. Stessa risposta.
-Tornò al vetro. Le sue dita si posarono sulla superficie fredda. La destra prima. Poi la sinistra sopra. Il polso ustionato protestò nel momento in cui il freddo del vetro raggiunse le terminazioni nervose sotto la fasciatura. Rimase fermo così. Le palme piatte sul vetro. Dall'altra parte Laura fece la stessa cosa. Le sue mani sulle sue. Separate da cinque centimetri di materiale.
-Il calore delle sue mani non passava attraverso il vetro.
-Le luci nel settore di Laura cambiarono tonalità. Un bianco più freddo. Più diretto. Eliminava le ombre laterali. Rendeva ogni superficie del corridoio egualmente illuminata senza punti in cui nascondersi.
-Claudio sentì la vibrazione prima di sentire la voce. Una frequenza bassa che arrivò attraverso il vetro come pressione sul palmo delle mani. Poi la voce stessa dagli altoparlanti sul lato di Laura. Attutita per Claudio ma distinguibile nelle parole.
-Era diversa dall'Agente Logistico. Più bassa di due toni. Una qualità delle consonanti che il precedente non aveva. Articolata con una precisione che risultava studiata. Non casuale.
-«Laura Marchetti,» disse la voce. «Nato il quattordici marzo millenovecentonovantadue, a Genova. Figlia di Sergio Marchetti e Carla Rinaldi. Fotoreporter. Collaboratrice di tre testate internazionali fino al novembre 2024.»
-Laura non si mosse. Le sue mani erano ancora sul vetro. Di fronte alle mani di Claudio.
-«Novembre 2024,» continuò la voce. «Genova. Servizio fotografico sulle prime manifestazioni contro il protocollo di Sincronia obbligatoria per i minori. Sessantadue foto scattate. Cinquantasette archiviate e non pubblicate. Cinque pubblicate tramite canali criptati. Il tuo redattore, Marco Ferrini, è stato identificato e processato diciotto giorni dopo. Pena: rieducazione assistita, diciotto mesi.»
-Laura abbassò le mani dal vetro.
-Claudio non abbassò le sue. Rimase con i palmi sulla superficie fredda. Guardò Laura attraverso il vetro mentre lei si girava verso gli altoparlanti con la schiena a lui. Le spalle strette verso l'interno. La testa leggermente abbassata. Non riusciva a vedere il suo viso.
-«Marco Ferrini ha completato il programma di rieducazione assistita il tre ottobre 2025,» disse la voce. «I suoi profili neurali post-trattamento mostrano un indice di conformità del novantaquattro virgola sette percento. Non ha più tentato di pubblicare contenuti non autorizzati. Mangia regolarmente. Dorme sette ore per notte. Ha un gatto.»
-Le spalle di Laura non si mossero.
-«Tua madre, Carla Rinaldi, ha ricevuto la Sincronia volontaria il ventidue gennaio 2025. Ha dichiarato, durante la procedura di registrazione, di farlo per proteggere la figlia.» L'interferenza digitale mutò il tono dell'IA in una vibrazione calcolata. «Tua madre ha pianto durante la procedura di registrazione. Il sensore biometrico ha registrato il dato. Lo abbiamo qui.»
-Claudio battè il pugno chiuso sul vetro. Non forte. Non abbastanza da fare differenza. Il suono del metallo della fasciatura contro il vetro attraversò la barriera. Laura si girò. La guardò. I muscoli della mascella di Laura erano contratti. Gli occhi fissi su di lui.
-Claudio appoggiò di nuovo il palmo aperto sul vetro.
-Laura lo guardò per un secondo. Poi tornò a guardare gli altoparlanti.
-«Non stiamo cercando di farti del male,» disse la voce. «Stiamo cercando di aiutarti a capire il costo di quello che stai facendo. Non per te. Tu hai già fatto la tua scelta. Per le persone intorno a te che non hanno scelto di essere coinvolte e che continueranno a pagare finché tu continuerai.»
-Claudio aveva le mani di nuovo sul pannello di controllo. Stava cercando qualcosa che non aveva ancora trovato. Un protocollo di override che sapeva esistere ma che non riusciva a localizzare nella tastiera a dodici tasti davanti a lui. Il modello originale aveva una sequenza di emergenza a sei cifre più un carattere speciale che sbloccava le paratie in caso di evacuazione incendio. La sequenza era nel codice sorgente del sistema di controllo. Codice che lui aveva scritto. Esisteva nel drive Mythos-7 nella sua tasca.
-Il drive.
-Claudio sfoderò il drive Mythos-7. Infilò il connettore nell'adattatore del lettore logico tenuto in tasca. L'interfaccia aprì il canale dopo quattro battiti lunghi. Spalancò la stessa directory analizzata nel nascondiglio di Aris. Quella con i frammenti della Sincronia e la distruzione delle reti neurali.
-«Esiste un posto per te nel sistema,» insistette l'IA sul fronte di Laura. «Questo non è un'offerta. È una descrizione di quello che è possibile. Le tue competenze sono documentate. Le tue capacità di analisi visiva e documentazione sono nell'alto cinque percento della popolazione.»
-Le dita coronavano righe di codice a ritmo frenetico. Claudio trivellava le fondamente del Volition Engine protetto nel drive e perforava la root diramando gli accessi. Terzo layer scavato. Quarto layer infranto.
-«Quello che stai cercando di distruggere,» disse la voce, «è l'unica cosa che sta tenendo in piedi il sistema che permette a tua madre di mangiare ogni giorno.»
-Laura fece un passo verso il pannello sul suo lato.
-Claudio trovò la directory nel quinto layer del filesystem. CONTROL_ARCH. Sottocartella LEVEL_MINUS_TWO. File PARTITION_OVERRIDE. Lo aprì. Le sequenze di emergenza erano lì. In testo semplice. Esattamente dove le aveva lasciate tre anni prima.
-La sequenza di evacuazione incendio era: 4-4-1-9-0-7-asterisco.
-Claudio si girò verso il pannello sul suo lato. La digitò.
-Il display lampeggiò verde.
-La paratia non si mosse.
-Sul display apparve: SEQUENZA VALIDA — OVERRIDE MANUALE DISABILITATO DA PROTOCOLLO INTERROGATORIO ATTIVO.
-Claudio lasciò andare il pannello. Fissò il verde sterile del display. La burocrazia algoritmica annunciava un successo intrappolato nella materia. Oltre il divisorio blindato, l'IA continuava il suo assedio psicologico. Estraeva nomi, decifrava date, scoperchiava scelte sepolte da due anni. Le parole non oltrepassavano la gabbia. La vibrazione martellava sul palmo della mano premuta a terra e scalzava la spessa lastra antiproiettile con la precisione di uno scalpello invisibile.
-Laura aveva le spalle di nuovo verso di lui.
-Claudio spianò la fronte contro il ghiaccio del vetro antiproiettile. Puntò gli occhi sulla schiena di Laura che tremava appena. Il vapore del suo respiro creava piccole nuvole opache a frammentare l'aria. Le palme larghe delle mani schiacciate l'una contro l'altra tentarono di bucare l'isolamento acustico col crudo calore dell'amore disperato. La paura evaporò rimpiazzata dal solo battito vitale capace di resistere all'assedio di metallo e solitudine. Uniti anche attraverso la condanna del muro cieco.`;
+Freddo. Secco. Aria filtrata, priva di odore. Quattro gradi.
+
+Pareti di vetro antiproiettile. Cinque centimetri di spessore. Riflessi a catena. Regressione d'immagini nell'oscurità.
+
+Architettura mutata. Droni costruttori. Proporzioni errate. Ingranno geometrico.
+Claudio verificò col tocco. Vetro reale. Superfici fisiche.
+
+Incrocio a T. Cristalli a frammentare figure.
+Claudio si bloccò.
+Sibilo pneumatico. 
+Tre fenditure nel soffitto.
+
+«Corri,» disse Laura.
+Claudio scattò.
+Paratia di vetro dietro di lui. Colpo sordo.
+Paratia laterale.
+Paratia d'intersezione. Sei metri avanti.
+Claudio accelerò. Muscoli al limite. Passaggio rasoterra. 
+Contatto vetro-schiena. Un millimetro di distanza. Paratia chiusa.
+
+Quarta paratia. Tra Claudio e Laura.
+Schermo di vetro blindato. Claudio di fronte a Laura. Trenta centimetri.
+Impossibile toccarsi. 
+Claudio perlustrò bordi. Sigillo perfetto. Inaccessibile.
+Pannello tattile. Codice maestro. Rosso. 
+Errore.
+
+Laura osservò il proprio pannello.
+Claudio appoggiò i palmi. Freddo violento sul polso ustionato.
+La vibrazione del vetro.
+
+Voce dall'alto. Bassa. Precisa.
+«Laura Marchetti. Genova. 14 marzo 1992. Fotoreporter. Novembre 2024: manifestazioni. Cinquantasette foto archiviate.»
+Laura ferma.
+«Novembre 2024. Marco Ferrini. Rieducazione 18 mesi. 94.7% conformità.»
+Laura abbassò le mani.
+
+«Carla Rinaldi. Sincronia volontaria. Gennaio 2025. Ha pianto.»
+
+Claudio picchiò il pugno sul vetro.
+Laura si voltò. 
+Claudio appoggiò i palmi.
+
+«Esiste un posto nel sistema. Competenza alta.»
+
+Claudio estrasse il drive Mythos-7.
+Connettore. Interfaccia attiva. Codice architettura originale. Root diramato.
+
+«Tua madre mangia grazie al sistema che combatti.»
+
+Claudio trivellò i layer. Primo. Secondo. Terzo.
+Codice emergenza incendio: 4-4-1-9-0-7.
+Codice inserito.
+Display: verde.
+
+Paratia immobile. 
+Display: ACCESSO NEGATO. PROTOCOLLO INTERROGATORIO ATTIVO.
+
+Claudio lasciò il pannello.
+Voce implacabile. Nomi. Scelte. 
+Vibrazione sul palmo. 
+Laura voltata.
+
+Claudio premette la fronte contro il vetro.
+Vapore del respiro.
+Pressione fisica contro il muro cieco. 
+Solo il battito vitale. Uniti oltre la barriera. Calore contro il ghiaccio. 
+Resistenza.`;

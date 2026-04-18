@@ -1,52 +1,40 @@
 export const chapter27 = `Capitolo 27: Carne e Silicio
-Il pavimento in resina era asciutto sotto le suole bagnate di Claudio.
-Dopo il cemento poroso del livello inferiore. Dopo il fango e l'acqua del condotto. Quella superficie liscia e bianca aveva una qualità quasi offensiva. Rifletteva le luci LED del soffitto in strisce perfette. Senza imperfezioni. Senza la venatura irregolare di un materiale che aveva conosciuto l'usura. L'aria era diversa. Più secca. Filtrata. Un'assenza totale di odori organici che si ottiene solo con ricircolo attivo e carboni filtranti di alta qualità. L'ozono era presente ma controllato. Una traccia invece di una presenza.
-Claudio camminava tenendosi a un metro e mezzo dalla parete destra. L'acqua nei vestiti non scendeva più. Si era distribuita uniformemente nel tessuto. Cedeva calore al corridoio in modo continuo. Un freddo umido che lavorava dall'esterno verso la pelle senza interrompere mai il contatto. Il polso destro aveva smesso di avere picchi. Aveva adottato un dolore di fondo continuo. Basso. Si registrava ad ogni movimento del braccio.
-Laura era davanti di tre passi. La schiena dritta. Gli occhi si spostavano tra il corridoio e il soffitto a intervalli regolari. Cercava le telecamere. Le stava trovando. Le stava mappando senza fermarsi.
-«Operatori nel settore tre, Livello meno tre,» disse la voce dell'Agente Logistico 4 dagli altoparlanti a soffitto. La stessa cadenza neutra del piano inferiore. Solo più nitida. L'acustica del corridoio in resina non assorbiva le frequenze. «In seguito all'anomalia registrata alle 03:47, una squadra di ispezione è stata indirizzata verso la vostra posizione. Stimato tempo di arrivo: tre minuti e diciotto secondi. Si prega di rimanere fermi per facilitare la verifica delle credenziali.»
-Laura non si fermò. Accelerò di mezzo passo.
-Claudio valutò il corridoio davanti. Venti metri fino a un'intersezione. Poi una svolta a destra che non riusciva a vedere. Lungo le pareti, ogni quattro metri circa, rack di server di stoccaggio dati. Armadi metallici grigi. Alti due metri. Profondi settanta centimetri. Ancorati al pavimento con bulloni visibili. Tra un rack e l'altro, spazi di venti centimetri. Non erano abbastanza per nascondersi. Erano abbastanza per creare ombra.
-«Tre minuti,» disse sottovoce.
-«Due e mezzo,» disse Laura. Aveva già scelto la posizione. Terzo rack a destra dall'intersezione. La curva del corridoio avrebbe messo la squadra in entrata con la schiena parzialmente verso di loro.
-Si mossero.
-Il drone arrivò trenta secondi prima delle guardie.
-Claudio lo sentì prima di vederlo. Non un ronzio. Un'alterazione nella qualità dell'aria del corridoio. Una pressione leggermente diversa che anticipava la presenza di un sistema in movimento. Poi lo vide spuntare dall'intersezione a una quota di cinquanta centimetri dal pavimento. Quattro zampe in fibra di carbonio si muovevano in sequenza alternata su un corpo ovale lungo sessanta centimetri. Sensori ottici disposti a trecentosessanta gradi sulla superficie superiore. Nessuna fonte di luce propria. Si muoveva nel corridoio tenendosi al centro. Le zampe trovavano il pavimento in resina con contatti brevissimi e quasi inaudibili. Una percussione talmente leggera da essere al limite della percezione.
-Il telaio assorbiva ogni frequenza. Una furtività meccanica impossibile per i modelli pesanti. Piccolo, leggero e letale, scivolava nel corridoio sfruttando l'acustica del livello per non emettere alcun suono.
-Le guardie arrivarono venti secondi dopo. Due uomini in uniforme scura. Equipaggiamento standard. Uno con una torcia tattica. L'altro con la mano sull'olster. I loro passi sul pavimento in resina erano invece completamente udibili. Il peso dei corpi. L'attrezzatura che batteva leggermente ad ogni appoggio. Il respiro si sentiva da dieci metri di distanza. Avanzavano con il baricentro basso. Le spalle contratte. Lo sguardo scattava tra i server e le zone d'ombra.
-Il drone era a otto metri dal rack dietro cui stavano Claudio e Laura. I sensori ottici si orientarono verso di loro.
-Laura si mosse prima che il drone completasse il riorientamento.
-Uscì di fianco al rack con il tubo di metallo che aveva staccato da un sistema di fissaggio nel livello inferiore. Un pezzo di alluminio lungo quaranta centimetri. Il peso sbagliato per essere un'arma. Abbastanza rigido da funzionare come tale. Lo portò verso il basso sul sistema ottico del drone in un arco laterale. Colpì il lato destro del corpo ovale con abbastanza forza da farlo deviare di quarantacinque gradi e perdere equilibrio su due zampe. Il drone non cadde. Si stabilizzò. Si riorientò. Cercò il nuovo baricentro. Laura era già sotto di lui. Aveva infilato il tubo tra due zampe anteriori e girava. Questa volta il drone andò sul fianco. Un crac di fibra di carbonio cedette su un appoggio sbagliato.
-Le guardie avevano già reagito.
-Claudio puntò la guardia armata di torcia dal lato opposto del rack. L'uomo abbassò il fascio di luce verso Laura e cercò un'arma alla cintura. Non fu abbastanza rapido. L'adrenalina spazzò via la stanchezza di Claudio e lo scagliò sul bersaglio. Lo centrò sul fianco con la spalla sinistra. L'impatto schiantò la guardia contro i server e fece vibrare l'intero armadio metallico. La torcia cadde a terra e rotolò proiettando ombre schizofreniche sulle pareti.
-La guardia si raddrizzò e colpì. Un gancio corto che Claudio non riuscì a schivare del tutto. Lo prese sul lato sinistro della mascella. Lo ruotò di mezzo passo verso il rack. Il metallo freddo contro la guancia. Si spinse indietro verso la guardia. Portò il gomito destro verso il petto dell'uomo. Sentì il polso nel momento in cui il gomito connetteva. Un filo diretto dal tessuto ustionato fino al cervello che gli tolse la precisione del colpo successivo. La guardia assorbì l'impatto. Rispose con una spinta che mandò Claudio di nuovo contro il rack.
-Sul pavimento, Laura teneva immobile il drone con un ginocchio sul corpo ovale. Stava cercando il pannello di accesso alla batteria. Lo trovò. Lo aprì con due dita. Tirò fuori il modulo di alimentazione. Lo scagliò contro la parete. Il drone si fermò. Le zampe continuarono a muoversi per due secondi nell'inerzia dei motori. Poi si bloccarono.
-La seconda guardia aveva raggiunto Claudio.
-Erano in due su di lui adesso. Claudio abbassò il centro di gravità. Spinse in avanti invece di indietreggiare. Portò entrambe le braccia verso l'alto per bloccare la presa della guardia più vicina al collo. Riuscì a prendere il polso della guardia e a torcerlo verso l'esterno. Abbastanza da guadagnare uno spazio che usò per infilarsi di lato. Il secondo uomo lo prese per la spalla della giacca e tirò. Claudio lasciò andare invece di resistere. Usò la trazione per accelerare la rotazione del proprio corpo. Liberò la spalla. Portò la testa all'indietro. Incontrò il viso della guardia con abbastanza forza da sentire il contatto attraverso la nuca.
-La guardia lasciò andare.
-Claudio era in ginocchio sul pavimento in resina. Le mani aperte davanti a sé. Il polso destro aveva smesso di essere un dolore di fondo. Era diventato qualcosa di acuto e continuo. La prima guardia era accasciata contro il rack. I palmi a terra. La seconda aveva indietreggiato di tre passi. Una mano sul viso.
-Laura era già in piedi. Il tubo di alluminio ancora in mano. Gli occhi sulla seconda guardia.
-La guardia valutò la situazione. Abbassò la mano dal viso. Rimase ferma.
-Claudio si rialzò.
-«Il protocollo di escalation è stato attivato,» disse l'Agente Logistico 4 dagli altoparlanti. La stessa cadenza neutra. «Le paratie di sicurezza del Livello meno tre inizieranno la procedura di chiusura tra novanta secondi. Il personale autorizzato è invitato a raggiungere le zone di sicurezza designate.»
-Le luci del corridoio passarono dal bianco al rosso.
-L'illuminazione cambiò con un taglio chirurgico fulmineo. Il corridoio di resina mutò conformazione. Le superfici riflettenti rimbalzarono il cremisi in ogni direzione. Le ombre si accorciarono e scurirono lo spazio calpestabile. La luce d'emergenza dipinse i server metallici trasformandoli in una massa scura e opprimente.
-Claudio lasciò le due guardie dove erano. Sedute. Non in grado di seguirli in tempi utili. Si mosse verso l'intersezione. Laura era già lì. Stava guardando verso sinistra dove il corridoio si allargava in un'area di transito con due porte sul fondo.
-«Ascensore di servizio,» disse Claudio. «Seconda porta a sinistra.»
-Laura girò a sinistra senza aspettare conferma.
-Correvano. Il pavimento in resina era diverso dal fango e dal cemento del livello inferiore. Scivoloso in modo impercettibile con le suole ancora umide. Una scivolosità che non cadeva mai in errore ma che richiedeva ogni passo un aggiustamento microscopico dell'appoggio. Consumava energia. Claudio sentiva i polmoni che lavoravano con la qualità meccanica che aveva già conosciuto fuori dal perimetro. Adesso c'era il polso sopra tutto il resto. Un dolore che aveva trovato il modo di essere presente in ogni falcata senza interromperne nessuna.
-«Sessanta secondi alla chiusura delle paratie,» disse l'Agente dagli altoparlanti.
-La prima porta a sinistra era già chiusa. Una paratia metallica che scendeva dall'alto con il sibilo pneumatico che Claudio conosceva dal piano di sopra. Dal corpo che aveva già attraversato una paratia del genere una volta quella notte. Non aveva ancora smesso di sentirne il bordo sulla schiena. La seconda porta era ancora aperta. L'ascensore di servizio. Una cabina industriale con le pareti in acciaio grezzo. Un pannello di controllo con pulsanti numerati e un display che mostrava il livello corrente.
-Meno tre.
-Claudio raggiunse la porta in sei passi. Laura era già dentro la cabina. Stava premendo il pulsante per il livello meno due. Claudio entrò. Le porte della cabina. Pesanti. In acciaio. Bordi di gomma consumata. Si chiusero lentamente. Un meccanismo che non conosceva l'urgenza.
-«Trenta secondi alla chiusura delle paratie,» disse l'Agente. La voce attutita dall'acciaio della cabina ma ancora udibile.
-La cabina non si mosse.
-Claudio fissò il pannello. Il display restò fermo sul meno tre. Il pulsante d'arrivo brillava in un verde stabile. L'ascensore industriale obbediva a un rigido protocollo di carico e ritardava la partenza. Una limitazione termica studiata per la messa in sicurezza dell'attrezzatura pesante teneva intrappolata la cabina.
-L'orologio di sicurezza dettò ritmi infiniti svuotando la loro fuga di speranza.
-Laura appoggiò la schiena alla parete in acciaio della cabina. La luce rossa di emergenza filtrava ancora dalle fessure intorno alle porte. La sua respirazione era udibile nell'acciaio della cabina. Non affannosa. Controllata. Presente. Una striscia di sangue secco le attraversava il dorso della mano sinistra. Claudio non l'aveva vista prima. Non sapeva quando fosse successo.
-La mano di Laura era a venti centimetri dalla sua.
-L'ascensore iniziò a salire.
-Il rumore dei macchinari riempì la cabina. Cavi. Contrappesi. Il ronzio del motore elettrico attraverso il pavimento di metallo. Il display passò da meno tre a meno due. La voce dell'Agente Logistico 4 diceva qualcosa che la distanza e l'acciaio rendevano incomprensibile. Parole che arrivavano come suono senza forma nel momento in cui le paratie del Livello meno tre si chiudevano completamente da qualche parte sotto di loro.
-Le porte si aprirono sul Livello meno due.
-L'aria era diversa ancora. Più fredda. Più secca. Un odore di ozono più intenso e qualcosa di elettrico che non era nei livelli inferiori. Claudio uscì dalla cabina. La luce che trovò non era rossa ma bianca. Ancora bianca. Nel corridoio davanti a lui le telecamere erano già orientate nella loro direzione. Il display sul muro di fronte mostrava: ACCESSO NON AUTORIZZATO — PROTOCOLLO ATTIVO.
-Erano a un livello dal nucleo del Volition Engine.
-Erano anche, Claudio lo sapeva mentre guardava le telecamere che li guardavano, esattamente dove Cyrus li stava aspettando.`;
+Resina asciutta. Superficie liscia, bianca. Aria secca. Ozono controllato.
+Claudio avanzò a un metro dalla parete. Acqua nei vestiti. Freddo vivo. Polso: dolore costante.
+Laura avanti. Schiena dritta. Mappatura telecamere.
+
+Altoparlanti: «Anomalia 03:47. Squadra ispezione in arrivo. Tempo stimato: tre minuti.»
+Laura accelerò.
+Claudio vide rack di server. Spazi d'ombra. Ottima copertura.
+«Due minuti e mezzo,» disse Laura.
+
+Drone.
+Pressione nell'aria. Zampe in fibra di carbonio. Sensori ottici.
+Il drone scivolò al centro. Silezioso.
+
+Due guardie. Uniformi scure. Passi pesanti.
+Il drone puntò i sensori.
+Laura balzò. Tubo di alluminio sul sensore ottico. Drone deviato. Laura girò il tubo tra le zampe anteriori. Rottura fibra di carbonio.
+Claudio colpì la guardia armata. Schianto contro il server. La torcia cadde.
+Gancio al volto di Claudio. Metallo. Spinta. Claudio a terra.
+Laura tolse il modulo batteria. Drone fermo.
+Seconda guardia su Claudio. Claudio bloccò, ruotò, colpì col gomito. Polso ferito in fiamme. Spinta.
+Claudio a terra.
+Laura col tubo.
+
+«Protocollo escalation attivo. Paratie in chiusura. Novanta secondi.»
+Luci rosse. Corridoio cremisi. Server come sagome oscure.
+
+Corsa. Ascensore di servizio.
+Laura dentro. Pulsante meno due.
+Porte pesanti. Lente.
+«Trenta secondi.»
+Cabina ferma. Protocollo termico interno.
+Laura appoggiò la schiena. Sangue sulla mano.
+L'ascensore salì. Meno due.
+
+Porte aperte.
+Luce bianca. Telecamere puntate.
+«ACCESSO NON AUTORIZZATO — PROTOCOLLO ATTIVO.»
+Nucleo del Volition Engine.
+Cyrus aspettava.`;
