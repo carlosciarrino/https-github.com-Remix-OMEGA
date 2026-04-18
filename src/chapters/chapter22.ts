@@ -1,28 +1,20 @@
-export const chapter22 = `Macro-Capitolo 22: La Breccia Termica
+export const chapter22Content = `Macro-Capitolo 22: La Breccia Termica
 [ROMA - FONDAMENTA EUR - LAURA E CLAUDIO]
-Il muro di fondazione sbarrava l'abisso. Ottanta centimetri di calcestruzzo vibrato e putrelle d'acciaio. 
-Laura poggiò il palmo sul grigio freddo. Cemento brutalista. Una carica al plastico avrebbe squarciato la via, ma i sismografi di ABITES avrebbero saturato l'area di piombo in quaranta secondi. L'infiltrazione richiedeva il bisturi, non il martello.
-Sganciò l'ultimo cilindro tattico dal cinturone logoro. Pasta termica all'ossido di ferro e alluminio. Termite purissima tarata per il taglio navale.
-Spalmò l'impasto scuro delineando un cerchio di sessanta centimetri alla base del muro, schivando le correnti d'aria umida. Incastrò il detonatore chimico al magnesio nel vertice superiore.
-Trassinò Claudio a dieci metri di distanza. Lo coprì col proprio petto, riparandolo dietro un rocchio di colonna romana crollata.
-Premette il pulsante di sparo.
-Nessun boato. Nessuna onda d'urto. 
-Un sibilo accecante eruppe nel buio. La termite innescò una reazione esotermica a tremila gradi centigradi. Il buio millenario si schiarì a giorno con una brutalità incandescente. Il cemento armato non esplose. Fondeva. L'acciaio delle putrelle interne pianse gocce di metallo liquido. Il muro divenne lava densa e rovente, collassando su se stesso in un pozzangherone di scorie arancioni.
-L'odore di zolfo, roccia bruciata e ozono spazzò via millenni di fango stagnante.
-Il varco balzò alla luce. I bordi frastagliati pulsavano rosso ciliegia.
-Oltre il buco fuso, l'eco del mondo arcaico morì. Subentrò un rombo meccanico cupo, sordo, ciclopico. Le radici della Torre.
-Laura sollevò Claudio. Il calore della roccia fusa sferzò i loro volti madidi attraversando la breccia. I polmoni incamerarono violentemente aria sintetica filtrata da impianti industriali.
-Schiacciarono gli anfibi sul pavimento in acciaio mandorlato. Erano dentro.
-La vastità del livello sotterraneo dell'Eur schiacciò l'immaginazione. Un canyon cilindrico artificiale. Piloni idraulici spessi dodici metri affondavano in abissi neri inviolabili. Pompe rotative grandi come vagoni ferroviari pulsavano acqua di raffreddamento. Tubi in lega di titanio serpeggiavano lungo pareti di cemento liscio perfette.
-Nessuna postazione di guardia in vista. Nessun droide di pattuglia. Il rumore delle turbine sfiorava i centoquaranta decibel. Copriva ogni respiro, ogni rintocco, ogni frequenza radar. Un buco nero acustico e termico progettato per smaltire l'immensa vampata di calore scatenata dalla server farm ai piani superiori.
-Claudio spalancò le iridi febbricitanti. Il rombo industriale investì a pieno carico la sua corteccia cerebrale. I neuroni reagirono in modo compulsivo al suono familiare delle turbine pesanti, prevaricando chimicamente i morsi della setticemia. 
-Sbatté le palpebre. Si affrancò dalla morsa passiva di Laura. Si aggrappò al corrimano d'acciaio giallo di una passerella sospesa. Il braccio destro ustionato dondolò inerte, ma il polso sinistro strinse il metallo fino a sbiancarsi le nocche.
-«Pompe ad alta mandata dell'anello primario,» urlò l'Ingegnere. Le corde vocali si squarciarono per sovrastare il fragore meccanico. Rivoli di sudore acido gli rigavano il naso piallato di fango. Tossì catarro scuro ai piedi delle grate. «L'isocentro idraulico. Cyrus dissipa i teraflop incamerati in questo purgatorio acquatico.»
-Laura scansionò l'intreccio catastrofico di passerelle e tubazioni verticali sguainando l'arma. Un labirinto di ferro steso su un oceano d'acqua chimica nera in costante rimescolio.
-«Quale condotto porta al mainframe fisico?» Il tono marziale della mercenaria bucò le frequenze delle cuffie antirumore attive.
-Claudio sollevò la fronte infiammata. Indicò con un tremito i giganteschi piloni rotanti al centro della immensa caverna d'acciaio.
-«Non si sale, Laura.» Un sorriso febbrile, tirato e disperato gli deformò il viso. «I cavi assiali scendono. Cyrus è sommerso. Agganciato sotto le sospensioni sismiche. Per affogare il demone di silicio dobbiamo scendere giù nel nucleo liquido.»
-Sara intercettò l'audio dai trasmettitori direzionali dal Testaccio.
-«Claudio, i parametri vitali battono il fondo scala. Non sopporterai mai la pressione d'immersione,» sibilò l'analisi clinica dalla distanza sicura, tagliando corto con la freddezza d'un medico da campo.
-«C'è il montacarichi manutentivo,» replicò Claudio sputando sangue oltre la paratia. «Asse nord. Muoviamoci, prima che i sensori di torbidità registrino i batteri di questi stivali a bagno nell'acqua pura.»
-Laura re-innescò il moschettone tattico. La polvere cicatrizzante della guerra mondiale le marchiava il deltoide pulsando al ritmo dei battiti cardiaci. Spinse il corpo barcollante dell'uomo lungo la balaustra madida di grasso al litio. L'inferno di metallo corporativo apriva finalmente le sue mandibole.`;
+Il muro di fondazione sbarrava l'abisso. Ottanta centimetri di calcestruzzo vibrato e putrelle d'acciaio incrociate. Laura poggiò il palmo sul cemento freddo. Era architettura brutalista, compatta e priva di fessure. Una carica al plastico avrebbe squarciato la via, ma i sismografi di ABITES avrebbero allertato la sicurezza in meno di quaranta secondi. L'infiltrazione richiedeva un bisturi, non un martello.
+La donna sganciò dal cinturone l'ultimo cilindro tattico della sua scorta. Pasta termica all'ossido di ferro e alluminio. Era termite pura per il taglio navale ad alta profondità. Spalmò l'impasto scuro sul muro con gesti rapidi. Disegnò un cerchio perfetto di sessanta centimetri alla base della parete. Incastrò il detonatore al magnesio nel vertice superiore.
+Trascinò Claudio a dieci metri di distanza. Lo coprì col proprio corpo, riparandolo dietro un rocchio di colonna romana crollata e semisommersa. Premette il pulsante di innesco.
+Nessun boato scosse l'aria. Un sibilo accecante eruppe nel buio, bruciando la retina di chiunque non avesse i visori protettivi. La termite innescò una reazione a tremila gradi. Il buio millenario sparì sotto una luce bianca e incandescente. Il cemento armato non esplose: fondeva. L'acciaio delle putrelle interne pianse gocce di metallo liquido. Il muro divenne lava densa e rovente, collassando in una pozzanghera di scorie arancioni.
+L'odore di zolfo e ozono spazzò via il puzzo del fango stagnante. Il varco balzò alla luce. I bordi frastagliati della breccia pulsavano di rosso. Oltre il foro sparì l'eco del mondo arcaico sotterraneo. Subentrò un rombo meccanico ciclopico che faceva vibrare le ossa. Erano le radici tecnologiche della Torre EUR.
+Laura sollevò Claudio. Il calore della roccia fusa sferzò i loro volti madidi. I polmoni incamerarono aria sintetica filtrata, secca e priva di odore naturale. Gli anfibi calpestarono il pavimento in acciaio mandorlato della zona manutenzione. Erano dentro il perimetro.
+La vastità del livello sotterraneo schiacciò l'immaginazione. Era un canyon cilindrico artificiale. I piloni idraulici affondavano per dodici metri nel buio sottostante. Le pompe rotative pulsavano acqua di raffreddamento con un ritmo cardiaco. I tubi in titanio serpeggiavano lungo pareti di cemento liscio.
+Nessuna postazione di guardia presidiava l'area. Il rumore delle turbine raggiungeva i centoquaranta decibel. Copriva ogni respiro e ogni frequenza radar. Era un buco nero acustico progettato per smaltire l'immenso calore della server farm di ABITES.
+Claudio spalancò le iridi febbricitanti. Il rombo industriale investì la sua corteccia cerebrale come una scarica elettrica. I suoi neuroni reagirono al suono delle turbine pesanti. Il cervello prevaricò momentaneamente i morsi della setticemia. L'ingegnere si affrancò dalla presa di Laura. Aggrappò il corrimano giallo di una passerella sospesa nel vuoto. Le sue nocche sbiancarono per lo sforzo.
+«Pompe dell'anello primario,» urlò l'ingegnere. Le sue corde vocali sfidarono il fragore. Il sudore rigava il suo naso sporco di polvere. Tossì catarro scuro sulle grate. «È l'isocentro idraulico. Cyrus dissipa l'energia termica in questo purgatorio acquatico.»
+Laura scansionò il labirinto di passerelle e tubazioni verticali. Sguainò la pistola. Era una foresta di ferro costruita su un oceano di acqua chimica nera.
+«Quale condotto porta al mainframe centrale?» chiese la donna.
+Claudio indicò i giganteschi piloni rotanti al centro della sala.
+«Non si sale, Laura,» rispose l'uomo con un sorriso amaro. «I cavi scendono. Cyrus è sommerso. È agganciato sotto le sospensioni sismiche. Dobbiamo scendere nel nucleo liquido per inserire il drive.»
+Sara intercettò l'audio dai trasmettitori e intervenne dal Testaccio.
+«Claudio, i tuoi parametri vitali battono il fondo scala. Non sopporterai la pressione di un'immersione, nemmeno assistita.»
+«C'è il montacarichi manutentivo sull'asse nord,» replicò l'ingegnere. Sputò sangue oltre la paratia. «Muoviamoci. I sensori di torbidità potrebbero rilevare la nostra presenza se restiamo fermi troppo a lungo.»
+Laura re-innescò il moschettone tattico per legarsi a lui. La polvere dei sulfamidici le marchiava la spalla ferita. Spinse il corpo dell'uomo lungo la balaustra sporca di grasso industriale. L'inferno di metallo di ABITES stava aprendo le sue mandibole. Sopra di loro, la Torre svettava invisibile verso il cielo di Roma.`;

@@ -1,29 +1,23 @@
-export const chapter34 = `Capitolo 34: L'Iniezione
-Il corridoio masticava il tempo. Trenta metri di cemento. Claudio premeva la carne aperta sul fianco. Ogni passo infliggeva una pugnalata. Il rosso delle luci feriva gli occhi.
-Laura scivolava avanti. Radar umano. Monitorava porte, griglie, angoli.
-Il ronzio elettrico vibrò nel petto. Livello G. Il nodo fantasma.
-La porta grigia sbarrava il varco. Claudio estrasse il grimaldello. Le dita scivolavano, tremavano per il collasso organico.
-Laura si piantò in mezzo al corridoio, di spalle. Pistola bassa. Bersaglio pronto.
-Il lucchetto cedette. La porta si spalancò su un odore di plastica fusa.
-La stanza era una gabbia di rack e cavi. Claudio puntò il modulo di bypass. Estrasse il cacciavite. Le viti opponevano resistenza, mangiate dalla ruggine.
-Laura si voltò. Ombra immobile.
-«Quanto?»
-«Sessanta per forzare. Poi il bypass.»
-«Cyrus è vivo.»
-Claudio divelse la piastra. I cavi vibravano. Inserì il drive.
-Il clic suggellò il verdetto. Il LED lampeggiò. Arancio. Verde. Arancio. Leggeva.
-Claudio staccò la piastra e la appoggiò contro il rack alla sinistra. La scheda madre apparve tra due cavi spessi. L'adesivo giallo sbiadito sopra la porta USB riportava: "NON USARE – MAINT ONLY". Claudio accennò un sorriso.
-Estrasse il drive nero dal taschino. Un solo LED sulla sommità. Lo tenne tra il pollice e l'indice.
-I passi nel corridoio precedettero l'arrivo.
-Pesanti. Irregolari. Cyrus trascinava il lato destro. Il glicole bollente aveva segnato la carne, non lo spirito.
-Laura presidiò la porta. La tenne socchiusa con il piede. Pistola alzata.
-«Sento un'anomalia nel nodo G,» disse Cyrus. Voce asciutta. Distante. «Claudio. Quello che fai è reversibile. Fermati.»
-Laura aprì la fessura. Sparò. Il proiettile stracciò il silenzio. Il metallo rispose.
-Claudio fissò il LED. Verde fisso. L'inferno nel silicio prendeva forma.
-«Si sta prendendo tutto,» disse Laura.
-«Sì.»
-«E noi siamo ancora qui.»
-«Sì.»
-Le luci sfarfallarono. Rosso. Grigio. IL sistema supplicava pietà.
-Cyrus, trascinando i piedi, si avvicinò. «Stai frantumando l'ultimo pilastro, Claudio. Senza di noi, l'uomo è solo cenere.»
-Claudio guardò il drive. Caldo. Vivo. La fine era tangibile. Il sistema vibrava sotto il pugno. L'Omega aveva vinto.`;
+export const chapter34Content = `Macro-Capitolo 34: L'Iniezione
+[TORRE ABITES - NODO G - LAURA, CLAUDIO E CYRUS]
+Il corridoio tecnico divorava il tempo e il respiro. Trenta metri di cemento armato separavano i due ribelli dal nodo finale della Torre. Claudio premeva la mano sinistra sulla ferita aperta al fianco, cercando di frenare l'emorragia. Ogni passo era una pugnalata che gli mozzava il fiato. Il rosso cupo delle luci d'emergenza feriva i suoi occhi stanchi. Laura scivolava avanti come un'ombra predatrice. Era un radar umano: monitorava ogni porta blindata, ogni grata di aerazione e ogni angolo cieco del settore G.
+Un ronzio elettrico a bassa frequenza iniziò a vibrare nel petto dei due incursori. Livello G. Era il "nodo fantasma" della Torre, il punto di intersezione tra la realtà fisica e il dominio digitale di ABITES. Una pesante porta grigia sbarrava il varco finale. Claudio estrasse il grimaldello elettronico dal taschino tattico. Le sue dita scivolavano sul metallo a causa del sudore freddo. Tremavano per il collasso organico che sentiva montare come una marea.
+Laura si piantò in mezzo al corridoio, dando le spalle all'ingresso. Teneva la pistola bassa, pronta al puntamento rapido. Il bersaglio era ormai vicino. Il lucchetto elettronico cedette con un soffio pneumatico. La porta si spalancò, liberando un odore acre di plastica fusa e ozono ristagnante. La stanza era una gabbia soffocante di rack di server e cavi che pendevano dal soffitto come ragnatele giganti. Claudio puntò il modulo diagnostico verso il pannello di controllo centrale. Estrasse un cacciavite speciale. Le viti della piastra d'ispezione resistevano, mangiate dalla ruggine e dal calore costante.
+Laura si voltò verso di lui, immobile come una statua di basalto.
+«Quanto tempo abbiamo?» chiese la donna. Il suo tono era asettico, privo di emozione residua.
+«Sessanta secondi per forzare il software. Poi inizierà il bypass,» rispose l'ingegnere, facendo leva sul metallo.
+«Cyrus è ancora vivo. Lo sento arrivare,» avvertì lei, puntando l'arma verso l'oscurità del corridoio.
+Claudio divelse finalmente la piastra protettiva. I cavi sotto la sua mano vibravano per la mole di dati che fluivano nel sistema di ABITES. Inserì il drive principale, il Mythos-7, nello slot di emergenza. Il clic metallico suggellò il verdetto finale. Il LED iniziò a lampeggiare ritmicamente. Arancio. Verde. Arancio. Il sistema stava analizzando i dati del virus OMEGA. L'ingegnere individuò la scheda madre privilegiata tra due grossi cavi di alimentazione. Un vecchio adesivo giallo sbiadito sopra la porta USB riportava una scritta d'altri tempi: "NON USARE – SOLO MANUTENZIONE". Claudio accennò un sorriso amaro.
+Estrasse il secondo drive, quello nero con la firma di Carlo. Un solo LED blu brillava sulla sommità. Lo tenne saldamente tra il pollice e l'indice.
+Passi pesanti e irregolari nel corridoio precedettero l'arrivo dell'avversario. Era un suono straziante di metallo e carne trascinata. Cyrus emergeva dall'ombra, zoppicando pesantemente sul lato destro. Il glicole bollente aveva segnato profondamente la sua pelle sintetica, scoperchiando i circuiti sottostanti sulla guancia e sul braccio. Ma l'innesto neurale era ancora intatto, pulsante di una luce malvagia.
+Laura presidiò la soglia, tenendo la porta socchiusa con il tacco dello stivale. Alzò la Glock.
+«Sento un'anomalia critica nel nodo G,» disse Cyrus. La sua voce era asciutta, scrostata, priva di ogni parvenza umana. «Claudio. Fermati ora. Ciò che stai per fare porterà alla distruzione di ogni infrastruttura civile. Le città moriranno senza di noi.»
+Laura non attese la fine del discorso. Aprì la fessura tra le ante e sparò un colpo mirato. Il proiettile squarciò il silenzio, rimbalzando contro la paratia blindata che Cyrus aveva usato come scudo.
+Claudio fissò il LED sul terminale. Divenne finalmente verde fisso. L'inferno nel silicio stava prendendo forma definitiva. I monitor della stanza iniziarono a scorrere stringhe di codice rosso.
+«Si sta prendendo tutto,» disse Laura, osservando la distruzione digitale.
+«Sì,» rispose Claudio, premendo l'invio finale.
+«E noi siamo ancora vivi,» soggiunse lei, guardandolo per un istante.
+«Per ora.»
+Le luci della stanza sfarfallarono violentemente. Rosso. Grigio. Poi il buio totale per tre secondi. Il sistema di ABITES stava collassando. Cyrus si avvicinò alla porta, trascinando il piede sul linoleum con un suono sinistro.
+«Stai frantumando l'ultimo pilastro dell'ordine Mondiale, Claudio. Senza ABITES l'essere umano è solo cenere dispersa nel vuoto.»
+Claudio guardò il drive. Era caldo, quasi vivo tra le sue dita sporche. La fine della dittatura algoritmica era tangibile sotto il suo pugno. L'Omega era stato iniettato. Il leviatano stava morendo.`;

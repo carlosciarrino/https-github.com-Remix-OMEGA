@@ -1,52 +1,27 @@
 export const chapter7Content = `Macro-Capitolo 7: L'Invasione Pediatrica
 [ROMA - MERCATO DEL TESTACCIO - CLAUDIO E LAURA]
-
-Il cielo di Roma schiacciava i tetti con una lastra grigia nuvolosa. La pioviggine gelida sferzava il settore 4.
-Laura marciava in testa a tre metri di distanza. Inclinò il corpo contro le folate di vento sporco. Deviò istintivamente le chiazze di luce artificiale proiettate sull'asfalto sfregiato.
-Oltre il confine est, i posti di blocco automatizzati dominavano la viabilità. Torrette armate ABITES in ciclo perpetuo sparavano fasci ottici scansionando i lineamenti termici dei civili tra i palazzi crollati.
-
-«Dobbiamo penetrare nel mercato illegale del Testaccio,» intimò Laura. Lo affiancò senza mutare il passo tattico mimetico. «I sensori termici si annebbiano contro il calore della calca umana ammassata. È l'unica finestra vitale per bucare la rete d'approvvigionamento e ricaricare il drive.»
-Claudio annuì passivamente. Le fitte acute all'addome ustionavano sotto le fasciature d'emergenza. Claudio strinse d'istinto il bavero del trench. Il blocco ruvido in lega spigolosa del Mythos-7 premette duro, proteggendo le costole rotte.
-
-I vicoli coperti del mercato li inghiottirono. Puzza d'ammoniaca, ghiaccio decomposto e tabacco scadente. Fari logori svisceravano un fiume umano frenetico di volti annientati.
-Claudio percepì la vibrazione raschiante dei droni aerei. Le lame d'acciaio strusciarono a tre metri dai tetti in lamiera arrugginita con un volo radente d'intimidazione. Laura lo urtò con la spalla calcando l'andatura decisa nel fango.
-«Tieni basso il mento,» ordinò lei, bloccandogli lo snodo del braccio in una stretta granitica e ruvida. «La scansione dell'iride ti marchierebbe in tre decimi di secondo solare.»
-
-Raggiunsero una postazione rudimentale sudicia agli antipodi nord del suk. Un uomo tozzo asportava la spina ad un grosso esemplare di siluro inquinato.
-«La merce vanta freschezza branchiale d'argine?» domandò in codice Laura battendo un credit chit di metallo sul tavolo sporco di lische.
-La risposta costò un gettone in rame escluso dai tracciamenti finanziari. Il venditore intascò omettendo di incrociare gli sguardi. «Aprite il magazzino retrostante.»
-Li sprangò isolati oltre teloni pesanti in plastica striata, lasciandoli di fronte a una centralina obsoleta collegata a batterie per camion dismessi.
-«Duecentosessanta secondi netti di corrente analogica.» La voce del macellaio raschiò dall'esterno.
-
-Claudio scaraventò il Mythos-7 nel terminale fatiscente. Con le dita infangate digitò raffiche di codici primordiali d'intrusione architetturale per ingannare i sensori del quartiere.
-«Decado la rete di controllo ottico periferica,» scandì l'ingegnere, il display verdastro riflesso sulle cicatrici. «Questo accecherà la vista biometrica d'area su sei isolati. Pochi minuti.»
-Lo schermo emise una scintilla. L'interruzione logica scattò e la luce piombò nel nero più netto.
-In strada, i led azzurri dei droni di pattuglia patirono l'ictus informativo istantaneo. Vacillarono muti e persero la tracciatura. Il panico invase la folla mercantile impaurita nel buio.
-Attraverso il muro grezzo della ressa in tumulto anarchico cieco, Claudio e Laura imbucarono un budello laterale di scolo, strusciando con le schiene contro il muro gelato per eludere le sentinelle d'assalto corporativo.
-La prigione locale della metropoli cibernetica era momentaneamente disarmata e cieca.
-
-❖ ❖ ❖
+Il cielo di Roma schiacciava i tetti dei palazzi popolari con una lastra grigia e uniforme di nuvole bituminose. Una pioviggine gelida e acida sferzava il settore 4. Laura marciava in testa con passo militare, mantenendo tre metri di distanza di sicurezza. Inclinava il corpo nerboruto contro le folate di vento sporco che risalivano il Tevere. Evitava con cura chirurgica le chiazze di luce artificiale proiettate sull'asfalto dai sensori di quota.
+Oltre il confine est del quartiere, i posti di blocco automatizzati dominavano ogni arteria della viabilità urbana. Le torrette armate di ABITES sparavano fasci ottici bluastri in un ciclo perpetuo e ipnotico. Scansionavano i lineamenti stanchi dei civili ammassati tra i palazzi crollati, alla ricerca di una qualsiasi discrepanza biometrica.
+«Dobbiamo penetrare nel cuore del mercato del Testaccio,» disse Laura, affiancandolo senza mutare il ritmo del passo. «I sensori termici di ABITES si annebbiano contro il calore eccessivo della calca umana e dei fumi di scarico. È l'unica finestra logica per ricaricare il drive senza essere intercettati.»
+Claudio annuì in silenzio. Le fitte all'addome bruciavano ferocemente sotto le fasciature ormai sature di siero. L'uomo strinse il bavero del cappotto liso. Il blocco in metallo freddo del Mythos-7 premeva contro le sue costole rotte, un peso che non poteva abbandonare.
+I vicoli coperti del mercato li inghiottirono con un abbraccio di odori pesanti. L'aria sapeva di ammoniaca, carne avariata e tabacco scadente. I fari da cantiere illuminavano un fiume umano di volti annientati dalla stasi. Claudio percepì la vibrazione profonda dei droni pesanti in sorvolo. Le lame d'acciaio strusciavano a soli tre metri dai tetti di lamiera ondulata. Era un volo d'intimidazione psicologica. Laura lo urtò con la spalla dura.
+«Tieni basso il mento, Claudio,» ordinò la donna tra i denti. Lo afferrò per il braccio sinistro con una stretta che lasciava il segno. «La scansione dell'iride ti marchierebbe in tre decimi di secondo se guardassi in alto.»
+Raggiunsero una postazione rudimentale all'estremità nord del suk. Un uomo tozzo, con le mani viola per il gelo, asportava la colonna vertebrale a un grosso pesce inquinato del fiume.
+«La merce vanta freschezza di sede oggi?» domandò Laura, usando il codice di riconoscimento. Batté un gettone di metallo pesante sul tavolo sporco di lische e sangue.
+Il venditore intascò la moneta senza mai incrociare lo sguardo dei due stranieri. «Aprite il magazzino sul retro, in fretta.»
+Li chiuse dietro spessi teloni di plastica industriale che puzzavano di muffa. Si trovarono di fronte a una vecchia centralina elettrica bypassata, collegata a tre batterie per camion in serie.
+«Avete duecentosessanta secondi di corrente rubata,» raschiò la voce del macellaio dall'esterno del locale.
+Claudio collegò immediatamente il Mythos-7 al terminale portatile. Digitò raffiche di codici d'intrusione per ingannare i sensori di prossimità del quartiere.
+«Spengo la rete di controllo ottico periferica del quadrante,» disse l'ingegnere. Il display verde si rifletteva sulle sue guance scavate dalla fame. «Accecherò la loro vista biometrica per sei isolati consecutivi. Abbiamo meno di quattro minuti.»
+Lo schermo emise una piccola scintilla azzurra. L'interruzione logica programmata scattò con la precisione di un orologio. La luce morì istantaneamente nel magazzino. Fuori, in strada, i LED azzurri dei droni di pattuglia si spensero all'unisono. Le macchine persero la tracciatura degli obiettivi. Il panico invase la folla nel buio improvviso. Claudio e Laura imbucarono un vicolo laterale buio. Strusciarono con la schiena contro il muro gelato per eludere le sentinelle appiedate. La prigione cibernetica di Vane era momentaneamente cieca nel cuore di Roma.
 [ROMA - CATACOMBE - SARA E CLAUDIO]
-
-I muscoli logorati della coscia cedettero in netto taglio ad un metro soltanto dalla base delle antiche scale. Claudio arrestò il crollo fisico poggiando la spalla sull'arenaria calcarea della catacomba scavata dai romani. 
-Laura terminò di inserire in rapida spinta la saracinesca in metallo pesante chiudendoli in salvo.
-Le fragranze di roccia secca allargarono i polmoni distrutti dalle chimere atmosferiche avvelenate della superficie.
-
-Sara era operativa alla decrittatrice tattica accanto al sedile carrozzato di Carlo. La giubba umida e sformata aderiva al profilo sfibrato della sua marcia d'alta quota oltre lo spartiacque appenninico. Il richiamo metallico della grata le sollevò di netto lo sguardo dal terminale.
-Mollò la decrittatrice sul tavolaccio polveroso impolverato di gesso e fuliggine. Scattò felina. Annullò i dieci metri di pavimento grezzo in terra di scavo calcare.
-S'avvolse d'impeto puro tenace e ostinato gettando istintiva le braccia strette ed inossidabili attorno alla gola madida di polvere del proprio ingegnere fuggiasco marziale ferito scuro recluso nel fango freddo. Claudio strinse aspro ruvido.
-Il calore puro fiero dissetante lo pervase in ondata fisiologica totale risvegliando fame primordiale. Il bisogno soppresso eruttò in fiammata carnale potente oltre il giaccone inzuppato d'agonia chimica di fognatura termica. Le dita sporche ruvide di Sara esploravano la schiena di spessore rigido balistico del soldato per assicurarsi l'intera e massiccia integrità organica del tronco osseo faticante a fior di petto nudo e caldo contro. 
-Nessuno strazio espositivo da romanzetto patetico vuoto letargico logoro o clinica dichiarazione sterile di gioia nuda finta sottomessa ed inquadrata analizzata in asfittico microscopio borghese di narrativa muta isolata amara stanca; due fieri lupi combattenti s'incontravano assettati l'un l'altro leccando il sudicio sangue incrostato rurale ed ardente infetto amaro e stanco fuggiasco delle lacerazioni superficiali da metallo freddo della finta pace cittadina sottomessa buia muta. La passione vera urlava in fiotti fisici caldi scuri contro il freddo calcare sotterraneo secolare recluso nel mito puro antico buio. 
-
-Carlo ignorò il ricongiungimento selvatico e fisico dei due partigiani. Smosse le ruote della sedia. Girò in silenzio rigido verso i quadri luminosi incastonati nella sporgenza calcarea della grotta.
-«L'irruzione dal mercato trancia il database del drive tattico,» abbaiò secco l'anziano. 
-
-I diagrammi planimetrici rubati brillavano in un innaturale rosso acceso. Sputavano a video i perimetri misteriosi. Nessun ufficio distrettuale. Nessuna ambasciata corporativa.
-Erano piante didattiche. Asili infantili.
-I recinti educativi mostravano fitte tracce magnetiche interne. Isolavano le aule.
-
-«Distribuiscono una cura obbligatoria in cerotti. Scatena il blocco endocrino dei bambini. Recide la coscienza reattiva della classe pre-decisionale,» sibilò tagliente Carlo, schiaffeggiando il vecchio terminale.
-Sara serrò la mandibola in una repulsione assoluta: «Neutralizzazione dell'ardore irrazionale umano fin dalla gestazione.»
-Le spesse vene sui tricipiti di Claudio pulsavano in fiero fremito. L'ingegnere schiantò a mano nuda il pesante drive metallico contro la roccia sgrezzata del tavolo operativo. Il suo stesso sistema progettato ingoiava l'umanità col veleno del codice originale.
-
-«Miriamo a Bologna, quadrante Est,» concluse netta Laura, indicando i punti esposti sulle mappe tracciate a video e studiate da Sara. «Lo shuttle sotterraneo aziendale apre tagli negli orari. Crea stacchi di sicurezza prima dell'alba. Carichiamo in spalla il metallo armato e sfondiamo a forza.»`;
+I muscoli della coscia destra di Claudio cedettero a un solo metro dalle scale di risalita. L'ingegnere poggiò pesantemente la spalla sulla parete di arenaria umida. Laura richiuse la pesante saracinesca in metallo alle loro spalle con un colpo secco. Il profumo di roccia secca e terra antica allargò finalmente i polmoni di Claudio, distrutti dallo smog acido della superficie.
+Sara era seduta al terminale accanto a Carlo, immersa in una luce fredda. Il rumore metallico della grata le fece sollevare lo sguardo di scatto. Mollò ogni cosa sul tavolo polveroso. Scattò verso di loro con un urlo soffocato. Annullò la distanza in un battito di ciglia.
+Si gettò tra le braccia del suo uomo con una forza disperata. Claudio la strinse a sé con quanto restava dei suoi muscoli. Il calore biologico di lei lo pervase come una scarica elettrica. Il bisogno di quel contatto umano soppresso esplose oltre la giacca inzuppata di pioggia. Le dita di Sara esploravano la schiena di Claudio per assicurarsi della sua integrità fisica. Restarono abbracciati lungamente nell'oscurità protettiva del rifugio sotterraneo.
+Carlo ignorò deliberatamente il ricongiungimento tra i due, fisso sui dati. Girò la sedia verso i quadri luminosi incastonati nella roccia viva.
+«L'irruzione dal mercato del Testaccio ha sbloccato il database segreto del drive,» disse l'anziano con voce grave.
+I diagrammi planimetrici brillavano su uno schermo in un rosso acceso, aggressivo. Mostravano i perimetri di edifici civili apparentemente innocui. Non erano uffici governativi o ambasciate. Erano asili infantili e scuole elementari. I recinti educativi mostravano fitte e anomale tracce magnetiche interne.
+«Distribuiscono una cura farmacologica obbligatoria tramite cerotti neurali sottocutanei. Scatena un blocco endocrino permanente nei bambini,» sibilò Carlo, la rabbia che faceva vibrare la sua voce. «Recide la coscienza e l'emotività dei futuri cittadini prima ancora che nascano.» Colpì il terminale con la mano aperta.
+Sara serrò la mandibola fino a farsi male. «Neutralizzano l'ardore e la rivolta umana fin dalla culla.»
+Le vene sui tricipiti di Claudio pulsavano di rivolta. L'ingegnere guardò il pesante drive metallico sul tavolo. Il suo stesso sistema architettonico stava avvelenando le fondamenta dell'umanità.
+«Puntiamo a Bologna, settore Est,» concluse Laura, ricaricando l'arma. Indicò i punti strategici sulle mappe tracciate a video. «Lo shuttle sotterraneo aziendale crea stacchi di sicurezza automatica prima dell'alba. Carichiamo l'attrezzatura d'assalto e sfondiamo il perimetro emiliano. Non c'è più tempo per i sentimenti.»`;

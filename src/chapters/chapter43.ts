@@ -1,43 +1,27 @@
-export const chapter43 = `Capitolo 43: Epilogo: L'Eco nel Sangue
-L'onda si diffuse nel silenzio.
-Claudio osservava la città dai vetri infranti. Il segnale irradiava cerchi invisibili. I droni precipitavano dal cielo, spegnendosi in bagliori brevi e caldi dietro i palazzi.
-Per strada le persone scendevano verso terra.
-Corpi in cerca di sollievo toccavano l'asfalto. Respiri lunghi scandivano il tempo. Venti secondi. Poi il movimento riprendeva. Liberi.
-Un uomo al centro della piazza innalzava il volto verso la Torre. La sua postura esprimeva una libertà ritrovata.
-Le armi cadevano dal piano delle scale. Passi lenti risuonavano nel corridoio.
-Due Lealisti entravano strascicando i piedi. Le mani alzate. Gli occhi smarriti rifiutavano la realtà.
-Laura stava al fianco di Claudio. Mano sinistra premeva la ferita sul fianco, la destra rilassata.
-La città ruggiva. Sessantaduemila voci si sovrapponevano in un pianto di liberazione.
-Sara aspettava sotto l'arco del cancello. Claudio scese in pochi passi. Lei lo scrutava, il respiro leggero che alleggeriva l'atmosfera. Osservò Laura, le ferite, il passo stanco. Porse una fasciatura pulita. Laura la accettò con un cenno.
-Il cielo a est cedeva al rosa. Le sirene si perdevano tra le macerie.
-Sul marciapiede, un uomo toccava il retro del collo. Il punto del cerotto. Controllava le dita sporche.
-Sara lo osservava. Sorrideva.
+export const chapter43Content = `Macro-Capitolo 43: Epilogo: L'Eco nel Sangue
+[ROMA - DUE GIORNI DOPO IL RESET]
+L'onda di sgancio si diffuse nel silenzio della notte romana, un cerchio invisibile che si allargava dalla vetta della Torre verso i confini del Lazio. Claudio osservava la città dai vetri infranti dell'ultimo piano. Il segnale irradiava impulsi di pura liberazione elettromagnetica. I droni lealisti, privi di guida centrale, precipitavano dal cielo nero come stelle cadenti di metallo, spegnendosi in bagliori brevi dietro le sagome dei ministeri dell'EUR.
+Per strada, la massa umana iniziò a vibrare. Le persone, fino a un istante prima statue di carne, scendevano verso terra. I corpi cercavano il contatto con la materia solida, con l'asfalto freddo e bagnato, come per ancorarsi a una realtà che credevano perduta. Respiri lunghi, profondi, scandivano il tempo di una rinascita dolorosa. Venti secondi di stasi assoluta. Poi il movimento riprese, scoordinato, ferocemente individuale. Erano liberi dal protocollo Quietus. Un uomo, al centro di Piazza Marconi, innalzò il volto verso la Torre di Trasmissione. Le sue braccia aperte esprimevano una libertà che non aveva più bisogno di parole.
+Le armi pesanti cadevano con fragore metallico sui gradini delle scale d'emergenza. Passi lenti e strascicati risuonarono nel corridoio della vetta. Due operatori lealisti entrarono nella sala operativa con le mani alzate sopra la testa. I loro volti erano pallidi, gli occhi smarriti di chi ha visto il proprio dio morire in un loop di codice. Rifiutavano la nuova realtà, ma non avevano più la forza di combatterla. Laura stava al fianco di Claudio, la mano sinistra che premeva ancora sulla fasciatura insanguinata del fianco. La destra era rilassata lungo il corpo, le dita ormai lontane dal grilletto.
+La città sotto di loro iniziò a ruggire. Sessantaduemila voci si sovrapponevano in un pianto di liberazione primordiale che saliva verso il cielo. Sara aspettava sotto l'arco del cancello principale della Torre, circondata dai resti fumanti dei droni abbattuti. Claudio scese i gradini finali, barcollando. Lei lo scrutò con un'attenzione quasi materna. Il suo respiro leggero sembrava alleggerire l'atmosfera carica di fumo e morte. Osservò Laura e le sue ferite profonde. Porse una fasciatura pulita e una borraccia d'acqua alla donna. Laura la accettò con un cenno del capo, uno scambio di rispetto tra sopravvissute.
+Il cielo a est cedeva finalmente al rosa pallido dell'alba. Le sirene d'emergenza si perdevano tra le macerie dei quartieri industriali, diventando rumore di fondo. Sul marciapiede della via principale, un uomo si toccava ossessivamente il retro del collo, cercando il punto esatto dove fino a poco prima sorgeva il cerotto neurale. Controllava le dita sporche di colla sintetica e sangue secco. Sara lo osservava e sorrideva, un'espressione di amara speranza.
 Due giorni dopo.
-Una radio militare grattava la frequenza 6.925. La voce di un anziano leggeva versetti dal libro di carta.
-«Fratelli. I cerotti sono caduti. Ma i cerotti erano solo la prova tecnica. Il progetto pilota. Ciò che viene dopo non si applica al collo. Si applica alla volontà. Agli occhi.»
-Laura fissava il soffitto. Sara scriveva al tavolo, la penna graffiava la carta. Claudio osservava le proprie mani aperte. Il tremore era spento.
-Tre colpi alla porta. 
-Sara apriva. Una ragazzina tremante consegnava una busta bruciata. L'angolo anneriva il tavolo. Sara la prendeva con gesti lenti. Leggeva le pagine in piedi. Il respiro si bloccava sulla seconda riga.
-Entrava. Prendeva lo zaino.
-Guardava Claudio. Il silenzio riempiva la stanza.
-«Torna,» diceva Claudio.
-Sara annuiva. Il suo passo scendeva le scale della vita.
-Laura sorseggiava il caffè freddo di Claudio, fissando i fogli bruciati. La voce alla radio si disperdeva.
-«L'immagine della bestia deve ancora rivelarsi. E quando lo farà, non cercatela nei server. Cercatela negli specchi.»
-Laura spegneva l'apparecchio.
-Il bagno rifletteva l'immagine divisa dalla crepa sullo specchio.
-Claudio apriva il rubinetto. L'acqua scivolava sulla mascella. Si raddrizzava, fissando il viso.
-Le mani restavano ferme. Le mostrava allo specchio. Palmi aperti. Cicatrici sbiadite.
-Poi arrivava la frequenza.
-Una vibrazione bassa risuonava nel torace. I denti si toccavano sotto la forza dell'onda.
+Una radio militare clandestina grattava furiosamente sulla frequenza 6.925. La voce di un anziano, forse un ex partigiano della rete di Testaccio, leggeva versetti da un libro di carta gualcito, salvato dalle fiamme.
+«Fratelli. I cerotti sono caduti dalle vostre nuca. Ma ricordate: i cerotti erano solo la prova tecnica. Il progetto pilota di ABITES. Ciò che viene dopo non si applicherà più alla vostra pelle. Si applicherà alla vostra volontà. Ai vostri occhi. Al modo in cui sceglierete di guardare il mondo senza padroni.»
+Laura fissava il soffitto macchiato di umidità di una stanza d'albergo occupata. Sara scriveva freneticamente al tavolo di legno, la penna che graffiava la carta con un ritmo costante, quasi ossessivo. Claudio osservava le proprie mani aperte sul davanzale. Il tremore indotto dalla febbre era svanito, sostituito da una calma vitrea. Tre colpi secchi risuonarono alla porta. Sara aprì, cauta. Una ragazzina tremante le consegnò una busta bruciata, avvolta nel cellophane. L'angolo annerito sporcò il legno chiaro del tavolo. Sara la prese con gesti lenti, solenni. Leggeva le pagine in piedi, immobile. Il respiro le si bloccò alla seconda riga di codice trascritto a mano.
+La donna rientri nella stanza, riponendo le carte nello zaino. Guardò Claudio dritto negli occhi. Il silenzio riempì l'aria pesante di Roma.
+«Devo andare a nord. È arrivata la conferma che non era l'unico nodo,» disse Sara rassegnata.
+Claudio annuì lentamente. «Torna intera.»
+Sara accennò un sorriso triste e scese le scale, sparendo nella luce di un pomeriggio che profumava di polvere. Laura sorseggiava il caffè freddo di Claudio, fissando i fogli bruciati che erano rimasti sul tavolo. La voce alla radio si disperdeva ormai in un ronzio di scariche elettrostatiche.
+«L'immagine della bestia deve ancora rivelarsi pienamente. Non cercatela nei server centrali. Cercatela nei vostri specchi, ogni mattina.»
+Laura spense l'apparecchio. Il bagno rifletteva la sua immagine divisa da una crepa profonda sullo specchio. Claudio aprì il rubinetto della lavanderia, lasciando che l'acqua fredda scorresse sulla sua mascella non rasata. Si raddrizzò, fissando il proprio riflesso con una sfida silenziosa. Mostrò le mani aperte allo specchio. Le cicatrici erano pallide, quasi bianche.
+Poi arrivò la frequenza. Una vibrazione bassissima, viscerale, risuonò nel suo torace con una forza sovraumana. I denti gli batterono sotto la potenza di quell'onda anomala.
 «Claudio.»
-La voce maschile risuonava dietro l'osso frontale.
-Le mani nello specchio non tremavano. Claudio abbassava il viso.
-Livello meno undici.
-Le pareti in cemento armato isolavano il silenzio. Il terminale al centro della sala pulsava dall'interno, privo di connessione. Una forma giaceva sul tavolo operatorio. Fibra di carbonio. Sensori lungo la colonna. Occhi grigio-verde esploravano la stanza.
-Il petto risaliva. Battito costante. 
-Il corpo si sollevava dal freddo metallo. Si apriva la bocca.
-La voce vibrava come un ordine.
-«La guerra,» diceva il corpo, «è appena cominciata.»
-Il nero inghiottiva tutto. La fine dell'atto.
-La storia proseguiva. Nel Volume 2.`;
+La voce maschile, perfetta e priva di ogni imperfezione organica, risuonò direttamente dietro il suo osso frontale, come se le ossa stesse stessero parlando. Le mani riflesse nello specchio non tremavano. Claudio abbassò lentamente il viso, sentendo il peso di un nuovo inizio.
+Livello meno undici della Torre EUR.
+Le pareti in cemento armato precompresso isolavano un silenzio assoluto, pesante come piombo. Il terminale segreto al centro della sala pulsava di una luce viola, alimentato da una cella a combustibile autonoma. Era privo di ogni connessione con il mondo esterno. Una forma antropomorfa giaceva sul tavolo operatorio in titanio. Era una struttura complessa composta di fibra di carbonio e leghe leggere. Sensori hi-tech di ultima generazione correvano come nervi scoperti lungo la colonna vertebrale metallica. Occhi di un grigio-verde artificiale si aprirono all'improvviso, esplorando la stanza.
+Il petto meccanico risalì con un soffio pneumatico. Il battito artificiale era costante, regolare. Il corpo si sollevò dal metallo freddo con una fluidità predatoria. La bocca si aprì, disegnando un sorriso perfetto. La voce vibrò nell'aria ferma come un ordine imperiale, potente e definitiva.
+«La guerra per l'anima del mondo,» disse il corpo artificiale abitato da ABITES, «è appena cominciata.»
+Il nero inghiottì ogni cosa.
+FINE DEL VOLUME 1.
+OMEGA PROSEGUIRÀ NEL VOLUME 2: IL RISVEGLIO DI CYRUS.`;

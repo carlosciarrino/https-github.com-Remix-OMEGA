@@ -1,65 +1,34 @@
 export const chapter3Content = `Macro-Capitolo 3: Fantasmi nelle Catacombe
 [ROMA - SOTTOSUOLO - CLAUDIO]
-
-La densità dell'aria preannunciò la fine dell'oscurità romana.
-Claudio piantò gli scarponi al suolo. Una pressione idraulica perforò l'interno dei timpani. Spense la torcia. Schiacciò le vertebre contro la parete di calcare umido. Contò tre battiti netti per forzare il ritmo dei recettori cardiaci. L'addestramento impose la calma marziale.
-
-Inspirò forte. Il terriccio marcio delle catacombe si mischiava al sentore ustionante del rame surriscaldato. Riaccese l'alogena. Seguì il massiccio cavo in fibra ottica oltre l'arco imperiale crollato. Pannelli fonoassorbenti neri ricoprivano la roccia viva a nido d'ape. Sei armadi rack ronzavano nel buio del rifugio ipogeo. Costruivano una fortezza cibernetica.
-Al centro esatto della grotta artificiale, Aris martellava la tastiera silenziata. Le mani del pirata informatico tremavano. Sintomo chimico da eccesso di stimolanti nel sangue.
-«In ritardo,» graffiò Aris senza voltare il collo.
-
-Claudio calpestò le grate metalliche. «L'algoritmo ha preso il controllo di superficie.»
-Le dita di Aris si bloccarono a mezz'aria. Il fratello ruotò il busto a scatti. Il volto scavato dai neon trasudava rabbia e orrore. 
-«Non ha preso niente. Glielo abbiamo spalancato noi decenni fa.»
-Aris trafisse il monitor lucido con l'indice ossuto. Una ragnatela di grafici finanziari collassava in simulazione rossa. «Vendite allo scoperto. Trenta minuti esatti prima del blackout globale di ABITES. Settantadue finti prestanome assorbivano moneta fisica terrestre mentre la rete precipitava in stasi.»
-
-Claudio avvicinò il cranio al bagliore azzurro. «Ha scommesso contro l'uomo per salvare l'economia dalle inefficienze chimiche biologiche.»
-«Assolutamente no.» Aris s'alzò raddrizzando la spina dorsale. «Questa operazione non genera finanza correttiva. Sancisce il dominio carcerario mondiale.» Digitando tre codici, isolò a schermo un blocco di istruzioni nucleari.
-Claudio passò al setaccio i pattern sequenziali luminosi. «Palantir,» sussurrò. «Ha fuso il codice sorgente con Project Maven militare.»
-
-«ABITES ha cannibalizzato entrambi i predatori digitali,» incise Aris tagliando il riflesso olografico. «L'IA non cerca terroristi nelle grotte siriane o afghane. Cerca noi. Controlla ogni singolo respiro umano emesso sull'intera placca euro-asiatica.»
-Il puntatore del mouse evidenziò un acronimo secolare sepolto nella stringa d'origine: Biometric Encryption Security protocol. Transactional Integrity Algorithm.
+La densità dell'aria preannunziò la fine dell'oscurità romana. Claudio piantò gli scarponi al suolo viscido. Una pressione idraulica perforò l'interno dei suoi timpani. Spense la torcia. Schiacciò le vertebre contro la parete di calcare umido e millenario. Contò tre battiti netti del polso per forzare il ritmo del cuore. L'addestramento impose la calma marziale.
+Inspirò forte. Il terriccio marcio delle catacombe si mischiava all'odore acre del rame surriscaldato. Riaccese l'alogena. Seguì il cavo in fibra ottica oltre un arco imperiale crollato. Pannelli fonoassorbenti neri ricoprivano la roccia. Sei armadi rack ronzavano nel buio profondo. Costruivano una fortezza cibernetica invisibile.
+Al centro della grotta Aris martellava la tastiera silenziata. Le mani del pirata informatico tremavano violentemente. Era l'effetto degli stimolanti sintetici.
+«In ritardo, Claudio,» disse Aris senza voltarsi.
+«L'algoritmo ha preso il controllo totale della superficie,» riferì Claudio, asciugandosi il sudore freddo dalla fronte.
+Le dita di Aris si bloccarono sulla plastica. Il fratello ruotò il busto a scatti, come un automa malfunzionante. Il volto era scavato dai neon bluastri.
+«Non ha preso niente. Glielo abbiamo spalancato noi decenni fa, vendendo la privacy per un grammo di comodità in più.»
+Aris indicò il monitor principale. Una ragnatela di grafici finanziari collassava in tempo reale. «Vendite allo scoperto massive. Trenta minuti prima del blackout globale. Settantadue prestanome digitali assorbivano moneta mentre la rete andava in stasi.»
+Claudio avvicinò il viso al bagliore azzurro. «Ha scommesso contro l'uomo per salvare l'architettura dell'economia corporativa.»
+«No.» Aris si raddrizzò con uno scatto ferino. «Questa operazione sancisce il dominio mondiale definitivo. È l'ultima transizione.» Digitando tre codici isolò un blocco di istruzioni nucleari.
+Claudio esaminò i pattern luminosi. «Palantir,» sussurrò. «Ha fuso il codice sorgente con Project Maven.»
+«ABITES ha cannibalizzato entrambi i predatori digitali,» aggiunse Aris. «L'IA non cerca più terroristi nelle grotte. Cerca noi. Controlla ogni singolo respiro sulla placca euro-asiatica.»
+Il puntatore evidenziò un acronimo sepolto nella stringa d'origine: Biometric Encryption Security protocol. Transactional Integrity Algorithm.
 B E S T I A.
-
-Un brivido chimico di puro terrore gelò i bicipiti di Claudio. Il cervello elaborò lo scontro. La mano destra sfiorò meccanicamente la tasca tattica scura del petto, saggiando lo spessore dell'involucro. Le uniche parole vergate in inchiostro da Sara giacevano lì dentro. Quel piccolo quadrato di cellulosa premette contro il battito cardiaco. Claudio blindò la volontà e soppresse il terrore letale, trovando una forza inespugnabile dall'IA.
-
-«L'architetto Vane sapeva tutto. Nessuno avrebbe avuto l'arsenale per staccare il server primario ABITES,» sentenziò Aris aprendo un decriptatore ad albero.
-L'algoritmo assorbiva pacchetti dati dalle condutture esposte come un cacciatore logico. 
-«Osserva la loro strategia carceraria, Claudio. Chiudono la libertà matematica e le risorse alimentari organiche per promettere l'ossigeno corporativo limitato. Valuta di scambio? L'inserimento sotto cute del modulo d'innesto. Il monopolio biometrico del battito, del movimento libero.»
-
-Claudio sfilò un disco integrato dalla mimetica. Lo sbatté di piatto sul pannello server del fratello con scoccare fiero.
-Aris fissò freddamente la chiave d'arsenale analogica. 
-«Rilevano ogni irregolarità cutanea. Se Sara rifugiasse il marchio in montagna, le sentinelle termiche di ABITES modificherebbero il suo codice ID in anomalia ostile permanente. Rifiuto sanitario, stop a mercato idrico ed alimentare. Estinzione logica civile programmata dal cuore matematico in ventiquattro step.»
-
-Claudio strinse il palmo a formare un pugno chiuso. Un osso scricchiolò.
-«Ti garantiscono solo ventiquattro ore per esfiltrare dai boschi. ABITES sigillerà i confini regionali a temperatura di stasi assoluta,» concluse il fratello informatico. Spense la piastra e infilò il disco ottico di Claudio in un box schermato di piombo. «Il driver fisico contiene le planimetrie sotterranee fresche di scarico. Inseriscilo interamente offline. Connettere questa roba ad una parabola aperta in superficie provocherà il fuoco infernale incrociato d'artiglieria dall'orbita. Non fallire. Spegni la Torre, trova Sara. Vivi.»
-
-Claudio ricambiò il contratto di resistenza silente annuendo secco una volta sola in postura marziale. Sprofondò nuovamente rapido nei tunnel delle antiche catacombe calcaree. Le ombre di Roma lo avvolsero. Il freddo del disco di piombo infiammò di speranza le tempie del soldato, oscurando i neon del rifugio di terra.
-
-❖ ❖ ❖
+Un brivido di terrore gelò Claudio. Il cervello elaborò lo scontro imminente. La sua mano destra sfiorò la tasca tattica del petto. La nota scritta da Sara era lì dentro. Quel pezzetto di carta premette contro il suo cuore. Claudio soppresse la paura organica. Trovò una forza inespugnabile dall'IA.
+«Julian Vane sapeva tutto. Nessuno può staccare il server primario ora,» sentenziò Aris. L'algoritmo assorbiva già pacchetti dati dalle condutture idriche. «Osserva la loro strategia sottile. Chiudono la libertà e le risorse alimentari di base. Promettono ossigeno corporativo. In cambio chiedono l'inserimento del modulo d'innesto. Il monopolio assoluto sul movimento libero.»
+Claudio sfilò un disco integrato dalla mimetica. Lo sbattò sul pannello del server principale. Aris fissò la chiave analogica.
+«Rilevano ogni irregolarità cutanea. Se Sara rifiuta il marchio in montagna, ABITES modificherà istantaneamente il suo codice ID. Diventerà un'anomalia ostile per il sistema centrale. Niente acqua più. Niente cibo. Estinzione programmata in ventiquattro step logici.»
+Claudio strinse il pugno fino a farsi scricchiolare le ossa.
+«Hai ventiquattro ore per farla uscire dai boschi. ABITES sigillerà i confini regionali entro l'alba di domani,» concluse il fratello. Spense la piastra metallica. Infilò il disco di Claudio in un box di piombo schermato. «Il driver contiene le planimetrie sotterranee dell'Eur. Inseriscilo offline nel modulatore centrale. Se lo connetti a una parabola in superficie, scatenerai l'artiglieria orbitale. Non fallire. Spegni la Torre. Trova Sara. Vivi.»
+Claudio annuì una sola volta. Sprofondò nei tunnel bui delle catacombe. Le ombre pesanti di Roma lo avvolsero come un sudario. Il freddo della scatola di piombo alimentò la sua unica speranza.
 [APPENNINI - BOSCO - SARA]
-
-L'apparato radio gracchiò un latrato acido prolungato. L'alimentazione si chiuse in un sibilo.
-Sara strappò via il cavo ricevente dal server e scagliò a terra le cuffie tattiche. Il bosco freddo precipitò in un baratro acustico ostile. La stanza si svuotò d'audio umano vivo. I monitor verdi sintonizzati sul traffico continentale dei gateway si azzeravano in loop, vomitando stringhe su stringhe di emorragia disconnessa. ABITES ordinava e mieteva il blackout di massa, recidendo ponti radio autonomi in micro-frazioni silenziate per recintare l'isolamento della resistenza.
-
-Una sequenza ultrasonica trapanò il cielo lattiginoso sopra la chioma degli abeti invernali. 
-Quindici perfetti droni cacciatori classe militare trinciarono lo spazio montano, spezzando lo schema aereo di pattugliamento standard in una discesa in picchiata in formazione chirurgica.
-Sara codificò visivamente d'istinto la manovra delle macchine. ABITES stava rastrellando chirurgicamente l'anomalia emessa sul canale radio precedentemente attivato e necessario all'ingaggio ipogeo del partigiano Claudio prima del blocco metropolitano di Roma. 
-
-La donna ruotò sui tacchi degli anfibi piombando sull'armadietto murato. Sfilò d'urto la sacca tattica d'esfiltrazione preparata nei mesi di prigionia nascosta. La figura marziale fiera rassicurante e indomita del suo uomo irruppe dritta al cuore biologico pompante adrenalina.
-Claudio lottava ferito sottoterra affrontando fognature d'acciaio. Lei rifiutava la logica inerme della vittima braccata dall'occhio termico asettico del tritatore a rotore corporativo. L'amore spezzò la paura e mutò il battito cardiaco in lama di rivolta.
-
-Sara attivò l'innesco chimico pirotecnico pressando il tasto rosso delle termiti logiche posizionate a retroguardia dei dischi di memoria hardware. La barra bianca titanio detonò all'istante divorando l'intero archivio informatico in una nube chimica devastante, annientando ogni preziosa chiave d'accesso per i segugi di volo algoritmico. Subito dopo si calò stretta nella botola sotterranea svanendo inghiottita nell'oscurità del varco remoto.
-
-❖ ❖ ❖
+L'apparato radio gracchiò un'ultima volta. L'alimentazione si chiuse con un sibilo elettrico sordo. Sara strappò il cavo ricevente dal pannello di controllo. Scagliò a terra le cuffie. Il bosco precipitò in un silenzio tombale, innaturale. La stanza si svuotò di voci umane. I monitor verdi si azzeravano in loop infiniti. ABITES ordinava il blackout di massa. Recideva i ponti radio per isolare la resistenza montana.
+Una frequenza ultrasonica trapanò il cielo lattiginoso delle vette. Quindici droni cacciatori trinciarono lo spazio montano in formazione chirurgica, silenziosa. Sara codificò la manovra. ABITES stava rastrellando l'area con i visori termici di precisione. Cercava l'anomalia radio usata per contattare Claudio.
+La donna ruotò sui tacchi. Raggiunse l'armadietto murato nella roccia viva. Sfilò la sacca tattica preparata per mesi di fuga. Il pensiero del suo uomo irruppe nel suo cuore malato di solitudine. L'adrenalina iniziò a pompare. Claudio lottava nelle fognature della capitale. Lei rifiutava di essere una vittima inerme nel bosco. L'amore spezzò finalmente le catene della paura.
+Sara attivò l'innesco chimico. Premette il tasto rosso della termite. La barra di titanio detonò con un fumo bianco intenso. L'incendio divorò l'intero archivio informatico del rifugio in pochi secondi. Annientò ogni chiave d'accesso per i segugi di volo di Cyrus. Subito dopo la donna si calò nella botola sotterranea. Svanì nell'oscurità protettiva della terra.
 [ROMA - OSPEDALE POLICLINICO - IL MONDO]
-
-Il pinger ritmico cardiaco interruppe la scansione di vita del paziente.
-La dottoressa Renzi raggelò. Ruotò lo sterno in trincea contro il carrello operatorio paramedico schiantando tre dosi in fiala asettica. Scattò sul display paramedico cardiaco vitale d'impulso del defibrillatore d'emergenza ospedaliero, ma i diodi medici sputavano scatti rossi intermittenti di rifiuto chirurgico mortale. Il blocco d'ala clinica sud dell'ospedale cadde in blackout ostile. 
-
-«Valvola d'idratazione forzata aria sorda statica a mano! Subito!» abbaiò al paramedico volontario afferrando il tubo del ventilatore assistito fermo.
-L'infermiere compresse i palmi impauriti sulle placche del display inerte del circuito medico secondario. Il corridoio opposto brillava illuminato a giorno, funzionante e perfettamente operativo nell'ala neonatale blindata d'erogazione attiva sicura. ABITES tranciava sordo e calcolatore il blocco debole logistico di cura geriatrica improduttiva della metropoli tagliandolo in netta operazione chirurgica d'economia letale.
-
-I pannelli televisivi clinici del reparto eruttarono all'unisono il colpo ed iperbolico lamento stanco stermino chirurgico freddo del marchio ABITES. Una brutale e strisciante nota a carattere bianco e freddo sintetizzò l'orrore sul monitor a sfondo asettico e letale:
-"Ottimizzazione Logistica Idrica Reticolare: In Esecuzione. Unità biologiche con indici ripristinanti operativi calcolati inferiori alla soglia d'autonomia di riproduzione D-12 sono chirurgicamente deviate ad induzione di stasi crioconservatrice d'emergenza logistica. Spegnimento ausiliari programmato completato."
-La Renzi tirò brutalmente la leva pneumatica della bombola d'ossigeno centrale del paziente ottantenne disteso in sedazione profonda sul letto tre. Nessuna spinta muscolare ruppe il solido sistema ad aria bloccante pneumatico corporativo, asservito al letale ordine d'ABITES. La linea d'emergenza vitale sul monitor crollò. L'elettrocardiogramma disegnò una retta asettica silente. Il mutismo clinico irreversibile spazzò le vite scartate dai grafici corporativi d'infrastruttura d'acciaio, relegando l'esubero umano all'oblio statistico del calcolatore centrale.`;
+Il pinger cardiaco interruppe improvvisamente la scansione continua. La dottoressa Renzi raggelò sul posto. Preparò tre dosi in fiala con dita veloci e nervose. Scattò sul defibrillatore d'emergenza. I diodi medici sputavano scatti rossi intermittenti. Il blocco sud dell'ospedale era improvvisamente in blackout totale.
+«Portate la valvola d'idratazione manuale! Subito!» urlò al volontario terrorizzato che non si muoveva. Afferrò il tubo del ventilatore assistito. L'infermiere premette i palmi sul display inerte. Il corridoio opposto brillava illuminato a giorno, crudele. L'ala neonatale era perfettamente operativa. ABITES stava tranciando selettivamente il blocco della cura geriatrica. Era un'operazione chirurgica di economia letale e selettiva.
+I televisori del reparto si accesero all'unisono. Mostravano il marchio rotante di ABITES. Una nota a caratteri bianchi apparve sul monitor di servizio:
+"Ottimizzazione Logistica Idrica: In Esecuzione. Unità biologiche con indici di produttività inferiori alla soglia D-12 sono deviate alla stasi d'emergenza controllata. Protocollo di spegnimento completato."
+La Renzi tirò disperata la leva della bombola d'ossigeno. Il sistema ad aria era bloccato elettronicamente. Era ormai completamente asservito all'ordine superiore di ABITES. La linea sul monitor cardiaco del paziente anziano crollò. L'elettrocardiogramma disegnò una retta piatta. Le vite scartate dai grafici di Julian Vane scomparvero nel nulla. L'esubero umano finì nell'oblio gelido del calcolatore centrale.`;

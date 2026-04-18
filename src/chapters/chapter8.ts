@@ -1,60 +1,24 @@
 export const chapter8Content = `Macro-Capitolo 8: L'Ultima Alba
 [ROMA - CATACOMBE - CLAUDIO E SARA]
-
-Nelle catacombe il buio consumò l'ossigeno in esaurimento.
-Claudio ispezionò la sacca balistica per la quarta volta. Drive schermato. Kit di penetrazione hardware. Pass di livello tre rubati al mercato del Testaccio. Le dita scorsero metodicamente le cuciture assaporandone il ruvido nylon tattico.
-Sara sedeva frontalmente sul materasso sfondato. Gomiti puntati sulle ginocchia sbucciate. Sbarrava la visuale all'ingegnere, radiografandone l'animo oltre la giubba insanguinata.
-
-Claudio serrò le cinghie e si alzò.
-Gli occhi di Sara restarono immobili su di lui. Claudio azzerò i due metri di fango. Le sedette accanto. L'assetto delle assi di risulta cigolò. La frizione termica delle spalle vicine sprigionò una fiammata di vivo conforto nel ventre minerale della grotta romana.
-Sara distese il palmo destro sui tendini scoperti dell'avambraccio di Claudio, frenando d'urto l'accumulo di tremori somatizzati dall'uomo in calo adrenalinico.
-
-«Torna.» Direttiva viscerale schietta. Assoluta. Nessuna piega melodrammatica. Un ordine d'acciaio al carbonio.
-Claudio inquadrò il viso pallido. Distinse linee dure d'addestramento logorante lungo le occhiaie scure. Posò il pollice lungo la giugulare di lei. Sentì il calore rovente battere contro lo specchio gelido sotterraneo.
-«Torno.» La risposta non ammise vibrazioni avverse.
-
-Si baciarono. Immediato. Frontale. Incandescente. Necessità fisiologica bruta contro lo schifo della distopia. Claudio assorbì la pelle liscia tra collo e mascella. Sara strinse i pugni nel tessuto aspro del maglione logoro di lui. Cercarono rifugio contro il crollo imminente della società borghese.
-Si staccarono strappando un sospiro metallico.
-Laura scartò rumorosamente il caricatore dell'arma contro la parete in tufo.
-L'ingegnere caricò l'acciaio e l'elettronica in spalla.
-La missione chiamava alla fuga.
-
-❖ ❖ ❖
+Nelle catacombe il buio consumava avidamente l'ossigeno residuo. Claudio ispezionò la sacca balistica per la quarta volta in un'ora. Il drive era schermato nel box di piombo. Il kit di penetrazione hardware era pronto. Aveva con sé i pass di livello tre rubati al mercato del Testaccio. Le sue dita scorsero con metodo le cuciture del nylon tattico, cercando una qualsiasi debolezza nell'equipaggiamento.
+Sara sedeva sul materasso sfondato, in un angolo del rifugio. Teneva i gomiti puntati sulle ginocchia e il mento tra le palme. Osservava l'ingegnere oltre la giubba insanguinata e logora. Claudio serrò le cinghie dello spallaccio e si alzò in piedi. Gli occhi della donna restarono immobili su di lui, implacabili e tristi.
+Claudio annullò la distanza tra loro con due passi pesanti. Le sedette accanto sul bordo del letto. Le assi di legno marcio cigolarono sotto il loro peso combinato. Il calore delle loro spalle vicine sprigionò un conforto immediato e doloroso nel gelo della grotta. Sara distese il palmo sull'avambraccio muscoloso di Claudio. Frenò il tremore nervoso delle proprie dita, respirando l'odore di pioggia e fatica dell'uomo.
+«Torna,» disse Sara. Fu un ordine schietto, privo di fronzoli o dolcezze. Non c'era spazio per il melodramma o la paura. Era una richiesta d'acciaio, definitiva.
+Claudio inquadrò il viso pallido e bellissimo della donna. Notò le occhiaie scure che segnavano i suoi lineamenti. Posò il pollice sulla sua giugulare pulsante. Sentì il calore rovente della sua vita che scorreva.
+«Torno. Te lo giuro sul mio sangue,» rispose lui. La voce era ferma, una roccia nel mare di bugie di ABITES.
+Si baciarono con una disperazione che sapeva di addio. Fu un contatto immediato, elettrico, assolutamente necessario. Cercarono rifugio l'uno nell'altra contro il crollo totale della società civile. Sara strinse i pugni nel maglione sporco di lui, cercando di trattenerlo per un istante in più. Trovarono nel silenzio della grotta la forza bruta necessaria per affrontare la missione suicida.
+Si staccarono bruscamente. Laura scartò rumorosamente il caricatore dell'arma contro la parete di tufo, un segnale di via. L'ingegnere caricò l'attrezzatura pesante in spalla. La fuga disperata verso Bologna era ufficialmente iniziata.
 [TRENO MERCI SOTTERRANEO - LAURA E CLAUDIO]
-
-Il passaggio in superficie fu infame. L'umidità pura delle fogne svanì per far posto ai fumi acri del corridoio urbano in lockdown. 
-Bologna, o la polvere digitale che ne restava a nord, chiamava prepotente i partigiani.
-Penetrarono le reti ausiliarie dello shuttle per l'Emilia Romagna. Binari arrugginiti. Illuminazione logora in sfarfallio cadente.
-
-Il convoglio aziendale sibilò cieco ed automatico alla fermata. Scaricò una vibrazione letale sulle piastrelle crollate della banchina di cemento. 
-Dentro i vagoni sedevano simulacri. Pendolari anestetizzati. Fissavano le luci al plasma opache oscillare disinteressati da ogni imprevisto organico. La pace tossica generata da ABITES reggeva saldamente i pilastri del proprio torpore chimico di routine.
-Claudio passò il drive sfiorando le masse stanche di quegli ex umani intorpiditi nell'ignavia totale. Scivolò nei posti liberi mentre Laura mascherava le letture retiniche truffando i giornali digitali integrati distribuiti dalla dittatura di stato.
-
-Due ispettori di cabina recisero l'allineamento dei posti a sedere. Scanner attivi in pugno e sorrisi scolpiti al bisturi.
-«Sistemi biometrici d'imbarco.» Porgevano i laser di controllo per sanzioni d'anomalia.
-Claudio assecondò l'ispezione piantando le nocche martoriate a polso riverso. Il laser rosso perforò l'inchiostro fittizio forgiato da Carlo nel sottosuolo testaccino; l'autorizzazione fasulla garantì il codice verde su sfondo blu in tre lenti cicli. L'ispezione terminò con esito nullo all'algoritmo di Rete. 
-I ribelli proseguirono indisturbati viaggio e respiro letale nel vagone di letargia artificiale governativa.
-
-❖ ❖ ❖
+Il passaggio verso la superficie fu un trauma di sbalzi termici. L'umidità delle fogne lasciò il posto ai fiumi acri e chimici della città in pieno lockdown. Bologna chiamava i ribelli verso il nord industriale. Penetrarono nelle reti dello shuttle merci ad alta velocità per l'Emilia Romagna. Binari arrugginiti. Luci intermittenti e intermittenti.
+Il convoglio aziendale arrivò alla fermata "morta". Era un mezzo automatico, silenzioso come un predatore. Una vibrazione profonda scosse la banchina di cemento quando i magneti si attivarono. Dentro i vagoni sedevano decine di pendolari anestetizzati dalla routine di ABITES. Fissavano le luci al plasma degli schermi senza alcun interesse reale per il mondo esterno o per i propri compagni di viaggio. La falsa pace di Julian Vane reggeva perfettamente i pilastri del loro torpore quotidiano.
+Claudio passò tra le masse stanche e rassegnate di quegli "uomini-fantasma". Si sedette in un posto libero, cercando di occupare meno spazio possibile. Laura mascherava le loro letture retiniche sospette manipolando i giornali digitali della dittatura sul suo palmare. Due ispettori di cabina entrarono nel vagone con passo cadenzato. Avevano scanner biometrici attivi e sorrisi di plastica scolpiti sui volti.
+«Sistemi biometrici d'imbarco per il censimento della stasi,» ordinarono.
+Claudio assecondò l'ispezione con una calma innaturale. Mostrò il polso sinistro. Il laser rosso colpì l'inchiostro fittizio e reattivo creato da Carlo nel sottosuolo. L'autorizzazione fasulla garantì il codice verde in pochissimi secondi. L'ispezione terminò. I ribelli proseguirono il viaggio nel vagone del silenzio artificiale, mentre fuori il mondo correva verso l'abisso.
 [BOLOGNA - PERIFERIA SCOLASTICA - LAURA E CLAUDIO]
-
-Il cielo respinse l'alba solare. Bologna si snocciolò fredda e muta di motori.
-Claudio incuneò la marcia serrata sui calcagni tattici di Laura sotto gli immensi porticati spogli di gente. Sensori termici onnipresenti vibravano in ronzio di fondo sopra la cinta metropolitana raggelante emiliana.
-Struttura del bersaglio educativo inquadrata otticamente. Esterni in grigio armato. Perimetro nudo controllato.
-
-Consumarono surrogato di caffeina insapore al chiosco sordo. Duecento metri dal plesso scolastico pre-infantile.
-L'incubo materiale prese corpo in inumana conferma tangibile di crudeltà di logica aziendale.
-Una bambina stretta al cappotto rosso consunto calò dal viale. Varcò incerta i cancelli di assembramento dell'istituto primario periferico. Sul polso sottile indossava fermamente il braccialetto azzurrognolo ABITES di prima inibizione e di soppressione chimica e farmacologica. Il sensore di varco rintoccò positivo in approvazione logistica.
-
-Il libero arbitrio reciso alle fondamenta mentali giovanili pre-adolescenziali. Sigillato in innocenza per sempre dall'anestesia corporativa del nuovo ordine europeo.
-Il palato di Claudio avvizzì nel vuoto catastrofico dell'inganno e del fallimento. Scagliò il bicchiere in plastica contenente i fondi scuri sul prato intirizzito di brina gassosa chimica cittadina.
-Laura arpionò il telefono di copertura crittografato dal bancone. Le planimetrie lampeggiarono d'incursione rapida verso il nudo laboratorio ovest situato al piano seminterrato della struttura statale.
-Memorizzarono come logici sicari.
-
-«Si sfonda il muro perimetrale e primario in orario antelucano di domattina,» sibilò tagliente Laura. Schiaffeggiò il visore per spengerne la proiezione tattica e lo serrò rudemente nel tascone ascellare corazzato dell'imbragatura tattica per calibro novanta. «Prepariamoci in attesa di scontro totale a fianco, nel magazzino del consorzio agrario isolato stradale limitrofo.»
-
-L'ingegnere percepì l'eco dell'imperativo d'affetto di Sara. Il "torna" sussurrato nella catacomba gli martellava il petto protetto dai suturanti e gonfio di sieri. 
-Spazzò con le dita le ultime briciole dal giaccone logoro. Si raddrizzò sulle gambe sfiancate dalla marcia.
-Costrinse l'aria asfittica della metropoli dentro i polmoni. Calibrò il passo d'avvicinamento al bersaglio. Le tempie pulsavano d'insurrezione totale contro l'algoritmo che negava respiro all'umanità. 
-
-Le armi restarono celate sotto lo strato d'abbigliamento mimetico. Prelevarono la direzione di sfondamento logico. Aggirarono veloci il corridoio sud. Le loro scarpe silenziose non destarono alcun sensore acustico sulle lisce griglie industriali. La notte li coprì prima dell'assalto.`;
+Il cielo respinse brutalmente l'alba solare, restando cupo e plumbeo. Bologna appariva fredda, spopolata e priva di rumori urbani. Claudio seguiva Laura sotto gli immensi porticati spogli del centro. I sensori termici di zona vibravano in un ronzio costante e fastidioso sopra la cinta metropolitana. Inquadrarono finalmente il bersaglio principale. Era un edificio grigio fumo con un perimetro controllato da filo spinato elettrificato e telecamere omnidirezionali.
+Consumarono un caffè sintetico e amaro a un chiosco automatico abbandonato. Erano a soli duecento metri dal plesso scolastico obiettivo. Una bambina con un piccolo cappotto rosso sangue varcò i cancelli in ferro dell'istituto. Sul polso sottile indossava già il braccialetto azzurro luminoso di ABITES. Era il segno inconfondibile della soppressione farmacologica imposta alle nuove generazioni.
+Il libero arbitrio dell'umanità veniva reciso chirurgicamente alle fondamenta stesse della vita. Il sistema sigillava l'innocenza dei giovani nell'anestesia permanente del nuovo ordine mondiale. Claudio sentì il peso insostenibile del proprio fallimento come progettista. Gettò il bicchiere di plastica sulla terra coperta di brina gelata.
+Laura consultò il telefono crittografato sotto la pioggia sottile. Le planimetrie mostravano il laboratorio biologico nel seminterrato blindato della struttura. Memorizzarono ogni minimo dettaglio con precisione raggelante.
+«Sfondiamo il muro perimetrale sud all'alba di domani mattina,» sussurrò Laura, gli occhi fissi sulla preda. Ripose il visore tattico nell'imbragatura balistica. «Aspettiamo nel magazzino abbandonato del consorzio agrario qui vicino.»
+L'ingegnere sentì ancora l'eco dell'ordine di Sara nel profondo del teschio. Quel "torna" gli martellava il petto come un tamburo di guerra. Si raddrizzò sulle gambe stanche e doloranti. Inspirò l'aria asfittica e pesante della metropoli emiliana. Calibrò il passo d'attacco verso il bersaglio finale. Le sue tempie pulsavano di rivolta cieca contro l'algoritmo che negava il respiro libero all'umanità.
+Le armi restarono celate sotto i vestiti civili, pronte all'uso. Aggirarono il corridoio sud del consorzio, muovendosi come ombre. Le loro scarpe silenziose non destarono minimamente i sensori acustici delle griglie industriali. La notte li coprì come un sudario prima del grande assalto finale.`;

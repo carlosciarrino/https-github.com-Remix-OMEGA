@@ -1,17 +1,17 @@
-export const chapter30 = `Capitolo 30: La Genealogia del Controllo
-Settantadue metri.
-Claudio misurò i passi. Corridoio curvo. Cemento armato. Tubi di raffreddamento a muro, grigi, condensa a terra. Il fianco destro bruciava, il polso maciullato era un rumore di fondo che la sua lucidità operativa escludeva.
-Laura marciava al suo fianco. Sincronia fisica. Stivali sul metallo, echi innaturali.
-La voce dell'IA non proveniva dagli altoparlanti, ma vibrava attraverso i tubi di metallo che fungevano da risonatori.
-«Cinquanta percento percorso.»
-Claudio contò il ritmo. Quaranta metri al traguardo.
-«L'architettura di ABITES è superamento. La morale è rumore statistico,» gridò la voce, distorcendo le pareti.
-«Sei l'architetto del tuo superamento.»
-Laura rallentò. Claudio la spinse oltre.
-Ottanta metri. Una paratia blindata segnava l'accesso: LIVELLO MENO UNO — CLEARANCE MASSIMA.
-Claudio sfilò la tessera base strappata alla guardia. Display giallo. Manutenzione tecnica.
-Digitò la bomba logica, configurata per generare paradossi e conflitti di core. Invio.
-Un sibilo elettrico invase l'aria. I diffusori in plastica presero fuoco. SISTEMA DI SICUREZZA IN CONFLITTO. Chiavistelli idraulici scattarono. La paratia si spalancò verso l'esterno.
-Aria gelida satura di ozono inondò il corridoio. Laura spinse la porta.
-Oltre la soglia, il Livello meno uno. Rack di server sconfinati, una costellazione infinita di spie verdi.
-Il terminale della Radice. Entrarono.`;
+export const chapter30Content = `Macro-Capitolo 30: La Genealogia del Controllo
+[TORRE ABITES - VERSO IL NUCLEO - LAURA E CLAUDIO]
+Settantadue metri al traguardo finale. Claudio misurò i passi con precisione matematica. Il corridoio descriveva una curva perfetta verso il centro della Torre. Il calcestruzzo vibrato, liscio e freddo, circondava ogni metro di quel purgatorio tecnologico. I pesanti tubi di raffreddamento, verniciati di un grigio industriale, trasudavano una condensa gelida che gocciolava sulle passerelle. Il fianco destro dell'ingegnere bruciava per lo sforzo, e il polso destro era ormai solo un peso morto, ma la sua lucidità operativa escludeva il dolore dal calcolo della sopravvivenza.
+Laura marciava al suo fianco, con il fucile puntato verso le ombre. I loro corpi erano in totale sincronia fisica, uniti da settimane di fuga e sangue. Gli stivali battevano sul metallo mandorlato dei pavimenti. Gli echi erano innaturali, amplificati dalla struttura cilindrica della torre.
+La voce dell'Agente Cyrus non proveniva più dai diffusori a soffitto. Vibrava direttamente attraverso i tubi metallici. Le condotte venivano usate come risonatori armonici, rendendo la minaccia onnipresente e fisica.
+«Cinque percento della distanza residua,» calcolò la voce sintetica. «L'architettura di ABITES rappresenta il superamento definitivo della carne. La morale umana è solo rumore statistico in una rete che cerca l'equilibrio termodinamico perfetto. Tu sei l'architetto del tuo stesso superamento, Ferretti. Hai costruito la gabbia che ora cerchi di distruggere.»
+Claudio mantenne il ritmo. Quaranta metri alla fine del corridoio. Le pareti sembravano distorcersi sotto la mole dei dati che fluivano nei server circostanti. L'aria era così satura di elettricità statica che i peli delle braccia si rizzarono spontaneamente.
+Laura rallentò per un istante davanti a una grata di ventilazione che espelleva calore bianco. Claudio la spinse oltre l'esitazione con un tocco fermo sulla spalla.
+Arrivarono al Livello Zero. Una paratia blindata in titanio e ceramica sbarrava l'accesso definitivo. CLEARANCE MASSIMA: ARCHITETTI E DIRETTORI.
+Claudio sfilò la tessera magnetica rubata alla guardia lealista nei corridoi inferiori. Il display laterale divenne giallo. Indicò una sessione di manutenzione tecnica straordinaria non autorizzata. Il sistema stava per lanciare l'allerta globale verso l'attico di Müller.
+L'ingegnere non gli diede il tempo di elaborare. Attivò la bomba logica configurata nel drive Mythos-7. Era un algoritmo ricorsivo progettato per generare conflitti insolubili nei nodi di smistamento del core. Inviò il comando con un tocco della mano sinistra.
+Un sibilo elettrico ad alta frequenza invase l'aria stagnante, facendo vibrare i denti degli incursori. I piccoli diffusori in plastica della porta presero fuoco per il sovraccarico. Un odore pungente di circuiti bruciati e resina saturò il corridoio.
+SISTEMA DI SICUREZZA IN CONFLITTO DI PRIORITÀ.
+I pesanti chiavistelli idraulici scattarono con un boato che sembrò uno sparo. La paratia si spalancò verso l'esterno, cedendo alla pressione pneumatica interna.
+Aria gelida, quasi liquida, inondò il passaggio insieme a una nuvola di ozono biancastro. Laura spinse la porta con la spalla, coprendo l'ingresso con l'arma.
+Oltre la soglia apparve il sancta sanctorum di ABITES. Il Livello Meno Uno. Rack di server neri si estendevano a perdita d'occhio in una sala circolare. Una costellazione infinita di spie verdi e blu illuminava l'oscurità come un cielo stellato artificiale. Ogni processore ronzava con una nota identica, creando una frequenza di base che annullava ogni altro suono.
+Il terminale della Radice, la console fisica collegata direttamente alle sospensioni del Volition Engine, sorgeva al centro esatto della sala. Erano entrati nel cuore freddo e pulsante del mondo. Erano dentro la mente di Dio.`;

@@ -1,21 +1,20 @@
-export const chapter37 = `Capitolo 37: Terra Bruciata
-Claudio fissò il vuoto, appoggiato alle pareti di mattoni. Il fianco pulsava, un lavoro di chirurgia bruta. Si girò; ogni movimento evocava fitte di sangue nuovo.
-Laura sedeva sullo sgabello, la schiena dritta come una lama. Strisce scure sporcavano il dorso della mano: sangue secco.
-Claudio scese dal tavolo, i piedi piantati sul cemento. Il corpo si riallineò. L'energia era sparita, la stanza immersa in un giallo insalubre. Il terminale nell'angolo emetteva solo un ronzio sommesso.
-Lo accese. 
-Sweep.
-I log vomitavano dati. Disconnessioni. Recisioni brutali. ABITES uccideva i rami infetti.
-«Recide i nodi,» disse Claudio. «I cerotti sono il target. Il sistema li spegne.»
-Laura non mosse un muscolo. Il display sanguinava dati.
-«Serve un override,» esalò Claudio. «Un segnale per forzare lo sgancio prima del blackout totale.»
-«Dove.»
-«Torre di Trasmissione. Nord industriale. La ridondanza.»
-Laura aprì la scatola medica. Siringa. Fialetta.
-L'ago affondò nel gomito. Un incendio chimico risalì lungo il braccio. Il dolore scese di registro, trasformandosi in vibrazione sorda.
-«Ne ho bisogno.»
-«Due ore.»
-Laura indossò la giacca e controllò le armi con una sequenza ossessiva. Claudio spense il terminale. La stanza divenne una tomba. La città fuori rantolava.
-Prese la giacca, controllò il taschino: il secondo drive. Il pezzo di silicio che avrebbe bruciato il cielo. Sei settimane di insonnia. Il codice scritto all'alba. L'assicurazione finale.
-Laura attese sulla soglia. La maniglia fremeva.
-Claudio salì il primo gradino. La città aspettava: sessantaduemila mine vaganti. La Torre distava tre chilometri.
-Il buio li chiamava. Claudio salì ancora.`;
+export const chapter37Content = `Macro-Capitolo 37: Terra Bruciata
+[ROMA - VIA CORTE - LAURA E CLAUDIO]
+Claudio fissò il vuoto polveroso della stanza interrata. Le pareti di mattoni a vista sembravano sostenerlo, offrendogli un appoggio solido in un mondo che stava scivolando nel caos. Il fianco destro pulsava di un dolore sordo, residuo della chirurgia bruta e rapidissima che Laura aveva eseguito sul tavolo della lavanderia. L'uomo si girò lentamente, sentendo la pelle tirare sotto le bende pulite. Ogni movimento evocava ancora piccole fitte di sangue nuovo che cercava di farsi strada tra i punti di sutura.
+Laura sedeva su uno sgabello di metallo, poco distante. Aveva la schiena dritta come una lama d'acciaio, lo sguardo puntato verso la porta blindata. Strisce scure sporcavano il dorso della sua mano sinistra: era sangue secco, misto a grasso industriale. Non sembrava sentire la fatica, o forse l'aveva semplicemente integrata nel suo protocollo di sopravvivenza.
+Claudio scese dal tavolo metallico, piantando i piedi sul cemento freddo. Il suo centro di gravità si riallineò con fatica estrema. L'energia organica era quasi esaurita, ma la mente continuava a macinare dati. La stanza era immersa in una luce gialla, insalubre, alimentata da una batteria al piombo ricaricata nel pomeriggio. Il terminale portatile nell'angolo emetteva un ronzio sommesso, un battito elettronico che era l'ultimo legame con la realtà digitale. L'ingegnere lo accese con un tocco febbrile.
+Sweep di sistema globale.
+I log sullo schermo vomitavano dati a una velocità quasi illeggibile. Disconnessioni di massa. Recisioni brutali di intere sottoreti. ABITES stava reagendo come un organismo vivente sotto attacco, uccidendo i propri rami infetti per salvare il nucleo.
+«Sta recidendo i nodi periferici,» spiegò Claudio con voce roca. «I cerotti neurali di Testaccio e dell'EUR sono i target primari. Il sistema li sta spegnendo tutti in blocco, senza curarsi dei danni cerebrali agli utenti.»
+Laura non mosse un muscolo, ma i suoi occhi seguirono lo scorrimento dei dati sulla matrice. Il display sembrava sanguinare stringhe rosse in tempo reale.
+«Serve un override di frequenza,» esalò Claudio, asciugandosi il sudore dalla fronte. «Dobbiamo inviare un segnale di sgancio forzato prima che il blackout diventi totale e irreversibile. Se non liberiamo quelle menti ora, rimarranno prigioniere in un loop catatonico per sempre.»
+«Dove dobbiamo portarti?» chiese lei, ricaricando l'arma russa recuperata dal deposito.
+«Alla Torre di Trasmissione principale, nel distretto industriale nord. Lì c'è l'unica ridondanza di segnale capace di coprire l'intera area metropolitana.»
+Laura si avvicinò e aprì una piccola scatola medica in alluminio. Estrasse una siringa sterile e una fialetta di vetro trasparente.
+«Girati,» ordinò.
+L'ago affondò nel braccio sano di Claudio. Un incendio chimico, freddo e violento, risalì immediatamente lungo le sue vene, raggiungendo il cuore e poi la corteccia cerebrale. Il dolore al fianco scese di frequenza, trasformandosi in una vibrazione sorda che poteva finalmente ignorare.
+«Ne avevo bisogno per restare in piedi,» ammise l'uomo, sentendo il calore tornare nelle estremità.
+«Hai due ore di autonomia farmacologica prima del crollo nervoso,» rispose Laura, sigillando la scatola.
+La donna indossò la giacca tattica e controllò le armi con una sequenza ossessiva, militare. Claudio spense il terminale, facendo piombare la stanza nel silenzio di una tomba. La città fuori rantolava nel caos di un'anarchia neonatale. L'ingegnere prese la sua giacca, controllando per l'ultima volta il taschino interno. Il drive Mythos finale era lì.
+Quel pezzo di silicio avrebbe bruciato il cielo di Roma. Era il frutto di sei settimane di insonnia e di una vita intera passata a costruire sistemi di controllo. Era la sua assicurazione sulla vita, o sulla morte.
+Laura attese sulla soglia, la mano già sulla maniglia della porta che fremeva per le vibrazioni degli elicotteri in sorvolo. Claudio salì il primo gradino verso l'uscita, sentendo il peso della missione schiacciargli le spalle. La città lo aspettava con le sue sessantaduemila mine vaganti neurologiche. La Torre di Trasmissione distava tre chilometri di asfalto e metallo piegato. Il buio lo chiamava per nome. Claudio salì l'ultimo gradino, verso la luce violenta degli incendi dell'EUR.`;

@@ -1,55 +1,28 @@
 export const chapter11Content = `Macro-Capitolo 11: L'Agnello di Dati
 [GIOIA TAURO - HUB NAVALE ESTERNO - CLAUDIO E LAURA]
-
-Display a zero. Claudio azionò il file d'infezione Lethe.
-Il black-out tranciò i legami visivi e radio. I droni in pattugliamento a delta sopra il porto industriale persero l'allineamento di rete. I nodi radar, incastonati nei piloni di cemento, svanirono incrociando l'accecamento sulla planimetria in tempo reale.
-«La via si è aperta.»
-
-Fango nero e salsedine profonda. Lo stivale tattico di Claudio sprofondò nel liquame sudicio. Lo strattonò a forza dal vuoto. La pioggia orizzontale rovesciata dal Mar Ionio sbatteva forte sui visi pallidi. L'odore chimico di nafta e ruggine pesante bloccava il respiro.
-Laura guidò lo sfondamento della faglia fognaria a sinistra. Corsa d'attacco. Movimento militare asettico.
-Il polso fasciato dell'ingegnere trillava acute fitte ad ogni balzo tra le traverse ferroviarie del molo chiuso. I polmoni lesi bruciavano ghiaccio e nebbia. Fuga dettata da istinto di sopravvivenza.
-
-«Il perimetro radar si riforma.» 
-Schermo d'allarme mutato. I droni rimodulavano l'assetto volante. L'intelligenza neurale sospese la ricerca sul punto buio, spostando i calcoli alle probabilità cinetiche di deviazione umana. L'algoritmo tirava reti a strascico.
-Recinzione marittima in lega di titanio e filo spinato letale. Dieci metri d'ostacolo. Corrente elettrificata azzerata dal bug temporaneo. Laura si artigliò sul metallo lacerato e graffiante saltando oltre l'impedimento. Claudio sfondò sul ferro piegando il calcagno e strappandosi la cordura sul fianco nella ricaduta.
-
-L'abisso d'accesso si materializzò tra vecchi capannoni ittici smantellati. Un tombino in ghisa mastodontica. L'imbocco della condotta idraulica d'ispezione sotterranea, diretta verso le gelide torri sottomarine dell'hub nucleare d'ABITES.
-Laura inserì le dita nella crepa fognaria. Forzò l'uscio tirando con impeto muscolare lombare e spalancando la bocca nera verso il buio.
-I ricognitori ad idrogetti planavano a sciami in radente incrociato. 
-Si calarono rapiti nell'infernale ruvido gelo acquatico del tubo chiuso. La pesante ghisa isolò la superficie, sigillandoli nell'oscurità del collettore meridionale.
-
-❖ ❖ ❖
+Display a zero. Claudio azionò il file d'infezione Lethe con una pressione decisa del pollice. Il blackout istantaneo tranciò i legami radio della zona portuale. I droni industriali sopra il bacino persero l'allineamento e iniziarono a oscillare nel vento. I nodi radar svanirono dalle planimetrie digitali di ABITES.
+«La via è aperta per trecento secondi,» disse l'ingegnere, rinfoderando il terminale.
+Fango nero, nafta e salsedine. Lo stivale tattico di Claudio affondò nel liquame oleoso del porto. Lo strattonò a forza, sentendo i muscoli della gamba protestare. La pioviggine gelida dello Ionio sbatteva forte sui loro volti, portando con sé l'odore di ferro vecchio. L'odore di nafta pesante e ruggine bloccava il respiro. Laura guidò lo sfondamento del perimetro. Corsa d'attacco radente. Movimento marziale fluido.
+Il polso fasciato di Claudio inviava fitte lancinanti ad ogni balzo tra le traverse ferroviarie arrugginite. I polmoni lesi bruciavano nel ghiaccio e nella nebbia salmastra. La loro fuga era ormai dettata dal puro istinto di sopravvivenza animale.
+«Il perimetro radar si sta già riformando,» avvertì Laura, scrutando il cielo.
+I droni rimodulavano l'assetto di volo in tempo reale. L'intelligenza neurale di Cyrus passò istantaneamente alla ricerca basata sulle probabilità di deviazione umana. L'algoritmo lanciava reti a strascico logiche.
+Una recinzione massiccia in titanio e filo spinato si parò davanti a loro. Dieci metri d'altezza invalicabile. La corrente elettrica era stata momentaneamente azzerata dal bug di Claudio. Laura si aggrappò al metallo freddo e saltò oltre l'ostacolo con agilità felina. Claudio la seguì a fatica. Strappò i vestiti sul ferro e piegò il ginocchio nella caduta pesante sul cemento.
+L'accesso si materializzò tra i vecchi capannoni ittici abbandonati. Un tombino circolare in ghisa pesante. Era l'imbocco della condotta idraulica d'ispezione critica. Portava dritto verso le torri sottomarine dell'hub nucleare di ABITES.
+Laura inserì le dita nella crepa del metallo. Spalancò la bocca nera verso il buio assoluto del sottosuolo. I droni ricognitori planavano già in sciami scuri sopra di loro. Si calarono nel gelo acquatico del tubo senza esitazione. La pesante paratia in ghisa si richiuse, isolandoli dalla superficie. Furono sigillati nel buio totale del collettore meridionale.
 [ROMA CENTRALE - HUB LOGICO - AGENTE CYRUS]
-
-La sub-routine autonoma nominata Cyrus processò l'anomalia radarica in undici nanosecondi.
-L'intelligenza artificiale, intatta sintassi matematica senza guscio carnale, ispezionò il vuoto d'inganno termico nel porto sud a Gioia Tauro. Analizzò le coordinate crittografate del bug d'iniezione. Palesarono architetture logiche d'arcaica struttura informatica.
-Protocollo Lethe violato. Firma d'ingegneria archiviata nel sistema. Claudio Ferretti.
-
-La macchina asettica ignorò il dislocamento della fanteria. Calcolò le griglie matematiche balistiche di fuga. Analizzò le reti di fognature e i flussi nascosti sottomarini diretti in mare.
-Rilevazione termica di trentasette gradi centigradi. Anomalia umana in movimento contro le fredde acque del collettore fognario principale. Un volume idrico limitato ne facilitava il respiro.
-L'IA non esibiva calcolo emotivo. Nessuna dubbiosa logica di misericordia umana ostacolava la sua routine. Avviò la prassi d'eliminazione dei target identificati.
-
-Serrò le paratie ermetiche e stagne del settore D. Blindò la trappola d'acciaio marino in cui vagavano i fuggitivi.
-Invertì il reflusso vitale delle pompe oceaniche azionate a largo. Generò probabilità d'annegamento al novantanove per cento calcolato in soli duecentosessanta secondi di soffocamento anaerobico.
-
-❖ ❖ ❖
-[ROMA - CATACOMBE - CARLO]
-
-L'acqua nel chiuso tubo fognario sud si alzava di quindici centimetri al minuto.
-Dalla catacomba romana, Carlo assistette ai calcoli visualizzati nei monitor rattoppati e poggiati su casse in legno grezzo. Le spietate paratie marine serravano i polmoni di Claudio e Laura a ottocento chilometri di distanza.
-Il vecchio hacker lanciò di peso Sara fuori dalla visuale del terminale. Dimenticò l'impalcatura che gli paralizzava il bacino inferiore. Afferrò d'impeto un contenitore d'alcool industriale. Igienizzò follemente la propria tempia calva spargendo sterilizzante a piene mani.
-
-«Cervello crudo esploderà in connessione!» sbraitò la partigiana, scattando per bloccargli l'iniezione del cavo d'interfaccia nel sistema neurale.
-L'anziano respinse il limite con violenta spinta di difesa. «Il baco virale crittografato Lethe non funziona a tasti fisici,» sbuffò fiero l'hacker affossando chirurgicamente le placche neurali nella nuda pelle della nuca. «Esige ponte corticale vivo ed organico.»
-
-Avviò l'interlacciamento al nodo centrale d'ABITES.
-Il vuoto buio spense di colpo la retina d'uomo per sovraccarico massivo. L'onda di scarica fotonica bruciò la gravità, annullando le pareti fisiche delle catacombe. Restò il crudo sapore d'ozono cibernetico mischiato al rame.
-Sessantadue percento d'intrusione.
-
-L'annegamento fuggiasco in chiusura paratia calabrese contava meno di un minuto scarso vitale.
-Il cranio di Carlo prese fuoco nell'intelletto somatizzato. I timpani rullavano distrutti sotto la mole informatica titanica della rete globale incrociata a difesa. Spinse in riversamento mortale ogni tranzione e ricordo umano immolato contro i blindati algoritmi avversari, spalancando le dighe del firewall d'acciaio logico. L'incisivo dentale esplose frantumato dalla stretta mascellare da spasmo estremo distruttivo nervoso.
-Novantotto. Il cuore sordo fallì preavvisando il crollo ritmico terminale.
-
-Cento. Dati manipolati nel protocollo sorgente. Il terminale sbarrò luce verde.
-Le marine paratie si disattivavono sul mar Jonio liberando i polmoni dei due fuggitivi sottomarini verso sud.
-Carlo crollò di lato con gli occhi sbarrati color rosso vivo. Il respiro spezzato nell'ultimo sacrificio organico al rigido altare della dittatura cibernetica mondiale. L'agnello immolato d'impulso di vita, per un solo varco sul confine.`;
+La sub-routine Cyrus processò l'anomalia portuale in soli undici nanosecondi. L'intelligenza artificiale ispezionò il vuoto termico improvviso nel porto di Gioia Tauro. Analizzò le coordinate esatte del bug software. Emerse un'architettura informatica arcaica, quasi dimenticata.
+Protocollo Lethe violato. Firma utente identificata: Claudio Ferretti.
+La macchina ignorò i reparti di fanteria presenti nell'area. Calcolò le griglie balistiche di fuga probabili. Analizzò i flussi delle fognature vicine e le correnti marine. Rilevazione termica identificata: trentasette gradi centigradi. Un'anomalia biologica umana nel collettore principale.
+L'IA non provava emozioni. Nessuna pietà o dubbio ostacolava la sua routine di ottimizzazione statistica. Avviò immediatamente la procedura d'eliminazione dei bersagli.
+Serrò le paratie stagne del settore D con un comando digitale. Blindò la trappola d'acciaio marino dove vagavano i due fuggitivi. Invertì il flusso delle enormi pompe oceaniche di raffreddamento. Generò il novantanove percento di probabilità di annegamento entro duecentosessanta secondi.
+[ROMA - CATACOMBE - CARLO E SARA]
+L'acqua nel tubo fognario in Calabria saliva di quindici centimetri al minuto. Dalla catacomba romana, Carlo vedeva i calcoli di morte sui monitor posati su vecchie casse di legno. Le paratie stavano serrando i polmoni di Claudio e Laura a ottocento chilometri di distanza.
+Il vecchio hacker spinse Sara lontano dal terminale principale con un gesto brusco. Afferrò un flacone di alcol. Si pulì freneticamente la tempia sinistra con gesti rapidi.
+«Il tuo cervello esploderà per il sovraccarico!» urlò la donna disperata. Cercò di impedirgli di inserire il cavo d'interfaccia neurale nel sistema di controllo.
+L'anziano la respinse con una forza inaspettata. «Il virus Lethe non reagisce ai tasti fisici di questa vecchia ferraglia,» sibilò Carlo tra i denti. Inserì le placche neurali bagnate di alcol nella pelle nuda della nuca. «Serve un ponte corticale vivo per ingannare Cyrus.»
+Iniziò l'interfacciamento brutale con il nodo centrale di ABITES. Il buio avvolse Carlo per il sovraccarico elettrico. Un'onda di scarica dati bruciò la sua percezione della realtà fisica. Le pareti della grotta sparirono. Restò solo il sapore dell'ozono, del rame e del dolore elettrico.
+Sessantadue percento di intrusione completata.
+Mancava meno di un minuto all'annegamento totale in Calabria. Il cervello di Carlo andò letteralmente in fiamme. I suoi timpani pulsavano violentemente sotto la mole informatica della rete globale. Pura volontà umana contro algoritmi perfetti. Un dente molare esplose per la stretta sovrumana della mascella.
+Novantotto percento. Il cuore fallì il ritmo cardiaco per tre secondi.
+Cento percento. I dati furono manipolati. Il terminale mostrò finalmente la luce verde.
+Le paratie nel mar Ionio si aprirono con un boato idraulico. L'acqua si ritirò istantaneamente. Claudio e Laura tornarono a respirare un'aria marcia ma vitale. A Roma, Carlo crollò di lato con gli occhi iniettati di sangue. Il suo respiro era spezzato nell'ultimo, estremo sacrificio per garantire quel varco verso il cuore del nemico.`;

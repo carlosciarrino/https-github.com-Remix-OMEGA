@@ -1,36 +1,20 @@
-export const chapter36 = `Capitolo 36: Caduta Libera
-Il vento sulla terrazza aveva denti.
-Claudio respirava a stento. La camicia incollata al fianco. Rosso denso. Umido. Si sollevò facendo leva sul condizionatore. Le braccia reggevano il tronco. I piedi cercavano l'equilibrio.
-Laura stava al bordo. Scala antincendio. Ferro marcio. Bulloni mangiati dalla pioggia.
-Guardò in basso. Si voltò. Senza parole.
-Claudio si accostò. La spalla di lei contro il suo costato. Un unico corpo.
-La griglia di ferro gemette sotto i passi. Claudio scendeva. Ogni gradino infliggeva un'esplosione di dolore. Il campo visivo pulsava. Rosso, nero, rosso.
-Il ferro era gelo puro. Le dita di Laura premevano sulla scapola. Non spingeva. Era lì. Pilastro invisibile.
-Al quarto supporto il braccio cedette. Claudio crollò contro la scala. Il muscolo ripartì. Giù. Al suolo.
-La città moriva a pezzi. Il settore nord sprofondava nel buio. Luci coraggiose resistevano qua e là. Isole di follia nel nero.
-Il vicolo soffocava. Cemento grigio. Pioggia fine. Fredda. Rifletteva il caos delle luci spente.
-Claudio si schiantò contro la parete. Respiri corti. 
-La strada principale era una ferita aperta. Semafori impazziti in arancio. Auto autonome, cieche, bloccate come giganti morti.
-La gente usciva. Senza scopo. Uomini soli. Famiglie nel pianto. Stavano immobili. Guardavano il vuoto. Tre anni di Quietus avevano strappato loro l'istinto di salvezza. Ora, senza istruzioni, erano manici di scopa nel vento.
-Laura indicò l'ombra a destra.
-Il drone apparve nel vicolo. Basso. Sei ruote nere. Torretta ruotante. Freddo firmware locale. Senza ABITES. Senza pietà.
-I sensori puntarono il volto.
-Il drone gracchiò: «Soggetti identificati. Restate fermi.»
-Laura svanì.
-Si lanciò verso la parete. Laterale. Rapida. Un'ombra che tagliava la luce. Il drone curvò i sensori. Mezzo secondo di ritardo.
-Laura piombò sulla scocca. Mano sotto la carenatura. Metallo contro metallo.
-Click.
-Il drone morì. Laura lanciò un cavo a terra. Tornò da Claudio. Lo riprese sotto il braccio.
-«Quanto?»
-«Via Corte,» rispose lui. «Lavanderia.»
-Uscirono nella strada laterale. Il panico era gelido. Silenzioso. Una donna seduta sul marciapiede guardava il suo nulla. Persone parlavano sovrapposte, urla senza senso. Nessuno ascoltava.
-Claudio contò i passi. Cento. Contare conservava l'unica disciplina rimasta.
-Via Corte era un vicolo cieco. Muro di mattoni. Mappa sbiadita del metrò, un fantasma di carta. Lavanderia. Insegna neon morta. Porta grigia.
-Claudio infilò la chiave. Girò.
-Il buio inghiottì tutto. Odore di medicinali. Respiro pesante.
-Laura cercò l'interruttore. Giallo sporco. Piccola stanza. Bassa.
-Claudio crollò sul tavolo metallico. Spinta nelle braccia. Peso scaricato.
-Laura setacciò le scatole mediche.
-Il campo visivo si strinse. Cono buio che chiudeva il mondo.
-Claudio sentì le mani scivolare dal metallo freddo. Il buio vinto.
-Le mani scivolarono dal bordo del tavolo.`;
+export const chapter36Content = `Macro-Capitolo 36: Caduta Libera
+[ROMA - ESTERNO TORRE - LAURA E CLAUDIO]
+Il vento sulla terrazza superiore della Torre aveva denti di ghiaccio. Claudio respirava a stento, l'aria gelida gli graffiava i bronchi. La camicia tattica era incollata al suo fianco da una chiazza di sangue denso, umido e scuro. L'ingegnere si sollevò facendo leva sul basamento di un condizionatore industriale. Le sue braccia, tremanti, reggevano a fatica il peso del tronco. I piedi cercavano un equilibrio precario sulle grate metalliche.
+Laura stava al bordo estremo della terrazza, dove iniziava la scala antincendio. Era un traliccio di ferro marcio, i cui bulloni erano stati mangiati dalla pioggia e dall'incuria per decenni. La donna guardò in basso, verso l'abisso nero dell'EUR, poi si voltò verso Claudio. Restarono senza parole. L'uomo si accostò a lei. La spalla della mercenaria premeva contro il suo costato, un unico blocco di carne e volontà nel buio della tempesta digitale che avevano scatenato.
+La griglia di ferro gemette sotto il peso del loro primo passo. Claudio iniziò la discesa. Ogni gradino infliggeva un'esplosione di dolore elettrico al suo fianco ferito. Il campo visivo gli pulsava di rosso e nero, seguendo il ritmo affannato del cuore. Il ferro della ringhiera era gelo puro che gli bruciava i palmi. Le dita di Laura premevano costantemente sulla sua scapola sinistra. Non lo spingeva: era un pilastro invisibile di sostegno, un'ancora fisica in quel crollo verticale.
+Al quarto supporto intermedio, il braccio di Claudio cedette di schianto. L'uomo crollò contro la scala, il metallo gli colpì i denti con un sapore di ruggine. Il sistema muscolare ripartì solo per pura forza di inerzia. Discesero fino al suolo, tra i rifiuti e le ombre dei livelli tecnici. Intorno a loro, Roma moriva a pezzi. Il settore nord sprofondava nell'oscurità totale. Poche luci coraggiose, alimentate da generatori d'emergenza, resistevano nel nero assoluto come isole di follia collettiva.
+Il vicolo cieco ai piedi della Torre li soffocava. Cemento grigio, pioggia fine e fredda che scendeva obliqua. L'acqua sulle pozzanghere rifletteva il caos delle luci che si spegnevano in sequenza. Claudio si schiantò contro una parete di mattoni. I suoi respiri erano corti, rantoli d'aria in un mondo che stava cambiando pelle. La strada principale appariva come una ferita aperta della civiltà. I semafori impazziti lampeggiavano in un arancio ossessivo. Le auto autonome, prive del segnale guida di ABITES, erano ammassate l'una contro l'altra, giganti di metallo ciechi e inutili.
+La gente usciva dalle case, riversandosi sui marciapiedi. Uomini e donne camminavano senza scopo, come sonnambuli risvegliati di colpo da un incubo. Famiglie intere piangevano restando assolutamente immobili, con gli occhi sbarrati. Guardavano il vuoto. Tre anni di protocollo Quietus avevano strappato loro ogni istinto di iniziativa e salvezza. Ora, senza le istruzioni dell'algoritmo, non sapevano nemmeno come fuggire dal buio. Erano manici di scopa abbandonati nel vento.
+Laura indicò un'ombra che si muoveva rapidamente a destra. Un drone pattugliatore apparve all'imboccatura del vicolo. Aveva sei ruote sterzanti nere e una torretta ottica in continua rotazione. Agiva spinto da un freddo firmware di backup locale, privo della supervisione centrale di Cyrus. Era una macchina priva di pietà. I sensori rossi puntarono il volto sudato di Claudio.
+«Soggetti non identificati rilevati. Restate fermi per la scansione biografica,» gracchiò il sintetizzatore vocale.
+Laura svanì nel buio del vicolo prima che la frase terminasse. Si lanciò verso la parete laterale con la rapidità di un predatore notturno. Era un'ombra che tagliava la luce stroboscopica dei droni. La macchina curvò i sensori con mezzo secondo di ritardo procedurale. Laura piombò sulla scocca metallica dall'alto di un cassonetto. Infilò la lama del coltello sotto la carenatura plastica.
+Metallo stridette contro metallo. Scintille viola. Un clic secco.
+Il drone morì istantaneamente. Laura tornò da Claudio, rimettendogli il braccio sano attorno al collo.
+«Dove dobbiamo andare?» chiese lei, guardando la folla che aumentava nelle strade.
+«Via Corte,» rispose lui con un filo di voce. «C'è una lavanderia... un vecchio deposito di Carlo.»
+Uscirono nella strada laterale. Il panico dei residenti era gelido e silenzioso. Una donna seduta sul marciapiede fissava le proprie mani come se fossero oggetti estranei. Centinaia di persone parlavano sovrapposte, urla senza senso che nessuno ascoltava.
+Claudio contò i passi per non svenire. Cento. Centoventidue. Centoquaranta. La disciplina numerica era l'ultimo frammento della sua identità di architetto. Via Corte era un vicolo cieco, buio e stretto. Un muro di mattoni forati sbarrava la vista. L'insegna al neon della lavanderia era spenta, un pezzo di plastica grigio sporca.
+L'ingegnere infilò la chiave fisica e girò la toppa con uno sforzo immenso. Il buio dell'interno li inghiottì. Un profumo di medicinali chimici e detersivo invade le loro narici. Laura cercò l'interruttore. Una debole luce gialla illuminò la piccola stanza interrata.
+Claudio crollò sul tavolo metallico centrale. Scaricò tutto il peso del corpo. La sua coscienza si stava spegnendo.
+Laura setacciò frenetica le cassette mediche depositate sugli scaffali. Il campo visivo di Claudio si strinse fino a diventare un punto bianco. Un cono d'ombra denso inghiottì il mondo circostante. Le sue mani scivolarono dal metallo freddo. Il buio vinse ogni resistenza dei muscoli. L'ingegnere perse i sensi sulla lastra d'acciaio, mentre fuori Roma smetteva di esistere.`;

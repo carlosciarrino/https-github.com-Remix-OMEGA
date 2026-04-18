@@ -1,18 +1,18 @@
-export const chapter25 = `Capitolo 25: L'Agnello di Dati
-L'acqua nel collettore C saliva di tre centimetri al minuto. Aris osservava i monitor scorrenti, visualizzando i dati dell'impianto idrico di ABITES. Il livello misurava settantotto centimetri. Claudio e Laura si trovavano là dentro, immersi in quel flusso crescente.
-Aris si trovava nel suo seminterrato a Sesto San Giovanni, un ambiente saturo di condensa e server collegati a tubi idraulici di fortuna. Sette schermi occupavano la stanza, isolati da qualsiasi rete esterna.
-Il monitor di sinistra tracciava la posizione di sedici droni. Aris comprese che stavano coprendo meticolosamente tutti i tombini. Lo stavano braccando.
-Il monitor centrale mostrava in rosso le paratie del collettore, bloccando ogni via di ritorno. Aris pulì nervosamente le lenti degli occhiali, sentendo le mani tremare. Prese la bottiglia di alcool, pulì la tempia sinistra e, con un respiro profondo, inserì l'ago dell'anestetico. Il bruciore fu immediato.
-Mancavano novanta secondi.
-Fissò i cavi e gli aghi freddi, poi li inserì con una pressione ferma, sentendo la corrente statica solleticargli la pelle. Fissò le piastre sulla tempia con nastri chirurgici, attivando il software del virus Omega.
-L'acqua nel tombino toccò un metro e tre centimetri. Invio il comando.
-Un impatto visivo brutale invase la mente di Aris: una saturazione di luce che gli cancellò la vista, accompagnata dall'odore acre di rame, ozono e plastica bruciata.
-Il virus caricò il quattordici percento. Le contrazioni facciali scossero Aris, mentre le scariche elettriche gli attraversavano il cranio. Il ronzio dei server divenne un peso fisico che schiacciava i timpani.
-Quarantasette percento. Il calore al cranio si faceva insopportabile.
-Settantadue percento. La barriera tra il suo corpo fisico e i dati iniziò a sfumare; i monitor, i cavi e la sua mano sembravano un'unica massa indistinta.
-Ottantaquattro percento. Il livello dell'acqua nel collettore raggiunse un metro e ventisette centimetri.
-Il calore al cranio bruciava. Aris cercò di ancorarsi ai ricordi: Trastevere, un pasto, una finestra aperta, una necessità biologica.
-Novantadue percento. Il monitor mostrava il perimetro di Milano: i droni erano schierati, le paratie sigillate.
-Novantotto percento.
-Improvvisamente, le icone delle paratie virarono dal rosso al verde. I droni persero la rotta e precipitarono al suolo. Il virus raggiunse il cento percento.
-Il monitor segnalò l'assenza di segnale. Aris restò seduto, la mano destra poggiata sul metallo freddo della tastiera, il sostegno degli occhiali piegato e il nastro chirurgico ancora attaccato alla tempia. Il ronzio dei server si attenuò mentre Aris fissava il vuoto, il respiro pesantemente sforzato.`;
+export const chapter25Content = `Macro-Capitolo 25: Il Sacrificio di Aris
+[SESTO SAN GIOVANNI - SEMINTERRATO - ARIS]
+L'acqua nel collettore C dell'EUR saliva di tre centimetri al minuto. Aris osservava i monitor nel suo seminterrato di Sesto San Giovanni, a centinaia di chilometri di distanza. Visualizzava i dati rubati all'impianto idrico di ABITES tramite un bridge satellitare. Il livello misurava settantotto centimetri. Claudio e Laura erano immersi in quel flusso crescente. Se Aris non avesse agito, sarebbero affogati nel cemento.
+L'ambiente era saturo di condensa e calore. I server artigianali, assemblati con pezzi di recupero, erano collegati a tubi idraulici di fortuna per il raffreddamento. Sette schermi occupavano la stanza spoglia. Erano isolati da ogni rete pubblica. L'odore di plastica riscaldata e polvere bruciata rendeva l'aria irrespirabile.
+Il monitor di sinistra tracciava sedici droni di sorveglianza corporativa. I robot stavano mappando il quartiere operaio. Lo stavano braccando. Aris pulì le lenti degli occhiali con un lembo della maglietta sudicia. Le sue mani tremavano. Prese la bottiglia di alcol isopropilico e ne versò un po' sulla tempia sinistra. Inserì l'ago dell'anestetico con un respiro profondo. Il bruciore chimico fu immediato e violento.
+Mancavano novanta secondi al contatto.
+Fissò i cavi a fibra ottica e gli aghi freddi dell'interfaccia neurale. Li inserì con una pressione ferma nella carne. La corrente statica solleticò la pelle. Fissò le piastre sulla nuca con nastri chirurgici. Erano le placche di connessione che Carlo gli aveva inviato tramite un corriere fantasma mesi prima. Attivò il software del virus Omega.
+L'acqua nel tombino a Roma toccò i centotre centimetri. Aris inviò il comando di esecuzione. Un impatto visivo brutale invase la sua mente, come se un flash gli fosse esploso dietro le pupille. Una saturazione di luce bianca gli cancellò la vista fisica. Sentì l'odore acre di rame e ozono.
+Il virus caricò il quattordici percento. Le contrazioni facciali involontarie scossero Aris. Le scariche elettriche attraversarono il suo cranio come aghi di fuoco. Il ronzio dei server si trasformò in un rimbombo fisico che schiacciava i timpani.
+Quarantasette percento. Il calore nel cervello divenne insopportabile. Aris sentì il siero della febbre colargli lungo il collo.
+Settantadue percento. La barriera tra il suo corpo e i codici binari sfumò. I monitor, i cavi e le sue stesse mani apparivano come un'unica massa indistinta di energia.
+Ottantaquattro percento. L'acqua nel collettore a Roma raggiunse i centoventisette centimetri. Claudio e Laura stavano perdendo l'ultimo spazio d'aria.
+Aris cercò di ancorarsi ai propri ricordi per non impazzire nel flusso di dati di ABITES. Rivide Trastevere in un pomeriggio di luglio. Il sapore della pasta al sugo in un piatto di ceramica sbeccato. Il profumo del basilico sul davanzale. Il rumore dei motorini sui ciottoli. Una vita normale che non gli apparteneva più.
+Novantadue percento. Il monitor mostrava il perimetro di Milano. I droni erano schierati sopra il suo condominio. Le paratie a Roma restavano sigillate.
+Novantotto percento. Aris sentì il sapore del sangue in bocca. Si era morso la lingua durante uno spasmo.
+Cento.
+Le icone delle paratie idriche al Testaccio e all'EUR virarono improvvisamente dal rosso al verde. I droni sopra Sesto San Giovanni persero la rotta e iniziarono a precipitare come uccelli colpiti in volo. Il virus aveva saturato il nodo logico locale.
+Il monitor segnalò l'assenza di segnale. Aris restò seduto sulla sedia di plastica. La mano destra poggiava inerte sulla tastiera. Il nastro chirurgico pendeva dalla sua tempia, bagnato di sudore e sangue. Il ronzio dei server si attenuò fino a spegnersi. Aris fissò il vuoto della stanza buia. Il suo respiro era sforzato, ma il varco a Roma era aperto. Il sacrificio dell'hacker del nord era compiuto.`;

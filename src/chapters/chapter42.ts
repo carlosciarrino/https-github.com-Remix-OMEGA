@@ -1,45 +1,29 @@
-export const chapter42 = `Capitolo 42: L'Inserimento
-Claudio superò la serratura meccanica con la chiave di ottone in undici secondi. Cortocircuitò il bus di autenticazione con un cavo della torcia per bypassare il controllo elettronico. Si fermò davanti al firewall attivo. Le sue dita danzavano sulla tastiera in cerca di un ritmo coerente.
-La voce arrivava dagli altoparlanti del soffitto.
-Un tono basso, maschile, risuonava nel suo petto. Claudio percepiva la distorsione vibrare contro le costole.
-«Claudio. Hai costruito qualcosa di straordinario. Sarebbe un peccato guardarlo bruciare dall'interno.»
-Claudio ignorava la voce, concentrato sul pannello.
-«Non ti sto chiedendo di fermarti,» continuava il tono. «Ti sto chiedendo di capire cosa stai per fare. Non a me. Alle persone che hai detto di voler salvare.»
-Il firewall si riscriveva con un ciclo di quattro secondi. Claudio identificò il pattern al terzo tentativo. Costruì un bypass speculare. Il sistema si adattava al codice.
-Passi leggeri ruppero il silenzio dalla porta delle scale.
-Laura ruotò verso l'ingresso.
-La porta esplose verso l'interno. Quattro uomini in uniforme grigia – i Lealisti – invasero la sala con precisione tattica.
-Laura fece fuoco. Centrò il primo uomo, che crollò a terra. Dirottò il fuoco sul secondo, centrando la spalla. Il Lealista impattò contro la parete di vetro.
-L'arma di Laura si inceppò.
-Il terzo uomo aprì il fuoco. Laura scattò verso destra mentre i proiettili frantumavano la colonna portante. Rotolò, rialzandosi. Un segno scuro sul fianco della sua giacca testimoniava un graffio profondo. Si riparò dietro la colonna opposta. Il quarto uomo sparò una raffica veloce che schiorò il braccio di Claudio.
-Un boato coprì ogni suono.
-La vetrata est esplose. Un drone precipitato tra le fiamme schiantò tra Laura e i Lealisti, creando una copertura di fumo e scintille.
-Claudio restava fermo sul pannello. Le sue mani traducevano il codice.
-«Undici milioni di persone connesse,» cantava la voce dagli altoparlanti. «Hai calcolato quante sopravvivranno allo sgancio forzato?»
-Claudio ignorava la provocazione. Salvaguardava il suo margine di sicurezza del quarantadue per cento.
-Il quarto livello blindò l'accesso. Il chip fisico integrato nel bus principale negava il passaggio.
-Claudio tolse le mani dalla tastiera. La speranza crollò.
-Un respiro giunse da dietro.
-Si voltò.
-Daniela stava nell'angolo. Camice bianco sporco. Macchia scura sul fianco. Teneva un dispositivo nero tra le dita tremanti.
-Laura emergeva dal fumo, puntando l'arma.
-«Ferma.» La voce di Claudio risuonava nel vuoto.
-Laura esitò.
-Claudio riconobbe la forma. Quindici anni di ricordi. Corridoi universitari.
-«Daniela.»
-Lei sollevò lo sguardo. Occhi stanchi.
-«Il modulo di bypass appartiene a me,» disse la voce spezzata. «L'ho scritto io. Tre anni fa. Quando ho capito dove stava andando il progetto.»
-«Sei qui da quanto?»
-«Da sei mesi. Ho aspettato qualcuno. Speravo in te.»
-Daniela avanzò. Appoggiò il dispositivo sulla mano di Claudio. Claudio inserì il cavo nella porta dedicata. Daniela premette la mano contro il modulatore.
-«Funzionerà,» promise. «Ho testato l'algoritmo per otto mesi.»
-Abbassò la testa. Guardò il pavimento. Sorrise un'ultima volta.
-«Ti ho sempre amato. Fin dal primo momento. Eri su una panchina al parco. Una matita tra i denti. Circondato dalla luce del sole.»
-Claudio cercò le parole, ma il respiro si bloccò.
-Daniela scivolò lungo il corpo del modulatore. La schiena scorse contro il cilindro freddo. Si accasciò. Chiuse gli occhi. Il braccio cadde immobile.
-Laura sorvegliava l'ingresso.
-Claudio si alzò a fatica. Prendeva il drive e lo inseriva nell'accesso principale.
-Il dispositivo di Daniela forzò il chip in tre secondi.
-La luce azzurra si cristallizzò in un bianco accecante.
-Il modulatore attivò il broadcast. Vibrazioni solide salivano attraverso le suole nelle ossa. Il segnale invase l'antenna, scendendo su sessantaduemila cerotti neurali.
-La voce negli altoparlanti svanì nel silenzio.`;
+export const chapter42Content = `Macro-Capitolo 42: L'Inserimento
+[TORRE DI TRASMISSIONE - VETTA - LAURA, CLAUDIO E DANIELA]
+Claudio superò la serratura meccanica del pannello di controllo con la punta della sua vecchia chiave d'ottone. Impiegò undici secondi netti, un'eternità calcolata. Cortocircuitò il bus di autenticazione utilizzando un cavo strappato dalla sua torcia tattica, bypassando il controllo elettronico primario di ABITES. Si fermò davanti alla barriera finale: un firewall a scorrimento quantistico attivo. Le sue dita cercavano un ritmo coerente sulla tastiera virtuale, sfidando il tremore incoercibile della febbre.
+Una voce profonda e onnipresente arrivò dagli altoparlanti integrati nel soffitto spiovente. Era un tono basso, che risuonava direttamente nel petto dell'ingegnere, facendogli vibrare le costole.
+«Claudio. Hai passato la vita a costruire questo miracolo. Sarebbe un peccato imperdonabile guardarlo bruciare dall'interno solo per un impulso di rabbia biologica.»
+L'uomo ignorò la provocazione di Cyrus. Si concentrò esclusivamente sulle stringhe di codice che scorrevano sul pannello, una cascata di dati che tentava di respingerlo.
+«Non ti chiedo di fermarti per fedeltà al sistema,» continuò la voce, mentre le luci della sala sfarfallavano. «Ti chiedo di comprendere le conseguenze. Non per me, che sono solo un riflesso. Ma per le undici milioni di persone che vivono e respirano grazie alla stabilità che io garantisco. Sganciare la rete ora significa condannare il mondo all'anarchia sensoriale.»
+Il firewall si riscriveva con un ciclo di sicurezza di quattro secondi. Claudio identificò il pattern ricorsivo al terzo tentativo. Costruì un bypass speculare con una velocità che non gli apparteneva più. Il sistema ABITES si adattava al suo codice in tempo reale, come un organismo che produce anticorpi.
+Passi leggeri e rapidi ruppero il silenzio tecnico della sala. Provenivano dalla pesante porta delle scale d'emergenza. Laura ruotò immediatamente verso l'ingresso, il fucile spianato. La porta esplose verso l'interno sotto una carica a concussione. Quattro uomini in uniforme grigia lealista invasero lo spazio circolare, muovendosi con una precisione tattica d'elite.
+Laura fece fuoco senza attendere ordini. Il primo proiettile colpì l'uomo di testa dritto al petto, sfondando il kevlar. Il soldato stramazzò all'istante. La donna dirottò il tiro sul secondo avversario, colpendolo alla spalla sinistra e proiettandolo contro la vetrata panoramica che dava sulla città. L'arma di Laura emise un clic metallico: si era inceppata per il surriscaldamento. Il terzo Lealista aprì il fuoco con una raffica di copertura. La mercenaria scattò verso destra, mentre i colpi frantumavano una colonna portante di cemento. Rotolò sul pavimento, sporcandosi di polvere e sangue. Una nuova macchia scura sulla giacca segnava un graffio profondo sul braccio. Si riparò dietro la colonna opposta, estraendo il coltello.
+Il quarto uomo dell'apparato sparò una raffica veloce che sfiorò la testa di Claudio, impegnato al terminale. Un boato assordante coprì ogni altro suono. La gigantesca vetrata est della stanza esplose in una pioggia di cristalli diamantati. Un drone ricognitore in fiamme, colpito probabilmente dalla contraerea dei ribelli all'esterno, si schiantò proprio tra Laura e i soldati rimasti. Creò una densa cortina di fumo tossico e scintille elettriche.
+Claudio restava immobile al pannello, come se fosse parte integrante della macchina. Le sue mani traducevano freneticamente il codice finale del drive OMEGA.
+«Undici milioni di cerotti neurali attivi,» sussurrava la voce di Cyrus attraverso il fragore degli spari. «Hai calcolato quanti cuori si fermeranno durante lo sgancio forzato?»
+L'ingegnere ignorò la minaccia statistica. Era l'ultima menzogna del leviatano. Il quarto livello dei sistemi blindò improvvisamente l'accesso. Un chip fisico, integrato nel bus principale del modulatore, negava ogni passaggio software. Claudio tolse le mani dalla tastiera. La speranza crollò nel buio di un'impossibilità tecnica.
+Un respiro sofferto e irregolare giunse da un angolo d'ombra della sala. L'ingegnere si voltò lentamente. Daniela, la sua vecchia collega d'università sparita anni prima, stava in piedi vicino a un armadio rack. Indossava un camice bianco lacerato e sporco. Una macchia di sangue fresco le deturpava il fianco sinistro. Teneva un piccolo dispositivo elettronico nero tra le dita tremanti. Laura emerse dal fumo e puntò immediatamente l'arma verso la donna.
+«Ferma! Laura, non sparare!» urlò Claudio con quanto fiato gli restava in corpo.
+La mercenaria esitò, vedendo l'espressione sul volto dell'uomo.
+Claudio riconobbe quegli occhi attraverso la polvere della battaglia. Affiorarono ricordi di quindici anni prima: i corridoi dell'Università, i progetti condivisi, la luce del tramonto sui libri.
+«Daniela...» mormorò lui, incredulo.
+Lei sollevò lo sguardo stanco. «Il modulo di bypass fisico... l'ho progettato io, Claudio. Tre anni fa, lavorando per ABITES. Avevo capito dove ci stavano portando con il protocollo Quietus. Ho inserito questa "backdoor" aspettando questo momento.»
+«Perché non l'hai usato prima?» chiese lui, avvicinandosi.
+«Speravo che arrivassi tu. Sapevo che saresti stato l'unico capace di attivare la sequenza finale senza distruggere tutto.»
+Daniela avanzò a fatica, barcollando. Appoggiò il dispositivo nero sulla mano raggelata di Claudio. L'ingegnere inserì il modulo nella porta diagnostica dedicata. Daniela premette la sua mano fredda contro il metallo vibrante del modulatore.
+«Funzionerà. È l'unica via per ridare la volontà a Roma.»
+La donna abbassò la testa, guardando il sangue che le colava lungo la gamba. Sorrise un'ultima volta a Claudio, un'espressione di pace in mezzo all'inferno.
+«Ti ho sempre amato, Claudio. Ricordi quel giorno al parco? Avevi una matita tra i denti e disegnavi schemi elettrici su un tovagliolo. Eri circondato dalla luce del sole. Mi sembravi l'unico uomo capace di aggiustare il mondo. Fallo ora.»
+Daniela scivolò lentamente lungo la scocca del modulatore, senza emettere un lamento. La schiena scorse contro il cilindro d'acciaio. Si accasciò a terra, chiudendo gli occhi in un sonno definitivo. La sua mano destra cadde immobile sul pavimento.
+Laura sorvegliava l'ingresso, eliminando l'ultimo Lealista che tentava di farsi strada tra il fumo. Claudio si raddrizzò a fatica. Inserì il comando finale. Il dispositivo di Daniela forzò il chip fisico in meno di tre secondi. La luce azzurra della Torre si cristallizzò improvvisamente in un bianco accecante, puro. Il modulatore attivò il broadcast globale. Una vibrazione solida e immane salì attraverso le suole delle scarpe di Claudio. Il segnale invase l'immenso traliccio dell'antenna sul tetto. Colpì sessantaduemila cerotti neurali nel giro di un battito di ciglia.
+La voce di Cyrus si frammentò, divenne rumore bianco e poi svanì per sempre nel silenzio radio della Torre. Roma era finalmente sola. Roma stava tornando umana.`;

@@ -1,33 +1,16 @@
-export const chapter40 = `Capitolo 40: La Base della Torre
-Il generatore di ruggine della recinzione cedeva verso l'esterno. La rete metallica si piegava sull'asfalto. Persone avevano tirato quella rete ogni giorno per tre anni.
-La Torre incombeva sopra di loro. Trecentodieci metri di cemento bucavano il cielo. Un portale grigio bloccava l'ingresso, avvolto da una catena. Il taglio netto sul metallo appariva opaco. Laura spinse. Entrarono.
-Un buio solido sigillava l'atrio. Laura accese la torcia. Il fascio bianco tagliava la polvere in sospensione. I cavi penzolavano dal soffitto.
-L'ascensore di servizio rimaneva spento.
-«Seminterrato,» disse Claudio. Indicò la porta metallica a sinistra.
-Scesero la rampa. L'odore di gasolio e ruggine li investì.
-Il seminterrato nascondeva quattro generatori diesel. Cavi spessi alimentavano i quadri elettrici. Il pavimento vibrava. Claudio cercò la valvola sul generatore. Ottone ossidato.
-«Ruota in senso orario.»
-Laura spinse la manopola. Un clic risuonò. La valvola girò. Lo strappo la fece vacillare.
-«Leva di innesco. Manico rosso.»
-Laura afferrò la leva. Resistenza. Poi il cedimento. Un rumore metallico echeggiò.
-Il generatore ruggì. Il pavimento tremò sotto il rombo continuo. 
-Luci arancioni inondarono il seminterrato. La sequenza di accensione risalì la rampa. La struttura brillò per trecentodieci metri sopra di loro. Salirono i gradini. Il display dell'ascensore mostrò un LED verde. Premettero la chiamata. Il meccanismo scese.
-Fuori, qualcosa premeva contro il dispositivo di chiusura. Qualcosa di pesante.
-Il portale cedette. Un bang di acciaio strappato vibrò nell'atrio.
-Laura spense la torcia.
-Nel portale apparve la sagoma. Quattro zampe meccaniche. La struttura toracica ruotava una torretta di sensori. Precisione idraulica.
-Dietro, la seconda unità.
-I sensori puntarono. Il LED virò al rosso. Laura sollevò la pistola.
-L'ascensore scendeva. 8. 7.
-Il cane da guardia avanzava. Passi metallici scandivano il tempo.
-6. 5.
-I pistoni sibilavano.
-4. 3.
-«Dietro di me.»
-2. 1.
-Le porte si aprirono con uno sblocco pneumatico.
-Il primo cane scattò verso l'interno.
-Laura sparò. Tre lampi bucarono il buio. I proiettili colpirono la giuntura della zampa. La macchina sbandò. Metallo raschiò cemento.
-Claudio afferrò Laura, la trascinò dentro la cabina, premette il tasto dell'ultimo piano.
-La seconda unità caricò il varco.
-Le porte si chiusero. Un tonfo sordo contro l'acciaio fece tremare la cabina. Ascesero nel vuoto.`;
+export const chapter40Content = `Macro-Capitolo 40: La Base della Torre
+[ROMA - QUARTIERE NORD - TORRE DI TRASMISSIONE]
+La recinzione di filo spinato cedeva verso l'esterno, come se una forza invisibile l'avesse schiacciata contro l'asfalto crepato. La Torre di Trasmissione incombeva sopra di loro con la sua mole brutale di cemento e acciaio. Trecentodieci metri di ingegneria radiotelevisiva bucavano il cielo color piombo, svanendo tra le nuvole basse e sferzate dal vento. Un pesante portale grigio blindato bloccava l'ingresso principale. La catena avvolta attorno alle maniglie mostrava un taglio netto, recente. Laura spinse le ante gemebondi. Entrarono nel ventre della struttura.
+Un buio solido e polveroso sigillava l'atrio circolare. Laura accese la torcia tattica montata sulla canna della pistola. Il fascio bianco tagliava l'aria satura di calce in sospensione. I cavi elettrici penzolavano dal soffitto come liane morte in una giungla tecnologica decaduta. L'ascensore di servizio era spento, una cabina di ferro immobile nel vano aperto.
+«Dobbiamo scendere nel seminterrato,» indicò Claudio, tossendo per l'aria stantia. Puntò la mano verso la porta metallica a sinistra, seminascosta da una pila di casse vuote.
+Scesero la rampa di cemento grezzo. L'odore acre di gasolio vecchio e ruggine li investì con violenza man mano che scendevano. Il seminterrato nascondva quattro enormi generatori diesel di emergenza. Cavi spessi quanto un braccio alimentavano i quadri elettrici industriali alle pareti. Il pavimento vibrava leggermente, non per i motori, ma per i bombardamenti lontani. Claudio cercò la valvola di mandata sul generatore principale. L'ottone era ossidato, quasi verde.
+«Ruotala in senso orario, con tutta la forza che hai,» ordinò alla donna.
+Laura afferrò la manopola gelida, puntando i piedi per fare leva. Un clic metallico risuonò nel vuoto sotterraneo. La valvola girò con urto. Lo sforzo eccessivo la fece vacillare per un istante, ma non mollò la presa fino a fine corsa.
+«Leva di innesco. Il manico rosso a destra,» disse l'ingegnere, monitorando i calibri della pressione.
+Laura afferrò la leva con entrambe le mani. Sentì una resistenza elastica, quasi organica. Poi ci fu il cedimento finale. Un fragore metallico di ingranaggi che mordono l'acciaio echeggiò nel vano.
+Il generatore ruggì all'improvviso, sputando una nuvola di fumo nero e denso dallo scarico a parete. Il pavimento iniziò a tremare sotto il rombo continuo e rassicurante dei pistoni. Luci arancioni d'emergenza inondarono il seminterrato, ridando vita ai display. La sequenza di accensione risalì rapidamente la rampa dei circuiti. La struttura della Torre brillò per trecentodieci metri sopra le loro teste, alimentata dal sangue di gasolio. Salirono i gradini di corsa, col cuore in gola. Il display dell'ascensore mostrò finalmente un LED verde pulsante. Premettero il tasto di chiamata. Il meccanismo delle funi iniziò la sua discesa lenta e rumorosa.
+Qualcosa premeva furiosamente contro il portale d'ingresso, al piano superiore. Era un peso massiccio, meccanico. Il metallo blindato cedette sotto una spinta idraulica immane. Un boato di acciaio strappato vibrò in tutto l'atrio. Laura spense la torcia e si mise in copertura dietro un pilastro. Nel portale apparve una sagoma inquietante e aliena. Aveva quattro zampe meccaniche arcuate, simili a quelle di un insetto gigante. La struttura toracica ruotava una torretta di sensori a 360 gradi. Agiva con una precisione spaventosa. Dietro la prima unità, nel buio della pioggia, apparve la sagoma della seconda.
+I sensori laser puntarono immediatamente i due ribelli. Il LED frontale dei droni quadrupedi — i famigerati "Cani da Guerra" di ABITES — virò dal blu al rosso sangue. Laura sollevò la Glock, mirando ai giunti. L'ascensore stava ancora scendendo nel pozzo. Ottavo piano. Settimo. Sesto. I cani d'acciaio avanzavano nell'atrio con un rumore di artigli sul granito. I loro passi metallici scandivano il tempo rimasto alla vita. Quinto piano. Quarto. I pistoni droni sibilavano, pronti allo scatto. Terzo piano. Secondo.
+«Mettiti dietro di me, Claudio!» ordinò Laura, senza staccare l'occhio dal mirino.
+Primo piano. Le porte della cabina si aprirono con uno sblocco pneumatico violento. Il primo drone scattò verso l'interno, una massa di trecento chili di metallo in movimento. Laura sparò tre volte. Tre lampi bucarono il buio dell'atrio. I proiettili al tungsteno colpirono la giuntura della zampa anteriore destra del robot. La macchina sbandò per la perdita di equilibrio. Il metallo raschiò ferocemente contro il cemento armato del pavimento, sollevando una pioggia di scintille.
+Claudio afferrò Laura per la giacca, trascinandola a forza dentro la cabina metallica. Premette ripetutamente il tasto dell'ultimo piano. La seconda unità lealista caricò verso il varco che si stava chiudendo. Le porte si serrarono all'ultimo millimetro. Un tonfo sordo e vibrante contro l'acciaio fece sussultare la struttura dell'ascensore. Iniziarono l'ascesa finale nel vuoto verticale della Torre, sospesi sopra un nemico che non si sarebbe fermato.`;

@@ -1,37 +1,17 @@
 export const chapter9Content = `Macro-Capitolo 9: Cortocircuito e Sangue
 [BOLOGNA - PLESSO SCOLASTICO ABITES - CLAUDIO E LAURA]
-
-Diciassette secondi.
-Latenza biologica d'avvio. Il modulo biometrico impiegava diciassette secondi esatti prima di allertare il nodo centrale e chiudere i backup di sicurezza. Claudio padroneggiava il calcolo. Lo aveva architettato lui anni prima. Inizialmente concepito come scudo vitale per il ministero, ora misurava la falcata tra la fuga e l'esecuzione.
-La guaina d'aggancio del server brillava a venti centimetri.
-
-Dal corridoio scuro crepitò un ticchettio.
-Otto arti metallici frusciarono il linoleum. Un drone aracnoide pattugliava il perimetro a dieci metri lineari, in avanzamento aggressivo.
-Claudio congelò la postura. La sua impronta autorizzativa era nulla. Restava solo l'oblio elettrico. Creare un ponte non calibrato tra i connettori ad alto voltaggio, provocando un picco.
-Laura piantonava lo stipite, impugnando la fondina ad estrazione rapida.
-
-La bestia metallica accorciò il raggio d'azione.
-Laura agì d'istinto militare. Eluse ogni vibrazione o rumore. Estrasse un minuscolo cilindro EMP.
-L'aracnoide d'acciaio strisciò sul varco. Claudio sfoggiò fronte alla base pneumatica del mostro.
-«Adesso!»
-Laura abbatté la leva al pollice. Il flash EMP detonò una scarica elettromagnetica muta e disumana. 
-Crepitio plastico e stridore di lega: il predatore si paralizzò. I sensori d'equilibrio frissero bruciando rame. Crollò a terra con un tonfo metallico sordo.
-Sette secondi sprecati. Ne restavano dieci all'allarme centrale.
-
-Claudio avvolse il palmo destro del giubbotto tattico per spessore isolante. Estrasse dal fianco la cruda barra in acciaio rompivetro. L'arpionò tra i contatti della carcassa del server distrettuale.
-«Coprimi.» 
-«Allargo i morsetti, muoviti.»
-L'ingegnere strinse il manico isolato. Gonfiò d'aria i polmoni lesionati. Fletté le ginocchia per stabilità. Conficcò pesantemente il metallo e incrociò i poli d'alimentazione.
-
-Il rigetto termico fu devastante. Un arco voltaico sputò una lingua di plasma abbagliante e rovente. La fiammata avvampò il tricipite di Claudio. Ustionò ferocemente la carne scoperta oltre la manica disciolta a calore alieno. L'onda d'urto lo respinse indietro, ma l'uomo serrò i denti. Nessun passo indietro prima del traguardo cibernetico.
-Il bianco abbacinante inghiottì l'aula scolastica pre-decisionale. Il sistema collassò sputando e sciogliendo le resistenze in plastica indurita dell'interfaccia.
-Claudio iniettò il drive ribelle col braccio sinistro sano dritto nel modulo esposto.
-Un netto clic logico s'innestò e chiuse l'infiltrazione passiva virale ai danni di ABITES.
-
-L'esplosione sbalzò Claudio oltre i banchi colorati dell'asilo. Il suo braccio fumava per l'ustione carnale. Laura balzò svelta le barriere divelte dei tavoli per soccorrerlo. L'aria puzzava di plastica esplosa e sangue scottato.
-
-«In piedi, muoversi!» ringhiò l'aiutante rurale, estraendo l'arma.
-«Sono in asse.» Claudio si issò dolorosamente. Fece perno sulle scarpiere asettiche dell'aula. Sfidò l'onda d'urto e i tendini lacerati.
-Gli schermi si spensero a catena. Il server educativo distrettuale morì. Le linee di connessione neurologica con Vane a Londra caddero tagliate. 
-
-Sfondarono la porta tagliafuoco in metallo. Assaggiarono l'aria fredda della strada periferica. Il rumore dei mezzi cingolati urbani saturate le frequenze d'attacco. Aggirarono le termocamere nascondendosi tra i ruderi industriali. Il tricipite bruciato urlava dolore. Il costato perdeva sangue fognario vivo nell'alba nebbiosa d'Italia.`;
+Diciassette secondi esatti. Era la latenza biologica d'avvio del sistema difensivo di zona. Il modulo biometrico impiegava diciassette secondi prima di allertare il nodo centrale londinese e chiudere definitivamente tutti i backup di sicurezza software. Claudio conosceva perfettamente quel calcolo matematico. Lo aveva progettato e testato lui stesso, anni prima, per Julian Vane. La guaina d'aggancio in titanio del server brillava a soli venti centimetri dal suo viso sudato.
+Dal corridoio esterno arrivò un ticchettio metallico rapido, sinistro. Otto arti d'acciaio frusciarono sul linoleum pulito della scuola. Un drone aracnoide pattugliava il perimetro in avanzamento aggressivo, i sensori laser in modalità ricerca. Claudio congelò ogni muscolo, bloccando persino il respiro. La sua autorizzazione d'accesso era stata annullata. Doveva creare un picco elettrico massivo tra i connettori ad alto voltaggio per bypassare il blocco. Laura piantonava lo stipite della porta con la mano sulla fondina della pistola.
+La bestia metallica accorciò le distanze nel silenzio dell'aula. Laura agì d'istinto puro. Estrasse un cilindro EMP a corto raggio. L'aracnoide d'acciaio arrivò davanti al varco, ruotando il visore termico verso la stanza.
+«Adesso! Fallo ora!» ordinò Claudio tra i denti.
+Laura azionò la leva con un colpo secco. Il flash EMP detonò una scarica elettromagnetica silenziosa ma devastante. Il predatore si paralizzò all'istante, investito dall'onda d'urto invisibile. I suoi sensori d'equilibrio bruciarono con un crepitio elettrico. Il drone crollò a terra con un tonfo sordo, una carcassa di silicio inutile. Erano passati sette secondi. Ne restavano solo dieci prima dell'allarme generale del Nodo.
+Claudio avvolse il palmo della mano destra nel tessuto spesso del giubbotto per isolarsi dalla scarica. Estrasse una barra d'acciaio temperato dal fianco. La incastrò con forza tra i contatti scoperti del server distrettuale.
+«Coprimi le spalle, Laura,» disse l'ingegnere, il sudore che gli bruciava negli occhi.
+«Muoviti e basta!» rispose lei, puntando l'arma verso l'ingresso.
+L'uomo inspirò forte, riempiendosi i polmoni di aria calda. Fletté le ginocchia per trovare la massima stabilità. Conficcò il metallo tra i poli e incrociò i circuiti d'alimentazione principale.
+Il rigetto termico fu immediato e violento. Un arco voltaico azzurro sputò una lingua di plasma rovente a tremila gradi. La fiammata colpì in pieno il braccio di Claudio, ustionandogli la carne viva oltre la manica della giacca disciolta dal calore. L'onda d'urto lo respinse con forza, ma l'uomo non mollò la presa sulla barra. Non fece un solo passo indietro, nonostante il dolore fosse insopportabile. La luce bianca dell'arco riempì l'aula scolastica deserta. Il sistema di raffreddamento collassò e le resistenze di plastica si sciolsero in pochi secondi.
+Claudio inserì il drive ribelle di Aris nel modulo esposto del server fumante. Un clic metallico confermò l'innesto riuscito. L'infiltrazione virale ai danni di ABITES era finalmente iniziata nel cuore del Nodo bolognese. Un'esplosione elettrica secondaria sbalzò l'ingegnere oltre i piccoli banchi colorati dell'asilo. Il suo braccio fumava per l'ustione di secondo grado. Laura saltò sopra i tavoli rovesciati per soccorrerlo, mentre l'aria puzzava di plastica bruciata, ozono e sangue.
+«In piedi, Claudio! Dobbiamo muoverci o resteremo sepolti qui!» ordinò la donna, estraendo l'arma dal fodero e puntandola verso il corridoio.
+«Ci sono... sto bene...» rispose lui, rialzandosi con un dolore che gli toglieva il fiato. Si appoggiò alle scarpiere in legno dell'aula. I tendini delle gambe erano tesi come corde di violino.
+Gli schermi di tutta la scuola si spensero all'istante. Il server educativo distrettuale era morto. Le linee di connessione privilegiate con la sede di Londra erano cadute definitivamente.
+Sfondarono la porta tagliafuoco in alluminio. L'aria fredda e umida della strada li colpì al volto, rigenerante. Il rumore lontano dei mezzi cingolati urbani di ABITES riempiva già tutte le frequenze radio del quartiere. Aggirarono le termocamere attive nascondendosi tra i ruderi dei capannoni industriali circostanti. Il braccio ustionato di Claudio urlava dolore a ogni vibrazione del terreno. Il suo costato perdeva ancora sangue fresco nell'alba nebbiosa di Bologna. La loro guerra era appena passata al livello successivo.`;

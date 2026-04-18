@@ -1,31 +1,24 @@
-export const chapter41 = `Capitolo 41: Tre Minuti di Vuoto
-Le porte si chiusero con un colpo secco. L'ascensore partì verso l'alto.
-Il pavimento di lamiera striata mostrava le cicatrici di anni di incuria: graffi, ammaccature e la data "14.03.2019" incisa col pennarello nero in un angolo. L'ultima volta che la normalità aveva salito quei piani.
-Claudio abbandonò la parete. Si sedette sul pavimento, appoggiando la schiena al pannello laterale. Il dolore al fianco esplose in fiamme sincronizzate col battito cardiaco. L'adrenalina drenava, lasciando spazio al tormento fisico.
-Laura controllò la pistola. Espulse il caricatore. Verificò i proiettili. Lo inserì con un movimento fluido. Ispezionò ogni tasca della giacca. Le mani restavano ferme, un'estensione della sua volontà meccanica.
-«Tre colpi rimasti. Nessuna riserva.»
-Claudio la osservò dal basso. La luce arancione di emergenza tagliava il suo viso. «Il modulatore possiede un sistema di autenticazione fisica. Devo bypassare il protocollo manualmente. Ho bisogno di tempo. Cinque minuti.»
-Laura fissò la porta dell'ascensore.
-«Le scale di servizio sbucano allo stesso piano.»
-«Sì.»
-«I Cani perdono velocità sulle scale.»
-«Sì.»
-Laura sedette contro la parete opposta, le armi posate sulla coscia, lo sguardo fisso verso i cavi che correvano verso l'oscurità del soffitto.
-«Dopo,» disse Claudio.
-Laura abbassò il mento.
-«Se il broadcast parte e i cerotti del sistema si sganciano, non ho programmato il seguito,» ammise Claudio. «Ho smesso di scrivere il codice prima di definire la fine.»
-Laura voltò la testa. Analizzò Claudio, scrutando ogni crepa nella sua certezza. «Non avevi previsto il rischio del modulatore. Eppure il drive era nella tua tasca.»
-Claudio tacque. Le parole di lei erano una mappa di una terra che non aveva osato esplorare.
-L'ascensore si bloccò.
-I freni di sicurezza scattarono di colpo. Il colpo metallico scosse la cabina. Le luci morirono. Un secondo di buio assoluto avvolse lo spazio prima che la torcia di Laura illuminasse il pavimento.
-Claudio si alzò facendo leva sulla paratia. Centosettanta metri. Poco più della metà del percorso.
-Il pannello presentava una scheda madre anni Dieci. Claudio individuò il cavo rosso, protetto da un relè di sicurezza.
-«Tieni ferma la torcia.»
-Laura si accostò al suo fianco sinistro. Il fascio di luce si fissò sul pannello.
-Il relè arancione proteggeva due terminali di rame. I muscoli di Claudio tremavano per il naturale esaurimento dei farmaci. Assecondò il tremore, usò la chiave di ottone come ponte.
-Il motore gemette. La cabina riprese a salire, procedendo lentamente verso la vetta.
-Al trecentesimo metro le luci arancioni tornarono a brillare. Le porte si spalancarono sulla stanza circolare.
-La città appariva sotto di loro, un plastico sterminato sotto un cielo grafite. Lampi bianchi segnavano il quartiere industriale.
-Al centro torreggiava il modulatore: un cilindro di metallo scuro, connettori pronti, una luce azzurra che pulsava in attesa.
-Claudio avanzò. I passi echeggiavano sul metallo. Laura presidiava la porta delle scale, pistola puntata verso l'ombra.
-Claudio posò la mano sul cilindro. La luce azzurra riverberò sul palmo. Inserì il drive nel pannello.`;
+export const chapter41Content = `Macro-Capitolo 41: Tre Minuti di Vuoto
+[TORRE DI TRASMISSIONE - ASCENSORE - LAURA E CLAUDIO]
+Le porte dell'ascensore si chiusero con un colpo secco e definitivo. La risalita verso la vetta della Torre di Trasmissione ebbe inizio. Il pavimento di lamiera striata mostrava le cicatrici di decenni di incuria: graffi profondi e ammaccature segnavano il metallo grigio. In un angolo, quasi invisibile sotto uno strato di polvere, appariva la data "14.03.2019" scarabocchiata con un pennarello nero sbiadito. Era stata l'ultima volta che la normalità aveva salito quei trecento metri.
+Claudio si staccò faticosamente dalla parete vibrante. Si lasciò scivolare fino a sedersi sul pavimento gelato, appoggiando la schiena al pannello laterale. Il dolore al fianco esplose nuovamente in fiamme bianche. Le fitte erano perfettamente sincronizzate con il battito del suo cuore, un martello che batteva contro la gabbia toracica. L'adrenalina, che lo aveva sorretto finora, veniva drenata via dal suo organismo, lasciando il posto a un tormento fisico puro e inesorabile.
+Laura non si sedette. Controllò la Glock con gesti metodici, esperti. Espulse il caricatore, verificando i pochi proiettili al tungsteno rimasti. Lo inserì di nuovo con un movimento fluido, facendo scattare l'otturatore. Ispezionò ogni tasca della giacca tattica, alla ricerca di un ultimo caricatore che sapeva di non avere. Le sue mani restavano incredibilmente ferme, prive di ogni tremolio. Erano ormai un'estensione della sua pura volontà meccanica.
+«Tre colpi rimasti nel caricatore. Nessuna riserva di munizioni,» constatò la donna con voce piatta.
+Claudio la osservò dal basso, con la vista leggermente offuscata dalla febbre. La fioca luce arancione di emergenza della cabina tagliava il profilo duro del suo viso.
+«Il modulatore in cima possiede un sistema di autenticazione fisica a layer multiplo,» spiegò l'ingegnere, cercando di concentrarsi. «Dovrò bypassare il protocollo di sicurezza manualmente, riga per riga di codice. Ho bisogno di tempo totale. Almeno cinque minuti senza interruzioni.»
+Laura spostò lo sguardo sulla porta dell'ascensore. Sapeva che le scale di servizio sbucavano allo stesso piano tecnico. I "Cani da Guerra" di ABITES avrebbero perso velocità sui gradini, ma non si sarebbero fermati.
+La donna sedette infine contro la parete opposta a quella di Claudio, ponendo il fucile trasversalmente sulla coscia. Lo sguardo era fisso verso i cavi scoperti del soffitto della cabina.
+«Cosa succederà dopo, Claudio? Se ci riusciamo?» chiese lei improvvisamente.
+L'ingegnere abbassò il mento sul petto, sentendo il sapore del ferro in bocca.
+«Se il segnale di broadcast parte e i cerotti neurali si sganciano... non ho programmato il seguito,» ammise con una nota di stanchezza infinita. «Ho smesso di scrivere il codice di simulazione prima di definire la fase di ricostruzione. Forse perché non ho mai creduto davvero di arrivare fin qui.»
+Laura voltò la testa lentamente. Analizzò l'uomo seduto davanti a lei, scrutando ogni singola crepa nella sua certezza di architetto.
+«Avevi previsto tutto, tranne il rischio reale di questo momento. Eppure quel drive è sempre stato nella tua tasca.»
+Claudio tacque. Le parole della donna erano una mappa di una terra psicologica inesplorata che non aveva voglia di percorrere.
+L'ascensore si bloccò all'improvviso con uno stridore di metallo. I freni di sicurezza a tenaglia scattarono sui binari laterali. Il colpo scosse l'intera cabina, lanciandoli contro le pareti. Le luci morirono all'istante. Il buio assoluto avvolse lo spazio per un secondo eterno. Poi la torcia tattica di Laura illuminò il pavimento ricoperto di polvere. Claudio si alzò facendo leva sulla paratia, ignorando la fitta al fianco. Erano a centosettanta metri. Poco più della metà del tragitto totale.
+Il pannello elettrico superiore nascondeva una vecchia scheda madre corrosa. Claudio individuò il cavo di alimentazione rosso protetto da un relè magnetico.
+«Tieni ferma la torcia, Laura. Non tremare,» ordinò.
+La donna si accostò al suo fianco, sentendo il calore del suo corpo. Il fascio di luce si fissò sui minuscoli componenti. Il relè arancione proteggeva due terminali di rame vivo. I muscoli dell'ingegnere tremavano per l'esaurimento dei farmaci. Assecondò il tremore, sfruttandone il ritmo. Usò la punta della sua chiave di ottone come ponte elettrico improvvisato.
+Una scarica azzurra illuminò brevemente la cabina. Il motore elettrico gemette in alto, sopra di loro. La cabina riprese a salire lentamente, centimetro dopo centimetro, verso la vetta. Al trecentesimo metro, le luci arancioni tornarono a brillare fisse. Le porte si spalancarono finalmente sulla grande stanza circolare in cima alla Torre.
+Roma apparve sterminata e morente sotto di loro, attraverso le vetrate sporche. Il cielo era color grafite, illuminato da lampi bianchi che segnavano i quartieri dove la rivolta elettrica era più feroce.
+Al centro esatto della sala torreggiava il modulatore di frequenza primario. Era un cilindro massiccio di metallo scuro, circondato da cavi coassiali pronti alla trasmissione. Una luce azzurra pulsava alla base, segnalando la modalità di attesa del sistema. Claudio avanzò verso il centro. I suoi passi echeggiano pesantemente sul pavimento metallico. Laura presidiò immediatamente la porta delle scale, puntando la pistola verso l'ombra rimbombante che saliva dal basso.
+Claudio posò la mano tremante sul cilindro. La luce azzurra riverberò sul suo palmo sudato. Inserì il drive finale nel pannello operativo operativo. Il tempo dell'ultima menzogna era finito.`;

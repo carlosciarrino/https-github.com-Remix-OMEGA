@@ -1,29 +1,15 @@
-export const chapter35 = `Capitolo 35: Effetto a Cascata
-Il drive bruciava ancora nel pugno di Claudio.
-Laura spalancò la porta con la spalla. Aria gelata invase la stanza, saziandosi di plastica squagliata.
-Cyrus stava tra le vasche, barcollante. Il busto inclinato a destra. Un'angolazione grottesca. Il braccio sinistro scattava. Tre centimetri avanti. Uno indietro. Una danza di cortocircuiti.
-Aprì la bocca. Non parlò. Ruggì un rumore digitale. Frastuono di dati frantumati. Poi la voce. Piatta. Sottile. «Il sistema... Il sistema reclama... Claudio, sento—»
-Distorsione.
-Il braccio destro scattò verso di loro. Si bloccò a mezz'aria. Il corpo implorava ordini che ABITES aveva troncato.
-Laura premette il grilletto. Impatto secco. Cyrus schiantò contro il muro. Le gambe provarono a camminare nel vuoto. Il cranio emise un fischio acuto. Si spense.
-Claudio balzò avanti. Il fianco perdeva pezzi. Calore sporco, umido, inzuppava la giacca. Il corridoio rosso urlava. Contò le strisce di neon. Tre. Sei. Nove. L'ossessione conservava i resti organici.
-Luci morte per due secondi. Il buio inghiottì tutto. Poi il rosso. Metallo batteva contro metallo sopra di loro. ABITES tranciava i rami per salvare la radice.
-«Scale,» disse Laura. Indicò a sinistra.
-Il sensore della porta ignorò il comando. Laura assestò un colpo secco. Pneumatica. La porta urlò, poi si arrese.
-Scale. Cemento. Luci piatte. Stabilità in un edificio che moriva.
-Claudio afferrò la ringhiera. La mano sinistra premuta sulla carne squarciata.
-Salirono.
-Al secondo piano esplose la canalina elettrica. Fumo nero strisciava sotto le porte. Al terzo, il buio rimpiazzò la luce. Claudio contò i gradini col tatto.
-Al quarto piano il polso di Claudio cedette contro un gradino. Il respiro squarciava il petto.
-Laura si piantò sotto il suo braccio. Spinta bruta. Salirono ancora. Un unico ingranaggio di carne e dolore.
-Sesto piano. Il rombo della ventilazione diventò un lamento. Ottavo piano. La porta verde. Nessun pannello.
-Laura spinse.
-L'esterno esplose nell'aria gelata della città. Claudio crollò contro un condizionatore. Il metallo gelido restituì la vita.
-Laura si guardò intorno. La pistola era un peso morto.
-Il vento asciugò il sudore.
-Un drone cadde. Planò verso il basso, verso lo spazio nero.
-Il settore nord si oscurò. Un isolato alla volta. Il buio mangiava la metropoli. Non erano interruzioni. Era il reset.
-Claudio guardò i settori neri allargarsi. Isolati in fiamme di elettricità tentavano di restare accesi. 
-Laura si sedette accanto. Spalla contro spalla.
-Il drive era sotto le fondamenta. L'Omega triturava la mappa del potere. Con lentezza. Senza pietà.
-Il conto alla rovescia era una sentenza. Un altro isolato di luci esplose nel buio. Inesorabile. L'architettura del controllo diventava cenere.`;
+export const chapter35Content = `Macro-Capitolo 35: Effetto a Cascata
+[TORRE ABITES - FUGA - LAURA E CLAUDIO]
+Il drive dell'Omega bruciava ancora come carboni ardenti nel pugno di Claudio. Laura spalancò la porta d'emergenza con un colpo di spalla violento. L'aria gelata dei condotti tecnici invase la stanza, scontrandosi con il calore sprigionato dai server in fiamme. L'odore di plastica squagliata e bachelite saturava l'ambiente, rendendo ogni respiro una scommessa contro il soffocamento.
+Cyrus stava in mezzo alla sala di decantazione, tra le vasche sventrate. Barcollava vistosamente. Il suo busto era inclinato in un'angolazione grottesca verso destra. Il braccio sinistro scattava in una danza frenetica di cortocircuiti: tre centimetri avanti, uno indietro, un loop infinito di comandi interrotti. Aprì la bocca per parlare, ma non ne uscì alcuna parola umana. Ruggì un rumore digitale bianco, un frastuono di dati frantumati che gli usciva dalle viscere cibernetiche. Poi, attraverso le casse acustiche danneggiate della sala, arrivò la sua vera voce. Era piatta, sottile, priva di corpo.
+«Il sistema... percepisce la fine del calcolo,» biascicò l'uomo-macchina. Il suo occhio artificiale brillava di un rosso morente.
+Sopra di loro, una distorsione elettrica fece esplodere i neon. Il braccio destro di Cyrus scattò improvvisamente verso i ribelli, ma si bloccò a mezz'aria. Il suo corpo organico implorava ordini che ABITES aveva smesso di inviare. Laura non ebbe esitazioni. Premette il grilletto della Glock due volte. L'impatto fu secco e brutale. Cyrus si schiantò contro il muro di cemento. Le sue gambe provarono a continuare una marcia fantasma nel vuoto per qualche secondo. Il cranio emise un fischio ultrasonico acuto, poi le spie si spensero. Si accasciò al suolo per sempre, un relitto di silicio e carne inutile.
+Claudio balzò avanti, superando il cadavere. Il fianco gli perdeva sangue in modo costante, inzuppando la giacca tattica e lasciando una scia rossa sul pavimento asettico. Il corridoio rosso urlava sotto il peso delle sirene d'allarme. L'ingegnere contò le strisce di neon che sfarfallavano. Tre. Sei. Nove. La sua ossessione geometrica era l'unica cosa che conservava i resti della sua lucidità organica. Le luci morirono per due lunghi secondi. Il buio inghiottì ogni cosa. Poi tornò il rosso, più cupo. Metallo batteva contro metallo sopra le loro teste: ABITES stava tranciando i collegamenti fisici per tentare di salvare il nucleo.
+«Le scale d'emergenza, presto!» indicò Laura a sinistra, sfondando una grata.
+Il sensore della porta ignorò il comando di apertura. Laura assestò un calcio secco alla maniglia, deformando il metallo. La porta si arrese. Scale di cemento nudo. Luci piatte e intermittenti. Era l'unica via di stabilità in un edificio che stava morendo dall'interno.
+Claudio afferrò la ringhiera d'acciaio con la mano sana. Teneva l'altra premuta sulla ferita al fianco. Salirono con il cuore che rimbombava nei timpani. Al secondo piano esplose una canalina elettrica, sputando scintille blu e fumo nero che strisciava sotto le porte tagliafuoco. Al terzo piano il buio rimpiazzò definitivamente la luce. Claudio contò i gradini con il tatto, sentendo la polvere sotto i polpastrelli. Al quarto piano il suo polso sinistro cedette per un istante. Cadde sul gradino freddo, il respiro che gli squarciava il petto come una lama.
+Laura si piantò sotto il braccio dell'uomo, in una spinta bruta e disperata. Salirono ancora, diventando un unico ingranaggio di carne, dolore e volontà residua. Sesto piano. Il rombo della ventilazione della torre si era trasformato in un lamento funebre. Ottavo piano. La porta verde d'uscita apparve finalmente davanti a loro. Non c'era più alcun pannello di controllo attivo. Laura premette con tutto il suo peso e la porta si spalancò sull'esterno.
+L'aria gelata della notte romana esplose nei loro polmoni. Claudio crollò contro il metallo di un condizionatore industriale sul tetto della base. Il freddo gli restituì un barlume di vita. Laura rinfoderò la pistola, che ora sembrava un peso morto e inutile. Il vento asciugò il sudore ghiacciato sulle loro fronti.
+Un drone ricognitore cadde dal cielo come un uccello fulminato, schiantandosi contro l'asfalto sottostante. Il settore nord dell'EUR si oscurò all'improvviso. Un isolato alla volta. Il buio mangiava la metropoli pezzo dopo pezzo. Non erano semplici interruzioni di corrente. Era il reset globale.
+Claudio guardò le zone d'ombra allargarsi sulla mappa di Roma. Qualche incendio isolato tentava di resistere nel nero assoluto. Laura si sedette accanto a lui, spalla contro spalla. Respiravano lo stesso sapore di cenere e libertà.
+Il virus Omega stava triturando l'architettura del potere dal profondo delle fondamenta. Agiva con una lentezza metodica e senza pietà, proprio come era stato progettato. Un altro isolato di luci esplose e svanì. Inesorabile. Il mondo di ABITES stava diventando cenere.`;

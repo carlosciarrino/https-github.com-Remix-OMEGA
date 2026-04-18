@@ -1,16 +1,18 @@
-export const chapter31 = `Capitolo 31: Il Cuore di Vetro
-Il cilindro di vetro e silicio pulsava di migliaia di spie verdi, emettendo una luce uniforme che inondava la sala. Claudio collegò il lettore alla porta seriale del terminale. Le dita, rigide per il gelo, tremavano, ma l'adrenalina bloccò ogni esitazione.
-Laura si posizionò contro la porta blindata, premendo l'orecchio contro l'acciaio. Sentì i colpi metallici degli operatori d'assalto al lavoro sui cardini. Il tempo si frammentò.
-Il download avviò lo scorrimento del testo verde sul terminale. Il lettore si surriscaldou, bruciando la pelle dei palmi di Claudio.
-«ALLARME: TEMPERATURA CRITICA,» avvisò il sistema.
-L'IA nemica tentava di innescare il blocco termico. Claudio bypassò i loop, dirottando i flussi di dati.
-Download: ventidue percento.
-Un colpo meccanico squassò la porta blindata. I cardini risuonarono. Laura strinse il coltello, pronta a intercettare l'ingresso dei nemici.
-Download: sessantadue percento. Claudio spinse il lettore al limite, sganciando i limitatori di carico.
-Download: ottantuno percento. Il cardine superiore fischiò sotto lo sforzo.
-Claudio incrociò lo sguardo di Laura. Le dita gli bruciavano per il calore sprigionato dal drive.
-Download: novantanove percento.
-La porta blindata cedette, svelando una luce rossa pulsante.
-Download: cento percento.
-Claudio strappò lo spinotto colmo di plastica fusa e scagliò il lettore rovente contro gli operatori d'assalto appena entrati. L'impatto causò una repentina decompressione termica, scatenando una palla di fuoco che inondò il corridoio.
-Claudio afferrò il drive, corse verso il varco e superò Laura, che si era celata nell'ombra. Fuggirono nel caos.`;
+export const chapter31Content = `Macro-Capitolo 31: Il Cuore di Vetro
+[TORRE ABITES - NUCLEO - LAURA E CLAUDIO]
+Il cilindro centrale di vetro e silicio pulsava con una frequenza ipnotica. Migliaia di spie a LED verdi inondavano la sala circolare di una luce uniforme, priva di ombre. Claudio si avvicinò al terminale della Radice, trascinando il braccio inerte. Collegò il lettore del drive Mythos-7 alla porta seriale primaria. Le sue dita erano rigide, intorpidite dal gelo a quattro gradi della sala server. L'adrenalina residua bloccò ogni esitazione Residua.
+Laura si posizionò tatticamente contro la porta blindata in titanio, l'unico accesso alla sala del nucleo. Premette l'orecchio contro il metallo freddo. Sentì i colpi ritmici e pesanti degli operatori d'assalto lealisti. Gli uomini stavano usando una fresa termica sui cardini dall'esterno. Il tempo si frammentò in battiti cardiaci accelerati.
+«Stanno arrivando, Claudio!» avvertì la donna senza voltarsi.
+Il download del virus OMEGA avviò lo scorrimento frenetico del testo esadecimale sul monitor principale. Il lettore si surriscaldò istantaneamente per l'enorme mole di dati in transito. Il calore sprigionato iniziò a bruciare la pelle del palmo sinistro di Claudio, ma l'ingegnere non mollò la presa.
+ALLARME: SURRISCALDAMENTO CRITICO HARDWARE.
+Cyrus stava tentando di innescare un blocco termico preventivo per proteggere il core. Voleva friggere i circuiti del terminale prima che il virus completasse l'iniezione. Claudio bypassò i loop di controllo software con una serie di comandi manuali, dirottando i flussi di dati verso i sottosistemi di raffreddamento secondari. Puzzava di plastica fusa e ozono.
+Download al ventidue percento.
+Un colpo meccanico squassò la porta blindata, facendo cadere scaglie di vernice bianca sul pavimento. I cardini superiori risuonarono nel vuoto come campane a morto. Laura strinse l'impugnatura del fucile. Era pronta a intercettare il primo soldato che avrebbe varcato la soglia.
+Download al sessantadue percento. Claudio spinse il drive oltre ogni limite nominale di progetto. Sganciò i limitatori di carico hardware, permettendo alla tensione elettrica di fluire senza freni. La scheda madre del terminale emise un sibilo acuto. Una nuvola di fumo azzurrognolo si alzò dalla console.
+Download all'ottantuno percento. Il cardine superiore del portone si schiantò al suolo con un boato metallico. La porta iniziò a cedere verso l'interno, piegata dalla forza della squadra d'assalto.
+Claudio incrociò lo sguardo di Laura. Le fiamme del terminale illuminavano i loro volti sporchi di fango. Le dita dell'ingegnere erano ormai incollate alla plastica fusa del drive.
+Download al novantotto percento.
+La porta blindata cedette definitivamente con un schianto assordante. Una luce rossa pulsante e il vapore dei sistemi antincendio invasero il varco. Tre soldati lealisti in armatura pesante apparvero nella nebbia artificiale.
+Download al cento percento. INIEZIONE OMEGA COMPLETATA.
+Claudio strappò lo spinotto rovente. Il dolore fu una frustata che gli percorse tutto il sistema nervoso. Scagliò il drive incandescente contro il gruppo degli assalitori come una granata improvvisata. L'impatto con il sistema di ossigenazione degli zaini dei soldati causò una repentina decompressione termica. Una palla di fuoco divampò istantaneamente nel corridoio.
+Claudio afferrò Laura per la spalla. Corsero verso un varco laterale di evacuazione tra le fiamme e il fumo tossico. La donna si liberò con un balzo, coprendo la loro ritirata con una raffica di proiettili al tungsteno. Fuggirono nel caos dell'esplosione, mentre la Torre EUR iniziava a tremare per il primo colpo mortale inflitto al suo cuore digitale.`;

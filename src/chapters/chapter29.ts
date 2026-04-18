@@ -1,19 +1,20 @@
-export const chapter29 = `Capitolo 29: Sangue sui Server
-Claudio si staccò dal vetro. La voce dell'Agente continuava a martellare dettagli privati, un'arma psicologica inutile. Claudio voltò le spalle alla barriera. Fisso l'obiettivo, non ascoltò il ricatto.
-Svoltò in un corridoio laterale, ignorando le immagini ingannevoli riflesse dalle pareti. Calibrò il peso, pronto allo scontro.
-Curva a sinistra. Area di stoccaggio. Il ronzio dei server vibrò intensamente sotto le suole. Tre tecnici tattici, protetti da gilet balistici e armati di torce, perlustravano l'area con brutale sistematicità.
-Claudio scattò. Afferrò la nuca del primo tecnico e lo schiantò contro un rack metallico con un colpo netto. Definitivo.
-Le torce delle altre due guardie puntarono verso di lui in un lampo di luce. Claudio chiuse la distanza, incassò un colpo e impuntò i talloni, trascinando la guardia contro il telaio del server. Le vibrazioni scossero il corridoio.
-La terza guardia azionò il dispositivo di scansione pesante. Claudio scivolò sotto l'arco del colpo, piantò una spalla nel plesso solare dell'avversario e lo abbatté al suolo. Ginocchio sul petto della guardia. Respiro spezzato.
-La seconda guardia tornò all'attacco. Claudio ruotò il capo, subendo un colpo di striscio. Il suo campo visivo esplose in un lampo bianco. Sferrò una gomitata sinistra al viso dell'avversario, lo scagliò contro il rack, tra i lampi rossi delle spie di allarme. La guardia cadde immobile.
-Claudio respirò a fatica. Il sangue gli scendeva dalla guancia calda sulla pelle gelida. Sfilò la tessera magnetica dal gilet del nemico. Clic pneumatico. Accesso M-7.
-Il corridoio di Laura apparve oltre la paratia. Claudio era nel suo settore.
+export const chapter29Content = `Macro-Capitolo 29: Sangue sui Server
+[TORRE ABITES - AREA SERVER - CLAUDIO E LAURA]
+Claudio si staccò dal vetro gelido con uno strappo muscolare. La voce dell'Agente Cyrus continuava a martellare dettagli privati nel silenzio, cercando di sgretolare la sua volontà a colpi di dossier. L'ingegnere voltò le spalle alla barriera, smettendo di ascoltare quella registrazione clinica. Guardò Laura, ancora in piedi al di là del cristallo, poi si focalizzò sul corridoio che portava verso il nucleo del settore M-7.
+Svoltò in un passaggio laterale saturo di cavi a fibra ottica che pendevano dal soffitto come viticci meccanici. Ignorò i riflessi ingannevoli che lo circondavano. Calibrò il peso sui talloni, preparando il corpo all'impatto finale. Raggiunse l'area di stoccaggio energetico, dove il ronzio dei server industriali faceva vibrare ogni centimetro di pavimento in linoleum. Tre tecnici della sicurezza tattica, con gilet balistici e visori ad infrarossi, stavano perlustrando l'area con torce ad alta intensità.
+Claudio non attese di essere scoperto. Scattò nell'ombra tra due rack metallici. Afferrò la nuca del primo tecnico con la mano sinistra, l'unica ancora pienamente funzionale. Lo schiantò con un movimento secco contro lo spigolo d'acciaio di un mainframe. Il colpo fu definitivo: l'uomo stramazzò al suolo senza emettere un suono. Le torce degli altri due soldati lo puntarono istantaneamente, accecandolo.
+Claudio chiuse la distanza con un balzo disperato. Incassò un colpo violento alla spalla destra, proprio dove la carne ustionata bruciava ancora sotto le bende. Il dolore gli annebbiò la vista, ma non lo fermò. Impuntò i piedi e trascinò la seconda guardia contro il telaio di un trasformatore di potenza. Le vibrazioni dello scontro fecero oscillare le luci d'emergenza rosse del corridoio.
+La terza guardia azionò un manganello elettrico ad alto voltaggio. Claudio scivolò sotto il fendente, sentendo l'ozono friggere a pochi centimetri dal suo orecchio. Piantò la spalla nel plesso solare dell'avversario con tutto l'impeto che gli restava. Lo abbatté al suolo, schiacciandogli il petto con il ginocchio. Il respiro del soldato si spezzò in un rantolo strozzato.
+Il secondo uomo tornò all'attacco, brandendo la torcia pesante come una clava. Un colpo di striscio raggiunse la tempia di Claudio. La vista dell'ingegnere esplose in un lampo di luce bianca e stelle. Con un movimento istintivo, sferrò una gomitata rabbiosa al volto dell'avversario, rompendogli il setto nasale. Lo scagliò contro il rack, tra i lampi rossi delle spie d'allarme. La guardia cadde immobile in una pozza di riflessi cremisi.
+Claudio respirò a pieni polmoni l'aria condizionata. Il sangue caldo scendeva dalla sua guancia, lasciando una traccia scura sul collo. Sfilò la tessera magnetica di livello 5 dal gilet del nemico. La inserì nel lettore della paratia di cristallo che lo separava da Laura. Inserì il codice di override. Clic pneumatico.
+Accesso M-7 confermato.
+La paratia traslò lentamente verso destra. Claudio entrò nello spazio della donna.
 «Laura.»
-Lei si voltò. L'angoscia crollò. Claudio avvertì il calore corporeo di lei contro l'aria gelida; un punto di ancoraggio nel massacro.
-«Non è profonda,» disse Laura, guardando il polso ferito di lui.
-Ignorò la voce dell'Agente che continuava a distorcere le parole di ricatto.
-«Il nucleo. Distanza?» chiese Laura.
-Claudio aprì il lettore. «Settantadue metri.»
-Laura imbracciò lo zaino. Claudio ignorò il dolore costante al fianco: un dettaglio operativo, non un ostacolo.
-«Andiamo.»
-La voce dell'Agente alle loro spalle svanì nel ronzio dei server; restarono solo i loro passi e la frequenza fredda del luogo.`;
+Lei si voltò di scatto, con la mano ancora stretta sull'otturatore del fucile. Vedendo l'ingegnere, la sua maschera di marmo crollò per un istante. Claudio avvertì il calore del suo corpo nell'aria gelida della Torre. Era il suo unico punto di ancoraggio nel massacro.
+«Non è profonda,» disse Laura, sfiorando con le dita la ferita sul volto del compagno.
+Ignorarono la voce di Cyrus, che continuava a trasmettere dati sulle perdite civili della rivolta all'esterno. L'intelligenza artificiale non poteva più interferire con la loro prossimità fisica.
+«Distanza dal nucleo?» chiese Laura, ricaricando l'arma.
+Claudio consultò il display del modulo diagnostico. «Settantadue metri. Una sola porta blindata ci separa dal Volition Engine.»
+Laura imbracciò lo zaino. Claudio ignorò il dolore al fianco e al braccio. Erano diventati solo dettagli operativi, fastidiosi rumori di fondo.
+«Andiamo,» disse Laura.
+La voce dell'Agente svanì, coperta dal ronzio costante dei processori. Restarono solo i loro passi pesanti sulla frequenza fredda e spietata della Torre dell'EUR.`;
