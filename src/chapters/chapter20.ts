@@ -1,18 +1,35 @@
 export const chapter20Content = `Macro-Capitolo 20: Acqua e Tungsteno
 [ROMA SOTTERRANEA - BACINO IPOGEO - LAURA E CLAUDIO]
-L'acqua nera del bacino vibrò. Nessuna goccia cadeva dal soffitto di basalto. Era uno spostamento di massa calcolato, un'onda di disturbo meccanico che risaliva il flusso. Laura schiacciò Claudio contro una putrella d'acciaio arrugginita. Gli tappò la bocca con il palmo sporco di fango. L'ingegnere ebbe un sussulto muscolare, poi cedette alla morsa della donna. Il suo calore febbrile scottava sulla pelle di lei.
-«Segnale dinamico nel quadrante,» avvertì Carlo nell'auricolare. Il suo tono era strozzato dalla tensione. «È un dardo esplorativo dell'acquedotto. Una sonda autonoma serie MURENA. Cerca infiltrazioni strutturali e biologia estranea. Viaggia sotto il pelo dell'acqua. Spegnete tutto.»
-Il dardo affiorò a dieci metri di distanza con un fruscio idraulico. Era un cilindro di titanio lucido lungo due metri. Uno snodo flessibile lo rendeva simile a un predatore metallico. La testa ottica roteò nel buio. Un fascio laser rosso mappò l'Opus reticulatum millimetro per millimetro. Le appendici laterali, armate di seghe circolari diamantate per la rimozione dei detriti, ruotavano con un ronzio sommesso.
-Il raggio rosso strisciò sulla superficie dell'acqua, avvicinandosi alla massa termica di Claudio. Un solo contatto avrebbe allertato la centrale di sicurezza della Torre EUR. La fanteria lealista avrebbe saturato il cunicolo di piombo in meno di un minuto. Elio, dal rifugio, monitorava il segnale.
-«Il laser sta per agganciarvi,» sussurrò il tecnico. «Laura, devi agire ora.»
-La donna ignorò la pistola. Il rumore dello sparo avrebbe attirato i sismografi di ABITES. La furtività richiedeva carne e lama. Laura sganciò il moschettone di trazione che la legava a Claudio. Sguainò il coltello tattico in tungsteno. Scivolò nell'acqua nera senza increspare la superficie. Trattenne il respiro.
-Usò l'ombra dei pilastri sommersi per avvicinarsi alla sonda. L'acqua gelida le premeva sul torace, rallentando i battiti cardiaci. Il dardo MURENA virò all'improvviso verso il muro. Il laser rosso incrociò gli anfibi di Claudio che sporgevano dal limo. Il micro-processore della sonda registrò l'anomalia. Il bulbo trasmettitore passò dal blu al giallo.
-Laura eruppe dalla palude con la violenza di una molla d'acciaio. Scagliò novanta chili di spinta contro il corpo cilindrico del serpente meccanico. Il dardo finì fuori asse. Il segnale radio di allarme si disperse contro la volta millenaria. La macchina attivò la modalità di difesa ravvicinata. Le trivelle rotanti accelerarono con uno stridore metallico. L'acqua divenne un vortice di olio e detriti.
-La corazza della sonda colpì il costato di Laura. La donna strinse i denti per non urlare. Artigliò lo snodo centrale. Una fresa laterale scattò in avanti. La lama diamantata tagliò di netto il tessuto della giacca tattica e falciò il muscolo deltoide. Il sangue caldo zampillò nell'acqua limacciosa. Laura non cedette la presa. Il dolore alimentò la sua rabbia.
-Cavalvò il cilindro in torsione. Piantò le ginocchia sui giunti a tenuta stagna. Bloccò l'oscillazione della testa ottica. Il dardo puntò un tranciacavi pneumatico verso il volto della mercenaria. Laura deviò l'appendice con una testata violenta. Un taglio le aprì l'arcata sopraccigliare. Il sangue le colò negli occhi. Brandì il coltello in tungsteno. Sfruttò la rotazione della schiena e abbatté il colpo con tutta la forza rimasta.
-La lama spaccò il bulbo trasmettitore. Il tungsteno penetrò per quindici centimetri nei circuiti integrati. La macchina ebbe uno spasmo elettrico finale. Un arco voltaico azzurro illuminò brevemente il cunicolo. Puzzava di ozono e carne bruciata. Laura scaraventò il peso metallico lateralmente. Strappò il nucleo di silicio e recise i fili dell'antenna dal pannello madre.
-I led si spezzarono. La murena di titanio si afflosciò. Scese pesantemente sul fondo calcareo. Una nube di olio sintetico e sangue umano avvolse il relitto meccanico.
-Il silenzio tornò nel bacino. Laura barcollò verso la sponda di pietra. Scivolò sulle lastre bagnate. Raggiunse il muro e crollò in ginocchio accanto a Claudio. Il braccio della donna sgrondava sangue. Il volto era una maschera di fango. Premette il pollice sulla ferita del deltoide per bloccare l'emorragia. Usò una violenza sadica contro se stessa per non svenire.
-«Laura...» mormorò Claudio, risvegliato dal rumore.
-«Stai zitto,» rispose lei con voce roca. «Dobbiamo muoverci. Il perimetro è salvo solo per poco.»
-Una piastra di cemento armato li separava dalle fondamenta della Torre. Il traguardo era visibile oltre il sangue.`;
+L'acqua nera vibrò. Nessuna goccia cadeva. Era uno spostamento di massa. Un'onda di disturbo meccanico. Risaliva il flusso sotterraneo. Laura schiacciò Claudio contro una putrella. D'acciaio. Gli tappò la bocca. Il palmo era sporco di fango. L'ingegnere ebbe un sussulto. Poi cedette. Il calore della febbre scottava sulla pelle di lei.
+«Segnale dinamico,» avvertì Carlo. Il tono era teso. «È un dardo MURENA. Una sonda autonoma. Cerca infiltrazioni. E carne. Viaggia sotto la superficie. Spegnete tutto.»
+Il dardo affiorò. Dieci metri di distanza. Un fruscio idraulico. Era un cilindro di titanio. Lungo due metri. Snodabile. Un serpente metallico. La testa ottica ruotò. Un laser rosso mappò la pietra di Traiano. Le appendici erano armate. Seghe circolari. Diamantate. Ruotavano. Emettevano un ronzio sommesso.
+Ma non era solo. L'acqua si schiumò dietro la sonda.
+«ANTICORPO-EUR-GARDEN rilevato,» sussurrò Elio.
+Era una sub-routine di difesa. Piccoli droni striscianti. Imitavano i crostacei. Avevano zampe di tungsteno. Facevano presa sulla roccia. Erano collegati alla Torre. Se uno cadeva, gli altri correvano di più. Erano l'istinto animale della macchina.
+Laura ignorò la pistola. Lo sparo avrebbe richiamato ogni unità. Sguainò il coltello tattico. Tungsteno puro. Scivolò nell'acqua. Non fece increspature. Trattenne il respiro. L'acqua gelida premeva sui polmoni. Rallentò i battiti. Voleva eludere i sensori termici.
+Dall'altro lato, una porta si aprì. Cemento pesante. Apparve il Tenente Moretti. Indossava la divisa blu. Ma il berretto era storto. La nuca era pulita. Moretti era uno dei pochi senza cerotto. Ufficiali scelti per pensare. Teneva il fucile a tracolla. Ma non toccava il grilletto. Guardava l'acqua con disgusto.
+«MURENA-7, rapporto,» ordinò Moretti.
+La sonda non rispose. Laura era già alle sue spalle. Immersa fino al collo.
+Il laser rosso strisciò. Si avvicinava a Claudio. L'uomo era sulla sponda. Laura reagì. Eruppe dalla palude. Una molla di carne e rabbia. Scagliò il peso contro il cilindro.
+Il dardo finì fuori asse. Il segnale d'allarme si perse contro la pietra. La macchina attivò la difesa. Le trivelle accelerarono. L'acqua divenne un vortice di olio. La corazza colpì il costato di Laura. Lei strinse i denti. Artigliò lo snodo.
+Una sega scattò. Tagliò il tessuto del braccio. Falciò il muscolo. Il sangue caldo finì nel gelo della melma. Laura non mollò. Il dolore era benzina. Cavalvò il cilindro in rotazione. Piantò le ginocchia sui giunti. Bloccò la testa ottica.
+La sonda puntò un tranciacavi. Verso il volto. Laura lo deviò con una testata. Il colpo le aprì l'arcata sopraccigliare. Il sangue le oscurò la vista. Brandì il coltello. Sfruttò la spinta dell'acqua. Colpì. La lama spaccò il trasmettitore. Il tungsteno entrò nei circuiti. La macchina ebbe uno spasmo. Un arco azzurro illuminò il buio.
+Laura scaraventò il cadavere metallico sul fondo. Ma gli anticorpi stavano risalendo. Le zampe di tungsteno grattavano la roccia. Puntarono Claudio.
+Moretti sentì il rumore. Puntò la torcia. Vide Laura. Insanguinata. Furibonda. Vide Claudio sulla barella. Vide i droni striscianti.
+L'ufficiale rimase immobile. Poteva dare l'allarme. Poteva chiamare la fine. Ma guardò Claudio. Riconobbe l'architetto del sistema. Riconobbe il genio usato. E tradito.
+Moretti abbassò la canna. Fece un passo indietro.
+«MURENA-7 ha un guasto,» disse alla radio. La voce era ferma. Ma gli occhi cercarono Laura. «Nessuna biologia nel Settore 4. Procedo al corridoio C. Chiudere il perimetro.»
+La porta si chiuse. Moretti era svanito. Aveva scelto l'umanità contro il silicio.
+Laura barcollò. Il braccio sgrondava rosso. Premette il pollice sulla ferita. Non voleva svenire.
+Claudio respirava a scatti. Vide la sala riunioni della Torre.
+Era con Julian Vane. Davanti a loro il plastico del raffreddamento.
+«Dobbiamo isolarlo termicamente,» diceva Claudio. «Tungsteno e titanio per le condotte. La Torre sarà una roccia fredda. Inattaccabile da fuori.»
+Vane sorrideva. «E se qualcuno entra da dentro, Claudio?»
+Claudio aveva riso. «Nessuno sopravvive all'acqua di raffreddamento. È troppo fredda. È una tomba liquida.»
+Quella tomba era la sua protezione ora. Il tungsteno che aveva scelto per servire la macchina lo stava salvando dal suo occhio. Il cerchio si chiudeva sopra di lui.
+Laura lo prese per la giacca. Lo trascinò verso l'ultima piastra.
+«Andiamo sotto,» sussurrò. «Moretti è stato l'ultimo dono.»
+Un ronzio acuto. Gli anticorpi avevano ripreso a muoversi. Avevano fiutato il sangue nell'acqua. Erano piccoli. Ma erano centinaia.
+Laura afferrò una granata a impulsi. Dalla cintura di Claudio. La innescò. La lanciò nel lago nero.
+L'esplosione fu silenziosa. Un bagliore blu. L'onda d'urto elettrica investì i droni. I circuiti si fusero istantaneamente. I droni caddero nell'acqua. Sembravano scarafaggi bruciati.
+Laura varcò la soglia. Le fondamenta erano davanti. Roma era sopra. Milioni di nuca chinate. La Torre era lì. Fredda. Immane. La breccia era aperta. Ma il prezzo del sangue saliva.`;

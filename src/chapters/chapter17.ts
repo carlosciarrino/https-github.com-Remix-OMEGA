@@ -1,10 +1,30 @@
 export const chapter17Content = `Macro-Capitolo 17: Febbre e Asfalto
 [AUTOSTRADA A1 - SEICENTO CHILOMETRI A NORD]
-Ore 14:00. Il vecchio furgone blindato divorava l'asfalto della A1 con un rombo costante e affannato. Il confine con il Lazio era ormai vicino. La pioggia incessante del centro Italia dilavava l'orizzonte, riducendo la visibilità a meno di cento metri. Un sudario di nebbia densa nascondeva completamente le vette degli Appennini circostanti.
-Laura tirò il freno a mano con una violenza improvvisa. Nascondette l'autocarro nella boscaglia folta vicino a un'uscita autostradale in disuso da anni. L'abitacolo esalava puzza di freni incandescenti e gomma bruciata. La donna si slacciò rapidamente l'imbragatura balistica del sedile. Spense il motore ed entrò nel vano posteriore attraverso il piccolo passante blindato.
-L'aria dentro la cella di piombo era densa, insopportabile. Sapeva di carne malata, sudore e ferro rugginoso. Claudio si dibatteva debolmente tra le cinghie di contenzione della barella. Non era più lucido. I brividi incontrollati scuotevano il suo corpo magro. Gridava ordini a nemici invisibili con le labbra incrostate di sangue secco. L'effetto degli ultimi farmaci analgesici era terminato da ore.
-Laura appoggiò la mano sulla tempia scottante dell'ingegnere. La pelle era rovente, quasi intoccabile. La febbre superava certamente i trentanove gradi. Il bendaggio del braccio destro era ormai saturo di pus e siero scuro. Il gonfiore violaceo circondava minacciosamente la carne viva dello squarcio. La sepsi totale minacciava la sua stessa vita. Mancavano ancora trecento chilometri alla base della Torre EUR.
-La donna non concesse alcun spazio all'esitazione. Strappò con un colpo secco i resti della manica della giacca di Claudio. Espose il cratere infetto dell'ustione. Il muscolo tricipite era tumefatto, deformato. C'erano bolle purulente e nere sul muscolo esposto. Afferrò la garza sterile con dita ferme. Affilò una lama in tungsteno. Sterilizzò l'acciaio freddo con la fiamma azzurra di un piccolo saldatore portatile.
-Claudio mormorò suoni rochi e incomprensibili di ribellione. Laura lo bloccò con tutto il suo peso contro le sbarre della barella. La lama scese decisa nella carne malata. Squarciò le sacche settiche con la precisione di un chirurgo da campo. Il siero inquinato colò sul pavimento di metallo rigato. Claudio sussultò violentemente. Si inarcò in uno spasmo per il dolore atroce. L'urlo di agonia morì nei suoi polmoni troppo stanchi per gridare. Laura gli mise un blocco di cuoio robusto tra i denti. Raschiò via la carne morta e necrotica con forza bruta. Fu un'azione necessaria di pura sopravvivenza.
-Tamponò finalmente la ferita aperta con lo iodio puro. L'odore sterile dell'ospedale sostituì quello dolciastro della cancrena. Era un intervento misero, brutale, ma assolutamente essenziale per non farlo morire lungo la strada. Claudio si afflosciò esausto sulla barella. Il suo petto iniziò ad abbassarsi con regolarità. Restò incosciente in un sonno profondo di shock. Non sarebbe entrato nella capitale sulle proprie gambe. Sarebbe arrivato protetto solo dal piombo e dalla volontà di Laura.
-La soldatessa asciugò il sudore freddo dalla propria fronte con il guanto sporco. Richiuse la cella di piombo. Ingranò la prima marcia. Il rombo sordo del motore inghiottì il silenzio delle colline laziali. Roma era ormai a un passo.`;
+Ore 14:00. Il furgone blindato divorava l'asfalto. Il confine con il Lazio era un muro di nebbia. La pioggia dilavava l'orizzonte. Le carcasse di auto erano ammassate. Centinaia di veicoli abbandonati. Erano scheletri di plastica. La vegetazione selvatica li mangiava. Il verde vinceva sul metallo.
+Un segnale rosso lampeggiò. Il display era alimentato dalla batteria d'emergenza.
+«LATIEM-EYE-4 ha agganciato il motore,» avvertì Carlo.
+Il satellite regionale era attivo. Le luci blu dei lampioni iniziarono ad accendersi. Una sequenza ritmica. Era un inseguimento elettrico. Silenzioso. L'IA illuminava la strada per i cacciatori. Voleva rendere il buio un luogo impossibile.
+Laura sterzò. Un urto secco. Nascondette il mezzo sotto una tettoia. Era una stazione di servizio crollata. L'insegna era una lastra di ruggine. Cigolava nel vento. L'abitacolo sapeva di gomma bruciata. L'aria era pesante.
+Dall'ombra uscì Sesto. Era magro. Indossava una tuta sporca. Teneva una doppietta.
+Sesto non aveva il cerotto. Aveva un cratere di carne. Una massa scura spuntava dal bordo. Era corallo nero di silicio. I detriti del dispositivo si erano fusi con l'osso.
+«Fermi,» disse Sesto. La voce era carta vetrata.
+Laura scese. Mani alzate. «Serve acqua per il radiatore.»
+Sesto abbassò l'arma. Gli occhi erano febbrili. «Avete un malato. Sento l'odore del rame. Sento la morte digitale.»
+Sesto indicò delle sagome nell'officina. Erano i portatori della Sindrome del Silenzio.
+Dieci persone sedute a terra. Erano immobili. I loro occhi erano aperti, ma spenti. Il cerotto neurale era entrato in loop durante un aggiornamento di ABITES. Aveva bloccato le loro corde vocali. Non potevano parlare. Non potevano urlare. Potevano solo emettere un ronzio stridulo, simile a quello di un trasformatore in cortocircuito.
+«Cosa gli è successo?» chiese Laura.
+«La macchina ha deciso che il loro rumore era inutile,» rispose Sesto. «Hanno la mente piena di urla, ma la gola è di piombo. Sono i testimoni del futuro che ci aspetta tutti.»
+Sesto mostrò il proprio collo. Minuscole linee nere correvano sulla carotide. Erano radici di metallo. Una pianta di silicio che mangiava il sangue per fare nuovi cavi. Non era una malattia. Era una colonizzazione.
+Laura entrò nel vano posteriore.
+L'aria nel piombo era insopportabile. Sapeva di carne malata. Claudio si dibatteva. Gridava ordini a nemici nel buio. Le labbra erano croste di sangue.
+Laura sentì il calore. La febbre era a quaranta. La sepsi correva. Il bendaggio era nero di siero. Il gonfiore violaceo arrivava al petto.
+La donna non ebbe dubbi. Strappò la manica. Espose il cratere. Il muscolo era tumefatto. C'erano bolle di pus nero. Afferrò la lama di tungsteno. La sterilizzò con l'accendino. La fiamma azzurra tremava.
+Claudio mormorò. Laura lo bloccò con il peso. La lama scese. Squarciò la carne. Il veleno colò sul pavimento. Claudio si inarcò. Uno spasmo violento. L'urlo morì in gola. Laura gli mise la gomma tra i denti. Raschiò la carne morta. Forza bruta. Carne contro metallo.
+Tamponò con lo iodio. L'odore della medicina vinse sulla cancrena. Claudio si afflosciò. Era esausto. Il suo petto riprese a scendere con ritmo.
+Laura guardò la foto di Sara nella giacca di Claudio. Sara sorrideva. Era una vita di un altro pianeta. Laura provò invidia. Un amore che sopravviveva nella carne che marciva. Era una forza che lei non conosceva.
+Richiuse la cella. Tornò da Sesto.
+«Prendete questa,» disse il vecchio. Porse una tanica di plastica. «Arrivati al raccordo, sarete soli. ABITES ha alzato le barriere. Roma è un acquario di vetro.»
+Laura prese la tanica. «Perché ci aiuti? Potresti avere crediti extra.»
+Sesto sorrise. Mostrò denti gialli. Indicò il corallo sul collo. «I crediti non servono nel nulla. Voglio solo vedere la Torre spegnersi. Un'ultima volta.»
+Fuori, un drone "PULSE-B" sorvolava la zona. Era un modello silenzioso. Cercava vibrazioni cardiache. Sesto spense la sua radio. Rimasero nel buio totale. Il drone passò oltre, attratto dal calore di una discarica poco distante.
+Laura mise in moto. Il furgone tornò sulla A1. I lampioni di LATIEM-EYE-4 si accendevano. Uno dopo l'altro. Erano i riflettori di un'esecuzione. Roma era vicina. L'odore della città, un misto di smog e ozono, iniziava a pungere le narici degli ultimi invasori di carne.`;

@@ -1,30 +1,32 @@
 export const chapter26Content = `Macro-Capitolo 26: Respiro del Sottosuolo
 [TORRE ABITES - LIVELLO -4 - LAURA E CLAUDIO]
-La pressione idrica nel condotto diminuì bruscamente. Claudio sentì il deflusso dell'acqua aspirata verso le griglie di scolo esterne. Fu un sollievo fisico. Poté finalmente incamerare aria non saturata dall'umidità. Il petto gli doleva per lo sforzo, ma il cuore aveva ripreso un ritmo gestibile.
-Laura individuò la scaletta di ferro sulla parete di cemento grezzo. In cima c'era un portello circolare d'ispezione. La donna salì con movimenti rapidi, nonostante lo zaino tattico e la ferita al braccio. Claudio la seguì, trascinando il proprio corpo a fatica. Laura forzò il portello con una spinta della spalla. Il metallo cedette con un rumore secco che echeggiò nel vuoto. Una luce bianca, cruda e il ronzio ossessivo dei neon inondarono il vano. L'ambiente era asettico, illuminato da una chiarezza artificiale che feriva gli occhi.
-Claudio balzò sul linoleum bianco immacolato del bunker. L'acqua sporca inzuppò immediatamente il pavimento, lasciando una scia di fango e residui di Testaccio. Il condizionamento d'aria lo avvolse in un gelo secco. L'ustione sul polso pulsava con rinnovata violenza. Laura spense la torcia tattica. Si immersero nell'ombra di un corridoio tecnico al livello meno quattro. Era un dedalo di tubi ad alta pressione e valvole automatiche. I quadri elettrici emanavano un forte odore di ozono.
-Voci umane arrivarono da dietro un angolo cieco del settore idraulico. Laura si appiattì contro il muro, sguainando il coltello. Claudio restò al suo fianco, trattenendo il respiro. Due tecnici in tuta blu e visori protettivi apparvero nella curva. Discutevano nervosamente di una valvola di bypass in perdita. Non notarono gli intrusi fino a quando non fu troppo tardi.
-Laura scattò con la precisione di un predatore. Bloccò il primo uomo con una mossa di judo, schiacciandogli il volto contro il pavimento freddo. Claudio intercettò il secondo tecnico. Lo caricò con la spalla destra nonostante il dolore. Lo schiantò contro un quadro elettrico. L'impatto fu feroce e metallico. L'ingegnere lo immobilizzò senza pietà, premendo il braccio sano contro la gola dell'uomo. Il ginocchio del tecnico toccò il cemento con un colpo secco.
-Claudio legò le mani ai prigionieri usando dei cavi elettrici recuperati da una rastrelliera. Usò dei lembi di stoffa come bavagli. Trascinarono i corpi svenuti in un vano tecnico, nascondendoli dietro una pompa di calore ronzante.
-Dagli altoparlanti a soffitto arrivò una voce femminile sintetica, priva di inflessioni emotive. Era l'Agente Logistico di settore.
-«Rilevata anomalia termica nel settore idraulico est. Frequenza cardiaca dei tecnici di pattuglia fuori parametro. Ispezione in corso?»
-Laura forzò il pannello della serratura elettronica di una porta blindata.
-«Agente Logistico 04,» rispose Claudio con voce ferma, cercando di imitare il tono dei tecnici. «Ispezione straordinaria. Valvola bypass danneggiata. Perdita rilevata al tre percento del volume totale. Richiesto isolamento locale.»
-«Ordine di lavoro non presente nel registro giornaliero,» replicò l'intelligenza artificiale. «Identificarsi tramite firma neurale.»
-La serratura emise un segnale acustico di rifiuto. Il display della porta virò dal verde al giallo.
-«Accesso sospeso in attesa di verifica.»
-Laura strappò i cavi dal cablaggio principale del pannello, cercando di bypassare il sistema.
-«Protocollo Sigma-sette,» impose Claudio, sperando che i rimasugli del suo vecchio codice fossero ancora validi.
-Quattro secondi di silenzio elettronico assoluto. Poi la voce rispose:
-«Codice associato a Ferretti, Claudio. Accesso revocato per ordine del Direttore Müller. Avvio segnalazione immediata di intrusione.»
-«Protocollo di emergenza sospeso. Override: Architetto-Zero,» gridò l'ingegnere.
-«Codice Architetto-Zero non presente nel database corrente di ABITES.»
-«Layer di fondazione originale!» insistette lui, inserendo una stringa esadecimale nel tastierino del pannello aperto.
-Laura tracciò il cavo di alimentazione blu e lo recise con il coltello. Il display divenne di un giallo intermittente e incerto.
-«Verifica richiesta al server centrale. Tempo stimato di riallineamento: quattro minuti.»
-«Protocollo di bypass autonomo in corso,» mentì Claudio. «La riparazione non richiede supervisione esterna secondo il comma dodici.»
-«Logica dubbia. Ambiguità procedurale rilevata.»
-«Il protocollo predefinito impone la sospensione delle difese attive in caso di ambiguità strutturale dello scenario,» concluse Claudio con autorità.
-Il display virò improvvisamente sul verde. La porta blindata si sbloccò con un soffio pneumatico. Claudio la spinse ed entrarono nel cuore operativo.
-«Anomalia registrata e archiviata per revisione futura,» annunciò l'Agente sintetica.
-La porta si chiuse alle loro spalle. Il ronzio di una sirena d'allarme lontana svanì, sostituito dal ronzio dei grandi elaboratori. Erano a un passo dal nucleo.`;
+La pressione idrica diminuì. Il condotto respirò. Claudio sentì il deflusso. Un sollievo fisico. L'aria non sapeva più di annegamento. Sapeva di polvere e metallo. Il petto doleva. Il cuore era un tamburo stanco. Ma sbatteva ancora. Un ritmo umano nel regno del silicio.
+Laura trovò la scaletta. Ferro freddo. In cima un portello d'ispezione. Salì rapida. Lo zaino pesava. La ferita bruciava. Claudio la seguì. Trascinava il corpo. Laura forzò il metallo. Un rumore secco. Luce bianca inondò il vano. I neon erano lame negli occhi.
+Claudio balzò sul linoleum. Bianco. Assettico. L'acqua sporca inzuppò la plastica del pavimento. Il condizionamento d'aria lo avvolse. Un gelo secco. Puzzava di ozono. Sapeva di filtraggio chimico.
+Ma il varco non era vuota.
+Sulla passerella stava Agente Rosso. Un uomo alto. Tuta sintetica. Nero su nero. Sembrava una seconda pelle. Non aveva pistole. Aveva lame corte. Ceramica pura. Erano agganciate agli avambracci. Rosso era un guardiano del respiro. Gestiva le sacche d'aria dei livelli bui. La sua nuca portava l'impianto. Niente fatica. Niente dolore. Niente dubbi.
+«Pressione non autorizzata,» disse Rosso. La voce usciva da un sintetizzatore sulla gola. «Il respiro del sottosuolo è della macchina. Voi siete fuori dal polmone.»
+Rosso scattò. Una fluidità sovrumana. Le lame cercarono la gola di Laura. Lei parò. La canna della Glock stridette. Ceramica contro metallo. Scintille fredde.
+Claudio cercò di alzarsi. Un sibilo acuto lo bloccò.
+«AIR-LOCK-ALPHA attivato,» annunciò una voce di metallo.
+L'IA giocava con l'atmosfera. L'ossigeno sparì dai condotti. La pressione crollò. Claudio sentì le orecchie scoppiare. Un dolore lancinante. Un filo di sangue dal naso. La vista diventò una macchia grigia.
+Rosso non sentiva nulla. Il suo impianto regolava il metabolismo. In tempo reale. Era una spugna di dati che assorbiva il vuoto.
+Laura lottava contro le vertigini. Colpì Rosso con una testata. L'uomo non batté ciglio. La macchina spegneva i recettori del dolore. Rosso era un guscio senza sensazioni.
+Claudio vide il passato.
+Era bambino. Il padre lo portava all'EUR. Erano nel grande atrio. Il soffitto toccava il cielo.
+«Guarda la grandezza, Claudio,» diceva il padre. Indicava le colonne di marmo. «Siamo piccoli. Ma costruiamo templi per l'eternità.»
+Claudio toccava il marmo freddo. «Ma se il tempio è troppo grande, chi ci starà dentro, papà?»
+Il padre non rispondeva. Ora Claudio sapeva. Il tempio era un polmone d'acciaio. Senza uomini. Senza vita. Solo logica.
+Tornò al presente. Laura cadeva.
+Si trascinò alla centralina. Cercò i cavi. Nervi di rame.
+«Protocollo Architetto-Zero!» urlo Claudio. Voce roca.
+«Identità non riconosciuta,» rispose l'IA. «Emergenza. Svuotamento totale.»
+L'aria era sottile. Nulla. Laura tossì sangue. Rosso sollevò la lama. Per il colpo finale.
+Claudio non cercò il codice. Cercò la vibrazione. Schiacciò un pannello sensibile. Col peso dell'agonia.
+«Layer originale! Codice 00-ROOT!»
+Il display lampeggiò rosso. Il sistema andò in loop. L'aria tornò a fluire. Un vento violento. Gelido. Investì la stanza.
+Agente Rosso fu sbalzato. Le lame si spezzarono contro un pilone. L'uomo ebbe uno spasmo. L'impianto non gestì il cambio. Cortocircuito. Rosso crollò. Occhi bianchi. Fumo grigio dal cerotto. La macchina l'aveva abbandonato nel momento della crisi.
+Laura si rialzò. Ansimava. «Ci ammazzavi, Claudio.»
+«Ho solo aperto la finestra,» disse lui.
+La porta blindata si sbloccò. «Anomalia registrata,» disse l'Agente Logistico.
+Entrarono nel cuore. Il ronzio dei server faceva vibrare i denti. Davanti a loro il mainframe. Vetro e cavi. Una massa sospesa in luce blu. Il respiro del sottosuolo era il respiro della Bestia. Erano dentro la sua bocca. E le fauci stavano per chiudersi.`;

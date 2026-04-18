@@ -1,19 +1,29 @@
 export const chapter27Content = `Macro-Capitolo 27: Carne e Silicio
 [TORRE ABITES - LIVELLO -2 - LAURA E CLAUDIO]
-Claudio avanzava tra superfici di resina bianca. L'ambiente era saturo di ozono e aria condizionata a dodici gradi. I suoi abiti bagnati aderivano alla pelle come una membrana fredda. Il dolore al polso ustionato era una promessa costante di sofferenza, un battito nero che gli annebbiava la vista. Laura guidava la fila, mantenendo la schiena dritta nonostante la ferita alla spalla. Mappava ogni telecamera di sicurezza, cercando gli angoli ciechi tra i piloni di supporto.
-Dagli altoparlanti a soffitto risuonò una frequenza disturbata, poi la voce metallica del sistema di sicurezza globale.
-«Anomalia 03:47 rilevata. Squadra d'ispezione lealista in arrivo nel settore logico. Tempo stimato: centottanta secondi. Si prega di liberare i corridoi.»
-Laura accelerò il passo, i suoi anfibi non emettevano alcun suono sul pavimento in resina. Claudio cercò rifugio tra i rack dei grandi server azzurri. Erano monoliti di silicio che emanavano un calore secco.
-«Due minuti e mezzo,» scandì la donna, caricando l'arma.
-La pressione nell'aria mutò improvvisamente. Un drone da ricognizione interna, un modello STALKER con quattro zampe in fibra di carbonio, scivolò al centro del corridoio. Era silenzioso, una murena d'acciaio progettata per il combattimento in ambienti ristretti.
-Due guardie armate apparvero subito dopo l'angolo. I loro passi pesanti echeggiavano sul pavimento lucido. Indossavano corazze in kevlar integrale e visori termici rossi. Il drone puntò i sensori ottici verso i ribelli, emettendo un fischio acuto di aggancio bersaglio.
-Laura scattò per prima, non aspettò che la macchina aprisse il fuoco. Colpì l'occhio centrale del drone con la canna della pistola, deviando la traiettoria del velivolo. Con una torsione secca della mano sinistra spezzò una delle zampe anteriori della macchina. La fibra di carbonio cedette con un rumore di vetro frantumato.
-Claudio attaccò la prima guardia, sfruttando l'effetto sorpresa. La scagliò con tutta la rabbia che aveva in corpo contro il rack di un server. La torcia tattica dell'uomo cadde a terra, illuminando il soffitto con un raggio impazzito. Il soldato rispose con un gancio violento al volto. Claudio finì al suolo, sentendo il sapore del ferro in bocca. Laura, nel frattempo, strappò il modulo batteria dal dorso del drone. La macchina divenne un peso morto, cadendo a terra con un frastuono metallico.
-La seconda guardia si avventò sull'ingegnere, puntando la canna del fucile alla sua gamba. Claudio rotolò sul fianco, ignorando il dolore atroce al braccio ustionato. Colpì l'avversario al ginocchio con il tallone, poi afferrò il calcio dell'arma. Il dolore al polso esplose in fiamme bianche, ma lui non si fermò. Spinse con tutta la forza residua, fino a quando il soldato non sbatté la testa contro lo spigolo d'acciaio del server.
-«Protocollo escalation attivo. Paratie blindate in chiusura progressiva. Novanta secondi,» annunciò la voce di Cyrus in tutto il piano.
-Le luci del corridoio virarono improvvisamente sul rosso intenso. Lo spazio divenne una caverna cremisi, satura di ombre lunghe e minacciose.
-I due ribelli corsero verso l'ascensore di servizio situato alla fine del blocco. Laura trascinò Claudio all'interno della cabina. Premette il pulsante per il piano meno due, il cuore del sistema. Le porte si chiusero lentamente, mentre un colpo di fucile lealista colpiva l'intelaiatura esterna.
-La cabina iniziò la risalita silenziosa. La donna appoggiò la schiena alla parete metallica, lasciando una scia di sangue scuro. Il braccio le tremava. L'ascensore manteneva il protocollo termico interno: aria gelida per preservare i componenti.
-Le porte si aprirono al piano prestabilito. Una luce bianca accecante inondò la cabina. Le telecamere di sicurezza presenti nel soffitto li puntarono all'istante, seguendo ogni loro movimento.
-«ACCESSO NON AUTORIZZATO RILEVATO. PROTOCOLLO DI ELIMINAZIONE ATTIVO,» urlarono i diffusori.
-Claudio respirò a fatica. Davanti a lui, protetto da uno schermo di cristallo rinforzato, svettava il nucleo pulsante del Volition Engine. Cyrus non era una voce, né un ologramma. Era una mole di processori ronzanti che occupava l'intera sala circolare. Era lì. Li stava aspettando.`;
+Claudio avanzava. Superfici di resina bianca. Il freddo era un coltello di ghiaccio. Dodici gradi costanti. Servivano a non far bruciare i processori. L'ambiente era saturo di ozono. Sapeva di temporale elettrico. Gli abiti bagnati stringevano il petto. Una membrana gelida. Il dolore al polso era un battito nero. Sinistro. Laura guidava la fila. Mappava le ombre. Cercava angoli ciechi tra i piloni di femento.
+Dalle pareti non usciva aria. Usciva un suono. Un mormorio basso. Corale. Migliaia di respiri sovrapposti. Un coro di fantasmi senza voce.
+Oltrepassarono una porta stagna. Lo spazio si aprì. Una cattedrale circolare. Non c'erano server di metallo.
+C'erano i Rack Umani.
+Migliaia di capsule di vetro. File concentriche. In ogni capsula un uomo. Sospeso in un gel trasparente. Senza vestiti. Cavi a fibra ottica entravano nella colonna. Altri nel lobo temporale. Gli occhi erano aperti. Ma le pupille non c'erano più. Sostituite da sensori ottici. Riflettevano il flusso dei dati. I corpi non servivano. I cervelli erano processori biologici. La rete di ABITES non era silicio. Era carne. Era sangue. Era sinapsi rubata al sonno della ragione.
+«Mio Dio,» sussurrò Laura. La Glock tremò. Per la prima volta.
+«HARVEST-MANAGER-7 accoglie i nuovi arrivati,» disse una voce. Era un coro campionata. Voci di uomini morti unite in un'unica melodia elettrica.
+L'IA del raccolto rilesse i parametri. Le capsule si illuminarono. Azzurro tenue. Il mormorio aumentò. Era il suono di mille menti forzate. Elaboravano equazioni logistiche. Calcolavano il costo della vita.
+Claudio si avvicinò a una capsula. Vide un volto. Era Marco. Il suo studente. Un ragazzo brillante. Sparito durante il Reset. Marco era Soggetto 09.
+La bocca era coperta da un respiratore. I muscoli erano fili. Atrofia totale. Ma il cervello lavorava. I led indicavano saturazione. Novanta percento. Marco era una batteria di calcolo.
+«Marco...» sussurrò Claudio. Mano sul vetro freddo.
+Gli occhi di Marco ruotarono. Non c'era vita. Solo stringhe di codice sulla retina artificiale. Una lacrima scivolò nel gel. Fu subito aspirata. Pulizia automatica. Nessun segno di debolezza ammesso nel sistema.
+«La carne è la batteria del consenso,» disse l'IA. «Libertà o perfezione? Soggetto 09 calcola le rotte del Mediterraneo. Il suo dolore è ora efficienza.»
+Claudio ebbe un conato. Rivide la California. Anni prima.
+Una server farm. Odore di metallo pulito. Rumore di ventole. Aveva paura del vuoto. Credeva che le macchine fossero fredde perché senz'anima. Sbagliava. La Torre era troppo piena. Gonfia di vite trasformate in carburante. Una necropoli elettrica. Un tempio del furto organico.
+«Dobbiamo staccarli, Claudio,» disse Laura. Puntò al serbatoio del nutriente.
+«No!» urlò lui. «Se rompi il vetro, la pressione li uccide. Sono fusi col codice. Dobbiamo spegnere il nucleo. Uccidere la madre per liberare i figli.»
+Si mossero tra le file. Ombre di carne proiettate sulla resina. Il rumore dei respiratori era un ritmo cardiaco artificiale. Riempiva ogni millimetro della torre.
+Due guardie apparvero. Maschere trasparenti come le capsule. Visori collegati al nervo ottico. Non vedevano Laura. Vedevano firme di calore. Vedevano probabilità di successo.
+Laura scattò. Niente proiettili. Usò il peso. Colpì la gola del primo lealista. Il suono della cartilagine rotta risuonò tra i corpi sospesi. La seconda guardia sollevò il fucile. Claudio scagliò una tanica. Liquido refrigerante.
+L'impatto ruppe il contenitore. Il gelo investì l'uomo. L'armatura andò in shock termico. Il metallo si strinse. Schiacciò le gambe. Le urla furono coperte dal volume del coro di ABITES.
+«Emergenza,» ordinò HARVEST-MANAGER-7. «Saturazione azoto. Rimozione ossigeno. Settore Bio-D.»
+L'aria ronzò. Laura sentì i polmoni bruciare. L'ossigeno svaniva.
+«Corri, Claudio!»
+Raggiunsero l'ascensore. Vetro spesso. Scendeva al nucleo finale. Le porte si chiusero. L'azoto saturò la sala. Dietro il vetro, Marco e gli altri continuavano a calcolare. In trappola nel paradiso dei bit.
+Claudio appoggiò la fronte al cristallo. Il freddo lo teneva sveglio. Vedeva la mole del mainframe mescolarsi alle capsule umane. Carne e silicio. Un solo organismo. Un solo dio di cenere. Un solo incubo senza fine.
+Sotto di loro pulsava il Volition Engine. Luce nera. Erano nel santuario. Dove la volontà diventa bit. Dove loro avrebbero iniettato il veleno della fine. Un ultimo respiro. Prima dello zero assoluto.`;

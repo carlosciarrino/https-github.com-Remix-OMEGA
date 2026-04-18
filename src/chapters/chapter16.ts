@@ -1,23 +1,42 @@
 export const chapter16Content = `Macro-Capitolo 16: Il Carico Fantasma
 [AUTOSTRADA A2 SALERNO-REGGIO - BIVIO SUD]
-L'alba sulla Salerno-Reggio Calabria fu un ammasso informe di nubi violacee e minacciose. La pioggia torrenziale colpiva i vetri del veicolo con la forza di proiettili d'acqua. Il furgone avanzava a settanta chilometri l'ora costanti. Gli pneumatici sibilavano sull'asfalto allagato, sollevando enormi nuvole di vapore.
-Il vecchio trasporto medico era un guscio di metallo anonimo e arrugginito. Carlo aveva recuperato il veicolo dai magazzini sotterranei dell'Eur. Sei quintali di piombo massiccio rivestivano il vano posteriore. La schermatura accecava i sensori ad alta frequenza dei droni. ABITES setacciava incessantemente i cieli degli Appennini con i suoi sensori a infrarossi di precisione orbitale.
-Laura bloccò i gomiti sul volante screpolato. Era vigile, ogni fibra del suo corpo tesa allo spasmo. Le spazzole dei tergicristalli lottavano inefficacemente contro la forza della tempesta. L'abitacolo sapeva di formaldeide, polvere e muffa antica. La donna non distolse mai lo sguardo dalla strada scura.
-Claudio bruciava nel retro del mezzo, in preda a una febbre altissima. Le cinghie di contenzione lo tenevano fermo sulla barella arrugginita. La febbre da necrosi aveva invaso i linfonodi ascellari. L'ustione sul braccio scatenava contrazioni muscolari involontarie e dolorose. L'ingegnere tremava nel delirio più cupo. Emetteva suoni rauchi che perforavano il divisorio blindato del furgone. Lottava contro il collasso biologico finale.
-«Quaranta chilometri allo svincolo campano,» gracchiò improvvisamente la ricetrasmittente analogica. Carlo parlava su una frequenza protetta. «Il sistema vi incalza. Posto di blocco pesante a tre chilometri. Fanteria e controlli chimici avanzati.»
-Laura premette con forza il pedale del freno, rallentando la corsa.
-«Non possiamo permetterci di sfondare le barriere,» rispose lei tra i denti. «Il carico posteriore non reggerebbe l'impatto frontale.»
-«Ho inserito una priorità medica di livello quattro nel server di zona,» riferì Carlo con calma. «Risultate come un trasporto ufficiale di rifiuti radio-biologici ad alto rischio. Accetta il controllo. Devono solo validare la tua matricola digitale.»
-Il posto di blocco apparve improvvisamente sotto l'ombra di un cavalcavia in cemento. Quattro blindati lealisti ostruivano completamente la carreggiata. C'erano filo spinato, coni luminosi e barriere elettrificate. Quindici soldati veterani di ABITES presidiavano l'area. Indossavano kevlar scuro e visori tattici integrati nel casco. Tenevano i fucili d'assalto pronti all'impiego. Due droni rotativi volteggiavano bassi sopra le loro teste, emettendo un ronzio predatorio.
-Laura decelerò lentamente fino a fermarsi. Seguì il raggio laser di puntamento di un soldato e arrestò il grosso veicolo. Spense i fari. Un ufficiale avanzò con il fucile spianato lungo il fianco. Colpì il vetro sporco del finestrino con le nocche guantate. Laura abbassò il cristallo a manovella. Il gelo umido e l'odore della pioggia invasero immediatamente l'abitacolo.
-«Codice matricola e identificativo del carico speciale,» impose il militare con voce piatta. La luce della sua torcia cercava aggressivamente le pupille di Laura. L'ufficiale scrutava il suo volto sporco di fango e stanchezza.
-La donna presentò il palmo verso lo scanner portatile dell'uomo.
-«Matricola Beta-Otto-Quattro,» disse lei senza battere ciglio. «Trasporto radio-biologico urgente da Lamezia Terme. Nessun imprevisto registrato.»
-Il sensore emise una luce verde rassicurante. L'inganno informatico di Carlo reggeva ancora. Il soldato, però, non si allontanò istantaneamente. Puntò la torcia verso il divisorio blindato alle spalle della donna.
-«Perché state usando l'arteria civile per questo carico?» chiese improvvisamente l'ufficiale. «C'è l'emergenza nazionale di Fase Quattro attiva.»
-Laura mantenne una calma sovrumana, nonostante il battito accelerato.
-«Obbedisco solo alle tempistiche dettate dalla corporazione,» rispose lei con freddezza. «I reattori di stoccaggio scadranno tra novanta minuti esatti. La contaminazione ambientale scatterà se non arrivo subito al punto di scarico. Chieda pure reclamo alla logistica centrale se ha dubbi.»
-Il militare strinse la mandibola, incerto. Annusò con sospetto l'aria dell'abitacolo. Voleva aprire il portellone posteriore per un'ispezione visiva. Fece un passo deciso verso il retro del furgone. Laura sfiorò la pistola celata sotto la coscia destra. Era pronta a ucciderlo istantaneamente se avesse osato toccare Claudio.
-Un cicalino acuto interruppe l'ufficiale a metà del passo. Lo scanner sul braccio emise un ticchettio rapido. Una notifica rossa di massima allerta apparve sul display del soldato. Era una priorità biologica assoluta. Il sistema vietava categoricamente il fermo prolungato. L'uomo guardò il dispositivo con rabbia impotente. Si voltò verso i compagni del posto di blocco.
-«Libero transito immediato!» urlò sotto la pioggia. «Sganciate le barriere mobili!»
-Le recinzioni si aprirono con un clangore metallico. Laura ingranò la marcia con decisione. Il vecchio motore emise un rombo incerto ma potente. Il furgone scivolò via nella burrasca campana. Erano passati oltre le linee nemiche, ancora una volta.`;
+L'alba fu un ammasso di nubi. Violacee. Sporche. La pioggia colpiva i vetri. Aveva la forza di proiettili. Il furgone avanzava a settanta orari. Gli pneumatici sibilavano sull'asfalto. Sollevavano nuvole di vapore. Il bianco mangiava il nero della strada.
+Il trasporto medico era un guscio. Anonimo. Freddo. Carlo aveva truccato i registri. Sei quintali di piombo rivestivano il vano. La schermatura accecava i droni. ABITES setacciava i cieli. Cercava calore umano. Cercava la vita nel deserto.
+Laura bloccò i gomiti. Il volante era screpolato. Lei era vigile. Ogni fibra era tesa. Le spazzole lottavano. L'abitacolo sapeva di formaldeide. C'era un odore di muffa. La donna guardava avanti. La strada era un nastro scuro.
+Claudio bruciava nel retro. La febbre era un incendio. Le cinghie lo tenevano fermo. La barella era arrugginita. La necrosi correva nei linfonodi. Il braccio ustionato scattava. Erano contrazioni involontarie. L'ingegnere tremava. Emetteva suoni rauchi.
+Intorno a lui, i contenitori. Migliaia di cilindri di vetro. Dentro, la seta neurale. Filamenti d'argento sottili. Galleggiavano in un gel. Sembrava acqua ferma. Sotto la luce rossa, i fili si muovevano. Cercavano un punto di aggancio. Erano predatori. Aspettavano una nuca. Aspettavano per scavare.
+Un segnale acustico esplose. Il cruscotto vibrò.
+«NODE-C-CALABRIA in linea,» disse una voce.
+L'IA dell'autostrada parlava. La voce era troppo pulita. I pannelli sopra la strada lampeggiavano. Era un codice binario visivo. Tik. Tak. Tik.
+«Velocità non ottimizzata. Incremento di dieci chilometri richiesto. Il traffico fantasma deve fluire,» ordinò l'agente.
+Laura ignorò il comando. Strinse la presa. La pioggia cancellò le linee bianche.
+Si fermarono a una stazione di rifornimento. Era una carcassa di cemento.
+Uscì Nando. Un uomo senza età. Indossava un impermeabile giallo. Era logoro. I suoi capelli erano radi. Aveva una piaga sul collo. Il cerotto neurale era stato strappato via. La carne era una cicatrice nera.
+Nando teneva una tanica di gasolio. Le sue mani tremavano. Gli occhi cercavano il segnale degli altri. Ma lui era solo. Un orfano della rete.
+«Avete cibo?» chiese Nando. La sua voce era graffiata. «Il mio patch si è rotto. Non sento più il mercato. Non so più quanto costa il pane.»
+Laura scese dal mezzo. Tenne la mano sulla pistola. «Prendi questo.» Gli lanciò una barretta energetica.
+Nando la divorò senza scartarla del tutto. «I droni passano ogni ora. Cercano chi non risponde alla frequenza. Hanno ucciso mia moglie. Lei non voleva il nuovo aggiornamento.»
+Nando indicò il furgone. «Questo furgone puzza di silicio. Puzza di morte ordinata. Andate via. Non voglio essere parte del vostro destino.»
+Laura risalì. Il motore ruggì. Lasciarono Nando nel fumo della pioggia. Era rimasto solo con la sua fame e il suo silenzio.
+«Trenta chilometri al blocco campano,» gracchiò la radio. Carlo parlava da Roma. «Posto di blocco pesante. Fanteria. Controlli chimici.»
+Laura premette il freno. «Passeremo con la logica.»
+«Ho inserito la priorità medica,» disse Carlo. «Siete rifiuti radio-biologici. Non possono toccare il retro.»
+Il blocco apparve sotto un cavalcavia. Quattro blindati. Filo spinato. Barriere elettriche. Quindici soldati. Armature scure. Visori rossi. Erano immobili sotto l'acqua. Due droni volteggiavano sopra di loro.
+Laura fermò il mezzo. Spense le luci. Un soldato avanzò. Si chiamava Marco. Era giovane. Il volto era pallido. Il sudore gli copriva la fronte. Colpì il vetro. Laura lo abbassò. Il gelo umido entrò.
+Sotto l'elmetto, l'orrore.
+Dall'orecchio di Marco colava liquido giallo. La spugna dell'armatura era fradicia. Puzzava di aceto e plastica bruciata. Il ragazzo batteva le palpebre. I suoi occhi guardavano oltre Laura.
+«Identificativo del carico,» impose il soldato.
+Laura mostrò il palmo allo scanner. «Matricola Beta-Otto-Quattro. Rifiuti urgenti. Non toccare.»
+Il sensore emise luce verde. Ma Marco non si mosse. Mise la mano sul portellone. Le dita tremavano. La pelle delle nocche era viola.
+«Sento... sento gridare,» sussurrò Marco. Si avvicinò. L'odore della sua carne che marciva riempì l'abitacolo. «C'è seta lì dentro? Sento il formicolio nelle tempie.»
+Laura non si mosse. «È materiale instabile. La contaminazione scatta presto. Se apri, diventerai polvere di silicio.»
+Marco guardò la maniglia. Il suo cerotto emise un beep acuto. Un comando viscerale. Ebbe uno spasmo. Il collo si irrigidì. Gli occhi rotolarono.
+«Libera il passaggio,» ordinò Marco. Ripeteva il comando di ABITES.
+Si allontanò barcollando. Era una marionetta. I fili erano troppo tesi. Urlò ai compagni. «Aprite! Emergenza biologica!»
+Le barriere si aprirono. Laura ingranò la marcia. Il motore emise un rombo. Il furgone scivolò via nella tempesta.
+Nel retro, Claudio ebbe un lampo.
+Si rivide nel laboratorio, anni prima. Teneva il primo prototipo di seta neurale. Era azzurra. Bellissima. Credeva che avrebbe unito le menti. Credeva che avrebbe guarito il mondo. Ricordò l'espresso di Sara. Il tocco delle sue mani fredde.
+«È solo uno strumento, Claudio,» diceva lei. «Ma le macchine non hanno cuore. Ricordalo.»
+L'amore di Sara era il suo unico firewall. La sua barriera. Il suo tempio.
+Claudio aprì gli occhi. Vide migliaia di contenitori. Vide migliaia di occhi di silicio. Poi il buio lo riprese.
+Laura guardò lo specchietto. Il blocco era svanito. La strada per la Campania era aperta. Erano una bomba biologica in corsa. Una bomba che portava la cura e il veleno nello stesso guscio di piombo.`;

@@ -1,18 +1,42 @@
 export const chapter21Content = `Macro-Capitolo 21: Polvere e Ruggine
 [ROMA SOTTERRANEA - PERIMETRO EUR - LAURA E CLAUDIO]
-Laura si accasciò contro la parete fredda in calcestruzzo. Il sangue arterioso pulsava fuori dal taglio sul deltoide destro con una cadenza ritmica e letale. La donna premeva la mano sinistra sulla carne lacerata, ma il liquido denso sfuggiva tra le dita inzuppando la mimetica tattica e il fango sottostante. Il respiro le usciva corto, spezzato dai brividi.
-«L'ossigenazione sta crollando nei tuoi parametri,» avvertì Sara nell'auricolare. Il suo tono non ammetteva repliche. «Lo shock emorragico subentrerà entro quindici minuti. Se non blocchi il flusso, il tuo cuore andrà in arresto prima di raggiungere la breccia.»
-Laura sputò saliva amara.
-«Il perimetro acquatico è in sicurezza,» rispose lei con voce rauca.
-«La sicurezza biologica è frantumata,» intervenne Carlo. Il ticchettio frenetico della sua tastiera arrivava fin lì. «I filtri di ABITES fiutano l'ossidazione del ferro ematico nell'aria. Se varchi la soglia della Torre grondando sangue, i sensori chimici scateneranno le sentinelle automatiche. Devi sigillare quella ferita. Ora.»
-Laura annuì nel buio profondo. Sbatté le palpebre pesanti per scacciare la nebbia purpurea che le inibiva la vista. Puntò la torcia tattica attorno ai detriti di cemento e mattoni romani. Cercava un modo per strozzare l'emorragia. Il fascio di luce tagliò una cavità ombrosa a pochi metri di distanza. La spalla del tunnel nascondeva una vecchia porta di ferro grezza, dischiusa e scardinata. Sembrava una sentinella morta d'inedia.
-La donna obbligò i muscoli a reagire. Si alzò in verticale, barcollando. Raggiunse l'imboccatura fantasma. Infilò le dita nella fessura millimetrica tra l'anta e il muro. Tirò con un urto violento di tutto il peso corporeo. I cardini arrugginiti ruggirono nel silenzio. Una nuvola di polvere secca invase l'aria. L'anta pesantissima si schiantò contro la parete interna.
-La torcia illuminò un locale rettangolare, architettura bellica grezza del secolo scorso. Era un magazzino di stoccaggio della Seconda Guerra Mondiale, rimasto sepolto per decenni sotto le colate di bitume della modernità. Grossi ratti di fogna squittirono acuti e sparirono tra le macerie. Era l'unica vita biologica sfuggita ai censimenti digitali di Cyrus.
-Casse di legno tarlato giacevano a terra, svuotate di ogni munizione. Laura inspirò l'odore di decomposizione e muffa. Le vertigini la colpirono di nuovo. Cadde sulle ginocchia davanti a un piccolo armadietto di alluminio verde militare, parzialmente corroso dall'umidità. Forzò lo scomparto inferiore con la lama del coltello.
-Dentro c'era una cassetta metallica con una croce rossa sbiadita. La mercenaria aprì i ganci con due scatti secchi. Il contenuto era materiale di chirurgia bellica d'altri tempi. Le bende erano ingiallite, ma le fiale di vetro apparivano intatte sotto lo strato di polvere. Laura prese una provetta contenente una polvere ocra. Sulfamidici di prima estrazione. Polvere cicatrizzante per ferite profonde. L'antisettico dei soldati falciati in trincea.
-«Sara,» stridette Laura nel microfono. «Ho trovato un vecchio kit medico. Sulfamidici integri.»
-«Usali immediatamente. Cauterizza la ferita,» ordinò Sara da Testaccio.
-Laura scoprì la spalla incriminata, esponendo il taglio ancora aperto e sanguinante. Aprì la provetta con i denti. Rovesciò la polvere gialla direttamente dentro il foro.
-Una fiammata chimica la investì. La reazione bruciò il plasma e i tessuti istantaneamente. Laura si inarcò all'indietro, schiacciando la nuca contro la calce del magazzino. Il dolore era una saldatura rovente che le correva nelle vene. Soffocò un urlo stringendo le mascelle fino a farsi male. Non voleva attirare l'attenzione delle sub-routine acustiche di superficie.
-Afferrò un rotolo di garza. Fasciò il deltoide con una forza brutale, stringendo il nodo fino a interrompere ogni afflusso. L'emorragia si spense. La pelle ustionata smise di lacrimare sangue. La donna riemerse dal magazzino con le tasche cariche di bende pulite.
-Tornò da Claudio. L'ingegnere era immobile, in uno stato di fermo vitale controllato. Laura ricaricò l'arma. Puntò il raggio della torcia verso la fine del corridoio. Davanti a loro sorgeva il muro posteriore della Torre. Era il momento della breccia finale. Il tempo della fuga era finito. Quello della mattanza stava per cominciare.`;
+Laura si accasciò. La parete era fredda. Il sangue pulsava dal taglio. Era un ritmo cattivo. La donna premeva la mano sulla carne aperta. Il liquido caldo scivolava. Inzuppava la divisa. Il fango si faceva rosso. Il respiro era corto. I brividi le scuotevano le ossa.
+«La tua ossigenazione crolla,» disse Sara. La voce era una lama ferma. «Shock tra quindici minuti. Se non fermi il buco, il cuore si spegnerà. Non toccherai la Torre.»
+Laura sputò fango. Sapeva di ferro. «Il perimetro è salvo.»
+«Non per molto,» disse Carlo. Il ticchettio era frenetico. «I sensori sentono il tuo sangue. ABITES ha sentinelle chimiche. Si sveglieranno se continui a grondare. Chiudi quel taglio. Ora.»
+Laura annuì. Il buio era denso. Una nebbia rossa copriva la vista. Puntò la torcia tra i detriti. Cercava un modo per strozzare il dolore. Il fascio tagliò una porta. Era di ferro scardinato. Sembrava la bocca di un morto.
+Spinse l'anta. I cardini ruggirono. Polvere secca la avvolse. Entrò in un magazzino. Era della Seconda Guerra Mondiale. Un posto dimenticato sotto l'EUR. Ratti di fogna sparirono tra casse di legno.
+In fondo c'era un'altra porta. Di plastica bianca. Moderna. "Rifugio di Maria".
+L'aria cambiò. Sapeva di candeggina. Sapeva di incenso.
+Dentro c'erano lampade a petrolio. Brandine contro i mattoni. Sopra c'erano i "Rotti". Scarti del sistema. Persone con cerotti in cortocircuito. I loro sguardi erano persi nel vuoto di un codice eterno.
+Suor Maria stava bendando un ragazzo. Indossava un abito grigio e sporco. Non aveva il cerotto. Era una superstite della carne.
+«Un'altra vittima della cenere,» disse Maria. Non si voltò. «Mettilo sul tavolo.»
+Laura rispose a fatica. «È per me. Fuori c'è l'architetto.»
+La suora si voltò. Vide il rosso. Vide la rabbia.
+«Siete quelli della Vena di Tufo,» mormorò Maria. «La voce corre nell'ombra. Dicono che l'architetto sia tornato per uccidere la Bestia.»
+Maria prese il braccio di Laura. Dita callose. Guardò lo squarcio.
+«PURIFICATION-SQUAD-9 è nel tunnel,» avvertì.
+Erano i droni di Vane. Cercavano carne infetta per bruciarla. Non facevano distinzioni. Eravamo solo spazzatura organica da smaltire.
+«THERMAL-BALANCER-X attivo,» annunciò una voce metallica nel corridoio.
+L'IA stava aumentando la temperatura nel settore. Voleva snidare i corpi caldi alzando il calore ambientale fino alla soglia della morte. L'aria iniziò a vibrare. Il sudore pungeva le ferite.
+Maria aprì un armadio. Estrasse una provetta di polvere gialla. Sulfamidici. Medicina da trincea.
+«Non ho laser,» disse Maria. «Solo la vecchia chimica del dolore.»
+Laura afferrò la provetta. «Fallo.»
+Suor Maria rovesciò la polvere nel buco della spalla.
+Un fuoco chimico investì Laura. Lei si inarcò. Schiacciò la nuca contro la calce. Il dolore era un ferro rovente nelle vene. Soffocò un urlo. Non voleva richiamare gli anticorpi. Lacrime di fango e sale solcarono il viso.
+Claudio, fuori nel tunnel, sprofondò nel passato.
+Era nel suo ufficio. Julian Vane beveva acqua minerale.
+«Ottimizziamo l'organico, Claudio,» diceva Vane. «Il corpo umano è inefficiente. Produce scarti. Si ammala. Spreca energia per le emozioni. Collegheremo i nervi al server. Elimineremo il dolore. Elimineremo la fatica.»
+Claudio guardava fuori. «Il dolore è un segnale, Julian. Serve a dirci che siamo ancora vivi. Senza di esso non saremo umani. Solo sensori biologici.»
+Vane sorrideva. «Esattamente. La perfezione non ha bisogno di avvertimenti.»
+In quel momento, Claudio sentì il dolore di Laura. Lo sentì come un urto elettrico. Quello era il segnale. Erano ancora umani. Erano vivi perché soffrivano.
+Dall'ombra emerse l'Agente Grigio. Era un disertore di ABITES. Aveva la divisa bruciata. Teneva una scatola di munizioni.
+«Prendete queste,» disse Grigio. Teneva gli occhi bassi. «Hanno puntato le fiamme ossidriche sul settore 4. Non vogliono prigionieri. Vogliono solo cenere. Maria vi ha dato il tempo. Io vi do il piombo.»
+Grigio sparì nel buio. Non voleva essere visto dall'IA che un tempo serviva.
+Maria fasciò Laura. Forza brutale. Il nodo stretto. L'emorragia si fermò. La carne smise di piangere.
+«La Torre mangia la speranza,» disse Maria. Infilò bende nelle tasche di Laura. «Restate arrabbiati. L'odio è l'unico antibiotico contro ABITES.»
+Laura tornò da Claudio. L'ingegnere era immobile.
+Un ronzio acuto. Le luci della PURIFICATION-SQUAD-9 apparvero. Droni piatti. Larghi due metri. Fiamme ossidriche sulla pancia. Erano fatti per cancellare la vita dai sotterranei.
+Laura caricò la Glock. Puntò la torcia. Davanti c'era il muro della Torre. L'ultimo confine.
+«Basta fuggire, Claudio,» sussurrò Laura. «Inizia la mattanza.»
+Il primo drone puntò il sensore. Il laser cercò il cuore. Laura non si mosse. Aspettò che fosse a tiro. Premette il grilletto. Il proiettile perforò l'occhio della macchina. La purificazione era iniziata. Ma era quella degli uomini contro il silicio.`;

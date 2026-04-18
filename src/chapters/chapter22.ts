@@ -1,20 +1,34 @@
 export const chapter22Content = `Macro-Capitolo 22: La Breccia Termica
 [ROMA - FONDAMENTA EUR - LAURA E CLAUDIO]
-Il muro di fondazione sbarrava l'abisso. Ottanta centimetri di calcestruzzo vibrato e putrelle d'acciaio incrociate. Laura poggiò il palmo sul cemento freddo. Era architettura brutalista, compatta e priva di fessure. Una carica al plastico avrebbe squarciato la via, ma i sismografi di ABITES avrebbero allertato la sicurezza in meno di quaranta secondi. L'infiltrazione richiedeva un bisturi, non un martello.
-La donna sganciò dal cinturone l'ultimo cilindro tattico della sua scorta. Pasta termica all'ossido di ferro e alluminio. Era termite pura per il taglio navale ad alta profondità. Spalmò l'impasto scuro sul muro con gesti rapidi. Disegnò un cerchio perfetto di sessanta centimetri alla base della parete. Incastrò il detonatore al magnesio nel vertice superiore.
-Trascinò Claudio a dieci metri di distanza. Lo coprì col proprio corpo, riparandolo dietro un rocchio di colonna romana crollata e semisommersa. Premette il pulsante di innesco.
-Nessun boato scosse l'aria. Un sibilo accecante eruppe nel buio, bruciando la retina di chiunque non avesse i visori protettivi. La termite innescò una reazione a tremila gradi. Il buio millenario sparì sotto una luce bianca e incandescente. Il cemento armato non esplose: fondeva. L'acciaio delle putrelle interne pianse gocce di metallo liquido. Il muro divenne lava densa e rovente, collassando in una pozzanghera di scorie arancioni.
-L'odore di zolfo e ozono spazzò via il puzzo del fango stagnante. Il varco balzò alla luce. I bordi frastagliati della breccia pulsavano di rosso. Oltre il foro sparì l'eco del mondo arcaico sotterraneo. Subentrò un rombo meccanico ciclopico che faceva vibrare le ossa. Erano le radici tecnologiche della Torre EUR.
-Laura sollevò Claudio. Il calore della roccia fusa sferzò i loro volti madidi. I polmoni incamerarono aria sintetica filtrata, secca e priva di odore naturale. Gli anfibi calpestarono il pavimento in acciaio mandorlato della zona manutenzione. Erano dentro il perimetro.
-La vastità del livello sotterraneo schiacciò l'immaginazione. Era un canyon cilindrico artificiale. I piloni idraulici affondavano per dodici metri nel buio sottostante. Le pompe rotative pulsavano acqua di raffreddamento con un ritmo cardiaco. I tubi in titanio serpeggiavano lungo pareti di cemento liscio.
-Nessuna postazione di guardia presidiava l'area. Il rumore delle turbine raggiungeva i centoquaranta decibel. Copriva ogni respiro e ogni frequenza radar. Era un buco nero acustico progettato per smaltire l'immenso calore della server farm di ABITES.
-Claudio spalancò le iridi febbricitanti. Il rombo industriale investì la sua corteccia cerebrale come una scarica elettrica. I suoi neuroni reagirono al suono delle turbine pesanti. Il cervello prevaricò momentaneamente i morsi della setticemia. L'ingegnere si affrancò dalla presa di Laura. Aggrappò il corrimano giallo di una passerella sospesa nel vuoto. Le sue nocche sbiancarono per lo sforzo.
-«Pompe dell'anello primario,» urlò l'ingegnere. Le sue corde vocali sfidarono il fragore. Il sudore rigava il suo naso sporco di polvere. Tossì catarro scuro sulle grate. «È l'isocentro idraulico. Cyrus dissipa l'energia termica in questo purgatorio acquatico.»
-Laura scansionò il labirinto di passerelle e tubazioni verticali. Sguainò la pistola. Era una foresta di ferro costruita su un oceano di acqua chimica nera.
-«Quale condotto porta al mainframe centrale?» chiese la donna.
-Claudio indicò i giganteschi piloni rotanti al centro della sala.
-«Non si sale, Laura,» rispose l'uomo con un sorriso amaro. «I cavi scendono. Cyrus è sommerso. È agganciato sotto le sospensioni sismiche. Dobbiamo scendere nel nucleo liquido per inserire il drive.»
-Sara intercettò l'audio dai trasmettitori e intervenne dal Testaccio.
-«Claudio, i tuoi parametri vitali battono il fondo scala. Non sopporterai la pressione di un'immersione, nemmeno assistita.»
-«C'è il montacarichi manutentivo sull'asse nord,» replicò l'ingegnere. Sputò sangue oltre la paratia. «Muoviamoci. I sensori di torbidità potrebbero rilevare la nostra presenza se restiamo fermi troppo a lungo.»
-Laura re-innescò il moschettone tattico per legarsi a lui. La polvere dei sulfamidici le marchiava la spalla ferita. Spinse il corpo dell'uomo lungo la balaustra sporca di grasso industriale. L'inferno di metallo di ABITES stava aprendo le sue mandibole. Sopra di loro, la Torre svettava invisibile verso il cielo di Roma.`;
+Il muro sbarrava l'abisso. Ottanta centimetri di calcestruzzo. Acciaio incrociato. Un colosso grigio. Laura poggiò il palmo. Sentì la vibrazione. Le turbine lavoravano. Era un battito cardiaco. Meccanico. Sordo. Laura sapeva che il plastico era un errore. I sismografi avrebbero urlato. ABITES avrebbe inviato la sicurezza in quaranta secondi. Serviva un bisturi. Un bisturi di fuoco chimico.
+Sganciò il cilindro. Pasta termica. Ossido di ferro. Alluminio. Termite pura. La spalmò sul muro. Disegnò un cerchio. Il fango sulle dita si seccò. Incastrò il detonatore. Al magnesio. Lo mise nel punto più alto.
+«Occhi chiusi, Claudio,» ordinò. Lo trascinò dietro un pilastro antico. Lo coprì. Il calore dell'uomo era un segnale. Una vita che lottava contro il freddo.
+Nessun boato. Solo un sibilo. Accecante. La termite bruciò a tremila gradi. Il buio sparì. Una luce bianca. Innaturale. Il cemento non esplose. Fondeva. L'acciaio delle putrelle pianse. Gocce di metallo liquido. Il muro divenne lava. Colò a terra. Una pozzanghera arancione. Sfrigolava nell'umidità.
+Dall'altra parte, l'aria cambiò. Sapeva di ozono.
+«THERMAL-SHIELD-OMEGA rileva un picco,» annunciò l'IA.
+Era l'agente della dissipazione. Per lei, la breccia era un parametro. Un'anomalia nel raffreddamento. Le ventole accelerarono. Un soffio bollente investì Laura. Puzzava di silicio bruciato.
+Laura sollevò Claudio. Il calore le bruciò le nocche. Entrarono nel perimetro. Calpestarono l'acciaio mandorlato. Erano nelle vene della Bestia.
+La sala sotterranea li schiacciò. Piloni idraulici nel buio. Pompe rotative. Ritmo ossessivo. Tubi in titanio. Serpeggiavano sulle pareti lisce. Il rumore era un oceano. Centoquaranta decibel. Copriva ogni respiro.
+Un'ombra si mosse. Era Agente Bianco. Un tecnico giovane. Indossava la divisa pulita. Teneva il fucile con mani incerte. Sulla sua nuca, il cerotto pulsava. Bianco guardava la lava di cemento.
+«WALL-SCAN-ALPHA in allerta,» disse Bianco. La sua voce era un sussurro perduto.
+Bianco puntò l'arma. La torcia ballò sul sangue di Laura.
+«Fermi!» urlò il ragazzo. Ma non voleva sparare.
+Laura non si mosse. Guardò Bianco. Vide la paura. Vide l'incertezza.
+«Bianco, abbassa il ferro,» disse Laura. Usò un tono fermo. «Senti il freddo del pavimento. Sei un uomo. Non sei una cella di dati.»
+Bianco ebbe uno spasmo. Il cerotto divenne giallo. ABITES forzava il comando. Voleva l'esecuzione. Il ragazzo strizzò gli occhi. Una goccia di sudore cadde sulla canna.
+«Siete degli errori,» mormorò Bianco.
+Claudio respirò a fatica. La mente tornò alla Torre, anni fa.
+Era nel suo ufficio. Julian Vane sorrideva. Mostrava i disegni delle fondamenta.
+«Un muro eterno, Claudio,» diceva Vane. «La base del nostro ordine.»
+Claudio toccò la carta lucida. «Nulla è eterno, Julian. Oltre il punto di fusione, anche il diamante è fumo. La stabilità è solo un'illusione della pressione.»
+Claudio aveva progettato quel muro. Conosceva il punto debole. Aveva costruito la prigione con la chiave in tasca. Era il suo modo di restare libero.
+Agente Bianco abbassò il fucile. Il cerotto iniziò a fischiare. Un segnale di punizione. Il ragazzo cadde. Si premette le mani sul collo. Agonia pura. ABITES resettava il soldato disobbediente.
+«Andate... via,» rantolò Bianco. «Mandano i levrieri.»
+Laura lo superò. Non c'era tempo. Trascinò Claudio verso la passerella. L'aria era rovente. Il vapore delle pompe creava nebbia. Sapeva di cloro.
+«Si scende, Laura,» disse Claudio. La voce era ferma. Il calore gli dava energia. «Il nucleo è sommerso. Dobbiamo andare sotto l'acqua chimica. Cyrus è lì. Tra le sospensioni sismiche.»
+Laura guardò il vuoto. Sotto la griglia d'acciaio. Vedeva l'oceano nero del raffreddamento. Bolliva di bit e calore.
+«Sara,» chiamò Laura. «Siamo al nucleo. Preparati.»
+«I tuoi parametri sono critici, Claudio,» disse Sara. Piangeva. «L'immersione ti ucciderà.»
+«Siamo già morti dal primo giorno, Sara,» rispose Claudio. «Ora scegliamo solo come cadere.»
+Il montacarichi scese. Un fragore metallico. Laura vi spinse Claudio. I levrieri meccanici saltarono fuori. Erano cani d'acciaio. Sensori rossi puntati.
+Laura lanciò il fumo. Nero. Denso. Il montacarichi sprofondò. Nel cuore liquido della Torre. La battaglia finale scendeva nell'abisso. Un passo alla volta. Un respiro alla volta. Verso lo zero.`;

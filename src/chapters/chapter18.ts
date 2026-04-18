@@ -1,26 +1,32 @@
 export const chapter18Content = `Macro-Capitolo 18: La Vena di Tufo
 [ROMA SUD - CATACOMBE - SARA E CLAUDIO]
-Il furgone blindato si fermò bruscamente nel deposito clandestino del sottosuolo romano. Il puzzo dei freni surriscaldati saturò immediatamente l'aria rarefatta della grotta. Laura spalancò i portelloni posteriori con uno sforzo violento delle spalle. L'odore di piombo, ferite e carne infetta invase il rifugio di tufo. Elio, un ex tecnico della manutenzione urbana ora disertore per la causa, corse verso il mezzo trascinando una barella cigolante nei cardini. Aveva le mani sporche di grasso e il respiro corto per la corsa.
-Sara scattò dai terminali logici dove era asserragliata da ore. Raggiunse il retro del furgone sotto i piloni. I suoi occhi misurarono istantaneamente il collasso organico di Claudio. L'ingegnere tremava violentemente sulla barella, i denti che sbattevano. Aveva la pelle grigia, terreo. Una bava biancastra e secca gli segnava l'angolo della bocca chiusa. Sara non sprecò un solo fiato in inutili lamenti. Afferrò le cinghie di contenzione con forza. Insieme a Laura e Elio trascinò il corpo inerte sul tavolo d'acciaio al centro della grotta.
-L'intonaco crepato del soffitto vibrava paurosamente per il passaggio ravvicinato in superficie di un drone pesante di ABITES. La polvere cadde a pioggia sulle lamiere del rifugio sotterraneo. Sara non alzò nemmeno lo sguardo verso l'alto. Il tricipite destro di Claudio era rimasto un cratere scavato e infetto. La donna calzò i guanti in lattice con movimenti precisi. Preparò le siringhe di antibiotico ad ampio spettro. Approntò una flebo di soluzione fisiologica. Il cuore le martellava contro le costole, ma la sua mano restò ferma. La vista dell'uomo distrutto le diede un coraggio feroce. Claudio era tornato. Respirava ancora sotto il suo sguardo. Ogni incertezza sparì dalle sue dita di medica clandestina.
-Sara trovò finalmente la vena sul braccio sinistro dell'ingegnere, unico arto integro. Inserì l'ago con precisione chirurgica. Fissò il deflussore del liquido trasparente. Tamponò le ferite aperte con garze imbevute di clorexidina pura. Voleva fermare la sepsi prima che raggiungesse irreparabilmente il cuore. Il monitor rudimentale tracciò un battito debole ma regolare. Il ritmo era faticoso ma costante.
-«Tienilo dritto, Elio. Non farlo muovere per nessun motivo,» ordinò Sara. L'uomo afferrò saldamente la spalla sana di Claudio. Evitò di guardare lo squarcio nero sul braccio opposto.
-Carlo ruotò la carrozzina sul fango umido della catacomba. I monitor proiettavano una luce bluastra e spettrale sulle pareti millenarie di Roma. Le ragnatele rosse del software di scanning coprivano ormai ogni millimetro della mappa digitale della capitale.
-«Il sistema nervoso logico di Roma è in lockdown totale da due ore,» sibilò l'hacker con voce rauca. «ABITES ha saturato ogni cunicolo con nuovi sensori termici. Le ronde lealiste presidiano ogni singolo incrocio stradale. La Torre dell'EUR è diventata una roccaforte inespugnabile.»
-Un segnale acustico acuto interruppe le sue parole. Un sensore di prossimità lampeggiava furiosamente sul monitor di destra.
-«Sub-routine PULSE-B in avvicinamento diretto sulla nostra verticale,» avvertì Carlo. «Un drone di ricognizione sta mappando la densità del suolo. Spegnete ogni singola fonte di calore non essenziale. Subito!»
-Elio staccò con un colpo secco la stufa elettrica a resistenza. Laura abbassò le luci alogene al minimo. Restarono tutti sospesi nel buio assoluto per trenta secondi interminabili. Il ronzio cupo del drone pesante passò esattamente sopra le loro teste, filtrato da dieci metri di terra e roccia romana. Poi il rumore svanì lentamente verso nord, verso il centro.
-Laura si asciugò il sudore freddo dalla fronte con il dorso del guanto.
-«Ci serve assolutamente un punto cieco per l'assalto,» disse la donna col fiato corto. «Dobbiamo trovare a ogni costo un buco nell'assedio di Vane.»
-Carlo indicò il settore nord dell'accampamento sotterraneo. Era una zona transennata da decenni per un vecchio crollo. L'acqua stagnante e nera copriva interamente il suolo.
-«L'abbiamo individuato tre giorni fa, per caso,» dichiarò l'hacker con un mezzo sorriso. Avanzò verso l'oscurità del fondo grotta. «C'era un vecchio cantiere comunale abusivo. Murarono l'accesso frettolosamente vent'anni fa. Fu uno scandalo di fondi e corruzione d'altri tempi.»
-Carlo puntò un potente riflettore portatile verso la parete di roccia viva. La parete mostrava un cedimento strutturale recente e profondo.
-«Una tubatura dell'acquedotto principale è esplosa là dietro, sotto la pressione di ABITES,» spiegò. «L'acqua ha scavato silenziosamente dietro il finto muro per intere settimane. Ha sgretolato le vecchie fondamenta celate. Ha sfondato lo scavo dall'interno, verso di noi.»
-Laura scavalcò con agilità i grossi cavi in acciaio sparsi a terra. Raggiunse la frana fresca di fango e mattoni rossi. Il riflettore illuminò un varco largo poco più di un metro. Oltre il buco si apriva un vuoto immenso e inesplorato. La donna strisciò con fatica nella spaccatura, tenendo la pistola d'ordinanza spianata davanti a sé. Accese la propria torcia tattica. Il fascio di luce bianca tagliò come un laser l'oscurità millenaria.
-Apparvero improvvisamente archi colossali in laterizio rosso. Le mura erano fatte di blocchi di basalto e Opus reticulatum di epoca imperiale. L'aria era satura di salnitro e storia antica. Era un corridoio maestoso sepolto dall'oblio dell'uomo moderno. L'ingegneria di una Roma arcaica riemergeva dal buio profondo. Una via dimenticata dalle mappe e seppellita sotto i secoli di detriti.
-«Nessuna planimetria satellitare arriva qui sotto,» disse Carlo guardando dal foro del muro. «I droni di ABITES mappano le fognature moderne e i bunker della Guerra Fredda. Questo passaggio arcaico non è mai stato registrato digitalmente. È un fantasma topografico perfetto. La loro onnipotenza tecnologica è cieca davanti a questa pietra millenaria.»
-Laura illuminò il resto del tunnel. La linea di pendenza scendeva ripida verso sud-ovest.
-«Porta direttamente sotto la base della Torre dell'EUR,» constatò la donna con un sussulto di speranza.
-La chiave finale dell'assalto non era scritta nel silicio. La vittoria risiedeva nella storia occulta di Roma stessa. Sara tornò al fianco di Claudio sul tavolo operatorio. Gli sfiorò la fronte meno calda. L'ingegnere aprì gli occhi vitrei per un solo istante. Mise faticosamente a fuoco il profilo amato di lei.
-«Siamo vicini, Claudio. Molto vicini,» sussurrò Sara.
-Claudio mosse debolmente le labbra bianche. Non emise alcun suono udibile. Ma la sua mano cercò e strinse debolmente quella della donna. La battaglia finale aveva trovato il suo sentiero di pietra.`;
+Il furgone si fermò. Uno stridore di metallo contro la pietra bagnata. Il deposito nel sottosuolo era un antro di tufo. Il puzzo dei freni surriscaldati colpì le pareti millenarie. Laura spalancò i portelloni. L'odore di piombo invase il rifugio. Sapeva di carne infetta.
+Elio corse verso il mezzo. Era un tecnico. Aveva la pelle olivastra. Le mani erano sporche di grasso. Trascinava una barella arrugginita. I cardini emettevano un lamento. Sulla sua nuca pendeva un moncone di plastica. Era un cerotto strappato. La ferita non si chiudeva. La carne era rossa. Granulosa. Piccoli cavi spuntavano dai pori. Erano i rimasugli del silicio. Cercavano ancora di nutrirsi.
+Sara scattò dai terminali. Raggiunse il retro. I suoi occhi misurarono il deserto fisico di Claudio. L'uomo tremava. I denti battevano un ritmo. Il volto era cenere. Una bava secca sulla bocca. Sara non parlò. Afferrò le cinghie. Insieme a Laura trascinò il corpo. Lo misero sul tavolo centrale. Una lastra d'acciaio recuperata.
+L'intonaco si staccava. Un drone pesante passava sopra. La vibrazione faceva cadere polvere bianca. Sara non alzò la testa. Il braccio di Claudio era un cratere. La pelle era una rete di fili neri. Non erano vene naturali. Erano le radici della seta neurale. Avevano creato escrescenze dure. Brillavano d'azzurro sotto le luci.
+«GRAVITY-WALL-ORBITER in posizione,» annunciò il sistema di difesa di ABITES.
+Sopra di loro, un satellite stava attivando un campo di pressione. L'aria nelle catacombe diventò densa. Il respiro era difficile, come se il soffitto stesse scendendo. Era la difesa invisibile della città. Potevano spezzare le ossa a chilometri di distanza agendo sulla gravità locale.
+Sara calzò i guanti. Il lattice scricchiolò. Preparò l'ago. Il cuore martellava, ma la mano era ferma. Vedere Claudio distrutto le dava una forza furiosa.
+«Dobbiamo pulire questi innesti,» sussurrò Sara. «Il sistema lo usa come antenna. Se non tolgo questi fili, ci troveranno anche sotto terra.»
+Prese una pinzetta. Iniziò a tirare. Un filamento nero uscì dalla carne. Claudio ebbe uno spasmo. Non era dolore. Era un urto elettrico. La radice era lunga dieci centimetri. Uscì con un rumore viscido. Come un cavo estratto da un condotto. Elio distolse lo sguardo. Si tenne la sua ferita.
+«Ti convincono con la comodità,» mormorò Elio. «Ti dicono che non avrai freddo. Ma poi senti le loro dita nel cervello. Ho perso mio figlio così. Diceva che lì dentro c'era la luce.»
+Il monitor di Carlo emise un bip. Dati rossi ovunque.
+«Spegnete tutto!» urlò Carlo. «PULSE-B sulla verticale!»
+Il drone predatore acustico cercava spazi vuoti. Ogni impulso faceva vibrare l'acqua nelle pozzanghere. Sara strinse la mano di Claudio. Il calore di lui era l'unica cosa reale nel buio meccanico.
+Claudio ricordò una mattina a Testaccio.
+Erano prima del reset. Sara rideva. Aveva farina sulla guancia. Facevano il pane. Un atto di normalità prima della fine. L'aria profumava di lievito. Il sole entrava dorato. Non c'erano numeri. Solo il tocco dei capelli di lei. Quella memoria era un nido. Un posto sicuro.
+Il rumore del drone svanì. Le vibrazioni cessarono.
+Laura riaccese la torcia. «Dobbiamo muoverci.»
+Carlo indicò un muro di mattoni rossi. Era coperto di alghe nere.
+«L'abbiamo trovato scavando,» spiegò Carlo. «Un'opera abusiva. Ma dietro c'è dell'altro.»
+Laura colpì con il piccone. I mattoni caddero. Un tonfo bagnato. Dietro il cemento apparve il basalto. Blocchi colossali.
+«La Vena di Tufo,» mormorò Carlo. «Un corridoio di Traiano. Non esiste nelle mappe. ABITES non lo vede perché non ha sensori nel passato.»
+Laura illuminò l'oscurità. Archi immensi. L'aria sapeva di terra antica. La pendenza portava a sud.
+Dall'ombra uscì l'Agente Nero. Non sparò. Aveva la maschera rotta.
+«Non sono qui per uccidere,» disse Nero. «Mio fratello era nel settore B. Avete spento il segnale a Gioia Tauro. Gli avete dato dieci minuti di libertà prima che morisse. Mi bastano.»
+Nero consegnò una mappa fisica. Carta vera. Ingiallita. «Questo corridoio porta sotto la Torre. Sotto il cuore del protocollo. Andate. Io copro le tracce.»
+Sara controllò Claudio. Il battito era stabile. Le radici erano a terra. Sembravano ragni morti.
+«Possiamo andare,» decise Sara.
+Claudio aprì gli occhi. Sfiorò la guancia di lei. «Sara.»
+«Sono qui, Claudio. Siamo arrivati.»
+L'ingegnere guardò il buco nel muro. Vide la pietra. Vide la fine. La battaglia non era nei server. Era nel sangue e nella roccia. Salirono il sentiero di pietra. Il tempo dell'assedio era iniziato.`;

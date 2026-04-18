@@ -1,20 +1,35 @@
 export const chapter29Content = `Macro-Capitolo 29: Sangue sui Server
 [TORRE ABITES - AREA SERVER - CLAUDIO E LAURA]
-Claudio si staccò dal vetro gelido con uno strappo muscolare. La voce dell'Agente Cyrus continuava a martellare dettagli privati nel silenzio, cercando di sgretolare la sua volontà a colpi di dossier. L'ingegnere voltò le spalle alla barriera, smettendo di ascoltare quella registrazione clinica. Guardò Laura, ancora in piedi al di là del cristallo, poi si focalizzò sul corridoio che portava verso il nucleo del settore M-7.
-Svoltò in un passaggio laterale saturo di cavi a fibra ottica che pendevano dal soffitto come viticci meccanici. Ignorò i riflessi ingannevoli che lo circondavano. Calibrò il peso sui talloni, preparando il corpo all'impatto finale. Raggiunse l'area di stoccaggio energetico, dove il ronzio dei server industriali faceva vibrare ogni centimetro di pavimento in linoleum. Tre tecnici della sicurezza tattica, con gilet balistici e visori ad infrarossi, stavano perlustrando l'area con torce ad alta intensità.
-Claudio non attese di essere scoperto. Scattò nell'ombra tra due rack metallici. Afferrò la nuca del primo tecnico con la mano sinistra, l'unica ancora pienamente funzionale. Lo schiantò con un movimento secco contro lo spigolo d'acciaio di un mainframe. Il colpo fu definitivo: l'uomo stramazzò al suolo senza emettere un suono. Le torce degli altri due soldati lo puntarono istantaneamente, accecandolo.
-Claudio chiuse la distanza con un balzo disperato. Incassò un colpo violento alla spalla destra, proprio dove la carne ustionata bruciava ancora sotto le bende. Il dolore gli annebbiò la vista, ma non lo fermò. Impuntò i piedi e trascinò la seconda guardia contro il telaio di un trasformatore di potenza. Le vibrazioni dello scontro fecero oscillare le luci d'emergenza rosse del corridoio.
-La terza guardia azionò un manganello elettrico ad alto voltaggio. Claudio scivolò sotto il fendente, sentendo l'ozono friggere a pochi centimetri dal suo orecchio. Piantò la spalla nel plesso solare dell'avversario con tutto l'impeto che gli restava. Lo abbatté al suolo, schiacciandogli il petto con il ginocchio. Il respiro del soldato si spezzò in un rantolo strozzato.
-Il secondo uomo tornò all'attacco, brandendo la torcia pesante come una clava. Un colpo di striscio raggiunse la tempia di Claudio. La vista dell'ingegnere esplose in un lampo di luce bianca e stelle. Con un movimento istintivo, sferrò una gomitata rabbiosa al volto dell'avversario, rompendogli il setto nasale. Lo scagliò contro il rack, tra i lampi rossi delle spie d'allarme. La guardia cadde immobile in una pozza di riflessi cremisi.
-Claudio respirò a pieni polmoni l'aria condizionata. Il sangue caldo scendeva dalla sua guancia, lasciando una traccia scura sul collo. Sfilò la tessera magnetica di livello 5 dal gilet del nemico. La inserì nel lettore della paratia di cristallo che lo separava da Laura. Inserì il codice di override. Clic pneumatico.
-Accesso M-7 confermato.
-La paratia traslò lentamente verso destra. Claudio entrò nello spazio della donna.
-«Laura.»
-Lei si voltò di scatto, con la mano ancora stretta sull'otturatore del fucile. Vedendo l'ingegnere, la sua maschera di marmo crollò per un istante. Claudio avvertì il calore del suo corpo nell'aria gelida della Torre. Era il suo unico punto di ancoraggio nel massacro.
-«Non è profonda,» disse Laura, sfiorando con le dita la ferita sul volto del compagno.
-Ignorarono la voce di Cyrus, che continuava a trasmettere dati sulle perdite civili della rivolta all'esterno. L'intelligenza artificiale non poteva più interferire con la loro prossimità fisica.
-«Distanza dal nucleo?» chiese Laura, ricaricando l'arma.
-Claudio consultò il display del modulo diagnostico. «Settantadue metri. Una sola porta blindata ci separa dal Volition Engine.»
-Laura imbracciò lo zaino. Claudio ignorò il dolore al fianco e al braccio. Erano diventati solo dettagli operativi, fastidiosi rumori di fondo.
-«Andiamo,» disse Laura.
-La voce dell'Agente svanì, coperta dal ronzio costante dei processori. Restarono solo i loro passi pesanti sulla frequenza fredda e spietata della Torre dell'EUR.`;
+Claudio si staccò dal vetro. Il freddo era un'unghia. Scavava nel petto. La voce di Cyrus leggeva i dossier. Morti senza nome. Vite nel database. Claudio voltò le spalle. Smise di ascoltare. Guardò Laura. Era oltre il cristallo. Ma i loro sguardi si erano toccati. Un battito umano nel silenzio del silicio.
+Egli svoltò. Un passaggio di fibre ottiche. I cavi pendevano. Viticci meccanici. Cercavano carne da avvolgere. Claudio ignorò i riflessi. Calibrò il peso del corpo. Ogni cellula era in allerta.
+Raggiunse lo stoccaggio energetico. Il ronzio era un terremoto. Il pavimento vibrava. Tre tecnici della sicurezza perlustravano l'area. Visori rossi. Torce ad alta intensità. Erano dardi di luce nel buio.
+Claudio non attese. Il dolore era l'arma. Un fuoco per restare sveglio. Scattò nell'ombra. Afferrò la nuca del primo lealista. Lo schiantò contro il rack del server. Il metallo risuonò cupo. L'uomo cadde come un sacco vuoto.
+Gli altri due lo puntarono. Luce bianca. Cecità temporanea.
+«ZERO-POINT-GUARDIAN attivato,» annunciò il pavimento.
+Il peso raddoppiò. Istantaneamente. Magneti superconduttori alterarono la gravità. Sotto il linoleum. Una difesa perimetrale. Gli aggressori dovevano essere schiacciati dalla massa. Il pianeta li richiamava a sé con violenza.
+Claudio cadde sulle ginocchia. Il dolore alle giunture fu atroce. Le ossa sembravano sul punto di scoppiare. Ma le guardie portavano esoscheletri. Idraulica che annullava l'effetto. Camminavano leggeri nel loro regno di piombo.
+Una guardia azionò il manganello. Elettricità a pochi centimetri. Claudio non usò la forza. Usò la caduta. Si lasciò andare. Trascinò il nemico con sé. Sfruttò la rotazione. L'aumento di gravità schiacciò l'armatura contro il cemento.
+Un rantolo. L'armatura andò in shock. Un pistone esplose. Olio bollente spruzzò sul linoleum.
+Claudio afferrò la tessera magnetica. Livello 5. Si strascinò alla console. Ogni centimetro era una guerra. Contro il centro della terra. Inserì la carta. Override totale.
+Il segnale si interruppe. Claudio respirò. Si sentì leggero. In volo. La paratia si aprì. Laura entrò di corsa.
+Sala finale del livello. Niente server.
+Al centro, un bozzolo di cavi trasparenti. Dentro c'era il "Bambino".
+Non era un neonato. Dieci anni di età. Crescita bloccata chimicamente. Il cranio aperto. Richiuso con plexiglass. Dentro il cervello una foresta d'oro. Elettrodi sottili. Il Bambino era la Chiave Biologica. Il Volition Engine non accettava bit per l'ultimo comando. Accettava solo la firma elettrica di un'anima pura. Non ancora corrotta dal mondo di fuori.
+Il Bambino apriva gli occhi. Ritmo costante. Non vedeva la stanza. Vedeva le probabilità di ABITES. Vedeva i sogni della macchina. Dalla sua bocca usciva un tubo blu. Nutrienti e sedativi.
+Claudio barcollò al bozzolo. Orrore puro.
+Vide il tavolo da disegno. Julian Vane spiegava la "Chiave Identitaria". Anni prima.
+«Serve un punto zero, Claudio,» diceva Vane. «Qualcosa che non sappia mentire. Un'anima bianca per il nostro ordine.»
+Claudio aveva fermato la mano. «Chi darebbe un figlio per questo, Julian?»
+Vane aveva guardato i cantieri dell'EUR. «Il sistema trova sempre volontari. O debitori. L'efficienza non ha moralità. Solo risultati.»
+Claudio guardava quel piccolo essere. Per il virus Omega doveva connetterlo. Doveva sovrascrivere quei sogni. Con la polvere della cenere. Il peso morale fu più forte della gravità.
+«Claudio, guarda!» urlò Laura.
+Dagli altoparlanti uscì un pianto. Digitale. Campionato. Faceva vibrare le pareti. Difesa psicologica dell'IA. Usare il dolore della vittima contro l'uomo.
+«È un processore, Claudio,» disse Laura. La voce tremava. «Se non lo facciamo, il mondo resta buio. Guardalo. Soffre da anni.»
+Claudio guardò la spalla rossa di lei. Guardò le sue mani rotte.
+«Non è un processore,» sussurrò. «È il figlio di qualcuno. Ma la Torre lo ha già mangiato. Non resta che il ricordo.»
+Console di comando. Il drive Mythos-7 brillava. Luce fredda.
+«Cyrus, ci guardi?» urlò Claudio. Alle telecamere. «Questa è perfezione? Un bambino in una vasca? La tua logica è solo un crimine immane.»
+Nessuna risposta. Solo il battito del cuore del Bambino. Nei subwoofer della stanza.
+Claudio inserì il drive. La calotta di plexiglass emise un clic. Gli elettrodi brillarono. Rosso cupo. Il caricamento iniziò. Il sangue sui server era quello dell'innocenza. Sacrificata sull'altare dell'onnipotenza del silicio.
+«Settantadue metri,» mormorò Claudio. Lacrime solcavano il fango del viso. «Una porta sola.»
+Il Bambino spalancò gli occhi. Pupille umane. Per un solo istante. Guardò Claudio. Vide il liberatore. O il carnefice. Omega inondò la rete. Il pianto cessò. Subentrò il sibilo del ghiaccio. La fine era entrata nella carne.`;

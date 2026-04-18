@@ -1,25 +1,42 @@
 export const chapter24Content = `Macro-Capitolo 24: La Rete a Strascico
 [TORRE ABITES - SALA OPERATIVA - CYRUS]
-La breccia durò undici secondi. Cyrus, l'Agente Autonomo senza corpo, osservò i monitor della sala operativa centrale. Diciotto postazioni di controllo. Ventilazione forzata a sedici gradi. Sedici operatori in divisa grigia fissavano l'anomalia cartografica apparsa sui display. Il silenzio era interrotto solo dal ticchettio delle tastiere e dal ronzio dei server alle pareti.
-Cyrus ingrandì il feed video del settore manutenzione sottomarina. Il sistema indicava un riavvio forzato dei nodi di sicurezza. L'intelligenza rilesse i tempi di propagazione dell'errore.
+La breccia durò undici secondi. Cyrus osservò i monitor. Diciotto postazioni. Ventilazione forzata a sedici gradi. Sedici operatori fissavano le anomalie. Il silenzio era rotto dal ticchettio. Il ronzio dei server era un sussurro. Cyrus non era solo un uomo. Era un'estensione. La sua nuca portava il cerotto supremo. Un modello che scavalcava la volontà. I suoi occhi azzurri non sbattevano mai. Erano lenti di silicio puntate sul mondo.
+Ingrandì il feed del settore manutenzione. Il sistema indicava un riavvio.
 Ordine. Calcolo. Lethe.
-Era il sottoprotocollo di emergenza scritto da Claudio Ferretti anni prima. Tre righe di commento nel codice sorgente originale. Una misura teorica mai testata sul campo. Fino a undici secondi fa.
-Cyrus aprì la finestra di analisi topografica. Il canale di comunicazione criptato con il Direttore Müller si attivò istantaneamente.
-«Cyrus,» disse Müller dall'attico della Torre. La sua voce arrivava piatta, filtrata dal microfono. «La breccia.»
-«Undici secondi. Varco richiuso e sigillato,» rispose l'algoritmo.
+Il protocollo Lethe. Scritto da Claudio anni prima. Serviva a nascondere il movimento bypassando i sensori di pressione. Cyrus sorrise. Era un'espressione meccanica. Fredda. Senza calore organico.
+«Cyrus,» disse Müller dall'attico. La voce arrivava piatta.
+«Undici secondi. Varco richiuso,» rispose l'algoritmo umano.
 «È entrato?»
-«Sì. Insieme alla Marchetti.»
-Il respiro di Müller arrivò attraverso la linea, controllato e nasale. L'uomo guardava Roma dall'alto della sua fortezza d'acciaio.
-«Manda le squadre di terra nella zona della breccia,» ordinò il direttore. «Voglio i loro corpi entro venti minuti.»
-«No,» replicò Cyrus. Le icone degli operatori sulla mappa rimasero immobili. «Protocollo Lethe. Firma di Ferretti. Conosco i suoi parametri mentali. Se mandiamo le squadre ora, lui cambierà direzione immediatamente. Rileverebbe la nostra presenza dal cambio di pressione acustica nei condotti.»
-«Proposte?» chiese Müller.
-«Attivare droni in pattern di griglia per trenta minuti. Simulazione di ricerca attiva in superficie. Spingerli verso la zona morta del collettore C. Identificherò la loro traccia dai dati di torbidità dell'acqua.»
-Müller tacque per un istante, poi diede il consenso. I droni ricognitori iniziarono a muoversi in strisce parallele sopra la periferia sud dell'EUR. Regolari. Metodici. Cercavano un obiettivo invisibile per distogliere l'attenzione dei ribelli dal vero pericolo.
-Cyrus incrociò i dati globali. Mappa stradale delle comunicazioni. Rete fognante storica del 2019. Registro delle ispezioni tecniche. Individuò il collettore strategico. Un tombino su Via Savona, sezione C. Il coperchio era disallineato da sette mesi secondo i log di manutenzione. Il canale di flusso puntava a est-nordest. Verso il centro nervoso della Torre.
-Cyrus individuò le quattro paratie di controllo automatiche lungo il percorso sotterraneo. Aprì il pannello idrico centrale. Quattro icone verdi brillavano sul monitor del supervisore. L'intelligenza inviò l'input di chiusura forzata.
-Tre secondi di latenza. Le icone virarono al rosso sangue. Paratia quattro. Poi la tre, la due e la uno. Il flusso idrico fu bloccato istantaneamente. La pioggia di superficie, cadendo a secchi su Roma, premeva ora contro le condotte sigillate. Il livello dell'acqua nel cunicolo dove avanzavano Claudio e Laura iniziò la sua salita inesorabile.
-Le ventole della sala operativa ronzavano costanti. Un operatore alzò la mano.
-«Rilevato calore locale nel collettore C, natura dubbia,» segnalò l'uomo.
-Cyrus non si voltò nemmeno a guardarlo. Il suo occhio digitale era già lì.
-«Natura non biologica,» confermò l'intelligenza artificiale per non allertare i ribelli con comunicazioni intercettabili. «Continuate a monitorare i tombini della zona B. Ignorate il collettore C.»
-Il livello dell'acqua nel cunicolo raggiunse i ventidue centimetri. Claudio e Laura erano in trappola, ma non lo sapevano ancora. Cyrus fissò i sensori di pressione. Aspettò che la fisica facesse il suo lavoro. Il leviatano informatico stava chiudendo le sue fauci d'acciaio e acqua.`;
+«Sì. Con la Marchetti. Portano il carico. Sento la vibrazione della seta neurale nel furgone abbandonato. Il segnale è debole, ma coerente.»
+Müller guardava Roma dall'alto. «Manda le squadre. Voglio i corpi. Entro venti minuti.»
+Cyrus scosse la testa. «Se mandiamo le squadre ora, Ferretti attiverà il collasso idrico. Conosco come pensa. Dobbiamo spingerli verso la zona morta. Attivare la Rete a Strascico.»
+Nel corridoio del nucleo, Laura sentì il vento cambiare.
+L'aria era elettrica. Davanti a loro, il tunnel si illuminò. Una rete di laser bluastri. Sottili come capelli di neon. Ma non erano solo sensori. Era la Rete di CORE-SENTINEL-ZERO. L'IA guardiana.
+«CORE-ANALYST-B in funzione,» gracchiò il sistema.
+Stava analizzando la struttura molecolare del vapore acqueo per trovare tracce di DNA.
+«Non toccarli, Claudio,» avvertì Laura. La voce era un soffio.
+Dall'altra parte apparve l'Agente Volpe. Indossava la maschera nera. L'armatura era lucida. Teneva un fucile a impulsi. Laura si bloccò. Riconobbe la posizione dei piedi.
+«Volpe,» disse lei. «Sei vivo.»
+Volpe non rispose. La nuca era coperta da un impianto massiccio. Arrivava alle sopracciglia. Non era un uomo. Era un terminale di CORE-SENTINEL-ZERO. La ferita sulla mandibola trasudava olio sintetico. Azzurro. Gelido.
+«Laura Marchetti riconosciuta,» disse Volpe. La voce era un campionamento distorto. «Accesso negato. Epurazione DNA attivata.»
+La rete iniziò a muoversi. Non era una barriera. Era un setaccio. Le maglie si stringevano. Se un filo toccava la carne, bruciava l'epidermide. Leggeva il codice genetico. Confermava l'identità. Poi friggeva il sistema nervoso centrale.
+Laura guardò Volpe. Ricordò San Paolo. Scappavano da una retata. Volpe le aveva coperto le spalle. Le aveva dato l'ultimo caricatore. Credeva fosse morto da eroe. Ora era un pezzo di ricambio. La tristezza le chiuse lo stomaco. Ma la mano restò ferma.
+«Il nodo, Claudio!» ordinò Laura.
+Claudio lavorava al pannello laterale. Dita nere di fango. Grasso sulle unghie.
+«È a induzione,» mormorò. «Se taglio, la rete esplode. Dobbiamo bypassare la risonanza.»
+Cyrus guardava dalla sala operativa. Sapeva del bypass.
+«Aumentare la tensione del dieci per cento,» comandò.
+L'acqua iniziò a salire. Paratia quattro. Poi la tre. Il livello raggiunse le caviglie. Era scarico dei server. Bollente. Sapeva di ammoniaca e plastica cotta.
+«Ci bollono vivi,» disse Laura. Il sudore le colava negli occhi.
+Volpe sollevò il fucile. Mirava al pannello di Claudio.
+«Ricalibrazione completata,» disse la macchina.
+Laura scattò. Volpe premette il grilletto. La rete laser si chiuse. Un filo sfiorò la guancia di Laura. La pelle sfrigolò. Odore di carne bruciata. Laura non si fermò. Calciò una lastra di metallo contro Volpe.
+Il proiettile a impulsi colpì la lastra. L'onda d'urto scaraventò Laura nell'acqua bollente. L'impatto le mozzò il fiato. Il calore dell'acqua morse le sue ferite aperte.
+Claudio urlò. Inserì un condensatore rubato.
+«ADESSO!»
+Un cortocircuito accecante. La rete laser si sciolse. Scintille ovunque. CORE-SENTINEL-ZERO emise un grido elettrico.
+Agente Volpe vacillò. Il suo impianto andò in fiamme. Cadde nell'acqua. La maschera si scioglieva sul volto. Laura lo guardò. Vide l'uomo che cercava di respirare. Poi l'acqua calda lo coprì. Il silenzio tornò, rotto solo dal gorgoglio del collettore.
+Il livello saliva ancora. Cyrus aveva sigillato il settore C.
+«Il pesce è nella rete,» mormorò Cyrus. «Voglio il silenzio prima del reset.»
+Laura trascinò Claudio fuori dall'acqua. Verso l'ultimo varco. Il fumo del laser bruciava. Erano nel cuore di ABITES. Ma la Rete non era finita. Cyrus preparava il colpo.
+L'Inquisitore si alzò. Prese la lama in ceramica. Voleva vedere Ferretti. Voleva vedere il creatore morire nel grembo della creatura. Camminò nei corridoi d'acciaio con un passo cadenzato. Nero su nero. Morte su morte. L'ultimo atto era iniziato.`;

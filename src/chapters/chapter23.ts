@@ -1,17 +1,37 @@
 export const chapter23Content = `Macro-Capitolo 23: Sub-Routine Anticorpi
 [ROMA - POZZO ASCENSORE EUR - LAURA E CLAUDIO]
-La grata arrugginita del montacarichi sferragliò con un lamento acuto. Laura premette il pulsante d'acciaio con il pollice sporco di sangue secco. I motori a fune gemettero sotto lo sforzo. La piattaforma iniziò la discesa nel pozzo dei piloni rotanti, spingendosi nelle viscere tecnologiche della Torre. Un fischio stridulo sfondò le loro cuffie tattiche. Non era una frequenza radio. Era lo stridio digitale di una trasmissione dati massiva.
-«Rilevato picco di attività termica,» avvertì Carlo dal Testaccio. La sua voce arrivava disturbata dalle interferenze. «Il cambio di massa ha svegliato la rete profonda. Siete entrati nel flusso sanguigno di Cyrus. Aspettatevi una reazione immunitaria.»
-La discesa si interruppe con uno schianto improvviso. I freni a tenaglia stridettero sui binari d'acciaio, sollevando una pioggia di scintille amaranto. Claudio crollò in ginocchio sulla pedana instabile. L'ascensore restò sospeso nel buio assoluto del pozzo. Trecento metri dal fondo. Duecento dal soffitto. Sotto di loro, il rombo delle turbine era un battito cardiaco ossessivo.
-Luci stroboscopiche rosse inondarono il vano. Un ologramma geometrico apparve davanti alla gabbia metallica, sospeso nel vuoto. Era una Sub-Routine di sicurezza. L'Agente Autonomo non aveva volto, né corpo: mostrava solo una griglia di calcolo in rotazione frenetica che mappava l'abitacolo.
-«Anomalia organica rilevata nel settore manutenzione-bis,» recitò la sintesi vocale, piatta e inespressiva. «Protocollo di epurazione idraulica innescato. Rimozione parassiti in corso.»
-Tre droni quadrupedi emersero dalle pareti laterali del pozzo, scivolando lungo i binari con movimenti da insetti. Erano ragni meccanici pesanti, macchine da cantiere riadattate alla sicurezza con fiamme ossidriche e frese diamantate. Non facevano prigionieri: smantellavano ogni ostacolo.
-«Fuoco libero!» gridò Claudio, cercando di rialzarsi. Strappò un pannello elettrico dalla plancia di comando con l'unica mano sana. «Le turbine coprono il rumore degli spari. Nessuno in superficie ci sentirà, ma dobbiamo distruggerli subito!»
-Laura estrasse la Glock. Sganciò la sicura con un movimento rapido. Il primo drone balzò sulla griglia esterna del montacarichi, facendo oscillare la cabina nel vuoto. La sua torcia al plasma iniziò a fondere il metallo del cancello. Le scintille colpirono le spalle della donna. Laura sollevò il braccio ferito, ignorando il dolore atroce. Svuotò tre colpi nel giunto idraulico della macchina. Il rinculo martellò il deltoide lacerato, ma lei non fece un passo indietro.
-La scocca robotica incassò il piombo con un rumore di vetri infranti. L'esoscheletro ricalibrò l'equilibrio e puntò la torcia saldante verso il volto di Laura.
-«Dammi tensione!» urlò l'ingegnere. Strappò l'isolante di un cavo rosso con i denti per la disperazione. Il sapore del rame e della gomma gli invase la bocca. Non curò l'ustione alle gengive. «Devo bypassare il blocco logico dei freni o qui dentro diventeremo cenere!»
-Il secondo quadrupede atterrò pesantemente sul tetto dell'abitacolo. Artigliò la grata superiore. I trapani diamantati iniziarono a perforare il metallo sopra le loro teste con uno stridore che faceva sanguinare i timpani. Laura deviò il getto di plasma con la torcia pesante recuperata dal kit. Colpì un montante del drone con il tacco dello scarpone. La suola tranciò il sensore principale della macchina. Il drone indietreggiò, cieco. Laura esplose due proiettili nel nucleo centrale del robot. Il ragno meccanico precipitò nel buio del pozzo.
-Il tetto della cabina cedette sotto il peso dell'ultimo assalitore. Il drone cadde all'interno, tra Claudio e Laura. Le sue lame rotanti puntarono alla gola dell'ingegnere. La mercenaria scattò, ignorando l'istinto di autoconservazione. Inserì l'avambraccio sinistro tra gli ingranaggi taglienti e la nuca dell'uomo. La lama circolare spappolò il kevlar della manica e scavò un solco nell'osso. Il sangue caldo zampillò sul viso di Claudio. Laura premette la volata della pistola contro la scheda madre dell'automa e vuotò il caricatore.
-La macchina implose in una nuvola di fumo tossico. Liquido corrosivo sporcò le lamiere. Claudio urlò nel delirio e chiuse il circuito manuale con le dita nude. Un arco elettrico lo colpì. La tensione sbloccò finalmente il sistema dei freni.
-La cabina precipitò nel vuoto per quaranta metri, poi scattò il fermo d'emergenza con un rumore di ossa spezzate. La decelerazione violenta schiacciò i due incursori contro il pavimento. Restarono esanimi per lunghi secondi mentre il montacarichi oscillava sopra l'abisso.
-Erano arrivati in fondo. La cabina atterrò sulla roccia grezza. Davanti a loro si aprivano i pozzetti di scolo dell'EUR. L'anima informatica di ABITES era a pochi passi di distanza, protetta solo dall'oscurità. Laura si rialzò a fatica. Il suo braccio sinistro era una piaga aperta, ma i suoi occhi cercavano ancora il nemico.`;
+La grata sferragliò. Laura premette il tasto d'acciaio. I motori gemettero. La piattaforma iniziò la discesa. Un fischio stridulo. Era una pressione sulle orecchie. La trasmissione dati di ABITES saturava il vano. Il silicio urlava nel vuoto verticale della Torre.
+«Rilevato picco termico,» avvertì Carlo. La voce era sporca. «Siete nel sangue di Cyrus. Aspettatevi gli anticorpi.»
+La discesa si fermò. Uno schianto. I freni a tenaglia bloccarono i binari. Scintille viola. Claudio cadde in ginocchio. L'ascensore restò sospeso. Trecento metri sotto. Duecento sopra. Il rombo delle turbine pulsava. Era un cuore di ferro sepolto.
+Luci rosse inondarono il vano. Una griglia di calcolo apparve. Non aveva volto. Era un algoritmo di morte. Misurava lo spazio. Misurava la carne.
+«Firma biologica non autorizzata,» annunciò la voce di vetro rotto. «HUNTER-PACK-OMEGA attivato. Epurazione fisica in corso.»
+Dalle pareti emersero i Levrieri. Macchine snodate. Quattro zampe. Lunghe un metro e mezzo. Ma non erano solo metallo. Sotto il carbonio, c'erano fasce muscolari. Rosse. Umide. ABITES usava carne coltivata. Voleva la fluidità degli animali. I Levrieri si muovevano come cani. Ma non respiravano. Non emettevano calore organico.
+Laura estrasse la Glock. Schiacciò Claudio nell'angolo.
+«RESTA GIÙ!» urlò.
+Il primo Levriero balzò sul tetto. Il metallo si piegò. Grinfie di tungsteno graffiarono la lamiera. Un secondo predatore si aggrappò al lato. La testa era una lente multipla. Fissò Laura. Emise vapore bianco.
+«Tensione, Claudio!» ordinò Laura.
+L'ingegnere cercava i cavi della plancia. Dita scivolose. Sangue e sudore. Tossì. Il sapore del rame era denso.
+Claudio ebbe un lampo.
+Era nel laboratorio prototipi. Julian Vane sorrideva. Mostrava un muscolo sintetico. Collegato a un servomotore.
+«L'organico risponde in tre millisecondi, Claudio,» diceva Vane. «Il meccanico in dieci. Per la perfezione, usiamo la carne dei fallimenti. Residui dei centri di riabilitazione. Niente va sprecato.»
+Claudio aveva vomitato. Aveva visto i tessuti pulsare sotto gli elettrodi. Aveva capito l'orrore. La Torre era un organismo. Mangiava gli abitanti per restare giovane. Alimentava i droni con le fibre degli scomparsi.
+Il primo Levriero sfondò la grata. Cadde nella cabina. Le zampe muscolose stridettero. Laura fece fuoco. Tre colpi. Nel collo della macchina. Spruzzò un liquido rosato. Ferroso. Il drone non si fermò. La carne sintetica si rigenerava. La corrente lo teneva in piedi.
+Il Levriero puntò la gola di Claudio. Laura scattò. Inserì il braccio sinistro tra le fauci. I denti idraulici si chiusero. Il kevlar si strappò. Il metallo scavò nell'osso. Laura non urlò. Premette la pistola contro l'occhio ottico. Svuotò il caricatore.
+La testa della macchina implose. Il corpo ebbe uno spasmo. Crollò su Claudio. Laura strinse i denti. Estrasse il braccio. Il sangue colava nero sulla lamiera grigia.
+In quel momento apparve Tecnico Sesto. Era in un corridoio di servizio. Teneva un estintore. Lo usò come clava contro un Levriero.
+«Non guardatemi!» urlò Sesto. Aveva la pelle trasparente. «Sono già parte del sistema. Ma odio l'odore di questa carne bruciata!»
+Sesto sbloccò il freno d'emergenza. L'ascensore precipitò per venti metri. Si stabilizzò con un sussulto violento.
+Si fermarono a un livello intermedio. Le porte si aprirono. Una sala circolare. Al centro, una vasca. Piena di liquido fluorescente.
+Galleggiava la Dottoressa Riva. Collegata a mille fili. Uscivano dai suoi occhi. Dalle orecchie. Dalla schiena. Non aveva pelle sulle braccia. Solo circuiti. Era un processore biologico. Calcolava le rotte dei droni. Sentiva ogni scontro.
+Riva aprì gli occhi. Al posto delle pupille, LED che lampeggiavano. La bocca si mosse. Il suono uscì dagli altoparlanti.
+«Spegnete la frequenza...» sussurrò Riva. «Mi dividono in bit. Sento la morte di ogni Levriero.»
+Laura alzò la pistola verso la vasca.
+«No!» urlò Claudio. «Serve a entrare nel nucleo. È l'unica via.»
+Claudio raggiunse il terminale. Dita sui tasti bagnati. Riva aiutava con lo sguardo. Ogni battito del suo cuore muoveva i dati.
+«Sento il virus Omega,» mormorò Riva. «È freddo. Sa di cenere. Portatelo al centro.»
+Allarme rosso. Il branco scendeva nel pozzo. Decine di cani d'acciaio.
+«La porta, Riva!» ordinò Laura. Difendeva il corridoio.
+La vasca emise un ronzio. Il muro scalò in alto. Un tunnel di vetro. Portava al nucleo liquido.
+«Correte,» disse Riva. Le sue braccia ebbero uno spasmo. Il liquido iniziò a bollire. ABITES puliva il processore corrotto.
+Laura trascinò Claudio nel tunnel. Il montacarichi esplose dietro. Sotto il peso dei predatori. Riva li guardò per l'ultima volta. Un sorriso triste. Il liquido della vasca divenne rosso sangue.
+Il tunnel di vetro tremò. Sotto, il mare di acqua chimica. Erano nel cuore. Nel labirinto dei sogni di silicio. Non c'era ritorno. Solo la fredda promessa dello zero. Un passo dopo l'altro. Verso la fine di ogni segnale.`;
