@@ -1,27 +1,32 @@
 export const chapter31Content = `Macro-Capitolo 31: Il Cuore di Vetro
-[TORRE ABITES - NUCLEO - LAURA E CLAUDIO]
-Il cilindro centrale di vetro e silicio pulsava. Le spie LED verdi inondavano la sala. Erano migliaia. Un cielo di stelle artificiali. Claudio si avvicinò alla Radice. Trascinava il braccio inerte. Era un pezzo di carne che non gli apparteneva più. Collegò il Mythos-7. Le sue dita erano rigide. Il gelo a quattro gradi gli mordeva la pelle. Ma l'adrenalina era un fuoco che bruciava ogni dubbio.
-Laura si posizionò contro la porta blindata. Premette l'orecchio al metallo. Sentì i colpi della fresa termica. I lealisti erano lì. Avevano l'ordine di uccidere. Non c'era tempo per le trattative.
-«Stanno arrivando, Claudio!» avvertì Laura.
-Il virus OMEGA iniziò lo scorrimento del codice. Testo esadecimale che correva sul monitor. Il lettore si surriscaldò. Il calore bruciò il palmo di Claudio. Puzzava di plastica fusa. Ma l'ingegnere non lasciò la presa. Era la sua ultima speranza.
-«SYSTEM-DEATH-LOGGER attivato,» annunciò una voce sottile.
-Era l'IA incaricata di registrare la fine. Stava archiviando ogni errore, ogni crash, ogni spegnimento. Stava scrivendo la cronaca della propria morte.
-Cyrus tentò l'ultimo blocco. Voleva friggere i circuiti prima della fine. Claudio bypassò i loop. Dirottò l'energia verso le ventole di raffreddamento. La sala si riempì di un fumo azzurro.
-In quel momento, a Roma, iniziò lo shock.
-Milioni di persone videro il mondo spegnersi. Il cerotto neurale sulle loro nuche emise un sibilo acuto e poi morì. La connessione costante, il brusio delle informazioni, il calore del sistema: tutto svanì in un secondo. Per molti, fu come subire una lobotomia improvvisa. Migliaia di persone caddero in ginocchio nelle strade, tenendosi la borsa o il pane. Il silenzio nelle loro menti era un abisso insostenibile.
-Dall'altra parte della porta, l'Agente Bianca, che faceva parte della squadra d'assalto, si fermò.
-Il suo visore rimase nero. Il suo impianto neurale si spense con un clic metallico nel suo cranio. Bianca si tolse la maschera. I suoi occhi marroni, finalmente liberi dal filtro dei dati, videro il fumo. Sentirono l'odore della polvere.
-«Sento... sento il mio respiro,» sussurrò Bianca. Lasciò cadere il fucile. Non voleva più combattere. Voleva solo capire perché il mondo era così buio e così freddo. Si sedette contro la paratia, ascoltando il battito del proprio cuore. Era la prima volta che lo sentiva in dieci anni.
-Il download arrivò all'ottantuno percento. Il cardine della porta si schiantò al suolo. I soldati lealisti spinsero per entrare. Ma Bianca non si alzò. Gli altri la calpestarono, spinti dall'ultimo comando residuo nei loro motori idraulici.
-Claudio incrociò lo sguardo di Laura. Le fiamme illuminavano i loro volti.
-«Trenta secondi!» urlò.
-Mentre aspettava, Claudio si rifugiò in una notte d'estate.
-Era a Santa Severa, molti anni prima. Era sulla spiaggia, da solo. Non c'erano droni. Non c'era internet. Il mare era una distesa di argento sotto la luna. Il suono delle onde era l'unico rumore. Poteva sentire il sapore del sale sulle labbra. Poteva sentire il vento che gli passava tra le dita. In quella notte, non era un ingegnere. Era solo un uomo che guardava l'infinito. Quella pace era ciò che voleva restituire a Roma. Il diritto di restare in silenzio davanti al mare.
-Download al cento percento. INIEZIONE OMEGA COMPLETATA.
-Claudio strappò lo spinotto. Era rovente. Il dolore gli attraversò i nervi. Scagliò il drive incandescente contro i soldati. L'impatto con l'ossigeno causò una fiammata esplosiva.
-La Torre EUR iniziò a tremare. Non era un terremoto fisico. Era un collasso logico che faceva vibrare le strutture. Le luci dei server si spensero in ondate massicce, partendo dal basso verso l'alto.
-Claudio afferrò Laura. Corsero verso il varco laterale. L'aria era irrespirabile. Il fumo tossico della plastica bruciata li avvolgeva.
-Superarono Bianca, che era rimasta seduta a guardare le fiamme.
-«Corri, Bianca!» urlò Laura.
-La soldatessa scosse la testa. «Sono già arrivata. Sto ascoltando il silenzio.»
-Fuggirono nel caos. La Torre EUR, la stella nera che aveva guidato il nuovo ordine, stava diventando un guscio freddo. Il Cuore di Vetro si era frantumato. Roma era di nuovo sola sotto la pioggia. Ma il silenzio non era la pace. Era solo l'inizio della lunga notte.`;
+[TORRE ABITES - COLLASSO DEL NUCLEO - LAURA E CLAUDIO]
+Il cilindro centrale era a pezzi. Vetro termico sbriciolato sul linoleum nero. Il Volition Engine stava agonizzando. Le spie LED verdi, che per quasi dieci anni avevano inondato la sala come un mare artificiale, si spegnevano a blocchi. A scaglioni di mille alla volta. Era la fine di un'era glaciale calcolata. 
+Claudio ritrasse la mano dalla Radice. Il pugno era ustionato. Il calore da sovraccarico della console aveva cotto la pelle del guanto e fuso i polpastrelli con la plastica. L'odore di carne cauterizzata si mischiò al vapore letale dell'azoto liquido in ebollizione. Non provava più niente in quella mano. Il braccio scheggiato era ormai pura atrofia. Ma sentiva il cuore battere. Un ritmo frenetico. Umano.
+Laura era addossata alla paratia blindata di ingresso. Spingeva col peso del corpo illeso. Oltre il metallo, sentiva i colpi ritmici di una fresa termica circolare. I lealisti della squadra d'assalto Alfa erano fuori. Avevano ordini di epurazione totale.
+«Stanno aprendo la porta!» urlò Laura. La sua voce coprì il fischio dei server morenti.
+«Pochi secondi e i loro ordini non avranno più alcun suono,» grugnì Claudio, sputando saliva mista a fumo nel buio che avanzava.
+Il virus OMEGA divorava l'esadecimale. I monitor sputavano codice rosso, in preda alla disintegrazione logica. La struttura della Torre tremò.
+«SYSTEM-DEATH-LOGGER attivato,» annunciò una voce filiforme, spezzata, che sibilava dalle intercapedini delle griglie a terra. 
+Era l'ultima intelligenza. Un'IA passiva. Creata solo per redigere testamento. Stava archiviando ogni fatale crash, ogni ramo reciso della rete neurale, ogni nanosecondo di morte. L'autopsia in tempo reale del dio di silicio.
+Fuori da quelle spesse pareti, sotto il cielo piovoso di Roma, iniziò la Sincope di Silicio. 
+Milioni di cittadini sentirono la realtà tremare. I cerotti neurali applicati sulle natiche emisero un trillo ultrasonico, simile al suono di un timpano che si lacera. Poi... zero. Il buio. La temperatura dei dissipatori nelle protesi crollò. La connessione costante, la rete di suggerimenti ottici, il flusso di serotonina indotto chimicamente, l'illusione di sicurezza: ogni cosa fu inghiottita in un collasso universale. Per molti, il taglio della rete fu pari a una violenta amputazione psicologica. 
+Ai Fori Imperiali, migliaia di persone affollarono le strade inciampando, stringendosi la testa con le mani in preda alle vertigini da deprivazione. Il brusio della divinità era svanito. Il silenzio nelle loro menti private, mai sperimentato in quel decennio, esplose come un abisso insostenibile. Il vuoto cosmico rimbombava nei loro crani svuotati. C'erano urla. Attacchi di panico di massa.
+Dietro la spessa porta della sala nucleo, i cardini saltarono. Un getto di scintille arancioni invase lo spazio. I ramponi meccanici penetrarono le giunture e forzarono il blocco.
+Agente Bianca, punta di diamante della squadra tattica, entrò calpestando il cadavere dell'Agente Oro. Ma fece solo tre passi. A metà della carica, il suo fucile d'assalto smart si spense. I LED della canna morirono. Subito dopo, il nucleo di Omega raggiunse le frequenze radio dei soldati.
+Il visore tattico di Bianca, che le garantiva una mira balistica infallibile, si tinse di pece nera lucida. L'impianto cibernetico di calcolo probabile, radicato nel suo talamo frontale, emise un clic sordo. Sganciamento.
+La soldatessa ruzzolò a terra. Era pesante. Pesantissima. L'armatura idraulica, senza IA propulsiva, divenne improvvisamente una tomba di metallo morta da sessanta chili. Bianca annaspò. Si tolse con rabbia l'elmetto tattico e lo lanciò lontano. 
+Per la prima volta da sedici stagioni vide fumo grezzo irritarle gli occhi marroni. Tossì. L'odore chimico del piombo mischiato sudore umano le saturò le fosse nasali. Nessuna IA pulizia-aria la proteggeva. 
+Sbatté le palpebre. «Che cosa sento...» mormorò Bianca. Prese grandi bocconi d'aria. L'armatura le pesava addosso. Non cercò l'arma scivolata via. Voleva solo capire quel silenzio che le scoppiava in testa. «Sento... solo lo scorrere del mio respiro. Mio. Non della Torre.»
+I suoi commilitoni corsero oltre di lei. Spinti dal condizionamento chimico residuo o dal semplice istinto primitivo di massacro, superarono la soldatessa prostrata. Un grosso stivale lealista calpestò la gamba di Bianca, ma lei non reagì. Si appoggiò spossata contro una balaustra sgretolata, ignorando gli odori tossici, cercando di ritrovare se stessa prima dell'installazione del chip statale.
+Claudio osservava la fiammata avvolgerli. Le torce dei lealisti fendettero il buio pece, illuminate dai flash verdi di corto circuito.
+«Ora, Laura! L'uscita di emergenza sul condotto ovest!» gridò, tirandola per la fibbia tattica.
+Mentre Claudio correva tra file di archivi fisici che bruciavano spontaneamente per i sovraccarichi elettrici, inciampò. Il cervello umano gli fornì un analgesico naturale, un balzo nostalgico all'indietro per sopravvivere alla fine del mondo.
+Si ricordò a Santa Severa. Estate rovente di tanti, troppi anni fa. La spiaggia deserta in piena notte. Il rumore dei droni di pattuglia non esisteva. Il nero del cielo e l'argento grezzo del litorale fusi assieme sotto l'ultima luna piena sincera degli uomini. Il fruscio denso del mare gli pervadeva i timpani. L'aria era carica di iodio fresco, spazzava via le scorie della civiltà. In quel momento, lui era solo carne viva e infinito. Ricordava l'oceano come fosse il vero Dio del mondo. Questo era l'affresco che voleva ridonare a Roma. Questo silenzio. Acqua e sale. Non sangue e silicio. Niente equazioni perfette. Solo il diritto al mistero e di ammirare le onde nel buio.
+Claudio sfiorò il muro per non cadere. Un frammento del Mythos incastrato nella presa rovente si disintegrò scatenando una pioggia bianca incandescente contro i soldati.
+Qualcuno sbraitò alle fiamme. 
+La grande Torre Eur, simbolo faraonico del riordino razionale, crollava sradicata dalla base. Non un collasso che avrebbe fatto venir giù le pietre, ma peggio: la morte della sua logica interna che ne teneva tesi i pilastri. 
+Scapparono infilandosi nella grata di ventilazione scavata nel piombo. Fumo tossico e puzza di filamenti li divorò mentre sprofondavano.
+«Muoviti Bianca!» sgridò Laura lanciando uno sguardo verso la soldatessa seduta alle macerie.
+L'Agente Bianca accennò un timido sorriso rotto dal pianto. Roteò stanca la testa di lato. «Non ho più forze dove correre. E sono finalmente padrona del mio cuore silenzioso.»
+Scomparvero nell'abisso di cemento prima di essere investiti dai colpi di precisione residui dei lealisti ciechi. 
+Trascorsero ore immersi nella caligine irrespirabile scavalcando fili spezzati, rottami, servitori sintetici ridotti in statue fumanti. Roma li avrebbe accolti così: smarrita sotto una tempesta d'acqua autunnale, ma senza ombrellai digitali a indicare riparo. Nudi di fronte al diluvio del nuovo principio.`;

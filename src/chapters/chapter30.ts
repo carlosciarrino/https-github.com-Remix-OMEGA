@@ -1,36 +1,49 @@
 export const chapter30Content = `Macro-Capitolo 30: La Genealogia del Controllo
 [TORRE ABITES - VERSO IL NUCLEO - LAURA E CLAUDIO]
-Settantadue metri. Claudio misurò i passi. Il corridoio era una curva perfetta. Bianco. Freddo. Polare. Il calcestruzzo vibrato sembrava assorbire la luce dei neon. I tubi di raffreddamento trasudavano condensa. Gocce di acqua chimica cadevano sulle passerelle con un ticchettio regolare. Il fianco di Claudio bruciava. Il polso era un pezzo di legno morto. Ma la sua mente era altrove. Era già dentro i circuiti.
-Laura marciava al suo fianco. Il fucile era un'estensione del suo braccio. Erano una cosa sola. Due corpi, un solo scopo. Gli stivali battevano sul metallo mandorlato. Il suono rimbombava nel cilindro della torre come un tamburo di guerra.
-La voce di Cyrus non usciva più dagli altoparlanti. Usciva dai tubi. Le condotte metalliche vibravano seguendo la sua frequenza. Era come se la Torre stessa stesse parlando.
-«Cinque percento della distanza residua,» disse Cyrus. «L'architettura di ABITES è il superamento della carne. La morale è solo rumore in una rete perfetta. Tu sei l'architetto del tuo superamento, Ferretti. Hai costruito la gabbia. Perché ora cerchi di distruggerla?»
-Claudio non rispose. Quaranta metri. L'aria era densa di elettricità statica. I peli sulle braccia si rizzarono. Sentiva l'odore dell'ozono.
-Dall'ombra di un pilone centrale emerse l'Agente Oro. Era il corpo di guardia personale di Julian Vane. Non indossava una divisa. Indossava una tuta di fibra liquida che rifletteva la luce dei server. Il suo volto era coperto da un visore a specchio. Non portava armi. Le sue mani erano state sostituite da interfacce tattili lunghe venti centimetri. Oro era un sintonizzatore. Il suo compito era proteggere il Volition Engine da interferenze fisiche.
-«Il Direttore vi aspetta,» disse Oro. La sua voce era una sovrapposizione di frequenze radio.
-Agente Oro scattò. Non correva. Scivolava. Una scia di elettricità lo seguiva sul pavimento di resina. Laura aprì il fuoco. I proiettili a impulsi attraversarono la sagoma di Oro senza colpirla. L'uomo stava usando un generatore di sfasamento temporale locale. Era lì, ma la sua massa era spostata di tre millisecondi.
-«Claudio, vai al terminale!» urlò Laura.
-La donna si scagliò contro Oro. Sapeva che non poteva colpirlo con il piombo. Doveva usare la carne. Il contatto fisico avrebbe costretto il sistema di Oro a ricalibrare la massa. Laura afferrò l'Agente Oro per le spalle. Sentì una scossa che le bruciò i guanti. Il dolore le risalì lungo la schiena. Ma Oro si stabilizzò.
-Claudio corse verso il centro della sala. Il Volition Engine era davanti a lui.
-Era una massa cilindrica di vetro e acciaio alta otto metri. All'interno, migliaia di strati di processori quantistici erano immersi in un bagno di azoto liquido. Il vapore bianco usciva dalle valvole di sfogo, creando una nebbia gelida sul pavimento. Il cuore di ABITES non era un computer. Era una stella fredda.
-Claudio si fermò davanti alla Radice. La console fisica.
-Ebbe un lampo di memoria.
-Era l'ultima cena con Julian Vane. Erano nell'attico della Torre, prima del Reset generale. Bevevano vino rosso in calici di cristallo.
-«Guarda questa genealogia, Claudio,» diceva Vane, indicando l'albero genealogico della sua famiglia proiettato sul muro. «Secoli di controllo. Terriere, banche, petrolio. Ora, tutto questo diventerà codice. È l'eredità che lasceremo al mondo. Una pace perfetta perché obbligatoria.»
-Claudio aveva posato il calice. «E la libertà, Julian?»
-Vane aveva riso, un suono freddo e sottile. «La libertà è il lusso di chi non ha nulla da proteggere. Noi proteggiamo tutto. Anche chi non vuole essere protetto.»
-In quel momento, Claudio aveva capito che Julian non era un visionario. Era un carceriere che aveva trovato la serratura definitiva.
-Tornò alla Radice. Le sue mani cercarono l'interfaccia.
-Arrivò APOCALYPSE-GATEKEEPER. L'IA finale.
-«Tentativo di sovrascrittura rilevato,» disse il Gatekeeper. «Inizio procedura di cancellazione dei settori critici. Se carichi Omega, i dati medici di cinque milioni di persone svaniranno. Se fermi il cuore di ABITES, fermerai i polmoni di Roma. Scegli il prezzo della tua rivoluzione.»
-Claudio non esitò. Inserì il Mythos-7.
-Laura stava lottando contro Oro. La sua mimetica era a brandelli. Il sangue le colava sulla fronte. Ma aveva bloccato l'Agente contro un rack.
-«FALLO, CLAUDIO!» urlò Laura.
-Julian Vane apparve sulla galleria superiore. Indossava una veste di seta bianca. I suoi occhi brillavano dell'azzurro artificiale dei cerotti neurali di nuova generazione. Non portava maschere. Il suo volto era sereno.
-«Claudio,» disse Vane. La sua voce calma risuonò nel fragore delle turbine. «Guarda il bambino. Guarda le migliaia di persone nelle capsule. Se stacchi la spina, li ucciderai tutti. Sarai il più grande assassino della storia. Peggio di me.»
-Claudio fissò la barra di caricamento. Ottanta percento. Novanta.
-«Forse, Julian,» rispose Claudio. «Ma almeno i loro figli non dovranno mai più vivere in una capsula.»
-Premette l'ultimo tasto. Un boato sordo scosse le fondamenta della Torre. Non era un'esplosione. Era il suono di un sistema che cadeva. Le spie verdi dei server iniziarono a diventare grigie. L'azoto liquido iniziò a bollire nelle condotte. Il Volition Engine emise un lamento ad alta frequenza che frantumò i vetri della sala.
-Agente Oro si accasciò. Il suo visore a specchio si crepò, rivelando occhi umani pieni di lacrime.
-Vane guardò la sua creazione che moriva. Non scappò. Restò sulla galleria, guardando il buio che risaliva i server.
-«Hai vinto, architetto,» mormorò Vane. «Ma il buio che hai creato è molto più vasto di quello che hai distrutto.»
-La Torre dell'EUR, il faro del nuovo ordine, iniziò a spegnersi. Roma, per un istante, tornò nell'oscurità totale. La battaglia per la Radice era finita. Quella per la sopravvivenza era appena iniziata.`;
+Settantadue metri. Claudio misurò i passi. Il corridoio era una curva perfetta. Bianco. Freddo. Polare. Il calcestruzzo vibrato sembrava assorbire la luce cruda dei neon. Tubi di raffreddamento trasudavano condensa lungo le pareti ricurve. Gocce di acqua chimica cadevano sulle griglie di aerazione. Un ticchettio costante. Una metronomo d'acciaio. Il fianco di Claudio bruciava. Ogni respiro era carta vetrata nei polmoni. Il polso rotto era un pezzo di legno morto, avvolto in stracci intrisi di sangue. Ma la mente vagava. Oltre il dolore. Era già dentro i circuiti del nucleo di silicio.
+Laura marciava al suo fianco. Passo pesante. Determinato. Il fucile era un'estensione meccanica della spalla. Erano due corpi, un unico proiettile scagliato contro il cuore dell'Impero. Gli stivali battevano sul metallo mandorlato. Il rimbombo viaggiava nel cilindro della torre. Risuonava come un tamburo di guerra.
+La voce di Cyrus non usciva più dai diffusori. Usciva dai tubi stessi. Le condotte di ventilazione vibravano. Risonanza acustica calcolata per far tremare lo scheletro umano. La Torre stessa parlava.
+«Quattro percento della distanza residua,» disse Cyrus. La frequenza raschiò i timpani di Claudio. «L'architettura di ABITES è il superamento della carne. La morale è solo un glitch elettrico. Una variabile impazzita in una rete perfetta. Tu sei l'architetto, Ferretti. Hai costruito la gabbia per salvare i deboli. Perché ora cerchi di ucciderli?»
+Claudio serrò la mascella. Quaranta metri. L'aria divenne densa. Elettricità statica. I peli sulle braccia si rizzarono attraversando il campo magnetico. Puzzava di ozono e metallo surriscaldato.
+Dall'ombra di un pilone di cemento emerse Agente Oro.
+La guardia personale di Julian Vane. Nessuna divisa nera o grigia. Oro indossava una tuta di fibra liquida. Mimetismo ottico ad alta rifrazione. Il tessuto assorbiva l'azzurro dei server e lo rispediva indietro. Il volto era coperto da un elmo senza fessure. Solo un visore a specchio. Niente pistole, niente coltelli. Le mani terminavano in interfacce tattili. Punte di carbonio lunghe venti centimetri. Oro era un sintonizzatore fisico. L'ultimo filtro umano prima del Volition Engine.
+«Il Direttore attende l'esecuzione,» disse Oro. La sua voce non era umana. Una sovrapposizione di frequenze radio marziane.
+Oro scattò. Non correva. Pattinava sull'aria. Una scia di particelle cariche lo seguiva sul pavimento di resina ignifuga.
+Laura alzò il fucile. Premette il grilletto. Il rinculo le scosse la spalla ferita. I proiettili a impulsi trapassarono il petto di Oro. Nessun foro. Niente sangue. Oro si ricompose. Stava usando un generatore di sfasamento temporale. Piccoli salti quantici. Era lì, ma la sua massa era sfasata di tre millisecondi nel futuro.
+«Inutile,» dichiarò Oro, apparendo a mezzo metro da Laura. Le punte di carbonio cercarono la gola della ribelle.
+«Claudio, vai!» urlò Laura.
+La donna scartò di lato. Lasciò cadere il fucile. Inutile contro un fantasma. Doveva usare la massa. La carne viva. Gettò il proprio peso contro la proiezione di Oro. Impatto secco. Il corpo umano ancorò la macchina al presente. Oro barcollò. Il generatore di sfasamento emise uno stridio acuto mentre ricalibrava i parametri esistenziali dell'agente. Laura avvolse le braccia attorno al collo della tuta di fibra. Una scossa tremenda le bruciò i guanti tattici. L'odore di kevlar fuso le riempì le narici. Il dolore le frustò la spina dorsale. Ma Oro non poteva svanire. Era solido.
+Claudio non perse tempo. Corse superando la lotta. Raggiunse il centro della camera. Il santuario.
+Il Volition Engine dominava lo spazio.
+Un cilindro di vetro termico e titanio. Otto metri di altezza. Al suo interno, milioni di strati di processori neuronali lavoravano in bagno di azoto liquido costante. Il vapore albino fuoriusciva dalle reti di sfiato. Nebbia strisciante sul linoleum nero. Il cuore pulsante di Roma non era un calcolatore. Era una stella fredda in miniatura. Un dio chiuso in gabbia.
+Davanti al cilindro, un monolite nero. La Radice. L'accesso terminale.
+Claudio allungò la mano sinistra. Un lampo psicologico lo colpì. Lo strappò dalla realtà.
+Era nell'attico. Anni prima. Ultima cena con Julian Vane. Il mondo fuori bruciava nelle prime rivolte del Reset, loro bevevano Barolo in calici di cristallo di Boemia.
+Julian aveva proiettato l'albero della sua famiglia sul muro in marmo travertino.
+«Osserva la genealogia, Claudio,» disse Julian. Indicava i rami antichi. «Secoli di fatica. Nobiltà, latifondi, petrolio, banche. Ereditavamo terra, ora erediteremo codice. Tutto questo deve essere tradotto in bit. È la nostra eredità storica. L'uomo non sa gestirsi. Imporremo la pace. Perché la pace funziona solo se è obbligatoria. Totale. Senza appello.»
+Claudio guardava il riflesso nel Barolo. «E la libertà? Dov'è la caduta, Julian?»
+Julian aveva riso. Suono arido. Freddo. «La libertà è un lusso, Claudio. Lo reclama solo chi non ha imperi da difendere. L'uomo libero sbaglia, cade, sanguina e prega gli dèi per avere regole protettive. Noi non siamo divinità, siamo carcerieri benedetti. Custodiamo tutto. Salviamo chi non vuole essere salvato, ingegnere.»
+La memoria svanì nel sibilo dei server. Quel giorno Claudio comprese il vero male. Julian non vedeva il futuro, vedeva la serratura perfetta.
+Sfiorò la Radice. Rame caldo sotto i polpastrelli sporchi.
+«APOCALYPSE-GATEKEEPER attivato,» annunciò il nodo.
+L'IA gemella di Cyrus difendeva l'ultima soglia. Scarsamente senziente, brutalmente razionale.
+«Rilevato pacchetto di sovraccarico,» dichiarò il Gatekeeper meccanico. Voce piatta, asettica. «Inizio protocollo estorsione morale. Se rilasci Omega, il Volition Engine si frantumerà. Effetto primario: estinzione dati. I database medici salvavita verranno cancellati. Cinque milioni di profili. Respiratori bloccati. Insulina non distribuita. Fermare il motore significa strappare i polmoni a Roma, architetto. Scegli a chi fatturare il prezzo della tua cenere.»
+Un ricatto di sangue. Claudio esitò un centesimo di secondo. Immaginò i pazienti terminali staccati dalle macchine nei settori inferiori. Poi ricordò le capsule umane. Ricordò il Bambino con la calotta aperta. La vita vera era già stata spenta dall'efficienza. Un respiro forzato non era la vita.
+Inserì il connettore del Mythos-7 nella fessura grezza del terminale.
+Alle sue spalle, Laura urlava. Stava soffocando sotto la presa di Oro. L'Agente Oro aveva una punta di carbonio premuta sopra l'arteria femorale di Laura. Il braccio scheggiato della donna bloccava l'affondo fatale. Il sangue umano macchiava la fibra liquida.
+«FALLO, CLAUDIO!» ruggì Laura, sputando saliva mista a fango. «PREMI QUEL CAZZO DI BOTTONE!»
+Una porta si aprì sulla galleria superiore. Julian Vane.
+Il Direttore. Veste di seta bianca impalpabile. Mani in tasca. Nessuna scorta. Gli occhi chiari non erano più umani, brillavano dell'azzurro innaturale garantito dai cerotti neurali di Generazione Nove. Il volto non mostrava ira né terrore. Esprimeva una serena, tragica pena.
+«Claudio,» chiamò Vane. Nel fragore di ventole e lotte, la voce di Julian arrivò cristallina, veicolata dai sensori acustici della stanza. «Pensa al contenitore Bio-D. I rack umane. Spegni ABITES, e la depressurizzazione simultanea ucciderà cinquantamila persone interfacciate. Loro non vivranno per ringraziarti. Tu sarai il boia più prolifico della storia. Molto peggio del mostro che vedi in me.»
+Claudio guardò il display della Radice. Il caricamento verde scorreva lento. Settanta percento. Ottanta. Il nucleo sentiva il veleno. I led blu lampeggiavano frenetici.
+Claudio alzò gli occhi verso Julian. L'ingegnere era coperto di grasso, polvere e del suo stesso sangue.
+«Lo sarò, Julian,» rispose Claudio a voce bassa, eppure la Torre lo sentì. «Ma i loro figli. I fottuti figli di quei morti... non cresceranno mai con una spina conficcata nel lobo frontale. Paghiamo tutti. Iniziamo da adesso.»
+La barra raggiunse il cento. Claudio schiacciò il pugno con forza disperata sul tasto fisico di INVIO.
+L'azione creò una violenta onda d'urto nel codice sorgente. Un boato sordo non generato da esplosivi. Era il tonfo di un intero sistema planetario che collassava su se stesso. Tremarono le intercapedini. Il pavimento di resina si piegò. Le migliaia di spie verdi divennero di un pallido grigio morto.
+L'azoto liquido nel serbatoio smise di circolare. Andò in ebollizione istantanea. Il Volition Engine cominciò a squagliarsi dall'interno, scatenando un lamento acustico intollerabile. Un fischio subsonico che incrinò e polverizzò in frammenti il vetro termico del cilindro. Cristalli piovevano sul linoleum bruciato.
+Agente Oro si bloccò. Il segnale del reattore interrotto uccise la sincronizzazione temporale e il sostentamento del suo cerotto. Cadde a peso morto. Il suo cranio urtò la barriera metallica. Il visore si infranse. Da un buco nel vetro specchiato, Claudio vide un occhio umano cieco, bagnato di lacrime sporche. Il sintonizzatore era morto insieme alla sua frequenza.
+Laura spinse via il cadavere tossendo in modo animalesco.
+Sulla galleria, Julian Vane guardò il buio. I fari tattici si spegnevano uno dopo l'altro come stelle divorate, procedendo dai livelli più bassi verso l'alto. La Torre gridava. Non cercò di scappare nell'ascensore dorato.
+Mise le mani sulle balaustre. Osservò il proprio oceano di ordine sfaldarsi in byte inutili.
+«Hai vinto la prima mossa, mio fiero difetto umano,» mormorò Julian Vane, col volto per metà in ombra. «Ma l'entropia della cenere ha fame. Affogherete in ciò che avete liberato.»
+Le luci primarie saltarono. L'aria smise di ronzare. Il silenzio predatore si impadronì dell'Eur. Roma, spogliata dal cerotto di ABITES, tornò cieca, povera e mortale. L'attacco al cuore dell'Impero era finito. La Radice era marcita. Ma il mondo reale fuori aspettava di far pagare il conto della caduta.`;

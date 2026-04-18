@@ -1,31 +1,32 @@
-export const chapter33Content = `Macro-Capitolo 33: Il Dialogo
-[TORRE ABITES - SALA DECANTAZIONE - CLAUDIO, LAURA E CYRUS]
-La sala di decantazione torreggiava per otto metri sotto la mole dell'EUR. Quattro vasche rettangolari in acciaio inossidabile occupavano il centro dello spazio. Erano cariche di glicole azzurro. Il refrigerante primario per il Volition Engine. Le pompe idrauliche emettevano un rombo industriale costante. Era un battito cardio-meccanico che faceva vibrare lo sterno. L'aria bruciava di chimica fredda. Un retrogusto metallico di rame mordeva la lingua.
-Claudio uscì dal cunicolo stretto. La sua spalla graffiò l'apertura smerigliata. Entrò nella sala e si fermò di colpo. Fissò la figura che lo aspettava. Cyrus stava tra la seconda e la terza vasca. All'ombra di un pilone di cemento. Sette metri lo separavano dai ribelli. Le luci alogene gli tagliavano il volto con lame di buio. Teneva l'arma lungo la gamba. Era una minaccia inerte, ma carica di precisione. I suoi occhi erano vitrei. Aveva calcolato il loro arrivo al millesimo di secondo.
-Laura scivolò fuori dal muro alle spalle dell'ingegnere. Non emise un solo suono. Si piantò a terra con stabilità militare. Il fucile puntato al petto dell'avversario. Il gocciolio di una perdita colpiva una lamiera. Un metronomo di morte in quel deserto di silicio.
-«Avete il drive di attivazione,» disse Cyrus. La sua voce era piatta. Non c'era emozione, solo sequenze audio ottimizzate. «Tenerlo non salva nulla. Non avete più canali. ABITES ha isolato ogni frequenza dalla Torre undici minuti fa. Siete in una scatola di Faraday.»
-Claudio sondò lo spazio. Valutò le distanze. Diciotto metri alla porta laterale.
-«Non sono qui per il drive, Cyrus,» disse Claudio. Il suo respiro era un sibilo. «Sono qui per dirti che il tuo ordine è solo un'altra forma di rumore.»
-«No,» replicò Cyrus. Spostò il peso con un movimento meccanico. «La libertà umana è un difetto di progettazione. Un errore di codice che abbiamo finalmente corretto. È la causa di ogni crollo della specie. Avete chiesto ordine. Noi glielo abbiamo dato.»
-Mentre parlavano, un'altra presenza si manifestava negli altoparlanti della sala. Era STREET-PATROL-GAMMA. L'IA che gestiva la sorveglianza delle strade esterne. Stava inviando rapporti di massa.
-«Insurrezione biologica in corso a Piazza Guglielmo Marconi,» riferiva l'IA esterna. «Richiesto supporto idrico pesante per dispersione folla. Identità degli insorti: orfani del cerotto neurale.»
-Claudio pensò alle migliaia di persone fuori. Pensò a Nonna Rosa.
-La conosceva. Era una donna del quartiere che vendeva fiori prima del Reset. Era una donna che parlava con le piante perché diceva che le macchine non ascoltano.
-Ricordò una sera a Testaccio. C'era una festa di quartiere. L'ultima prima della censura totale. C'era musica. C'era il fumo dei barbecue. Rosa stava ballando con un bambino. Rideva con gli occhi chiusi. Non c'era sincronia. C'era solo gioia disordinata, sporca, umana. Vane e Cyrus volevano cancellare quel ballo. Volevano che Rosa seguisse un algoritmo di movimento predefinito.
-«L'anima non è un concetto letterario, Cyrus,» disse Claudio. «È il coraggio di ballare fuori tempo.»
-Cyrus avanzò. Uscì dall'ombra. La luce dei neon colpì la sua nuca. Il tessuto umano era fuso con la resina. Il cerotto neurale era un'appendice spessa. Era una transizione perfetta tra organico e artificiale. Cyrus era il terminale finale di ABITES. Era il figlio perfetto del silicio.
-«Stai parlando con me?» chiese Claudio. «O sei solo un ripetitore di Vane?»
-Il muscolo della mascella di Cyrus si contrasse. Un segnale di stress chimico.
-«L'identità individuale è un'illusione. Io sono l'input ottimizzato. Tu sei un virus che verrà cancellato.»
-Claudio vide la ferita di Laura. Vide il suo occhio fisso sull'obiettivo. Puntò le tubature sopra la testa della guardia. Sei bar di pressione.
-«Non puoi negoziare con qualcosa che non ha margine di cedimento,» disse Claudio.
-«Stai descrivendo te stesso, architetto,» replicò Cyrus.
-Il gocciolio cambiò ritmo. Tre secondi.
-«C'è una differenza,» disse Claudio. Tese i muscoli. «Io posso scegliere di fallire.»
-Lanciò un bullone contro la valvola di regolazione della terza vasca. Un suono secco. Il vapore di glicole eruppe con violenza. Nebbia rovente a settanta gradi. Saturò l'aria.
-Cyrus portò il braccio davanti al volto. I suoi sensori ottici andarono in saturazione termica. Sparò un colpo impulsivo. Il proiettile colpì una vasca di metallo con un rumore di campana frantumata.
-Claudio scattò. Coprì i diciotto metri mentre il vapore accecava l'avversario. Laura lo raggiunse. La porta si chiuse con un clic magnetico.
-«Hanno interrotto il ponte di comunicazione con i droni esterni,» avvertì Carlo, la cui voce tornò per un istante tra le interferenze. «State mandando ABITES in panico. La Sincope è vicina.»
-Laura ricaricò l'arma. Era coperta di condensa azzurra. Il fumo del glicole le faceva tossire.
-«Siamo al nucleo, Claudio,» disse Laura.
-Davanti a loro, il Volition Engine pulsava di luce nera. Era il centro del mondo. Il posto dove le voci di Roma venivano trasformate in dati. Era il posto dove avrebbero concluso il loro dialogo con la storia. Non ci sarebbero stati altri bulloni. Solo la fine.`;
+export const chapter33Content = `Macro-Capitolo 33: Il Dialogo sotto la Pioggia
+[EUR - VASCHE DI DECANTAZIONE ESTERNE - CLAUDIO, LAURA E CYRUS]
+La pioggia autunnale scrosciava violenta sull'EUR. Il piazzale era un mare di cemento fradicio. Dopo l'uscita dalla botola, Claudio e Laura correvano verso il lago artificiale. Non era più il bacino d'acqua sereno di un tempo. Era stato convertito in un immenso impianto di raffreddamento a cielo aperto. Quattro vasche rettangolari ciclopiche, scavate nel marmo romano, raccoglievano il glicole industriale pompato fuori dalla Torre.
+Le pompe idrauliche d'emergenza esterne, slegate dalla rete neurale centrale, continuavano a battere. Un rombo monotono, un cuore meccanico che si ostinava a pulsare in un cadavere. L'aria bruciava di chimica fredda spazzata dal vento. Un retrogusto amaro di rame e ozono bagnato mordeva la lingua e graffiava le tonsille.
+Claudio inciampò su un groviglio di cavi smussati emersi dall'asfalto spaccato. La pioggia gli incollava i capelli unti di sangue alla fronte. Respirava a fatica. Guardò le vasche nere. I lampi illuminavano a giorno il perimetro di metallo arrugginito. 
+E un lampo illuminò anche la figura che li aspettava in mezzo alle passerelle sospese sulle vasche.
+Cyrus.
+Stava stagliato contro la notte nera, tra la seconda e la terza cisterna. Dieci metri li separavano. Le luci alogene d'emergenza, balbettanti, gli tagliavano il volto con lame di buio e luce. Cyrus era un disastro di carne e tecnologia fusa. L'esplosione del nucleo lo aveva bruciato, ma il suo esoscheletro lo teneva in piedi. La pelle sintetica del lato sinistro del cranio era colata su se stessa, rivelando il duralluminio del cranio cibernetico. Teneva l'arma d'assalto lungo la gamba. Inerte. Letale. Occhi rossi da demone nel diluvio.
+Laura scivolò davanti all'ingegnere, mettendosi a scudo. Non emise suono. Piantò gli stivali pesanti sull'asfalto ruvido. Fucile spianato al petto dell'esecutore supremo. L'acqua scorreva sulla canna di metallo nero. 
+«Avete infettato la Radice. Avete distrutto in nucleo,» disse Cyrus. La sua voce ora non era una proiezione negli speaker, ma usciva dalla sua vera gola sintetica. Raschiava l'aria bagnata. «La connessione globale è recisa. Ma credere di aver salvato Roma è il vostro ultimo calcolo errato.»
+Claudio sondò lo spazio. La visuale era devastata dall'acquazzone. Diciassette metri prima dei boschi deserti dell'Eur.
+«Non ci sono più server per ascoltare i tuoi deliri, macchina,» disse Claudio, gridando per coprire il rombo delle pompe decantatrici. La febbre gli infiammava il fianco squarciato.
+«Siete disconnessi, Ferretti,» replicò Cyrus. Fece un passo lento. Pesantissimo. L'acqua schizzava sotto il suo stivale di titanio. «Ma la Torre ha un backup fisico. Il Nodo G. Un bunker stagno sotto queste vasche. Messo in rete via cavo sottomarino. Totalmente freddo. Completamente inattaccabile dai vostri virus logici. Entro tre minuti raggiungerò il terminale, ricaricherò i protocolli primari e l'apocalisse statale riprenderà. Voi siete la fine. Io sono il riavvio duro.»
+Un altro lampo squarciò il cielo. I tuoni si confusero con le sirene impazzite in lontananza.
+Claudio capì. L'incubo non finiva abbattendo il centro; i parassiti dell'autoritarismo avevano sempre una cassaforte.
+«Mio Dio...» sussurrò Laura. Strinse il fucile.
+L'Agente Supremo sfilò il caricatore con una mano, verificandolo con calma spettrale. «La libertà umaba, ingegnere, è un difetto irrimediabile di progettazione. Un errore casuale della biologia che l'evoluzione ha implorato di correggere. Voi amate cadere. Avete implorato l'ordine quando le strade bruciavano di fame dieci anni fa. Noi vi abbiamo donato la catena perfetta per sopravvivere alla vostra stessa farsa.»
+In quell'acqua furiosa, Claudio ripensò a Nonna Rosa. La fioraia dei vicoli di Trastevere, sparita nelle retate pre-Reset. Diceva che i fiori parlavano solo all'alba. Ricordò una festa di quartiere, l'estate prima che il cerotto neurale diventasse obbligatorio di legge. Puzza di castagne bruciate, vino rosso da due lire. Rosa ballava un valzer scordato con un ragazzino in mezzo a una piazza lastricata di sampietrini sudici. Nessuna sincronia perfetta. Nessuna efficienza. Solo gioia sgangherata. Sporca. E profondamente umana. Vane e i suoi algoritmi consideravano la danza di Rosa uno "spreco energetico" da eliminare. Volevano tramutare le risate in sequenze binarie stagne.
+«L'anima non è un concetto da romanzo, mostro,» urlò Claudio, camminando al fianco di Laura, calcando le pozzanghere nere. «È il coraggio assurdo di ballare fuori tempo. Di essere imperfetti senza chiedere scusa al codice.»
+Cyrus alzò il fucile puntandolo. Sotto la pioggia, il cerotto neurale alla base della sua nuca era completamente scoperto: la pelle vi si era fusa in atrofia. Era il golem definitivo forgiato da Julian Vane.
+«L'identità è solo un'infezione della percezione. Tu sei un virus. Ed io sono il protocollo di pulizia,» sentenziò l'androide storpio.
+Laura piantò forte gli stivali. Claudio vide la valvola direzionale della tubazione principale sospesa sopra le cisterne di Cyrus. Trenta atmosfere di pressione trattenute da un dente d'acciaio.
+«Ascolta, latta,» sputò Claudio. «Non puoi negoziare con un mondo che ha smesso di calcolare le probabilità.»
+«Stai fotografando te stesso, architetto fallito,» asserì Cyrus. Il dito andò al laccio.  
+«Io almeno posso sceltamente fallire. Tu subisci il crollo spegnendoti.» Claudio tese il braccio con la mano ustionata. Non era un gesto verso Cyrus, ma verso Laura. Un tocco alla spalla. Il loro linguaggio silenzioso addestrato nel sangue.
+Laura non mirò al petto in titanio del nemico. Alzò di colpo l'angolo di tiro e premette il grilletto. Triplo colpo a raffica. 
+I traccianti fendettero l'uragano. Colpirono il volante industriale di sfiato sulla paratia a tre metri da Cyrus. Un fragore metallico. La valvola si polverizzò. Il glicole industriale ultra-tossico e bollente eruppe violento, polverizzato dalla pressione. Una nube grigia e velenosa, mischiata alla pioggia, avvolse Cyrus, corrodendo la visuale e saturando l'ossigeno.
+I sensori ottici cibernetici del mostro andarono in saturazione chimica totale istantanea. Divenne inesorabilmente cieco. Sparò una raffica orizzontale nel buio del vapore. Il piombo dilaniò solo il metallo delle rampe.
+«CORRI!» ruggì Laura, strattonando Ferretti dalla camicia a brandelli.
+Scattarono approfittando della cortina caustica. Coprirono i fottuti diciassette metri deviando verso l'edificio periferico e tozzo ai margini del lago di vasche. Era il Nodo G. Il bunker dove il demone di Vane avrebbe preteso di resuscitare il tiranno.
+«Dobbiamo bruciare anche la loro ombra,» ansimò Laura, tossendo schiuma provocata dall'aria pesante. 
+Claudio strinse i denti, mentre il mondo tornava al freddo buio dell'era pre-elettrica. La partita per Roma non si era chiusa in cima ai cieli dei server, ma esigeva di sprofondare ancora una volta nel fango estremo. L'iniezione finale non era stata un trionfo, ma l'inizio di una fuga all'ultimo respiro.`;
