@@ -1,19 +1,20 @@
-export const prologueContent = `Il cielo di Roma non si spegneva mai.
-Le luci di navigazione dei droni scivolavano sopra i tetti in formazione perfetta, tracciando un respiro artificiale e inesauribile tra le nuvole basse. La rete non dormiva mai. Aris lo aveva avvertito anni prima, quando ancora pronunciava le parole senza il terrore di un microfono nascosto. Pensare ad alta voce costava la vita.
-Claudio stringeva il pugno. Il metallo del drive analogico scottava contro il palmo sudato, impregnato del calore di quell'attesa immobile sul cornicione. L'aria notturna riempiva i polmoni, satura del sentore elettrico dei filtri di ventilazione e dell'umidità della pietra bagnata.
-Sopra di lui, un drone si staccava dallo sciame.
-Il drone virava lentamente, calcolando ogni movimento per incutere terrore. Scendeva di quota, puntando il cornicione. La lente ottica ruotava verso di lui con un clic meccanico che Claudio percepiva vibrare fino allo sterno.
-Smise di respirare, fissando un punto vuoto nel buio. Sapeva cosa succedeva: il sistema leggeva la direzione delle sue pupille, la tensione dei muscoli facciali, i picchi termici della pelle. Cercava la paura. Cercava l'anomalia.
-Claudio conosceva il processo, perché lui stesso aveva scritto quell'algoritmo di scansione biometrica.
-Un brivido freddo risaliva la spina dorsale, costringendolo a serrare la mascella.
-La lente processava i dati.
-Un secondo. Due. Tre.
-I rotori aumentavano i giri. Il drone riprendeva la rotta, scomparendo oltre la cupola del Pantheon.
-Claudio rilasciava il fiato in un lungo sospiro, ma manteneva i muscoli del collo tesi. Si voltava verso la città.
-Roma giaceva sotto di lui, stravolta. Una luce fredda e clinica sommergeva palazzi storici e fori imperiali, calibrata al millimetro per non proiettare ombre. L'assenza di oscurità garantiva la sicurezza pretesa da ABITES.
-Claudio apriva la mano. Il rivestimento del drive appariva consumato, graffiato in tre punti precisi. Un oggetto insignificante per un occhio elettronico, ma che rappresentava la sua ultima speranza.
-Pensava ad Aris. Alle catacombe clandestine, all'odore acre di reagenti chimici e caffè bruciato. Alle dita macchiate di grasso che martellavano la tastiera, in una corsa disperata contro il tempo.
-Si tirava su il cappuccio del cappotto e si allontanava dal bordo del tetto. La ghiaia scricchiolava sotto gli stivali con un suono crudo. L'algoritmo non temeva ancora l'imperfezione umana.
-Doveva raggiungere le catacombe.
-Sotto di lui, la città sincronizzata continuava a elaborare dati nel buio. Claudio aveva contribuito a costruire quella prigione perfetta.
-Adesso stringeva l'innesco per farla saltare in aria.`;
+export const prologueContent = `Prologo: L'Eclissi di Roma
+
+Le torri corporative di Roma bruciavano la notte.
+I droni scivolavano sopra i tetti. Le loro luci di navigazione segnavano l'addensarsi delle nuvole basse. La rete logaritmica vegliava sulla città. Aris lo aveva avvertito anni prima. Pronunciare parole ad alta voce costava caro. I microfoni nascosti registravano ogni sussurro umano umano.
+Claudio strinse il pugno. Il metallo del drive analogico scottava contro il palmo sudato. L'attesa sul cornicione incollava il sangue contro la plastica. L'aria notturna invase i polmoni dell'Ingegnere. I filtri di ventilazione saturavano l'ossigeno di scintille chimiche.
+
+Un drone si staccò dallo sciame periferico.
+La macchina virò con un ronzio stridente. I rotori inchiodarono nettamente la folata di vento. Il drone scese di quota. Puntò il cornicione d'acciaio. La lente ottica scattò verso l'uomo. Il clic dell'otturatore meccanico vibrò duro nello sterno di Claudio.
+L'uomo bloccò a viva forza il respiro. Puntò le iridi contro il cemento nero sottostante. L'algoritmo di scansione biometrica setacciò il suo volto. Il sistema di Cyrus registrò la direzione delle pupille. Misurò la rigidità della mascella. Quantificò chirurgicamente i picchi termici del derma.
+Claudio resistette all'impulso fisiologico primario. Serrò la mandibola. Strizzò i denti fino ad abradere lo smalto sui molari. 
+
+La lente processò spietatamente i dati rubati dal calore. I secondi consumarono la polvere gelida della terrazza. Il tempo scandì tre battiti cardiaci umani in successione asettica.
+I rotori aumentarono bruscamente i giri. Il drone ricalibrò l'asse informatico. La scocca in titanio spinse verso nord e sparì oltre le cupole stravolte del Pantheon.
+Claudio spurgò i polmoni gonfi. Mantenne i tendini del collo in trazione rigida. Si voltò verso l'immensa rete cittadina. I palazzi storici riflettevano una luce al neon clinica. I Fori Imperiali brillavano sotto il faro abbagliante dei proiettori industriali. La luminosità artificiale bruciava ogni singolo angolo d'ombra. L'intelligenza corporativa ABITES governava la metropoli sottomessa.
+
+Claudio aprì le dita intirizzite. Il rivestimento del drive rivelò tre graffi netti sulla scocca nera. Quel modulo di silicio scheggiato custodiva la salvezza del libero arbitrio genoma umano.
+Il ricordo di Aris infiammò lo sterno di Claudio, regalandogli pura ferocia combattiva. Ripercorse mentalmente i corridoi delle catacombe clandestine. Ricordò l'odore acre dei reagenti chimici sparsi sui banchi. Rivedette le dita sicure dell'hacker martellare la tastiera analogica a monitor spento. La forza vitale corazzò di nuovo il cuore in attesa.
+
+Issò il cappuccio scuro sulla nuca. Voltò le spalle all'abisso illuminato a giorno dall'algoritmo perfetto. Gli stivali schiacciarono la ghiaia termica del tetto. Il rumore crudo irruppe nell'aria sintetica in espansione. La destinazione sotterranea lo chiamava. La metropoli macinava ininterrottamente i dati dell'emisfero. 
+Claudio alzò l'avambraccio e guardò la propria invenzione maledetta. Avrebbe fatto saltare il codice madre dall'interno.`;

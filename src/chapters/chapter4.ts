@@ -1,35 +1,60 @@
 export const chapter4Content = `Macro-Capitolo 4: Il Primo Sangue
 [ROMA - COLLETTORE EST - CLAUDIO E LAURA]
-Claudio riemerse dalle catacombe di Aris attraverso una scala a chiocciola corrosa dall'ossido. Sbucò nel collettore fognario principale. L'oscurità era pesante, tagliata solo dalla torcia luminosa di Laura.
-Lei lo aspettava in silenzio, appoggiata ai mattoni romani antichi, fondina pronta. Nessuna domanda inutile. Il riflesso dell'acqua nera brillava nei suoi occhi tattici.
-«Aris ti ha dato il drive?»
-«Sì.» Claudio le mostrò il rettangolo metallico.
-Il sibilo si propagò un attimo prima della minaccia visiva. Due droni da sorveglianza sotterranea emersero dall'incrocio ovest: i sensori termici affettavano le tenebre impenetrabili. Macchine arachnoidi d'acciaio, modificate per muoversi fluidamente negli spazi stretti.
-«Dispersione,» sibilò Laura, estraendo la pistola scheletrata in un solo battito.
-Claudio scattò di lato verso l'intercapedine idraulica. Il drone calò dall'alto a piombo, artigli aperti puntati alla sua giacca. Laura reagì, premette tre volte il grilletto. Il primo colpo frantumò l'ottica. Il secondo abbatté il rotore d'irradiazione termica. Il drone deviò bruscamente, ma il telaio pesante sfuggì al controllo e precipitò di taglio contro Claudio.
-L'ala di metallo logorata perforò il fianco sinistro dell'ingegnere, infilandosi letale tra le costole, squarciando la muscolatura sotto i vestiti. Il dolore scattò immediato e feroce, una morsa di fuoco bianco. Claudio bloccò il rantolo serrando mascella e mandibola, il sapore salato del sangue gli invase il palato. Precipitò in ginocchio nell'acqua sudicia, stringendo il drive vitale al petto.
-Laura neutralizzò il secondo automa recidendone i comandi con una lama ceramica netta.
-Si voltò. Gli scrosci di liquido nero celavano in parte il sangue viscoso che colava ora copioso lungo i pantaloni corazzati di Claudio. Il primo sangue era stato versato al fango, inesorabile.
+
+Claudio riemerse dal bunker calcareo di Aris scalando l'antica chiocciola ossidata. Sfondò la massiccia paratia in ghisa. Sbucò nell'ampio collettore idrico est. L'acqua fognaria scorreva opaca. L'oscurità soffocava la galleria, infranta solo dal raggio alogeno e tattico di Laura.
+La guerrigliera lo attendeva appoggiata ai mattoni romani antichi. L'indice accarezzava il paragrilletto della Glock.
+«Ottenuto l'hardware?»
+«Certificato.» Claudio sollevò il rigido rettangolo in metallo nero integrato nel palmo.
+
+Il sibilo penetrò i timpani una frazione di secondo prima dell'ingaggio visivo. Due droni esploratori emersero a pelo d'acqua dalla diramazione ovest. Le ottiche fendevano il buio chirurgicamente. ABITES schierava aracnidi in lega d'acciaio per mappare lo stretto dedalo idrico.
+«Copertura!» ringhiò esplosiva Laura, abbattendo la torcia puntando il ferro.
+
+Claudio s'inabissò di fianco verso l'intercapedine in muratura. Il drone assaltatore calò a piombo dall'alto, sfoderando tre uncini d'appoggio idraulici. Laura reagì marziale. Espulse tre colpi netti. Il primo proiettile disintegrò il visore termico della macchina. Il secondo perforò il rotore logico. Lo scheletro d'acciaio subì l'impatto deviando la sua letale corsa. Il telaio da venti chili sbatte impazzito dritto contro il costato destro di Claudio.
+
+L'ala in lega forò il tessuto tattico scuro e tranciò le carni fresche. Il metallo s'incuneò tra l'undicesima e la dodicesima costola dell'ingegnere, dilaniando la fascia muscolare intercostale.
+Il trauma sbatté l'aria fuori dai polmoni. Il dolore scattò immediato e feroce. Claudio bloccò l'urlo ferino rigettando la testa indietro e sigillando i denti. Il sapore del sangue allagò le papille gustative. S'accasciò a ginocchia pesanti nell'acqua fognaria. Stritolò il drive vitale di memoria contro lo stomaco.
+
+Laura aggirò fulminea l'asse del secondo arachnide meccanico. Tranciò i cavi idraulici scoperti della macchina con un colpo incrociato di coltello in ceramica balistica. Il drone collassò spento in acqua fangosa.
+La donna abbassò il ferro verso il tunnel. Gli scrosci sotterranei coprirono il denso zampillare rosso vivo di Claudio. Il sangue s'addensava macchiando la tuta. Il primo sangue ribelle macchiava il fango, inesorabile.
+
 ❖ ❖ ❖
-[MONTI APPALACHI - BOSCO - MARCUS DRAKEN]
-La pioggia cadeva muta. L'elmetto corazzato di Marcus Draken, veterano in comando della squadra Teslaris-7, filtrava digitalmente la precipitazione, derubricandola a mero rumore ambientale. Avanzava nel fango calpestando lo scricchiolio umido di foglie e arbusti.
-Il visore tattico frontale dipingeva il mondo col cinismo termico dell'IA. Segnalò le anomalie magnetiche. Otto esseri umani fuggitivi, completamente sconnessi dal protocollo, alloggiavano intorno a una stazione radio rurale.
-«Operazione,» intimò Draken via radio criptata.
-Il subordinato Reyes penetrò la porta di sfondamento. Draken lo supportò con i fasci abbaglianti frontali. Accovacciata e inerme c'era una madre con i propri figli impauriti. Reyes la sopraffece, annullandole le vie di reazione.
-Fuori, la struttura rustica bruciava per le innescate reazioni combustibili, emettendo puzza acre mista alla terra.
-Draken intercettò sul radar tattico un'anomalia ferita. Puntò il fucile, avvistandola nei rovi fitti; donna, disarmata, la piega del ginocchio imbevuta di lordura. Sguardo ostile e dritto.
-«Non devi spingere per forza quel grilletto,» scandì debolmente lei.
-Draken pesò i dati calcolati sul visore e la carnalità degli occhi umani di fronte a lui. Abbassò gradualmente l'arma automatica.
-«Richiedo assistenza sanitaria remota al bersaglio mobile ferito e procedo al contenimento.» Ruppe il veto di abbattimento dettato dall'IA. Buttò le garze in dotazione sulle ginocchia della prigioniera. Dalla collina settentrionale, nascosta dentro la boscaglia, Sara seguì tutta l'azione con rigore d’analisi: l'automa ABITES stringeva l'algoritmo, ma spiragli di devianza etica continuavano a incrinare la perfezione del sistema.
+[APPENNINI - BOSCO - MARCUS DRAKEN]
+
+La pioggia spazzava l'umido terreno d'Italia.
+L'elmo balistico in polimeri di Marcus Draken, incursore veterano in comando della divisione paramilitare Teslaris-7, incanalò e derubricò l'ostile precipitazione. Ridusse il ticchettio meteorologico a mero fruscio audio sottomesso e calibrato. Draken calpestò il fango spezzando i rami bagnati. Avanzò nella foresta senza lasciare tracce termiche.
+
+Il visore retinico sovrascrisse la realtà visiva del bosco. ABITES illuminava chirurgicamente i bersagli caldi. Il sistema isolò un calore aspro d'ammasso umano in una vecchia baita a tre miglia di distanza dal rogo appiccato da Sara. Una famigliola estranea e fuorilegge.
+«Irruzione,» intimò freddo Draken via sub-canale criptato.
+
+Il soldato Reyes sfondò i cardini di legno marcio con un calcio. Draken accecò l'interno buio del nascondiglio rurale con milleseicento lumen del fucile mitragliatore. Rannicchiata inerme al muro opposto, una donna logorata copriva due bambini piangenti e malnutriti. Reyes calò un fendente e schiacciò la madre, annullandole le deboli vie di reazione disperata.
+
+Fuori d'allarme, la boscaglia sputava i resti brucianti del server di Sara. 
+Il radar letargico cibernetico di Draken registrò un'anomalia esterna isolata. Ruotò lo sterno dritto in esplorazione tattica. Centrò l'ottica. Una donna disarmata e isolata scivolava tra i rovi fitti; ferita all'articolazione, il ginocchio imbevuto di fango incrostato, la fuggitiva piantò il suo sguardo umano e sdegnoso dritto sulla canna in lega dell'arma paramilitare. Nessuna preghiera di pietà. Nessuna sottomissione.
+
+«Non devi spingere per forza quel grilletto automatico,» scandì debole l'ombra fuggiasca.
+Draken incastrò fisso il visore informatico contro la ferma debolezza degli occhi umani di quella ragazza affamata. L'algoritmo ABITES impose il rosso imperativo d'abbattimento in un lampo flash sull'HUD cranico interno. Abbattimento programmato non codificato.
+Draken pesò il ghiaccio del calcolo informatico e lo bilanciò mentalmente contro il coraggio dell'insubordinata stanchezza femminile dinanzi all'elmo. La canna automatica paramilitare s'abbassò progressiva ed inevitabile.
+
+«Richiedo codice sanitario remoto per fuggitivo asimmetrico e convalido contenimento pacifico.» Spezzò l'infallibile veto letale della Rete di Ginevra in aperto ed illegale ammutinamento. Prelevò il med-kit militare isolato in fondina medica, estrasse bende d'emergenza asettiche e le gettò nella mota fangosa ai piedi della fuggiasca.
+Nascosta in posizione di ricognizione sul pendio settentrionale aspro e frondoso, Sara studiò l'amara sottomissione con una lente ottica focale lunga e fredda. L'Intelligenza Matematica Corporativa stringeva implacabile l'acciaio mortale sulle città del mondo, ma l'imprevedibile umanità difettosa spezzava testarda l'algoritmo corporativo dei singoli soldati sponda su sponda. Scorie imperfette della mente rodata organica dei soldati di ABITES.
+
 ❖ ❖ ❖
 [ROMA - COLLETTORE EST - SARA (VIA SEGNALE) E CLAUDIO]
-Il pad logistico in mano a Sara impazzì colmo di dati all'interno della boscaglia fitta nordamericana. Il canale di telemetria biometrico su Claudio crollò irrimediabilmente, sparando allarmi letali riguardo alla miseria cardiaca dell'Ingegnere: cento battiti. Deficit pressorio convalidato, probabilità d'emorragia critica dell'ottantasette percento.
-L'essenza romantica si blindò divenendo scudo calcolante tattico in lei, stringendone i nervi allo spasimo più lucido.
-Mandare i protocolli crittati nelle infrastrutture fognarie di Roma equivaleva a morire sul colpo a livello di rilevamento georeferenziato.
-Sbloccò il sigillo di sicurezza, egualmente. Non le importò nulla della propria incolumità se rapportata a quella di lui, in fin di vita nel fango metropolitano occidentale.
-A diecimila chilometri d'acqua atlantica, giù nelle viscere latine, le mani sudaticce di Claudio premevano vanamente sui grumi, impedendo scarsi spruzzi dall'incisione profonda. Laura iniettò una polvere disinfettante locale dal med-kit provvisorio ma fu insufficiente di fronte alla gola carnosa della fessura addominale.
-Tre metri dinanzi ai respiri irregolari giaceva una cassa di degenza d'emergenza in inutilizzo decennale. Un click risonante riecheggiò, liberando automaticamente la scroccatura pneumatica anteriore.
-Bende d'espansione e dosi plasmatiche giacevano a completa disposizione dei fuggitivi di stato.
-«Ci annusano, è in corso localizzazione tattica per l'apertura non codificata localmente,» riferì la mercenaria.
-L'ingegnere abbozzò un sorriso dolente tra le arcate dentarie. Cercò mentalmente i lineamenti decisi del grande nord glaciale della sua amante distonica e analogica.
-«Sistematemi le bendature e muoviamoci, ci ha donato il tempo che meritiamo e io mi rifiuto categoricamente di spegnerlo nel dissanguamento.»`;
+
+Il ricevitore clandestino di Sara impazzì ricolmo di traccianti nella selva appenninica, infrangendo il mutismo della notte. L'apparecchiatura emise spiccati picchi in luce acida d'avviso letale.
+Il tracciato vitale sincronizzato di Claudio subì un baratro ematico drammatico. Aritmia sorda. Centotrentuno pulsazioni affannose. Emorragia stimata in arteria profonda con incidenza mortale dell'ottantasette percento. Il freddo del calcolo biometrico inibì il respiro di Sara.
+
+La ribelle americana frantumò la debolezza e si chiuse nella gelida razionalità del protocollo.
+Inviare un segnale d'apertura hardware nei labirinti romani inficiati dal monitoraggio di ABITES significava subire automaticamente un bombardamento termico d'orbita sulla sua posizione. Ginevra l'avrebbe incenerita sui monti. 
+
+Digitò le cifre sul pad tattico, sbloccando le sicurezze armate del remoto deposito paramilitare romano. Rifiutò il compromesso. Il suo nascondiglio montano non valeva nulla di fronte al sacrificio letale del compagno in città. Dispiegò e ruppe i sigilli informatici, regalando l'allerta immediata alle guardie cibernetiche dei cieli. Il segnale partì.
+
+Cento chilometri di distanza e terra ferma più in basso, il palmo insanguinato e rigido di Claudio schiacciava il ventre aperto. Acqua fognaria e melma si mescolavano al liquido scarlatto fuggiasco della grave ferita tra le costole.
+La polvere chimica emostatica sparì assorbita, ingoiata del tutto ed esautorata dallo squarcio. Laura compresse l'orlo con un duro asciugamano tattico, ma la carne era perduta in disperato difetto d'argine.
+
+A soli tre passi dall'uomo stese nel liquido nero, un'antica cassa ermetica in acciaio ossidato scosse la parete di tufo dimenticata d'epoca bellica. Un brutale meccanismo idraulico scattò dall'interno della muratura. Il cilindro ruppe l'inerzia con un fischio pressato, siglando l'apertura miracolistica guidata da remoto e tranciando le vecchie e massicce serrature in ferro.
+Sieri medici densi anti-shock e fleboclisi di rapido assemblaggio tattico rifulsero immacolati nel buio sudicio del collettore. Laura si lanciò estraendo istantanea le cure vitali analogiche. Le nocche scattarono pronte ad infilare l'ago a piombo idratante.
+
+«L'apertura d'arsenale ci ha scoperti, il codice radio illegale li pioverà addosso!» ansimò la mercenaria piantando il tubicino vitale sottopelle.
+Claudio restrinse fiero la mascella pallida. Un sorriso dolorante tranciò l'agonia. L'amore rurale di Sara ruppe le stringhe matematiche ed aprì le fognature corazzate offrendo coraggio e plasma.  
+«Sutura rapida di piombo e continuiamo,» sputò il soldato sanguinante, serrando i muscoli indomiti intorno all'innesto per far scorrere la chimica in torrente vascolare. «Mi rifiuto categoricamente di crepare in questa fossa, appena lei m'ha comprato ossigeno barattando in segnale la propria esecuzione dal cielo.»`;

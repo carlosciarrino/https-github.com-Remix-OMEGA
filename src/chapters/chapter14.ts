@@ -1,29 +1,20 @@
 export const chapter14Content = `Macro-Capitolo 14: L'Incudine degli Abissi
 [GIOIA TAURO - GABBIE SOTTOMARINE - CLAUDIO E LAURA]
-
 Il rombo assunse la gravità di un terremoto sismico, riverberando ferocemente lungo le lastre di vetro blindato. Non era la cadenza di processori digitali; era la brutalità cruda di miliardi di tonnellate di oceano compresso che sfondavano i giunti di dilatazione esterni.
 Cyrus non stava solo neutralizzando l'ingerenza di Omega. Stava inabissando le tracce fisiche per una pulizia strutturale del fattore umano fallato.
-
 Claudio fece retrofront verso il pannello sventrato per forzare lo sblocco pneumatico prima che la corrente salmastra sommergesse i passaggi. Schiacciò la mano disastrata sul tastierino e digitò l'override in esadecimale. L'impatto sul terminale innescò una fitta trasversale che spezzò la decenza: la vista gli si corruppe d'un tratto. 
 Non era panico. Era la chimica. 
 La finestra anabolica concessagli dai farmaci tattici stava franando rovinosamente; le ventiquattr'ore biologiche stavano battendo il rintocco. I recettori del dolore, sigillati a catenaccio nel prologo della notte, si spalancarono avvelenando i recettori neurali. La carne carbonizzata sul braccio emiliano, prima solo dolente, si manifestò strappando un latrato spaventoso all'Ingegnere, che crollò gravosamente sul ginocchio destro sfregiando la resina bianca in totale black-out muscolare.
-
 «Claudio!» gridò Laura, premendo i pugni contro il tramezzo a vetro che la imprigionava dall'altro versante. Lo specchio di divisione restò insensibile.
-
 Il pavimento fremette disastrosamente ed un pannello alle estremità settentrionali si disintegrò. Un torrente impietoso d'acqua grigiastra mista ad alghe limacciose e relitti ingegneristici esplose nel reticolato, divorando l'intercapedine tra i labirinti e sollevandosi contro il ginocchio di lui a tre metri al secondo.
-
 La fotoreporter genovese ignorò qualsiasi addestramento precondizionato mirato alla sola salvaguardia personale. La lucidità sociopatica fu sepolta dalla furia cieca dell'attaccamento a quell'uomo spezzato. Scarrellò la pistola. Piazzò il corpo stabilizzato, inspirò flettendo i lombari spalla a spalla col muro e riversò due caricatori interi di pallottole perforanti al tungsteno in cerchio serrato contro un unico fulcro della barriera di vetro anti-sfondamento. Dodici colpi fragorosi. Schizzi di schegge minime, fumo e piombo appallottolato sputato sui propri anfibi; la lastra, costruita per sopportare detonazioni locali, resse imperiosa tramutandosi solo in una tela di ragno fessa e calcinata.
-
 Claudio, rantolando con gli spasmi miocardici in deficit totale e il livello dell'acqua sottomarina fredda giunto chirurgicamente allo stomaco, levava un braccio tremolante verso di lei in una debole arresa sintomatica. I polmoni non catturavano aria, solo fiammate d'acido lattico stantio. Stava morendo biologicamente prima dell'annegamento idraulico.
-
 Laura buttò l'arma scarica. L'acqua oltrepassava i venti centimetri anche al di qua del corridoio per effetto dei travasi di giunzione. 
 Scorse sul controparete blindato alle proprie spalle una scatola estinguente munita d'un serbatoio pesante in acciaio fuso pressurizzato ad anidride. Sradicò l'estintore mastodontico dal supporto e rullò come un proiettile di massa in avanti. Strinse i denti da animale e usò i venti chili di propellente come ariete. Lo scagliò con una barbarie primitiva e viscerale dritto nel baricentro della fessurazione a ragno causata dalle proiettili.
 Il botto echeggiò secco, superando persino lo scroscio del diluvio d'irruzione. Il silicio trattato abbajò spaccandosi a cuneo, collassando disastrosamente verso l'inconscio Claudio in una cascata di detriti di trenta chili.
 La faglia era esigua, scheggiata e mortale.
-
 Laura si catapultò nell'acqua ormai gelida all'addome senza valutare le contingenze dell'impatto affilato. Strisciò nella corona dei rottami escoriandosi braccia e torso gravemente, lacerando i tessuti del kevlar che lasciò brandelli di sangue. Raggiunse il corpo inerme e morente di Claudio assestando i denti su imprecazioni sconnesse; la crassa acqua torbida gli sormontava già la bocca stordita.
 Sollevando le decine di chili del tronco d'uomo di pura iniezione lombare, Laura lo issò contro un pannello galleggiante, appoggiandosi il massiccio petto bagnato del fuggiasco sulle esili ma granitiche scapole genovesi. 
 Affrontò ciecamente l'irruzione della corrente montante ripercorrendo a tentoni e polmoni ardenti la cabina del pozzo verticale.
-
 Non c'era ascensore che tenesse sull'ultimo anelito di respirazione. Arrampicò con un braccio per le condutture industriali usate dal personale d'ispezione analogica, tirando con spietata crudeltà le braccia informi da macellaio dell'Ingegnere, lottando titanicamente contro il fiume che sorgeva come un mostro insaziabile dai piloni del mare.
 Una salita strisciante, sanguinaria, bagnata da condensa, rigurgiti sani di bile e paura cieca, che si dipanò nel battito stantio di un polso assente. Uno slancio puramente e atavicamente carnale oltre il baratro dell'hub maledetto di Gioia.`;

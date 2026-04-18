@@ -1,101 +1,31 @@
-export const chapter20Content = `Capitolo 20: Diciassette Secondi
-
-Diciassette secondi.
-Fisica. Latenza del modulo biometrico prima del nodo centrale. Claudio lo sapeva. Lo aveva progettato lui. L'aveva venduta come margine di sicurezza.
-Ora misurava la distanza dalla morte.
-
-Il drive in mano. Caldo di metallo. Caldo di tasca. Unica cosa viva nel laboratorio di bruciati cavi. Il connettore server era a venti centimetri. Modulo biometrico lampeggiante. Occhio in attesa.
-
-Dal corridoio: ticchettio.
-Ritmico. Secco. Otto zampe sul cemento. Drone ragno a dieci metri.
-
-Claudio immobilizzato.
-Cervello su due binari. Chiarezza fredda. Due vie: impronta autorizzata o cortocircuito. Impronta: impossibile. Cortocircuito: ponte tra i connettori ad alto voltaggio. Punto di massima allerta.
-
-Laura alla destra. Firma immobile.
-Controllava il corridoio attraverso il vetro.
-
-Il ticchettio accorciò la distanza.
-Laura scattò.
-Niente parole. Corpo che scivolava contro il muro. Velocità incompatibile col rumore.
-
-Porta aperta di tre centimetri.
-La mano destra di Laura estrasse il cilindro nero. Nero. Lungo quanto un dito. Stretto nel pugno.
-
-Il drone superò il varco. Basso. Venti centimetri dal suolo. Otto zampe macinavano metri.
-Claudio analizzò il cecchio. Punto cieco: base della zampa anteriore sinistra.
-
-Laura colpì.
-Il braccio tagliò l'aria. La mano premette il cilindro sul fianco. Flash EMP. 
-Crepitio secco. Stridore. Il drone morì. Lampade fulminate.
-
-Laura scostò la porta.
-Sette secondi. Ne restavano dieci.
-
-Claudio puntò il server.
-Morsetti ad alto voltaggio a sinistra. 480V. Corrente continua. 
-
-Estrasse la chiave esagonale in acciaio. Dodici centimetri di massa solida.
-Laura comprese.
-«Claudio.»
-«Cinque secondi.»
-
-Strinse la chiave. Metallo freddo contro pelle umida.
-Inspirò. Il metallo baciò il primo connettore.
-
-Il dolore arrivò prima dell'odore. Frustata termica. Muscoli del braccio contratto. Claudio serrò la presa. Perdere il contatto era il fallimento. Il drive non era dentro.
-
-La chiave sfiorò il secondo polo.
-Mondo bianco. Luce abbacinante.
-Infilò il drive con la sinistra.
-Clic.
-Mollò la chiave.
-
-Si accasciò contro il banco. Braccio destro ignorato dai comandi. Muscolatura pietrificata. Dita spezzate. Odore di plastica fusa. Pelle ustionata. 
-
-Schermo del server: nube grigia. Oscurità. 
-Sistemi di backup scattati. Paratia antincendio crollata.
-
-Laura raggiunse il banco. Mani sui tessuti. Sondò.
-«Cammini?»
-«Sì.»
-«Sicuro?»
-Claudio si alzò. Il braccio penzolava. Rigido. Scosso da nervi sovraeccitati. Una selva di crampi.
-
-«Sicuro.»
-Laura prese lo zaino. Passò all'altra spalla. Nessuna parola.
-Passi pesanti in arrivo. 
-
-«Uscita.»
-Varcò la porta ovest. 
-Scala antincendio. Ferro gelato. Discesa rapida.
-Voci dall'alto. Ordini tattici. Il ritmo della caccia.
-
-Chiusero il perimetro.
-Laura incollata allo stipite. Spallata tesa al pianterreno.
-Aria gelida. Bologna. Nebbia. Tre e mezza. Blindati ABITES nel piazzale. Senza sirene. Silenzio inesorabile.
-
-Svolta a sinistra.
-Claudio in scia. Corsa sotto i portici.
-Nessun trucco. Claudio provò a zittire le scarpe. Il braccio ustionato bruciava. Manica fusa. Evitò di guardare.
-
-Via secondaria. Vicolo.
-Laura dominava la mappa. Istinto puro.
-Arresto sotto l'ultimo portico.
-Brandello di carta tremava al vento: "Non temete ciò che state per soffrire. Apocalisse 2:10".
-
-Laura misurò la distanza.
-Dita sulla piaga viva. Dieci centimetri di cicatrice. Rossa. Bianca ai bordi. Dolore installato.
-
-Claudio la guardò.
-«Funzionerà.»
-Laura annuì.
-Fasciatura professionale. Stretta.
-
-Muro vibrò. Fari fendinebbia su scansioni asettiche.
-«Via.»
-Claudio scattò.
-Pensò a Sara. Nessuna tattica. Solo il suo nome.
-
-Si raddrizzò sui lombari. 
-Avevano un bersaglio. Il resto, buio.`;
+export const chapter20Content = `Macro-Capitolo 20: Acqua e Tungsteno
+[ROMA SOTTERRANEA - BACINO IPOGEO - LAURA E CLAUDIO]
+L'acqua nera del bacino carsico vibrò d'una frequenza innaturale. Nessuna goccia dal soffitto. Nessun tremore sismico dai piani alti. Era uno spostamento di massa fluida, costante e calcolato.
+Laura schiacciò Claudio contro la putrella d'acciaio del muro di fondazione. Gli tappò la bocca febbricitante col palmo intriso di fango. L'Ingegnere ebbe un sussulto muscolare, ma cedette alla morsa.
+L'auricolare sfrigolò un allarme muto.
+«Signatura dinamica nel bacino idrico,» avvertì Carlo, con urgenza strozzata. «È un dardo esplorativo dell'acquedotto moderno. Una sonda autonoma di manutenzione. Censisce perdite strutturali e scansiona biologie estranee. Viaggia sottomesso, non ha tracciato radar in superficie.»
+A dieci metri, il pelo dell'acqua esplose in una bolla d'aria viziata. 
+Il dardo meccanico affiorò. Un cilindro di titanio zigrinato lungo due metri, snodato come una murena d'acciaio. La corazza era spessa, foderata da placche in carbonio per resistere alle alte pressioni fognarie. La testa ottica roteò. Un fascio laser a griglia rossa fendeva l'oscurità millenaria, mappando l'Opus reticulatum millimetro per millimetro. Lateralmente sventolavano appendici idrauliche armate di seghe circolari diamantate, concepite per tranciare radici e ostruzioni minerali.
+Se il fascio rosso avesse incrociato la massa termica dell'Ingegnere, l'impulso d'allarme avrebbe saturato la rete neurale della Torre in un millesimo di secondo. Una cascata di piombo lealista si sarebbe riversata giù dal soffitto.
+Laura non estrasse l'arma da fuoco. Il boato in un ambiente chiuso avrebbe innescato i sismografi di ABITES duecento metri sopra. L'eco balistica avrebbe tradito la furtività. L'impronta stealth richiedeva carne, lama e oscurità mortale.
+Sganciò il moschettone di trazione dal cinturone di Claudio. Sguainò il coltello in tungsteno. Nessun respiro profondo.
+Scivolò nell'acqua nera.
+Silenziosa come un predatore primordiale, Laura sfruttò l'ombra dei pilastri sommersi. L'acqua gelida premette sul torace, rallentando asfissiantemente i movimenti.
+Il dardo idraulico virò. Il laser incrociò le scarpe inermi di Claudio poggiate a riva. Il micro-processore della macchina scattò. Rilevamento anomalia biologica categorizzata. Il bulbo trasmettitore dorsale si illuminò di un giallo minaccioso. Iniziava la sequenza di ping.
+Laura eruppe dalla palude. 
+Avventò novanta chili di spinta propulsiva contro il fianco del serpente meccanico. Il dardo fu sbalzato fuori asse. Il segnale radio si disperse.
+La macchina reagì in modalità autodifesa immediata. Le trivelle rotanti si accesero con un ronzio stridente, frullando l'acqua sporca in un vortice letale.
+La corazza infranse il costato di Laura. Lei strinse i denti, artigliando lo snodo metallico con la mano sinistra. Il metallo umido e liscio scivolava. Una fresa laterale fiondò in avanti, agganciando la manica del kevlar. Il tessuto antiproiettile si strappò. La lama diamantata falciò il muscolo deltoide di Laura. Sangue caldo ed estremamente rosso zampillò, mischiandosi istantaneamente all'acqua limacciosa.
+Nessun gemito. Il dolore incanalò purissima rabbia bellica.
+Laura cavalcò il cilindro in torsione, piantando le ginocchia sui giunti a tenuta stagna per bloccarne l'oscillazione bestiale. 
+Il dardo rovesciò i sensori all'indietro, puntando un tranciacavi pneumatico direttamente verso l'occhio della mercenaria.
+Laura deviò l'appendice con una violenta testata frontale sul braccio idraulico. Un taglio le scavò l'arcata sopraccigliare, accecandola a metà col proprio sangue.
+Brandì la lama in tungsteno. La alzò oltre la testa. Sfruttò l'intera muscolatura dorsale e abbatté il colpo.
+Il coltello spaccò l'involucro del bulbo trasmettitore. Il tungsteno ignorò la struttura in policarbonato, penetrando per quindici centimetri nei circuiti vitali. 
+Il dardo ebbe uno spasmo elettrico. Un arco voltaico azzurro sparò scintille a fior d'acqua. Laura scaraventò il peso in torsione laterale estirpando brutalmente l'intero nucleo di silicio e strappando i fili di rame dell'antenna dal pannello madre.
+I led rossi morirono con un sibilo di pressione in fuga. La murena di titanio si afflosciò scendendo pesantemente a fondo, ancorata al pavimento calcareo romano in una nube di olio sintetico denso e sangue umano.
+Acqua e silicio defunti. Silenzio tombale ripristinato.
+La mercenaria barcollò verso la sponda tufacea. Scivolò un paio di volte sulle lastre insanguinate. Raggiunse il muro di cemento armato dell'esercito e crollò in ginocchio accanto a Claudio.
+Il braccio di Laura sgrondava sangue arterioso da coprire. Il volto era una maschera di fango, sudore e tagli verticali.
+Premette il pollice sinistro sulla ferita del deltoide con violenza sadica per tamponare l'emorragia. Respirava a scatti corti, inglobando aspramente l'aria marcia del cunicolo.
+La procedura stealth aveva richiesto il bagno di sangue per sigillare l'ombra. Il perimetro era mantenuto, al prezzo della carne. C'era solo una piastra di cemento armato ora da sfondare prima delle basi della Torre.`;

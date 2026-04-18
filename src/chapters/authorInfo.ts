@@ -1,5 +1,4 @@
 export const authorInfoContent = `Presentazione dell'Autore e Ringraziamenti
 Carlo Sciarrino è un autore appassionato di narrazioni distopiche, thriller tecnologici e tematiche escatologiche. Con la saga "OMEGA", esplora il delicato confine tra il progresso tecnologico e la conservazione dell'anima umana, unendo un'attenta ricerca geopolitica a una profonda indagine spirituale.
-
 Ringraziamenti
 Scrivere questo primo volume è stato un viaggio lungo e intenso. Voglio ringraziare la mia famiglia per il supporto incondizionato e la pazienza dimostrata durante le innumerevoli ore passate davanti allo schermo. Un ringraziamento speciale va ai primi lettori, le cui intuizioni e critiche costruttive hanno aiutato a plasmare il mondo di ABITES e a dare voce a Claudio, Laura e Sara. Infine, grazie a te, lettore, per aver scelto di avventurarti in questa storia. La resistenza è appena iniziata.`;

@@ -1,65 +1,22 @@
-export const chapter18Content = `Capitolo 18: La Città che Aveva Dimenticato di Avere Paura
-
-Nelle catacombe il buio mangiava ogni cosa.
-Claudio ispezionò lo zaino. Terza volta. Drive schermato. Kit estrattore. Documenti falsi. Le dita scorsero le tasche, tastarono gli angoli del materiale.
-
-Sara sedeva sulla branda. Gomiti sulle ginocchia. Mani alla bocca. Sguardo fisso sulla figura di Claudio.
-
-Claudio serrò le cinghie. Si voltò.
-Gli occhi di Sara restarono immobili.
-Claudio azzerò la distanza. Sedette al suo fianco. Il materasso imbarcato affondò. Il contatto tra le spalle fu frizione calda. Si cercarono.
-
-Sara distese il palmo sull'avambraccio di Claudio. La pressione fermò il tremolio nei muscoli.
-«Torna.»
-Direttiva viscerale.
-
-Claudio inquadrò il viso di lei. Distinse le linee di stanchezza agli occhi.
-Posò le dita sotto il mento di lei. Sfiorò la pelle tesa. Calda. Contro il gelo sotterraneo.
-«Torno.»
-Voce ferma.
-
-Si baciarono. Contatto diretto, incandescente. Necessità contro la disfatta. Claudio assaporò la pelle del collo. Sara strinse i pugni nel tessuto del maglione. Rifugio.
-Claudio si staccò. Indurendo il respiro.
-
-Laura piantonava il varco. Fissava il buio.
-Carlo tambureggiava la tastiera.
-Claudio mise lo zaino in spalla.
-Scala di tufo.
-
-Passaggio termico. Brutto. Umidità sotterranea sostituita dall'algida nebbia di superficie. Odore di terra sparito. Solo asfalto freddo e fumi residui. Bologna muta. Disciplinata. Forzatamente.
-
-Treno per l'Emilia. 06:42.
-Stazione gate. Otto minuti d'anticipo. Scesero.
-Il convoglio scivolò sui binari. Luci chimiche opache. Nessuna ressa. Pendolari seduti. Sguardi persi. Pace irreale.
-
-Claudio fissò le sagome sfocate. Laura nascose gli occhi dietro una rivista digitale. 
-Controllori tagliarono il vagone. Sorrisi preimpostati, vuoti.
-Lettore scanner.
-«Polso.»
-Claudio tese il braccio. Il laser pizzicò la pelle. Display verde.
-
-Bologna. Metà mattinata. Portici spogli. Nessuna macchia. Macchine di fondo onnipresenti. Silenzio. 
-Claudio seguì Laura. Tre gradini di distanza.
-Struttura scolastica. Colonnato neutro. Cortile senza vita.
-
-Caffè sordo al chiosco.
-Lenti scure. Cambio turno. 
-I polsi.
-Bambini di quattro anni. Braccialetto colorato. Dispositivo di protezione. Modulazione adrenallinica precauzionale.
-
-Claudio vide una bambina in cappotto rosso. Mano nella mano della madre. Il braccialetto blu pulsò.
-Il dissenso, amputato.
-
-Bevve. Sapore amaro.
-Laura depose la tazza. Telefono sul bancone. Mappa. Edificio scolastico. Punto rosso. Lato est. Laboratorio.
-Memorizzò.
-
-«Stanotte.»
-Laura recuperò il dispositivo. Mappava vie. Calcolava intervalli.
-
-Sara, là sotto.
-Il *torna*.
-Si alzò. Colletto del cappotto.
-Un bersaglio. Il resto, buio.zza. 
-Avevano un bersaglio da colpire. Il resto sarebbe stato buio.
-`;
+export const chapter18Content = `Macro-Capitolo 18: La Vena di Tufo
+[ROMA SUD - CATACOMBE - SARA E CLAUDIO]
+Il furgone blindato morì rantolando sotto la volta tufacea del deposito clandestino. Laura spalancò i portelloni posteriori sfoderando i polmoni. L'odore di piombo e carne infetta invase la grotta.
+Sara scattò dai terminali logici. Raggiunse il vano correndo sulle pozzanghere. I suoi occhi misurarono il collasso dell'Ingegnere sulla barella. Claudio tremava, sventrato dalla febbre. Pelle grigia. Respiro corto.
+Sara non sprecò fiato. Afferrò le cinghie. Insieme a Laura trascinò il corpo disarticolato sul tavolo d'acciaio logoro al centro del rifugio sotterraneo.
+Il tricipite destro di Claudio era un cratere scavato a vivo, ustionato e saturo d'infezione. Sara calzò i guanti in lattice. Preparò tre siringhe di antibiotico ad ampio spettro e una flebo di fisiologica. Il cuore le martellava contro le costole infondendo una scossa vitale in tutto il torace. La vista dell'uomo distrutto avrebbe spezzato chiunque dalla pietà. Lei vi trovò un coraggio feroce, radicato e violento. Claudio era tornato nel suo perimetro. Respirava ancora. Quell'assoluto allontanò in un lampo ogni tremore incerto dalle sue mani. 
+Trovò la vena intatta sul braccio sinistro. Inserì l'ago con precisione balistica. Fissò il deflussore e tamponò le ferite slabbrate con garze massicciamente imbevute di clorexidina per fermare la sepsi. Il monitor rudimentale tracciò un battito debole, ma riallineato alla costanza.
+Carlo ruotò le ruote della carrozzina sul fango indurito, strappando il nastro isolante da un innesto cablato. I suoi monitor proiettavano luce bluastra sulle pareti millenarie, descrivendo ragnatele difensive rosse su tutta la capitale.
+«Il sistema nervoso di Roma è blindato in lockdown esecutivo,» sibilò l'hacker. «ABITES ha saturato i cunicoli primari con sensori termici e ronde lealiste incrociate. La Torre dell'Eur è una roccaforte impenetrabile per chiunque abbia una firma termica umana.»
+Laura si asciugò il catarro e la pioggia mista a sudore dalla fronte sporca d'olio motore. «Ci serve un punto cieco per l'approccio tattico finale. Un buco in questo assedio.»
+Carlo indicò con un cenno brusco del mento il settore nord dell'accampamento sotterraneo. Una zona crollata, transennata da cavi arrugginiti e pozze d'acqua stagnante nera.
+«L'abbiamo trovato accidentalmente tre giorni fa,» dichiarò Carlo. Avanzò con la sedia rotelle verso l'oscurità infangata. «L'amministrazione comunale iniziò uno scavo di consolidamento vent'anni fa in questa direzione. Finiti i fondi in corruzione, murarono l'accesso a metà cantiere chiudendo la galleria cieca.»
+Carlo puntò un potente riflettore alogeno verso la roccia cieca. La parete tufacea mostrava un cedimento strutturale sventrato, fresco e innaturale per l'erosione lenta tipica delle caverne.
+«Una vecchia tubatura ad alta pressione dell'acquedotto primario è esplosa là dietro qualche settimana fa. L'acqua ha scavato violentemente dietro il finto muro per giorni. Ha lavato via la stesura debole di terra, sgretolato le fondamenta del contenimento e sfondato lo scavo interrotto dall'interno.»
+Laura scavalcò i cavallotti in acciaio smembrato. Raggiunse la frana di fango, tufo e mattoni spaccati. Il riflettore illuminò un varco grezzo, largo quasi un metro e mezzo, strappato brutalmente alla parete dalla furia idrica pregressa.
+Oltre il buco, non c'era terra cieca. C'era il freddo umido e profondo di un vuoto immenso.
+Laura strisciò dentro la spaccatura abbassando le spalle, la pistola spianata in assetto istintivo. Accese la torcia tattica. Il fascio di luce bianca tagliò millenni densi d'oscurità intoccata. 
+Archi colossali in laterizio primitivo. Mura spessissime di basalto incastrato ed Opus reticulatum ricoperte di salnitro inviolato. Un corridoio maestoso, scavato ad arte e sepolto dall'oblio cronologico. L'ingegneria geometrica e massiccia di una Roma arcaica, dimenticata dalle mappe imperiali successive e sepolta ben sotto la coltre papale o fascista.
+«Nessuna planimetria corporativa arriva lì sotto,» la voce lontana di Carlo riecheggiò cruda dal foro di tufo. «I droni ABITES mappano le reti fognarie moderne, i cablaggi del novecento e i bunker della Guerra Fredda. Quel passaggio non è mai stato registrato in nessun documento d'epoca, né cartaceo antico né digitale moderno. È un autentico fantasma topografico, cancellato secoli prima della loro fottuta onnipotenza.»
+Laura illuminò dritto lungo l'estensione del macabro e splendido tunnel architravato. L'angolo di pendenza e il taglio geometrico puntavano dritti a sud-ovest. 
+«Punta esattamente sotto le antiche paludi giù in fondo,» constatò Laura, spegnendo la sicura dell'arma assecondando l'eco della caverna. «L'Eur. Sbuca direttamente sotto le sfere di cemento e le fondazioni d'acciaio della Torre di Cyrus.» 
+La chiave di volta dell'assalto era emersa non dal silicio, ma dalla storia occulta di Roma.`;

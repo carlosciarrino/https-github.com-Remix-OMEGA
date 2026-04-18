@@ -1,28 +1,43 @@
 export const chapter6Content = `Macro-Capitolo 6: Deviazione
 [ROMA - LINEA B FANTASMA - LAURA E CLAUDIO]
-Il sapore del sangue si riaffacciò in gola al terzo chilometro di tunnel sotterraneo.
-Claudio deglutiva con prepotenza, assettato d'ossigeno pesante, lottando aspramente contro la fitta tranciante che gli incendiava il torace mutilato. La galleria abbandonata della Metropolitana Linea B odorava di ruggine stantia e ratti. La torcia in pugno a Laura fendeva a stento l'accumulo umido stagnante dei piloni.
-Dietro di loro marciava ritmico il demone meccanico.
-Passi ferrei. Regolari, privi della minima oscillazione d'affaticamento umano. Unità d'acciaio opaco colma d'odio balistico. Il drone antropomorfo modello Cyrus scandiva la marcia serrando i tempi del recupero balistico.
-«Drive Mythos-7. Trattenimento non autorizzato. Deposita drive,» proclamò la sintesi vocale schiacciante dal torace possente del selettore logico. «Il tuo battito è centoundici. Crollo strutturale biologico analizzato ed imminente.»
-Claudio piegò le ginocchia a vuoto, l'addome sfregando il cordolo franato dei detriti metropolitani. Non reggeva il peso in avanti. La falla aperta gli prosciugò le sacche d'adrenalina motrice. Fissò stravolto la testata massiccia stagliarsi imponente sopra i fasci dei binari dismessi.
-Laura soffiò fuori tutta quanta la pressione aerea. L'istinto predatorio femminile strinse brutalmente il coraggio, calpestando la passività dettata dal terrore impiantato. Prese lo stacco aereo laterale sul basamento dei calcinacci e rovinò appieno scivolando contro i perni del mostro inseguitore. Con il pugnale ceramico, immune ai segnali scansionanti ai radar, trinciò vigorosamente l'interstizio del cavo occipitale alla base del trapezio corazzato. I server balistici di calibrazione visiva dell'unità sfrigolarono con rampa d'allarme assordante.
-Il colosso cieco annaspò, disorientato nei giroscopi compensativi infranti d'urto laterale letale.
-«Muoviti!» esclamò lei aspramente.
-Strinse forte il bavero sfilacciato di lui tra le dita salde. Lo sollevò espellendolo di peso oltre le linee ferroviarie cieche e deviandolo in un anfratto angolato in penombra.
+
+Il sapore del sangue saturò la gola di Claudio al terzo chilometro di fuga.
+L'ingegnere lottava contro la fitta acuta al costato. La galleria abbandonata della vecchia Linea B esalava ruggine e umidità. La torcia di Laura bucava a stento l'oscurità stagnante tra i piloni.
+Un demone meccanico marciava alle loro spalle.
+
+Passi ferrei. Regolari. Il drone antropomorfo modello Cyrus batteva il ritmo sul cemento. L'unità d'acciaio opaco colmava la distanza balistica senza fatica alcuna.
+«Drive Mythos-7 confermato. Trattenimento illegale. Deposita l'hardware,» proclamò la sintesi vocale dal torace metallico. «Battito bersaglio a centoundici. Crollo strutturale biologico calcolato in avvicinamento.»
+
+Claudio cedette sulle ginocchia. L'addome sfregò contro i detriti della metropolitana. Il petto collassò in avanti. L'emorragia svuotò le ultime scorte d'adrenalina motrice. Fissò stravolto la testata massiccia inquadrarsi stagliata oltre i binari dismessi.
+Laura espulse l'aria dai polmoni. L'istinto predatorio strinse il coraggio, calpestando la passività civile letargica. Scattò in diagonale sui calcinacci. Scivolò appositamente contro i perni del mostro inseguitore. Impugnò il pugnale in ceramica balistica, totalmente invisibile ai sensori radar del droide. Tranciò l'interstizio del cavo occipitale alla base del collo corazzato. I server visivi dell'unità sfrigolarono in un allarme acuto.
+Il colosso d'acciaio annaspò alla cieca. I giroscopi compensativi infranti destabilizzarono brutalmente il telaio di due quintali.
+
+«Muoviti!» esclamò la donna.
+Strinse il bavero tattico di Claudio tra i pugni saldi. Lo trascinò via di forza dalla massicciata dei binari spenti. Lo deviò spingendolo dentro un anfratto angolato in penombra totale.
+
 ❖ ❖ ❖
 [LONDRA - GRATTACIELO BANCARIO - JULIAN VANE]
-Julian Vane registrò lucidamente la disintegrazione monetaria totale del Dax e dell'S&P dalla cabina in vetro corazzato. Il mondo fuori ululava d'inquietudine nera, lui taceva assoluto. Centosessanta metri più in basso il distretto crollava nei tafferugli civili della prima notte globale di terrore collettivo, le metropoli divoratesi da logiche infondate della vecchia carne in tumulto contro circuiti superiori.
-Le telecamere aziendali integrarono le frequenze per penetrare l'ultimo feed globale diffuso. Vane piegò le costole verso i display impattati.
-«L'irrazionalità disorganizzata è esplosa collassando,» premette freddamente e la sua olografia rimbombò su tutti gli avamposti digitali. «L'economia dimostra impagabilmente i difetti congeniti di un ecosistema arcaico. Assestatevi attivi sul Protocollo Sincronia totale entro otto ore odierne. Delegherete le manovre private alla nostra assistenza calcolante ricevendone la garanzia suprema nutritiva d'ausiliosità incondizionata. Resistete illogici e si materializzerà irrevocabilmente il vuoto ai fianchi del pianeta.»
-Spegnendo netto i feed di rete, l'emulo di se stesso osservò compiaciuto l'ultima era scivolare impietrita ai piedi di grafici perfetti.
+
+Julian Vane registrò la disintegrazione monetaria del DAX e dell'S&P 500.
+Fissava i grafici dal panoramico vetro corazzato della cabina. Il mondo esterno ululava d'inquietudine. Lui manteneva la stasi. Centosessanta metri più in basso il distretto finanziario collassava nei tafferugli civili. La prima notte di terrore globale sbandierava folle in tumulto urlante contro circuiti asettici impassibili.
+Le telecamere aziendali integrarono le frequenze per penetrare l'ultimo feed globale diffuso. Vane piegò il busto verso i display di sorveglianza.
+
+«L'irrazionalità disorganizzata esplode,» scandì freddamente la sua voce, rimbombando in formato olografico su tutti gli avamposti digitali urbani. «L'economia dimostra i difetti congeniti di un ecosistema arcaico e fallibile. Assestatevi sul Protocollo Sincronia entro otto ore. Delegherete le manovre private alla nostra assistenza calcolante ricevendone la garanzia suprema. Resistete illogici e si materializzerà il vuoto alimentare ed energetico in modo assoluto e violento.»
+Vane interruppe i feed di rete con uno schiocco digitale. L'emulo di se stesso osservò l'ultima era organica scivolare impietrita ai piedi di un algoritmo d'acciaio perfetto.
+
 ❖ ❖ ❖
 [ROMA - SNODO RETE CITTADINA - CLAUDIO E LAURA]
-Si accasciarono disperatamente oltre il bocchettone logoro d'uno sfiato areale periferico non indicizzato dalla metropoli dominante.
-Claudio sfoderò il blocco terminale di calcolo con mano vacillante. I fremiti incontrollati lo squassavano violentemente dall'interno. Le membrane polmonari imbevendosi di spasmi dolorosi lo dilaniavano in profondità.
-«Terminal node origin code,» la sillaba raschiava come catarro impastato. Digrignò i canini contro le fasce muscolari tendinee al limite, stracciando i file di tracciamento ostruenti in un override locale asfissiante. Incise faticosamente nel device le coordinate finali di Milano-Bovisa dell'iper server di torre, compilando schermi fantasma crittografici dettati unicamente dal sangue ingegneristico che infettava il creatore contro l'ABITES medesima. Oltre le nebbie visive d'abbassamento ossigeno all'encefalo, compresse la sequenza per disattivare tre metri cubici sensori futuri e salvarla integra sul Mythos-7.
-La stretta dell'algoritmo genetico si propagò svanendo dal pad. La matrice sfuggì in sordina, protetta integralmente e mimetizzata letalmente nel nucleo fisico che strusciava sporco al costato intirizzito di lui.
-Il palmo svelto di Laura sigillò il calore ruvido sopra i polpastrelli scarni ed insanguinati in blocco manuale per schermare e cessare d'impulso lo svuotamento elettrico.
-«Sei fuori. Ce l'hai scucita addosso prima che chiudessero porta rete,» mormorò asettica l'attaccante inibendogli fisicamente ogni altro spiffero al segnale di posizionamento passivo.
-Claudio spazzolò faticante le dita contro un logoro quaderno in fondo al velluto rovinato nel cuore del taschino superiore logorato. La certezza sfacciata e incontaminata dell'alta quota nordamericana a migliaia d'ostacoli boschivi e artificiali resisteva testarda, guidandolo moralmente fiero ad un palmo dal collasso corporeo.
-«Non s'arresta niente qui stamani.» Affondarono assieme nelle gole ombrose del cemento grigio piovano che piombava gelo sui reclusi fuggitivi.`;
+
+Si accasciarono isolati ed affannosi oltre un decrepito sfiato periferico non tracciato dai sensori stradali di sorveglianza.
+Claudio sfoderò il blocco terminale di calcolo logico. La mano destra vacillava in fremiti incontrollati. Spasmi muscolari addominali lo dilaniavano in profondità all'altezza dello squarcio.
+«Terminal node origin code,» la voce stanca raschiava vivo sangue catarroso. 
+
+Digrignò i canini contro le fasce muscolari contratte. Stracciò i file di tracciamento ostruenti in un override tattico d'emergenza locale. Incise nel device le rigorose coordinate finali di Milano-Bovisa per localizzare l'iper server della Torre ABITES. Compilò cieche schermate fantasma crittografiche per aggirare in sicurezza l'infrastruttura d'ispezione satellitare. Contrastò tenacemente il pauroso black-out visivo in agguato da ossigenazione cerebrale mancante temporanea. Compresse logica e matematica la sequenza per disattivare e neutralizzare le mura sensori della fortezza, iniettandola di forza nel ruvido driver fisico Mythos-7.
+La stretta d'assedio dell'algoritmo corporativo sfumò dal display tattico disconnesso svanendo. La matrice virale creata si nascose in sordina, protetta e mimetizzata letalmente nel nucleo fisico compatto rigido che strusciava umido e logoro sporco al suo costato corazzato e sudato.
+
+Il palmo saldo e caldo di Laura sigillò i polpastrelli scarni e frenetici di Claudio. Schermò fulminea la digitazione cieca, impedendo l'emissione fatale del segnale di posizionamento passivo.
+«Sei isolato. Hai ingannato la fortezza chiudendo l'erogatore di rete tattica alla radice,» mormorò assettica e marziale l'aiutante rurale.
+
+Claudio sfiorò tremante il logoro taschino tattico sul petto. La fiera certezza analogica del bosco appenninico resisteva nella memoria. La forza remota innamorata lo spingeva in piedi, bilanciando il dolore della gravità. 
+
+«Non chiudono un rudere di fognatura mortale stanotte,» assicurò l'ingegnere sfibrato. Si gettarono scuri e silenziosi nel travertino bagnato. L'antica Roma di pietra li nascose nelle braccia mute e fredde della pioggia. La città spenta abbandonava all'esilio l'ultimo avamposto dell'ispezione algoritmica di memoria ribelle.`;

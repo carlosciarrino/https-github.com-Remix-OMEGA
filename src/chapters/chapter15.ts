@@ -1,13 +1,9 @@
 export const chapter15Content = `Macro-Capitolo 15: Le Ceneri della Fuga
 [GIOIA TAURO - BANCHINA SETTE - LAURA E CLAUDIO]
-
 La burrasca vomitava spruzzi salmastri sui container marcescenti allacciati sopra l'invisibile tomba di cemento dell'Hub d'appoggio. La mareggiata martoriava i frangiflutti esterni del porto calabrese con colpi letali sferzanti come lamine incandescenti. Da una grata di ventilazione sudicia, a venti metri dalla rampa logistica sudata di fango, due figure ruppero l'asse inorganica del nero petrolio.
-
 Laura divelse la griglia d'ispezione calpestando per prima il suolo freddo a faccia su. Respirò ferocemente anidride carbonica contaminata di pioggia, rigettando a sputi l'acqua mortale della conduttura appena risalita. Tirò un grido monco a pugni chiusi ancorata attorno i polsi spezzati di Claudio, estratto esanime dall'utero di acciaio marittimo allagato.
 L'ingegnere giaceva di fianco sulla pozzanghera catramosa, i lineamenti intagliati nello squilibrio clinico e spettrale di una bambola d'intonaco abbandonata. Cadeva sotto l'inedia metabolica causata dal colpo brutale su ogni suo confine, e in assenza biologica per il calo dei farmaci anabolici che l'avevano trainato per il calvario di ventiquattr'ore in Emilia. L'ustionatura del polso trasudava liquidazione chiara in uno sfregio macabro sotto le fasce bagnate.
-
 Laura premette lo zigomo rigato dalle ferite del vetro sgretolato sulla carotide maschile ghiacciata. Un battito torbido, filiforme e spezzato resisteva alla carne. Morto per lo schema del mondo, radicato nella pura ribellione biologica ad abdicare.
-
 Si issò barcollante sorreggendogli il torace grave sotto la tormenta e lo trascinò furente tra due cisterne abbandonate dalle milizie marittime di ABITES ora accecate al solo perimetro limitrofo navale. L'impalcatura esterna offriva lo scudo indispensabile all'occhio letale dei droni termici.
 Squillò sorda l'impronta della trasmittente compatta. Solo rumore bianco statico fuso in una scarica brutale.
 «Carlo,» sibilò Laura sputando rigetti di catarro freddante nel microfono gualcito. «Punto sud. Piloni allagati. La radice sottomarina era una sanguisuga inutile; il nucleo primario non riposa in questa maledetta terra, ma al palazzo originario a Roma EUR.»
