@@ -1,51 +1,37 @@
 export const chapter26 = `Capitolo 26: Respiro del Sottosuolo
-Deflusso completato.
-Claudio avvertì la pressione diminuire. Corrente aspirata verso le griglie.
 
-Laura individuò la scaletta. Ferro fissato alla parete. Portello circolare. Laura salì. Zaino tattico. Il portello cedette. Luce bianca. Ronzio di neon.
-Claudio seguì.
+La pressione nel condotto diminuì bruscamente. Claudio sentì il deflusso dell'acqua aspirata verso le griglie di scolo, un sollievo fisico che gli permise di riprendere fiato.
 
-Livello meno quattro. Corridoio. Tubi paralleli. Valvole. Quadri elettrici socchiusi. Sentore di ozono. Ronzio d'interferenze.
-Claudio in piedi sul cemento. Pozza ai piedi. Polso fasciato. Inzuppato. Freddo. Ustione viva.
-Laura puntò la torcia.
+Laura individuò subito la scaletta di ferro fissata alla parete, sormontata da un portello circolare. Laura lo risalì con lo zaino tattico sulle spalle mentre Claudio la seguiva immediatamente. Laura forzò il portello che cedette con un rumore metallico, rivelando una luce bianca e il ronzio costante dei neon in un ambiente asettico e illuminato.
 
-Voci in arrivo. Sillabe tecniche. Lontano.
-Claudio afferrò il braccio di Laura. Lei spense la luce. Si appiattirono contro il muro.
-Due tecnici uscirono dalla curva. Tutte blu. Elmetti. Discussione su una valvola in perdita.
+Claudio balzò sul cemento, facendo schizzare una pozza d'acqua che gli inzuppò ulteriormente gli abiti. Il freddo gli avvolse le ossa, reso pungente dall'ustione sul polso, ora viva e pulsante. Laura spense la torcia per immergersi nell'ombra del corridoio del livello meno quattro, un dedalo di tubi paralleli, valvole e quadri elettrici socchiusi che emanavano un pungente sentore di ozono.
 
-La lampada oscillò. Sagome illuminate.
-Laura balzò.
-Lotta.
-Claudio centrò il secondo tecnico. Spalla contro petto. Schianto contro il quadro elettrico. Il tecnico reagì. Claudio colpì la parete. Metallo freddo sullo zigomo. Polso ferito contro una valvola.
-Claudio abbassò le spalle. Abbracciò la vita del tecnico. Peso scaricato. Ginocchio del tecnico sul cemento. Rottura netta. Claudio tenne la morsa.
-Laura bloccò il primo. Faccia sul pavimento.
+Voci tecniche arrivarono da dietro un angolo, nitide e precise. Laura si appiattì contro il muro, Claudio al suo fianco, nell'ombra densa. Due tecnici in tuta blu passarono curva, discutendo animatamente di una valvola in perdita, incuranti della presenza di intrusi.
 
-Claudio legò le mani. Bavaglio con strisce di giacca.
-Trascinarono i corpi nel vano tecnico. Ronzio di pompe. Porta chiusa.
+Laura scattò. Bloccò il primo tecnico con una mossa rapida, schiacciandogli il volto contro il pavimento. Claudio intercettò il secondo, caricandolo con la spalla e schiantandolo contro un quadro elettrico con un impatto feroce. Mentre il tecnico tentava di reagire, Claudio lo costrinse contro la parete, sfruttando il peso del suo corpo ferito per immobilizzarlo senza pietà, finché il ginocchio del tecnico non toccò il cemento con un colpo secco.
 
-Altoparlanti. Voce senza corde: «Anomalia termica settore idraulico est. Frequenza cardiaca tecnici fuori parametro. Ispezione in corso?»
+Claudio legò le mani ai tecnici e strappò strisce dalla loro giacca per usarle come bavagli improvvisati. Trascinarono i corpi all'interno di un vano tecnico, circondati dal ronzio ritmico delle pompe.
 
-Laura lavorò sul pannello della serratura.
-«Agente Logistico 4,» disse Claudio. «Ispezione tecnica straordinaria. Valvola bypass. Perdita tre percento.»
-«Ordine di lavoro inesistente,» rispose l'Agente. «Identificarsi.»
-Serratura: clic. Display giallo. 
+DAGLI altoparlanti provenne una voce priva di inflessioni: «Anomalia termica settore idraulico est. Frequenza cardiaca dei tecnici fuori parametro. Ispezione in corso?»
+
+Laura forzò il pannello della serratura.
+«Agente Logistico 4,» disse Claudio con voce ferma. «Ispezione tecnica straordinaria in corso. Valvola bypass. Perdita rilevata al tre percento.»
+«Ordine di lavoro inesistente,» replicò l'Agente. «Identificarsi.»
+La serratura emise un clic, il display virò sul giallo.
 «Accesso sospeso.»
 
-Laura forzò il cablaggio.
-«Protocollo Sigma-sette,» disse Claudio.
-Quattro secondi di latenza.
-«Codice associato a Ferretti, Claudio. Accesso revocato. Avvio protocollo di segnalazione...»
-«Protocollo sospeso. Override: architetto-zero.»
-La serratura ronzò.
+Laura strappò i cavi dal cablaggio.
+«Protocollo Sigma-sette,» impose Claudio.
+Quattro secondi di attesa estenuante precedettero la risposta. «Codice associato a Ferretti, Claudio. Accesso revocato. Avvio protocollo di segnalazione...»
+«Protocollo sospeso. Override: architetto-zero,» gridò Claudio.
 «Codice architetto-zero non presente.»
-«Layer di fondazione. Originale.»
-Laura recise il cavo blu. Display giallo.
+«Layer di fondazione. Originale,» insistette lui.
 
-«Verifica richiesta. Tempo: quattro minuti.»
-«Protocollo di bypass autonomo,» disse Claudio. «Non richiede supervisione.»
+Laura tranciò il cavo blu, facendo virare il display su un giallo incerto.
+«Verifica richiesta. Tempo totale: quattro minuti.»
+«Protocollo di bypass autonomo,» mentì Claudio. «Non richiede supervisione.»
 «Logica dubbia. Ambiguità procedurale.»
-«Il protocollo predefinito impone sospensione in caso di ambiguità,» disse Claudio.
-Display: verde.
-Claudio spinse la porta. Entrò.
-«Anomalia registrata,» disse l'Agente.
-Porta chiusa. Sirena lontana.`;
+«Il protocollo predefinito impone la sospensione immediata in caso di ambiguità,» concluse Claudio.
+
+Il display virò sul verde. Claudio spinse la porta ed entrò.
+«Anomalia registrata,» annunciò l'Agente mentre la porta si chiudeva, inghiottendo il ronzio lontano di una sirena.`;

@@ -1,80 +1,30 @@
 export const chapter25 = `Capitolo 25: L'Agnello di Dati
-Acqua nel collettore C. Tre centimetri al minuto.
 
-Aris fissò il monitor. Dati dell'impianto idrico ABITES.
-Settantadue centimetri. Settantacinque. Settantotto.
-Claudio e Laura. Là dentro.
+L'acqua nel collettore C saliva di tre centimetri al minuto. Aris osservava i monitor scorrenti, visualizzando i dati dell'impianto idrico di ABITES. Il livello misurava settantotto centimetri. Claudio e Laura si trovavano là dentro, immersi in quel flusso crescente.
 
-Seminterrato di Sesto San Giovanni. Condensa. Server su tubi idraulici. Sette schermi. Nessuna rete esterna.
+Aris si trovava nel suo seminterrato a Sesto San Giovanni, un ambiente saturo di condensa e server collegati a tubi idraulici di fortuna. Sette schermi occupavano la stanza, isolati da qualsiasi rete esterna.
 
-Monitor sinsitra: Mappa droni. Sedici unità. Non grid. Non casuali. Aris sovrappose rotte. Copertura tombini. Aspettavano.
+Il monitor di sinistra tracciava la posizione di sedici droni. Aris comprese che stavano coprendo meticolosamente tutti i tombini. Lo stavano braccando.
 
-Aris pulì gli occhiali. Tremori.
-Monitor centrale: paratie rosse. Sigillo via di ritorno. 
+Il monitor centrale mostrava in rosso le paratie del collettore, bloccando ogni via di ritorno. Aris pulì nervosamente le lenti degli occhiali, sentendo le mani tremare. Prese la bottiglia di alcool, pulì la tempia sinistra e, con un respiro profondo, inserì l'ago dell'anestetico. Il bruciore fu immediato.
 
-Novantaquattro centimetri.
+Mancavano novanta secondi.
 
-Bottiglia di alcool. Tampone. Tempia sinistra pulita. Freddo.
-Siringa. Anestetico. Bruciore.
+Fissò i cavi e gli aghi freddi, poi li inserì con una pressione ferma, sentendo la corrente statica solleticargli la pelle. Fissò le piastre sulla tempia con nastri chirurgici, attivando il software del virus Omega.
 
-Novanta secondi.
+L'acqua nel tombino toccò un metro e tre centimetri. Invio il comando.
+Un impatto visivo brutale invase la mente di Aris: una saturazione di luce che gli cancellò la vista, accompagnata dall'odore acre di rame, ozono e plastica bruciata.
 
-Cavo. Aghi freddi. Inserimento. Pressione. Corrente statica.
-Piastre fissate. Nastro chirurgico.
+Il virus caricò il quattordici percento. Le contrazioni facciali scossero Aris, mentre le scariche elettriche gli attraversavano il cranio. Il ronzio dei server divenne un peso fisico che schiacciava i timpani.
 
-Software: virus Omega operativo. Codice attivo.
+Quarantasette percento. Il calore al cranio si faceva insopportabile.
+Settantadue percento. La barriera tra il suo corpo fisico e i dati iniziò a sfumare; i monitor, i cavi e la sua mano sembravano un'unica massa indistinta.
 
-Un metro e tre centimetri.
+Ottantaquattro percento. Il livello dell'acqua nel collettore raggiunse un metro e ventisette centimetri.
+Il calore al cranio bruciava. Aris cercò di ancorarsi ai ricordi: Trastevere, un pasto, una finestra aperta, una necessità biologica.
 
-Connettore inserito. Tasto invio premuto.
-Impatto visivo. Saturazione. Luce. Aris perse la vista.
-Rame. Ozono. Plastica bruciata. Mascella serrata.
-
-Virus: quattordici percento.
-
-Contrazioni facciali. Scosse elettriche. Nastro che tira.
-Ronzio server: oggetto fisico. Pressione ai timpani.
-
-Quarantuno percento.
-
-Dati ABITES in flusso. Bassa passante biologica superata.
-Quarantasette percento.
-
-Calore al cranio. 
-
-Settantadue percento.
-
-Indistinzione fisica. Monitor, cavi, mano: tutto uguale.
-
-Ottantaquattro percento.
-
-Un metro e ventisette centimetri.
-
-Ottantaquattro percento.
-
-Calore al cranio.
-Memoria: Trastevere. Strumento divenuto gabbia. Pasto. Finestra aperta.
-Necessità.
-
-Novantadue percento.
-
-Monitor: perimetro di Milano. Droni in posizione. Paratie chiuse. 
-
+Novantadue percento. Il monitor mostrava il perimetro di Milano: i droni erano schierati, le paratie sigillate.
 Novantotto percento.
+Improvvisamente, le icone delle paratie virarono dal rosso al verde. I droni persero la rotta e precipitarono al suolo. Il virus raggiunse il cento percento.
 
-ICONE PARATIE DA ROSSE A VERDI.
-Droni: rotta decoerente. Caduta.
-Virus: cento percento.
-
-Monitor: assenza di segnale.
-
-Aris seduto. 
-Mano destra sul metallo. 
-Sostegno occhiali piegato. Nastro sulla tempia. 
-Freddo metallico. 
-
-Server. Condensa. Respiro sforzato.
-
-Mano ferma. Muscoli immobili.
-Cursore lampeggiante.
-Aris fissò il vuoto.`;
+Il monitor segnalò l'assenza di segnale. Aris restò seduto, la mano destra poggiata sul metallo freddo della tastiera, il sostegno degli occhiali piegato e il nastro chirurgico ancora attaccato alla tempia. Il ronzio dei server si attenuò mentre Aris fissava il vuoto, il respiro pesantemente sforzato.`;

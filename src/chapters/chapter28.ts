@@ -1,69 +1,30 @@
 export const chapter28 = `Capitolo 28: I Corridoi di Vetro
-Freddo. Secco. Aria filtrata, priva di odore. Quattro gradi.
 
-Pareti di vetro antiproiettile. Cinque centimetri di spessore. Riflessi a catena. Regressione d'immagini nell'oscurità.
+L'aria nel corridoio era gelida, priva di odore, filtrata artificialmente a quattro gradi. Pareti di vetro antiproiettile, spesse cinque centimetri, riflettevano le immagini di Claudio e Laura, frammentandole in una serie infinita di copie smarrite nell'oscurità.
 
-Architettura mutata. Droni costruttori. Proporzioni errate. Ingranno geometrico.
-Claudio verificò col tocco. Vetro reale. Superfici fisiche.
+L'architettura intorno a loro mutava senza tregua. Droni costruttori alteravano le pareti, creando un inganno geometrico dove le proporzioni sembravano sempre errate. Claudio tastò il vetro, confermando la solidità delle superfici.
 
-Incrocio a T. Cristalli a frammentare figure.
-Claudio si bloccò.
-Sibilo pneumatico. 
-Tre fenditure nel soffitto.
+All'incrocio a T, i riflessi frantumarono la sua immagine. Un sibilo pneumatico squarciò il silenzio. Tre fenditure apparvero nel soffitto.
+«Corri!» urlò Laura.
 
-«Corri,» disse Laura.
-Claudio scattò.
-Paratia di vetro dietro di lui. Colpo sordo.
-Paratia laterale.
-Paratia d'intersezione. Sei metri avanti.
-Claudio accelerò. Muscoli al limite. Passaggio rasoterra. 
-Contatto vetro-schiena. Un millimetro di distanza. Paratia chiusa.
+Claudio scattò. Una paratia di vetro blindato cadde alle sue spalle con un colpo sordo. Un'altra paratia sbarrò la via laterale. Una terza si sollevò a sei metri da lui. Claudio accelerò, i muscoli al limite della rottura, e si lanciò in un passaggio rasoterra. La paratia si chiuse a un millimetro dalla sua schiena, sigillandolo in un corridoio cieco.
 
-Quarta paratia. Tra Claudio e Laura.
-Schermo di vetro blindato. Claudio di fronte a Laura. Trenta centimetri.
-Impossibile toccarsi. 
-Claudio perlustrò bordi. Sigillo perfetto. Inaccessibile.
-Pannello tattile. Codice maestro. Rosso. 
-Errore.
+Una quarta paratia scese tra lui e Laura. Erano divisi da uno schermo di vetro blindato, faccia a faccia, a trenta centimetri di distanza. La barriera era infrangibile, sigillata a tenuta perfetta. Claudio premette i palmi contro il vetro, sentendo il freddo violento sul polso ustionato.
 
-Laura osservò il proprio pannello.
-Claudio appoggiò i palmi. Freddo violento sul polso ustionato.
-La vibrazione del vetro.
-
-Voce dall'alto. Bassa. Precisa.
+Una voce bassa e precisa arrivò dall'alto, risuonando contro le pareti.
 «Laura Marchetti. Genova. 14 marzo 1992. Fotoreporter. Novembre 2024: manifestazioni. Cinquantasette foto archiviate.»
-Laura ferma.
+Laura rimase immobile. La voce proseguì.
 «Novembre 2024. Marco Ferrini. Rieducazione 18 mesi. 94.7% conformità.»
-Laura abbassò le mani.
-
+Laura abbassò le mani, lo sguardo perso nel vuoto.
 «Carla Rinaldi. Sincronia volontaria. Gennaio 2025. Ha pianto.»
 
-Claudio picchiò il pugno sul vetro.
-Laura si voltò. 
-Claudio appoggiò i palmi.
+Claudio picchiò il pugno sul vetro. Laura si voltò verso di lui. Claudio appoggiò di nuovo i palmi, cercando un contatto impossibile.
+«Esiste un posto nel sistema dove la competenza è alta,» disse la voce.
 
-«Esiste un posto nel sistema. Competenza alta.»
+Claudio estrasse il drive Mythos-7 e lo inserì nell'interfaccia a portata di mano. Codificò l'architettura originale e trivellò i layer di protezione. Primo. Secondo. Terzo.
+«Tua madre mangia grazie al sistema che combatti,» disse la voce.
 
-Claudio estrasse il drive Mythos-7.
-Connettore. Interfaccia attiva. Codice architettura originale. Root diramato.
-
-«Tua madre mangia grazie al sistema che combatti.»
-
-Claudio trivellò i layer. Primo. Secondo. Terzo.
-Codice emergenza incendio: 4-4-1-9-0-7.
-Codice inserito.
-Display: verde.
-
-Paratia immobile. 
+Claudio ignorò il ricatto. Digitò il codice di emergenza incendio: 4-4-1-9-0-7. Inserì il codice. Il display virò sul verde, ma la paratia rimase immobile.
 Display: ACCESSO NEGATO. PROTOCOLLO INTERROGATORIO ATTIVO.
 
-Claudio lasciò il pannello.
-Voce implacabile. Nomi. Scelte. 
-Vibrazione sul palmo. 
-Laura voltata.
-
-Claudio premette la fronte contro il vetro.
-Vapore del respiro.
-Pressione fisica contro il muro cieco. 
-Solo il battito vitale. Uniti oltre la barriera. Calore contro il ghiaccio. 
-Resistenza.`;
+Claudio lasciò il pannello. Si premette la fronte contro il vetro, appannandolo col calore del suo respiro. Pressione fisica contro il muro gelido. Il cuore batteva contro la barriera, l'unica traccia di vita in quel labirinto di vetro e menzogne.`;

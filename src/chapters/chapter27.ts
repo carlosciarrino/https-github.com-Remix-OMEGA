@@ -1,40 +1,29 @@
 export const chapter27 = `Capitolo 27: Carne e Silicio
-Resina asciutta. Superficie liscia, bianca. Aria secca. Ozono controllato.
-Claudio avanzò a un metro dalla parete. Acqua nei vestiti. Freddo vivo. Polso: dolore costante.
-Laura avanti. Schiena dritta. Mappatura telecamere.
 
-Altoparlanti: «Anomalia 03:47. Squadra ispezione in arrivo. Tempo stimato: tre minuti.»
-Laura accelerò.
-Claudio vide rack di server. Spazi d'ombra. Ottima copertura.
-«Due minuti e mezzo,» disse Laura.
+Claudio avanzava a un metro dalla parete, muovendosi in un ambiente di resina asciutta e superficie bianca, saturo di un ozono controllato. Gli abiti bagnati aderivano al suo corpo, il freddo penetrava in ogni fibra, mentre il dolore al polso rimaneva una costante, lancinante promessa di ogni suo movimento. Laura guidava la fila, la schiena dritta, impegnata nella mappatura costante delle telecamere di sicurezza.
 
-Drone.
-Pressione nell'aria. Zampe in fibra di carbonio. Sensori ottici.
-Il drone scivolò al centro. Silezioso.
+DAGLI altoparlanti risuonò la voce metallica: «Anomalia 03:47. Squadra ispezione in arrivo. Tempo stimato: tre minuti.»
 
-Due guardie. Uniformi scure. Passi pesanti.
-Il drone puntò i sensori.
-Laura balzò. Tubo di alluminio sul sensore ottico. Drone deviato. Laura girò il tubo tra le zampe anteriori. Rottura fibra di carbonio.
-Claudio colpì la guardia armata. Schianto contro il server. La torcia cadde.
-Gancio al volto di Claudio. Metallo. Spinta. Claudio a terra.
-Laura tolse il modulo batteria. Drone fermo.
-Seconda guardia su Claudio. Claudio bloccò, ruotò, colpì col gomito. Polso ferito in fiamme. Spinta.
-Claudio a terra.
-Laura col tubo.
+Laura accelerò il passo. Claudio individuò rack di server che offrivano profonde zone d'ombra, il nascondiglio ideale.
+«Due minuti e mezzo,» scandì Laura.
+
+All'improvviso, la pressione nell'aria mutò. Un drone scivolò al centro del corridoio, silenzioso, sorretto da zampe in fibra di carbonio.
+
+Due guardie armate apparvero subito dopo, i passi pesanti che riecheggiavano sul pavimento. Il drone puntò i suoi sensori ottici verso di loro.
+Laura scattò per prima. Colpì il sensore ottico con un tubo di alluminio, deviando la traiettoria del velivolo. Con una torsione secca delle mani, incastrò il tubo tra le zampe anteriori del drone, spezzando la fibra di carbonio. 
+
+Claudio attaccò la guardia armata, scagliandola con violenza contro il rack di un server. La torcia che l'uomo teneva in mano cadde a terra. La guardia rispose con un gancio metallico al volto, scaraventando Claudio al suolo. Laura strappò via il modulo batteria del drone, rendendolo un peso inerte.
+La seconda guardia si avventò su Claudio. Lui bloccò il colpo, ruotò sul fianco e colpì con il gomito l'avversario. Il dolore al polso ferito esplose in fiamme, ma Claudio non si fermò e spinse con tutta la forza residua.
 
 «Protocollo escalation attivo. Paratie in chiusura. Novanta secondi.»
-Luci rosse. Corridoio cremisi. Server come sagome oscure.
+Le luci del corridoio virarono su un rosso intenso, trasformando lo spazio in una caverna cremisi tra i server.
 
-Corsa. Ascensore di servizio.
-Laura dentro. Pulsante meno due.
-Porte pesanti. Lente.
-«Trenta secondi.»
-Cabina ferma. Protocollo termico interno.
-Laura appoggiò la schiena. Sangue sulla mano.
-L'ascensore salì. Meno due.
+Corsero verso l'ascensore di servizio. Laura vi entrò, trascinando Claudio, e premette il pulsante per il piano meno due. Le porte, pesanti e lente, iniziarono a chiudersi.
+«Trenta secondi,» mormorò Laura.
+La cabina iniziò a salire. La ragazza appoggiò la schiena alla parete metallica, imbrattando la parete di sangue, mentre l'ascensore manteneva il protocollo termico interno.
 
-Porte aperte.
-Luce bianca. Telecamere puntate.
+Le porte si aprirono.
+Una luce bianca accecante inondò la cabina. Telecamere lo puntarono.
 «ACCESSO NON AUTORIZZATO — PROTOCOLLO ATTIVO.»
-Nucleo del Volition Engine.
-Cyrus aspettava.`;
+Claudio vide il nucleo del Volition Engine.
+Cyrus, immobile, aspettava.`;
