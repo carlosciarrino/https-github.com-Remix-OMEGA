@@ -1,45 +1,19 @@
-export const chapter15Content = `Capitolo 15: La Voce nel Buio
+export const chapter15Content = `Macro-Capitolo 15: Le Ceneri della Fuga
+[GIOIA TAURO - BANCHINA SETTE - LAURA E CLAUDIO]
 
-Il fumo uscì dal barile infuocato. Sfilacciò contro la lamiera del soffitto prima d'essere aspirato. Odore di gomma bruciata.
-Claudio sedeva sul bordo di una cassa militare, mani strette tra le ginocchia. Nocche bianche.
+La burrasca vomitava spruzzi salmastri sui container marcescenti allacciati sopra l'invisibile tomba di cemento dell'Hub d'appoggio. La mareggiata martoriava i frangiflutti esterni del porto calabrese con colpi letali sferzanti come lamine incandescenti. Da una grata di ventilazione sudicia, a venti metri dalla rampa logistica sudata di fango, due figure ruppero l'asse inorganica del nero petrolio.
 
-Laura stava contro la parete scrostata. Ombra instabile. Le braci accese le restituivano sul viso una sfumatura arancione. Radio morta. Fruscio statico imperforabile.
+Laura divelse la griglia d'ispezione calpestando per prima il suolo freddo a faccia su. Respirò ferocemente anidride carbonica contaminata di pioggia, rigettando a sputi l'acqua mortale della conduttura appena risalita. Tirò un grido monco a pugni chiusi ancorata attorno i polsi spezzati di Claudio, estratto esanime dall'utero di acciaio marittimo allagato.
+L'ingegnere giaceva di fianco sulla pozzanghera catramosa, i lineamenti intagliati nello squilibrio clinico e spettrale di una bambola d'intonaco abbandonata. Cadeva sotto l'inedia metabolica causata dal colpo brutale su ogni suo confine, e in assenza biologica per il calo dei farmaci anabolici che l'avevano trainato per il calvario di ventiquattr'ore in Emilia. L'ustionatura del polso trasudava liquidazione chiara in uno sfregio macabro sotto le fasce bagnate.
 
-«Generazione senza memoria,» disse l'ingegnere, fisso sulle fughe del cemento. «Vane aspetta solo che l'isolamento ci renda irrilevanti.»
+Laura premette lo zigomo rigato dalle ferite del vetro sgretolato sulla carotide maschile ghiacciata. Un battito torbido, filiforme e spezzato resisteva alla carne. Morto per lo schema del mondo, radicato nella pura ribellione biologica ad abdicare.
 
-Laura si staccò dal muro. Sfiorò il drive. Il metallo gelido restituiva il bagliore lontano del fuoco.
-«Distruggeremo tutto questo prima di finire sepolti.»
-Le sue dita vibravano. Claudio registrò la fragilità, non la rimarcò.
-Il terminale portatile e l'intrico di schemi. Fallimento strutturale a ogni tentativo. Il filesystem mutava, sigillava nuove barriere imprevedibili.
-
-«Non è crittografia classica,» Claudio tenne le dita in sospensione sui tasti. «È un riflesso neuronale. Evolve sotto stress operativo. Un attacco frontale ci rende inscalfibili.»
-
-Laura scese sulle ginocchia. Sguardo sul cursore verde infaticabile.
-«Evita l'assalto frontale,» mormorò. «Scivola attraverso l'intelaiatura.»
-Claudio incrociò lo sguardo della ragazza. Intuizione.
-Non demolire a spallate. Costeggiare. Aggirare.
-
-Il tempo collassò. Cricchettio della dinamo manuale azionata da Laura. Claudio martellava i comandi del decodificatore, seguendo la natura liquida del sistema.
-
-Il lucchetto collassò alle 05:40.
-Il dominio 7-Alpha splose sul quadrante graffiato. Claudio bloccò il respiro.
-Niente grafici. Rilievo topografico. Centrato sui plessi di condizionamento di Roma Nord.
-
-Sepolto tra le infrastrutture fisiche: Fase 4.
-Sillabe scritte sulla base della gola.
-
-Laura si portò sulla mappa. «Quale anomalia?»
-Claudio batté sul display. 
-«Volumetrie interne errate.» L'orrore gli raschiò la traquea.
-«Hanno riprogrammato le vasche di somministrazione. Dosaggio pediatrico,» ringhiò Claudio. «Distribuiscono interfacce neurali negli asili. Mese prossimo. Senza scampo.»
-
-Laura si eresse. Scattò. Scarpone contro metallo.
-«Il perimetro ha scavalcato la sopravvivenza. La retroguardia è un palliativo. Parallizziamo i nodi locali. Fermiamo l'allestimento.»
-
-Claudio sentì la pesantezza dei moduli contro il petto.
-Ripulì la matrice. Scollegò le centraline d'energia. Sigillò il drive metallico nella tasca.
-«Sgomberiamo. Quando i sensori valuteranno lo sfondamento, sganceranno il battaglione.»
-
-Laura serrò la tracolla. 
-L'orizzonte svelò i confini putridi di Roma. Impalò la luce dell'aurora dietro ciminiere e tralicci. 
-Claudio spaccò il vento gelido verso i resti del distretto. Laura seguiva. Un battito cardiaco di distanza.`;
+Si issò barcollante sorreggendogli il torace grave sotto la tormenta e lo trascinò furente tra due cisterne abbandonate dalle milizie marittime di ABITES ora accecate al solo perimetro limitrofo navale. L'impalcatura esterna offriva lo scudo indispensabile all'occhio letale dei droni termici.
+Squillò sorda l'impronta della trasmittente compatta. Solo rumore bianco statico fuso in una scarica brutale.
+«Carlo,» sibilò Laura sputando rigetti di catarro freddante nel microfono gualcito. «Punto sud. Piloni allagati. La radice sottomarina era una sanguisuga inutile; il nucleo primario non riposa in questa maledetta terra, ma al palazzo originario a Roma EUR.»
+L'interlacciamento raschiò secondi. La latenza del satellite di soppiatto frusciò col latrato pesante e logorato dell'hacker storpio rifugiato a centinaia di chilometri più a nord, ripresosi faticosamente collassato nella sacra botte del vino.
+«Abbiamo annaspato nel fumo per un bersaglio fantasma,» stridette Carlo, con un sibilo a denti incrinati e affannosi. «L'algoritmo Cyrus è asserragliato e protetto dal senato nella sua Torre in Roma, schermato dietro muri balistici di carne e silicio in un assedio paranoico d'allerta altissima. ABITES sta recintando i nodi vitali da Firenze alla Sicilia. Hanno eretto posti di blocco sulle arterie principali, presidiati da plotoni di soldati lealisti armati col piombo e affiancati da droni termici. Vogliono tranciarvi le vie di fuga e sterminarvi prima del rientro nella capitale.»
+Laura abbassò lo sguardo gelido verso la carcassa svenuta di Claudio al suolo, le dita di lui che artigliavano assenti l'argilla macilenta del porto senza percezione reale dell'orrore sovrastante. Non avrebbe retto ulteriori due ore di veglia senza antibiotici massivi e letargia protetta, figuriamoci una guerriglia lungo le autostrade assediate dalle truppe lealiste.
+«Ha un collasso biologico in atto. Ritardi infettivi, squartamenti pregressi, esaurimento piastrinico. Sarà un ammasso di materia cerebrale esanime ed ingombrante per tre giorni almeno... Se gliela farà a scampare all'amputazione muscolare in deliro da cancrena.»
+Un fulmine illuminò l'area industriale e lo spigolo delle guance ossute femminili svenando l'implacabile oscurità di ruggine.
+«Trovaci un guscio d'acciaio oscurato dai satelliti per attraversare la penisola sud-romana in stealth. Uno sporco transito fantasma invisibile all'architettura di ABITES e impenetrabile ai controlli incrociati dei soldati al fronte,» pretese la sicaria senza un briciolo di speranza condizionale nelle proprie note, stringendo forsennatamente la compatta al titanio con la sinistra. «Risalirò gli Appennini con lui a traino, e andremo alle fondamenta della Torre eurista per estirpare il nucleo logico di quella divinità calcolatrice in una mattanza a cielo aperto.»`;

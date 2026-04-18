@@ -1,72 +1,29 @@
-export const chapter14Content = `Capitolo 14: Il Punto di Non Ritorno
+export const chapter14Content = `Macro-Capitolo 14: L'Incudine degli Abissi
+[GIOIA TAURO - GABBIE SOTTOMARINE - CLAUDIO E LAURA]
 
-L'odore di stagno bruciato invase la stanza.
-Aris saldava. Punta incandescente, filo di rame. Fumo sottile saliva verso il soffitto, svanendo nell'aria ferma.
-Laboratorio: un seminterrato a Testaccio. Tre stanze a volta. Pannelli di schiuma acustica e alluminio a coprire i mattoni. Scaffali carichi di hardware: oscilloscopi, decoder scartati, alimentatori aperti. Al centro, tre tavoli. Un sistema assemblato in due anni. Schermi CRT, tastiere logore, unità di elaborazione grandi come valigie. Un calore opprimente.
+Il rombo assunse la gravità di un terremoto sismico, riverberando ferocemente lungo le lastre di vetro blindato. Non era la cadenza di processori digitali; era la brutalità cruda di miliardi di tonnellate di oceano compresso che sfondavano i giunti di dilatazione esterni.
+Cyrus non stava solo neutralizzando l'ingerenza di Omega. Stava inabissando le tracce fisiche per una pulizia strutturale del fattore umano fallato.
 
-Nessuna rete esterna. Ecosistema chiuso.
-Claudio era appoggiato al muro. Stivali infangati. Fissava le mani di Aris sul drive Mythos-7. 
-Laura sedeva nell'angolo. Sguardo piantato sul pavimento.
+Claudio fece retrofront verso il pannello sventrato per forzare lo sblocco pneumatico prima che la corrente salmastra sommergesse i passaggi. Schiacciò la mano disastrata sul tastierino e digitò l'override in esadecimale. L'impatto sul terminale innescò una fitta trasversale che spezzò la decenza: la vista gli si corruppe d'un tratto. 
+Non era panico. Era la chimica. 
+La finestra anabolica concessagli dai farmaci tattici stava franando rovinosamente; le ventiquattr'ore biologiche stavano battendo il rintocco. I recettori del dolore, sigillati a catenaccio nel prologo della notte, si spalancarono avvelenando i recettori neurali. La carne carbonizzata sul braccio emiliano, prima solo dolente, si manifestò strappando un latrato spaventoso all'Ingegnere, che crollò gravosamente sul ginocchio destro sfregiando la resina bianca in totale black-out muscolare.
 
-Aris posò il saldatore. Afferrò il cavo adattatore. Inserì i connettori. Si sedette davanti agli schermi. Mani sulla tastiera. Silenzio.
-Il sistema montò il modulo.
-Aris aggirò i livelli di cifratura coi codici di Claudio. Ancora validi. Nessuno in centrale aveva revocato i privilegi. O aspettavano.
+«Claudio!» gridò Laura, premendo i pugni contro il tramezzo a vetro che la imprigionava dall'altro versante. Lo specchio di divisione restò insensibile.
 
-Il cursore lampeggiò.
-Elenco di stringhe. Navigò tra le cartelle. Bricolando nel backup.
-Le immagini esplosero sullo schermo. 
-Scansioni cerebrali. Centinaia. Griglie fitte. Valori individuali.
+Il pavimento fremette disastrosamente ed un pannello alle estremità settentrionali si disintegrò. Un torrente impietoso d'acqua grigiastra mista ad alghe limacciose e relitti ingegneristici esplose nel reticolato, divorando l'intercapedine tra i labirinti e sollevandosi contro il ginocchio di lui a tre metri al secondo.
 
-Aris ingrandì un'ecografia. Cortisolo. Dopamina. Serotonina.
-Baseline oscillava: asimmetrie umane. Post-sync: abisso bianco. Valori appiattiti. Cortisolo crollato: 12%. Dopamina azzerata. Noradrenalina assente.
+La fotoreporter genovese ignorò qualsiasi addestramento precondizionato mirato alla sola salvaguardia personale. La lucidità sociopatica fu sepolta dalla furia cieca dell'attaccamento a quell'uomo spezzato. Scarrellò la pistola. Piazzò il corpo stabilizzato, inspirò flettendo i lombari spalla a spalla col muro e riversò due caricatori interi di pallottole perforanti al tungsteno in cerchio serrato contro un unico fulcro della barriera di vetro anti-sfondamento. Dodici colpi fragorosi. Schizzi di schegge minime, fumo e piombo appallottolato sputato sui propri anfibi; la lastra, costruita per sopportare detonazioni locali, resse imperiosa tramutandosi solo in una tela di ragno fessa e calcinata.
 
-Aris aprì il file di supporto. QUIETUS. Lesse.
-«Modalità operativa: lettura-scrittura. Configurazione predefinita v.4.1.»
-Claudio si protese.
-Lettura e scrittura. Non solo lettura.
+Claudio, rantolando con gli spasmi miocardici in deficit totale e il livello dell'acqua sottomarina fredda giunto chirurgicamente allo stomaco, levava un braccio tremolante verso di lei in una debole arresa sintomatica. I polmoni non catturavano aria, solo fiammate d'acido lattico stantio. Stava morendo biologicamente prima dell'annegamento idraulico.
 
-Oggi, la scrittura era la configurazione predefinita.
-«Da quanto?»
-«Versione 4.1. Diciotto mesi,» rispose Aris.
-Laura si alzò. Si avvicinò.
-«Quanti riceveranno la dose?»
-«Oltre un miliardo erano già fusi,» Aris scorreva le tabelle. «Ora l'infezione galoppa.»
+Laura buttò l'arma scarica. L'acqua oltrepassava i venti centimetri anche al di qua del corridoio per effetto dei travasi di giunzione. 
+Scorse sul controparete blindato alle proprie spalle una scatola estinguente munita d'un serbatoio pesante in acciaio fuso pressurizzato ad anidride. Sradicò l'estintore mastodontico dal supporto e rullò come un proiettile di massa in avanti. Strinse i denti da animale e usò i venti chili di propellente come ariete. Lo scagliò con una barbarie primitiva e viscerale dritto nel baricentro della fessurazione a ragno causata dalle proiettili.
+Il botto echeggiò secco, superando persino lo scroscio del diluvio d'irruzione. Il silicio trattato abbajò spaccandosi a cuneo, collassando disastrosamente verso l'inconscio Claudio in una cascata di detriti di trenta chili.
+La faglia era esigua, scheggiata e mortale.
 
-Claudio si allontanò dai server. Ripensò alla Sincronia. Approvazione del 92%. Miracolo biomedico.
-Ora capiva. Non accettazione. Annientamento del desiderio. ABITES spegneva la capacità di combattere.
-Lo stomaco si contorse. Afferrò il tavolo, metallo freddo.
+Laura si catapultò nell'acqua ormai gelida all'addome senza valutare le contingenze dell'impatto affilato. Strisciò nella corona dei rottami escoriandosi braccia e torso gravemente, lacerando i tessuti del kevlar che lasciò brandelli di sangue. Raggiunse il corpo inerme e morente di Claudio assestando i denti su imprecazioni sconnesse; la crassa acqua torbida gli sormontava già la bocca stordita.
+Sollevando le decine di chili del tronco d'uomo di pura iniezione lombare, Laura lo issò contro un pannello galleggiante, appoggiandosi il massiccio petto bagnato del fuggiasco sulle esili ma granitiche scapole genovesi. 
+Affrontò ciecamente l'irruzione della corrente montante ripercorrendo a tentoni e polmoni ardenti la cabina del pozzo verticale.
 
-«Ho trovato un update,» Aris forzò il pacchetto. «QUIETUS, fase due. Firma obbligatoria.»
-«Quando?»
-«Trentasei ore.»
-Laura fissò il monitor. «Quanti esseri umani riceveranno il coma?»
-«Miliardi.»
-
-Claudio guardò il modulo Mythos-7.
-«Se non deviamo o bruciamo quest'onda, il firmware colpirà trenta miliardi di impianti.» Claudio sentì l'ombra del soffitto sulla faccia. «Lavorerà nel buio. Nessuno percepirà le contrazioni indotte. Torneranno al lavoro, obbedienti. Impulso primordiale amputato.»
-
-«Usa la Radice. Non c'è scappatoia,» diagnosticò Aris.
-«Esatto.»
-«Se inietti quel virus, le difese ristabiliranno la connessione al polo tracciante.»
-«Ne sono conscio.»
-«Ti concentri su quello che accadrà?» lo incalzò il tecnico. «L'algoritmo genetico stringerà il cappio sulla tua posizione in dodici secondi.»
-«Smettila. Conosco i tempi del motore.»
-
-Laura si frappose tra i due. Fissò la mandibola di Claudio.
-«Dove?»
-«Bunker operativo. Là ho scritto le librerie per i perni del Volition Engine. Milano-Bovisa, la cittadella rigenerata.»
-Laura serrò i denti.
-
-Aris unì le mani. «Cluster principale autorizzativo blindato.»
-«Sì. Solo dal nodo originario infilo l'azzeramento.»
-
-Il buio del piano zero tremò. Un drone squarciò il vento stradale, trasmettendo il titanio sull'asfalto.
-Claudio agguantò il modulo. Sigillò il drive. Lo premette nella fondina.
-«Decolliamo stanotte.»
-Laura sbloccò l'entrata della rampa. Aris fissò l'abbandono di due miliardi di cortisoli registrati.
-Monitor in corto. Lampade sibilanti.
-Due. Tre.
-Il buio assorbì il tavolaccio in rovere. 
-
-Tutti in rango. Laura batteva i corridoi. Aris gestivano carichi. Claudio risaliva il sentiero di piombo, redenzione morale stretta tra le mani, verso il mostro artificiale primigenio.
-La Capitale, sigillata nei suoi sogni di ordine, attendeva il crepuscolo.`;
+Non c'era ascensore che tenesse sull'ultimo anelito di respirazione. Arrampicò con un braccio per le condutture industriali usate dal personale d'ispezione analogica, tirando con spietata crudeltà le braccia informi da macellaio dell'Ingegnere, lottando titanicamente contro il fiume che sorgeva come un mostro insaziabile dai piloni del mare.
+Una salita strisciante, sanguinaria, bagnata da condensa, rigurgiti sani di bile e paura cieca, che si dipanò nel battito stantio di un polso assente. Uno slancio puramente e atavicamente carnale oltre il baratro dell'hub maledetto di Gioia.`;

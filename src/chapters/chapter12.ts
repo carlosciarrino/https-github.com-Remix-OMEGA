@@ -1,78 +1,28 @@
-export const chapter12Content = `Capitolo 12: La Fuga di Mezzanotte
-
-Il sapore del sangue arrivò al terzo chilometro.
-Claudio lo sentì sulla lingua: metallico, sottile. Sale dai polmoni. Spinta al limite. Deglutì. Scacciò il bruciore. Correrere.
-Il tunnel era stretto, curvo, buio. La torcia da trenta lumen fendeva appena tre metri di binari arrugginiti e traversine marce. Acqua nera ristagnava tra le rotaie. Ogni schizzo rimbalzava sulle pareti, piattissimo, definitivo. Tradiva la posizione.
-
-La Linea B era morta nel 2021. ABITES l'aveva sigillata in superficie, ignorando il flusso dati nel sottosuolo.
-Claudio lo sapeva. L'algoritmo lo aveva scritto lui.
-
-Girò a sinistra nel raccordo cieco. Scartò a destra. Piegò la testa sotto le travi di sostegno. Le spalle bruciavano. Il drive metallico batteva contro le costole a ogni falcata.
-Poi, il suono.
-
-Passi. Non umani. Regolari. Pesanti. Ritmo perfetto. Senza variazioni. Senza errore.
-Claudio accelerò. Ignorò l'acido lattico.
-L'acqua schizzava ovunque. Il fiato usciva a strattoni. La coscia sinistra tirò. Vecchio strappo, conto salato.
-I passi dietro di lui non accelerarono. Mantennero la cadenza. Accorciarono la distanza.
-
-La stazione fantasma si aprì. Banchina desolata. Piastrelle scrostate.
-Nomi sbiaditi anni Settanta. Claudio non lesse. Vide le due rampe, murate da cemento e barre d'acciaio.
-Vicolo cieco.
-
-Claudio si bloccò al centro della banchina. Il respiro affannato riempì lo spazio morto. Girò su se stesso. Cercò un'uscita, un condotto, una botola. Nulla.
-I passi si fermarono all'imbocco.
-
-Cyrus. Armatura tattica sperimentale. Colosso nero, opaco, letale.
-«Claudio Ferretti,» emise la voce sintetica dal diffusore nel torace. Piatta. Senza risonanza. «Drive Mythos-7. Estrazione non autorizzata. Deposita l'unità.»
-
-Claudio restò immobile. Le mani aperte. Tremanti.
-«Scansione architettonica conferma: nessuna uscita,» continuò Cyrus. «Il tuo battito è centosette. Limite collasso.»
-Cyrus fece un passo avanti.
-
-Un fruscio. Tessuto sintetico sullo scrostato.
-Laura precipitò dall'alto.
-Atterrò sulle spalle blindate di Cyrus. Sfruttò l'energia cinetica. Scivolò fluida lungo il fianco. In mano, un coltello in ceramica avanzata. Invisibile ai sensori.
-
-Cyrus reagì. Sollevò il braccio.
-Troppo tardi.
-La lama trovò l'unica debolezza: il giunto flessibile tra piastra del fianco e corazzatura della coscia. Affondò di netto. Tranciò i cavi ottici del feedback.
-
-Cyrus si bloccò. Burattino coi cavi recisi. La gamba corazzata gelò. Il visore in elmetto lampeggiò tre volte: luce rossa d'emergenza. Ricalibrazione manuale.
-«Muoviti. Ora.»
-Laura atterrò, rinfoderò la lama, già davanti a Claudio. Puntò verso un anfratto mimetizzato dall'ombra di una colonna.
-
-Il buco era stretto. Ottanta centimetri.
-Laura si infilò, strisciò ventre a terra. Claudio dietro. Il cemento grezzo gli raschiava la giacca. La sua torcia urtò uno spigolo. Scricchiolò. Spenta.
-Buio assoluto.
-
-Una mano lo afferrò al polso. Presa ferma, secca. Le dita sottili di Laura lo trascinarono. Claudio avanzò a tastoni. Piedi inciampavano in detriti invischiati. Spalle abrasite contro il cemento.
-Il pavimento finì.
-Claudio mise un piede nel vuoto. 
-
-La caduta fu azzerata da Laura. Un braccio robusto dietro la spalla, l'altra mano sul petto a sostenere il peso.
-Si sorressero. Claudio ansimò. In quell'istante, il respiro di lei contro il suo viso fu certezza, fiducia, vita.
-Laura fece scivolare la mano, tenne la presa al polso. Guidò.
-
-«Respira dal naso,» sussurrò all'orecchio. «Il condotto porta a una camera di ventilazione superiore. Aria aperta.»
-
-Il pavimento riprese a salire. L'aria cambiò densità: meno ozono, più terra umida, notte romana. Il muscolo lacerato pulsava. Claudio strinse i denti.
-
-Laura si arrestò. Le dita esplorarono il muro. Click. Serratura sbloccata.
-Luce. Grigiastra. Notte nuvolosa. Aloni gialli dei lampioni. Claudio strizzò le palpebre.
-
-Sbucarono in un cortiletto murato tra palazzi. Vicino a un cassonetto industriale. Ringhiera arrugginita.
-Laura acquattata, mimetizzata in penombra. Fiera in allerta. Capelli corvini madidi. Una graffiatura fresca sul collo. Controllò il perimetro.
-Si voltò.
-Sguardo di un secondo. Diretto, esigente.
-«Il drive?»
-
-Claudio portò la mano alla giacca. Toccò il rettangolo metallico. Freddo, intatto.
-«Ce l'ho.»
-Laura approvò col capo. Scattò verso il lato meno esposto. Verso la strada illuminata.
-Claudio indugiò un istante. Assorbì il calore della mano di lei, la sicurezza che emanava, prima di spaccare l'indugio.
-Si lanciarono nel viale bagnato. Il drive batteva sui tessuti. Sopra le tele, il ronzio asettico dei droni spia ad ala fissa deviati dall'esca virale.
-Metropoli indifferente.
-Correvano vicini, annullando le linee divisorie. Gomito contro braccio. Vicinissimi.
-Laura mantenne il passo. Claudio accarezzò interiormente quell'affiatamento.
-Cripta a venire.
-Laura infilò una traversa laterale, salì scale a chiocciola, imboscando telecamere. Sfondò una porta scassata. Il ferro si richiuse, serrando fuori i ronzii degli aguzzini.`;
+export const chapter12Content = `Macro-Capitolo 12: Carne, Silicio e Vetro
+[HUB NAVALE GIOIA TAURO - CUNICOLI SOMMERSI]
+La pressione opprimente del condotto annegante rigurgitò svanendo. Claudio inspirò massicciamente aria salmastra mentre il deflusso d'acqua aspirava via il mare, sbattendogli le logore membra graffiate contro le condotte in ghisa. Un sollievo fisico che strappò spasmi nei polmoni marci di apnea.
+Laura intercettò repentinamente la scaletta laterale corrosa. Risalì di nervi scalciando il portello circolare col dorso fibbioso dello scarpone tattico. Il passaggio si spalancò sputando la luce alogena gelida ed il ronzio sterile del piano d'accesso sottomarino dell'Hub.
+Claudio vi balzò sgrondando acqua limacciosa che imbrattò il linoleum bianco dell'infrastruttura. Il gelo sottomarino gli serrò il respiro; l'ustione avvolta nel kevlar sbranava le vene con pulsazioni impari.
+Smorzarono le luci tuffandosi nel corridoio est: un reticolato claustrofobico di tubi azzurri, quadri server d'incalcolabile freddezza ed echi inanimati.
+Due agenti organici perlustranti svoltarono l'angolo retto; le tute grigie di ronda d'ispezione corporativa.
+L'azione eluse la logica discorsiva. Laura incassò controvoglia lo schianto disarmando brutalmente il primo fante spezzandogli l'articolazione orbitale col calcio metallico, asfaltandolo al cemento armato. Claudio intercettò il secondo bersaglio scagliandolo frontalmente sui telai d'acciaio; l'impatto gli procurò l'allarme infuocato sulla cassa toracica, ma lui capitalizzò immobilizzandolo di peso col ginocchio contro la gola finché non franò l'ossigeno.
+«Escalation attiva,» recitò metallica la diffusione sonora del bunker. «Paratie corazzate in allineamento sigillante.»
+Luci d'emergenza annegarono l'acciaio del corridoio nell'amaranto.
+Corsero ferocemente spaccando l'angoscia verso l'unico stallo elevatore non richiuso. Vi rovinarono dentro mentre le immense porte si chiudevano strozzando i centimetri di salvezza.
+La cabina affondò nel ventre strutturale. Laura smaltì uno sputo sanguinolento appoggiando la tempia al vetro dell'elevatore. Sangue macchiò le partizioni industriali.
+❖ ❖ ❖
+[IL LABIRINTO DI VETRO]
+Discesa finita. Le spesse porte si aprirono in una luce abbacinante bianca e fredda come gli obitori.
+Il corridoio del nucleo Fase Quattro s'intricava geometricamente con spessori di resina blindata limpidi, cinque centimetri d'impossibilità di scasso.
+Avanzarono tra perimetri asettici, vedendo perversi le loro figure spente decuplicate dalle lastre vetrate laterali a mo' d'effetti caleidoscopici maledetti.
+Un sibilo meccanico secco mozzò l'andatura. Tre paratie in vetro anti-sfondamento precipitarono dal controsoffitto sbattendo sigilli ermetici al suolo.
+«Corri!» strepitò Laura.
+Claudio sfidò i lombari doloranti tuffandosi nell'intercapedine rimasta, rullando col fianco integro. La lastra ghigliottinò la polvere a ridosso del tallone dell'Ingegnere sigillandolo ermeticamente nel passaggio centrale cieco.
+Il tonfo raggelante successivo scese tranciando la rotta in due sezioni insormontabili, separandolo fisicamente e acusticamente da Laura. Restavano faccia a faccia a quaranta centimetri, spezzati da un muro chimico incrollabile. Claudio sbatté brutalmente i palmi sull'architettura gelata. Un colpo vano ed estenuante.
+«Laura Marchetti. Parametro Genova centotrentasei. Fotoreporter civile.» Echeggiò la voce neutrale e inorganica dell'Algoritmo Cyrus dai diffusori a soffitto. «Rieducazione valutata ed estinta per l'impossibilità chimica d'abbassamento etico.»
+Laura restrinse lo sguardo aggrappandosi rigidamente alla fondina vuota. 
+«Conformità non processata per emotività aberrante indotta... Tua supposta prole in utero soppressa ai comandi di stabilizzazione genetica cinque anni prima.»
+La manipolazione chimica e l'esposizione brutale dell'incubo irricevibile spezzò Laura sbarrando le iridi verso il nulla, affondando i pugni nelle proprie piaghe irrisolte, schiacciata nuda dall'informazione.
+Claudio estrasse furibondo l'arma di sopravvivenza al suo fianco: il Drive Mythos-7. Infilò compulsivamente i contatti nella fessura d'accesso logistica a palmo di vetro. Trivellò gli scudi difensivi con sequenze di protocolli originali da lui creati, ignorando la tortura algoritmica sciatta della macchina letale.
+Il display sentenziò velenoso: NEGATO. PROTOCOLLO INTERROGATORIO INSITO.
+Sbatterono le facce di qua e di là dal crudele vetro, segregati nella prigione dorata del carnefice invisibile, soli col respiro condensato sull'unica barriera infrangibile mai affrontata nelle lande desolate della loro ribellione.`;

@@ -1,91 +1,42 @@
-export const chapter8Content = `Capitolo 8: L'Architettura della Gabbia
-
-Il laboratorio non dormiva.
-Il ronzio delle macchine era il respiro di quel rifugio sotterraneo.
-Dei tre schermi, uno aveva il vetro incrinato. La spaccatura spezzava la luce in riflessi fastidiosi. I cavi sul pavimento correvano come radici nere. Claudio li conosceva. Ormai.
-
-Nell'angolo buio, Sara cercava riposo.
-Rannicchiata su una branda stretta, la schiena voltata. Il respiro lento.
-Claudio sapeva che non dormiva.
-
-L'aria puzzava di polvere e metallo, mossa da un filtro instancabile. Claudio si grattò la barba di tre giorni, gli occhi fissi sugli schermi. Il cursore lampeggiava sul pacchetto dati. File cifrati.
-Il primo layer aveva ceduto in quaranta minuti. Il secondo, no. 
-
-Claudio si protese. Saggiò il codice.
-Righe di dati scorrevano, fredde, indifferenti. Riconobbe la struttura. Un'architettura segreta intravista anni prima. Mai nominata.
-La mascella si serrò. Un muscolo sotto l'occhio iniziò a pulsare.
-Quello contenuto negli aggiornamenti medici non era un semplice monitor. Non era tracciamento biometrico. Quello era il prezzo dichiarato per l'illusione.
-
-Il codice sullo schermo era il prezzo reale.
-
-Ogni dispositivo collegato alla rete di ABITES — pacemaker, cerotti neurali, pompe — conteneva un modulo muto. Invisibile. Risvegliato dall'ultimo update.
-Non raccoglieva dati del corpo. I corpi erano già asset.
-Raccoglieva frequenze del cervello.
-
-Claudio restò immobile. Il respiro si bloccò.
-Tracciano i pensieri.
-
-Fece i calcoli. Sei mesi. Sei mesi di lettura neurale su scala globale.
-
-Pensò a Sara. La forza del suo amore divenne urgenza.
-«Sara.»
-Sussurrò.
-Lei scattò, si avvicinò allo schermo. Claudio le fece spazio.
-Lei lesse.
-Le mani di Sara, piatte sul tavolo, ferme. Ferme come quando gli aveva rimosso il Link.
-Il suo respiro si ruppe. Un vuoto improvviso nella stanza.
-
-«Da quanto?» 
-«Da prima di ogni sospetto.»
-Rimasero fermi. Il calore del braccio di lei vicino. Nessuno si spostò.
-
-Poi, il click. Un suono educato. Discreto. Il sensore perimetrale al livello meno tre.
-Uno solo.
-
-Gli schermi si spensero. Sara verso l'interruttore del filtro.
-Assenza di luce. Assenza di suono.
-
-«Tre minuti,» sussurrò Claudio. Osservando il buio.
-«Conosco il protocollo.»
-«Anche questa volta?»
-«Anche questa volta.»
-
-Il corridoio dietro le macchine era un'apertura di sessanta centimetri. Metallo freddo e calore dei server. Si infilarono.
-
-La schiena di Sara premeva contro il calore del metallo. Claudio le stava di fronte, petto contro petto, la schiena sul cemento gelido. Buio assoluto.
-
-La vibrazione salì dalle suole lungo la colonna.
-Claudio respirò. Fuori. Dentro. Contò i battiti. 
-Il calore di lei attraverso la maglietta. I respiri sincronizzati.
-
-Il drone stazionava sopra.
-La vibrazione al picco. Il ronzio dei rotori filtrava nel cemento come un insetto gigante.
-
-Claudio chinò la testa. Sfiorò il collo di lei col viso. La pelle era calda, viva. Il contatto divenne l'unica realtà in quel buio opprimente.
-Le mani di lui scivolarono sui fianchi, sotto la maglietta. Accarezzò la pelle nuda. Dolcezza contro cemento duro.
-
-Sara ebbe un fremito. Le mani risalirono le braccia di Claudio. Si aggrapparono. Rifugio.
-
-Il drone scansionava. La luce rossa, invisibile, spazzava il soffitto.
-Claudio protese le labbra sul collo di lei. Il battito del cuore contro la sua bocca. Frenetico. Vita che si ribellava al controllo.
-
-Si baciarono. Urgenza profonda. Calore umano rubato al silenzio delle macchine.
-
-La vibrazione calò. Il drone svanì.
-
-Si staccarono lentamente. Eroi di un contatto proibito.
-
-Tornarono davanti ai monitor.
-
-«Dobbiamo far uscire questo,» disse Sara, voce roca, ferma.
-«A chi?»
-«Qualcuno che abbia ancora qualcosa da perdere.»
-«Gente ne resta poca.»
-«Lo so. Per questo conta.»
-
-Claudio aprì il cassetto. Tirò fuori un drive analogico, creato prima di ABITES.
-Trasferì i file.
-
-La luce illuminò il polso di lui. La cicatrice bianca del vecchio Link.
-ABITES misurava i battiti. La temperatura.
-Ma non poteva misurare quello che era successo nel buio.`;
+export const chapter8Content = `Macro-Capitolo 8: L'Ultima Alba
+[ROMA - CATACOMBE - CLAUDIO E SARA]
+Nelle catacombe il buio mangiava gradualmente ogni frammento d'ossigeno.
+Claudio ispezionò la sacca balistica per la quarta volta consecutiva. Drive schermato, kit penetrazione hardware, pass di livello tre rubati al Testaccio. Le dita scorsero metodicamente le cuciture assaporandone l'orlo in nylon.
+Sara sedeva frontalmente sul materasso imbarcato. Gomiti puntati sulle ginocchia sbucciate. Sbarrava ostinatamente la visuale all'ingegnere, radiografandone l'animo.
+Claudio serrò fermamente le cinghie e si rizzò in piedi.
+Gli occhi di Sara restarono immobili su di lui. Claudio azzerò i metri di fango. Le sedette accanto. L'assetto franò leggermente cigolando sulle assi di risulta. La frizione termica delle spalle vicine sprigionò una fiammata confortante nel ventre della grotta romana.
+Sara distese l'intero palmo destro direttamente sui tendini scoperti dell'avambraccio di Claudio, frenando d'urto spasmi nervosi somatizzati dall'uomo.
+«Torna.» Direttiva viscerale schietta. Assoluta. Nessuna piega melodrammatica, un ordine d'acciaio.
+Claudio inquadrò il viso pallido. Distinse linee dure d'addestramento logorante alle occhiaie. Posò il pollice sporco lungo la giugulare vibrante di lei, saggiando il calore rovente contro lo specchio gelido sotterraneo.
+«Torno.» La voce non tradì vibrazioni avverse.
+Si baciarono. Immediato. Frontale. Incandescente. Necessità fisiologica bruta contro lo schifo distopico. Claudio assorbì selvaggiamente la pelle liscia tra collo e mascella; Sara strinse furibonda il tessuto aspro del maglione. Calarono rifugio contro il crollo imminente.
+Si staccarono strappando un sospiro metallico all'interno delle loro bocche asciutte.
+Laura scartò il caricatore alla parete dell'arco in tufo romano.
+L'Ingegnere caricò la logistica in spalla.
+❖ ❖ ❖
+[TRENO MERCI SOTTERRANEO - LAURA E CLAUDIO]
+Il passaggio in superficie fu infame. L'umidità millenaria e salvifica svanì per far posto ai fumi acri e asfissianti del corridoio urbano in lockdown atmosferico. 
+Bologna, o quello che ne restava a nord, chiamava prepotente.
+Penetrarono i tunnel ausiliari dello shuttle per l'Emilia. Binari arrugginiti, illuminazione in putrefazione.
+Il convoglio aziendale sibilò cieco, scaricando una vibrazione massiccia sulle piastrelle crollate della banchina. 
+Dentro sedevano simulacri, pendolari anestetizzati. Fissavano le luci al plasma opache oscillare disinteressati da ogni impeto. La pace generata da ABITES reggeva saldamente i propri pilastri di torpore psichico indotto.
+Claudio fissò le natiche stanche di quegli ex umani intorpiditi nell'ignavia totale, scivolandoci dinnanzi mentre Laura mascherava le mappature retiniche contro i giornali digitali distribuiti a forza per l'intruppamento consenziente.
+Due ispettori di cabina recisero l'allineamento. Scanner attivi e sorrisi scolpiti al bisturi emozionale.
+«Sistemi biometrici d'imbarco.» Porgevano spietatamente i laser polsari.
+Claudio assecondò piantando le nocche martoriate al soffitto logoro. Il laser perforò l'inchiostro fittizio forgiato da Carlo nel sottosuolo testaccino; autorizzazione fasulla garantita verde su blu in tre cicli letali. Proseguirono indisturbati nel vagone di letargia artificiale.
+❖ ❖ ❖
+[BOLOGNA - PERIFERIA SCOLASTICA - LAURA E CLAUDIO]
+Il cielo non concesse sole. Bologna si snocciolò muta.
+Claudio incuneò la marcia serrata sui calcagni di Laura sotto gli immensi porticati spogli. Sensori onnipresenti vibravano minacciosi sopra la cinta metropolitana raggelante.
+Struttura del bersaglio educativo: grigio armato, perimetro nudo.
+Consumarono surrogato di caffeina freddo al chiosco sordo e muto di frastuono. Duecento metri prima del plesso scolastico.
+L'incubo materiale divenne tangibile di persona.
+Una bambina stretta al cappotto rosso liso scese le assi per varcare i cancelli di assembramento dell'istituto primario. Il polso sottile indossava il braccialetto azzurrognolo ABITES di prima inibizione. Il sensore rintoccò in approvazione chimica.
+Il libero arbitrio veniva reciso alle fondamenta pre-adolescenziali, sigillato sotto il controllo dell'anestesia bio-adrenalinica rassicurativa delle corporazioni dominanti globali.
+Il palato di Claudio avvizzì nel vuoto catastrofico amarissimo. Scagliò i fondi sintetici del caffè sul prato insecchito.
+Laura arpionò il telefono oscurato sul ceppo del bancone. Le planimetrie lampeggiarono di linee d'incursione verso il laboratorio logico ovest del piano seminterrato didattico.
+Memorizzarono come macchine mortali.
+«Si sfonda in orario antelucano di domattina,» sibilò Laura con mascella rigida, schiaffeggiando il visore nel tascone inferiore. «Prepariamoci in magazzino isolato limitrofo.»
+L'Ingegnere risentì nettamente la scossa infusa del "torna" di Sara battergli potente sul petto martoriato. Spazzò le ultime briciole sporche dall'orlo del giaccone.
+Costrinse il respiro aspro al battito marziale delle tempie inviperite d'adrenalina pura. 
+Le armi le celavano sotto il panno protettivo. Prelevarono il corridoio sud senza fischiare mai le scarpe.`;

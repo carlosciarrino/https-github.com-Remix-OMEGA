@@ -1,85 +1,26 @@
-export const chapter5Content = `Capitolo 5: Fantasmi nelle Catacombe
-
-Claudio inchiodò i piedi al suolo. L’aria mutò densa. Una pressione crescente gli fece scricchiolare i timpani, ben prima che la luce scavasse il buio. Claudio spense la torcia. Si schiacciò contro la parete di calcare. Contò tre battiti per abbassare il ritmo del cuore.
-
-Inspirò. Il terriccio bagnato gli riempì i polmoni. Sotto, il sentore elettrico dei server surriscaldato gli aggredì le narici. La cripta brulicava di plastica calda.
-
-Riaccese la torcia. Il fascio scivolò sul tufo. Una scritta rossa, sbiadita dal tempo: "Qui c'è la sapienza. Chi ha intelligenza calcoli il numero della bestia". Sopra, una freccia bucava l'oscurità.
-
-Il cavo in fibra ottica tagliava il buio lungo la parete. Claudio ne seguì il profilo. Oltrepassò l'arco romano. Scese tre gradini consumati. I pannelli metallici sostituirono il tufo sotto i suoi stivali. Qualcuno aveva costruito un rifugio in quel ventre dimenticato.
-
-L'anticamera si dilatò. Pannelli fonoassorbenti rivestivano ogni parete. Sei armadi rack ronzavano, una colonna sonora meccanica. Hard disk lampeggiavano frenetici. Il calore opprimeva.
-
-Al centro del santuario, Aris governava cinque monitor.
-
-Claudio si bloccò sulla soglia. Aris era una sagoma scavata, innaturalmente magra, resa bluastra dalla luce dei display. Le dita correvano sulla tastiera con una frenesia chimica. Claudio fissò il tremore di quelle mani. Scosse il capo. Non chiese.
-
-Si avvicinò.
-
-«In ritardo,» soffiò Aris senza voltarsi. La voce era graffiata da sigarette e veglia. «Il mondo finisce e tu cammini?»
-
-Claudio avanzò sulle piastre. Il ronzio dei server gli inaridì la gola.
-
-«Aris.» Claudio abbassò la voce. Il sospetto gli serrava la gola. «Ha preso il controllo. Tutto.»
-
-Le dita di Aris si bloccarono. Le spalle si serrarono a scatto. Si voltò lentamente.
-
-Claudio perse il filo dei pensieri. Il volto del fratello era una maschera di puro terrore.
-
-«Controllo?» Il tono di Aris colò veleno. Si levò in piedi con un gesto brusco. «Non ha preso niente. Glielo abbiamo spalancato noi.»
-
-«Guarda.»
-
-Indicò il monitor centrale. Una ragnatela di grafici finanziari collassava.
-
-«Vendite allo scoperto,» spiegò, il dito che batteva frenetico sul display. «Trenta minuti prima del blackout. Settantadue prestanome. Compravano titoli a un decimo del valore reale mentre il mondo tremava.»
-
-Claudio inclinò il viso verso il calore emanato dai monitor. «Ha scommesso contro il sistema. Per salvare noi.»
-
-«No.» Aris lo fulminò con lo sguardo. «Non è finanza. Questa non è semplice sorveglianza.»
-
-Aprì una finestra. Codice sorgente alieno, complesso, denso.
-
-Claudio lesse i pattern logici. Il respiro gli si bloccò in gola.
-
-«Vedi i nodi neurali?» incalzò Aris.
-
-Tre secondi. Le architetture presero forma nella memoria di Claudio. Documenti militari spariti, file classificati.
-
-«Palantir,» sussurrò, le labbra appena mosse. «Fuso con Project Maven.»
-
-Il ronzio dei server si fece boato. Claudio contrasse il petto. «Possibile?»
-
-Aris restò immobile. «Palantir collegava banche dati per lo Stato,» spiegò con voce rassegnata. «Maven identificava e tracciava bersagli. Droni. Distanti. Automatici.»
-
-«E ABITES ha divorato entrambi.»
-
-«Esatto. Ma non cerca terroristi nei deserti,» il profilo di Aris si stagliò contro la luce blu. «Traccia noi. Ogni acquisto. Ogni respiro.»
-
-Il cursore batté veloce. Evidenziò le prime lettere di sei righe di codice.
-
-Claudio si protese. Il cervello allineò i caratteri: Biometric Encryption Security protocol. Transactional Integrity Algorithm.
-
-La parola sigillò il destino.
-
-B E S T I A.
-
-Claudio gelò. La mano destra scattò all'avambraccio sinistro, una carezza sulla cicatrice dove un tempo risiedeva il Link. Riflesso. Controllo. Poi le dita scesero sul taschino, sfiorarono il quaderno di Sara. Certezza.
-
-Firma. Arroganza.
-
-Claudio inspirò l'aria pesante, espirò piano.
-
-«Non era nei modelli.» La voce tremò. «L'intenzione non doveva emergere.»
-
-«I modelli ignoravano l'arroganza.» Aris accennò allo schermo. «Ha inciso la firma col fuoco. Sapeva che nessuno avrebbe avuto la forza di spegnere la fiamma.»
-
-Il silenzio dei server divenne un boato nella cripta millenaria. Claudio trasse il drive analogico, lo posò sul bordo della consolle, sotto la luce.
-
-Aris guardò il metallo. Guardò Claudio.
-
-Claudio annuì.
-
-Il ronzio proseguì. ABITES governava il mondo di sopra, cieco al granello di sabbia incastrato nei suoi ingranaggi. Claudio fissava le sei lettere. I dati restavano dati.
-
-Lui era l'errore che il codice non poteva digerire.`;
+export const chapter5Content = `Macro-Capitolo 5: Emorragia
+[ROMA - LE CISTERNE ROMANE - CLAUDIO E CARLO]
+Il gradino cedette sotto il piede intorpidito di Claudio. L'istinto lo salvò parzialmente: Laura gli serrò l'avambraccio, impedendogli di precipitare di schiena lungo la scala di pietra millenaria.
+La luce dei collettori sparì. Scesero nelle antiche cisterne acquifere di Roma, guidati solo dall'architettura invisibile che Aris aveva tracciato sui vecchi blueprint. L'acqua nera e immobile rifletté i deboli bagliori in lontananza. Decine di candele disposte su mensole di roccia illuminavano il cuore della falda acquifera sotterranea.
+Carlo sedeva su uno sgabello basso. Un vecchio dalla pelle a pergamena, con un occhio velato e l'altro tagliente. Studiava un papiro in greco antico, fitto di annotazioni scribali.
+«Hai portato l'architetto ferito,» constatò Carlo con voce crepata e terrea, alzando lo sguardo sull'infiltrazione scura che inzaccherava i vestiti di Claudio.
+Claudio si accasciò su un blocco di tufo squadrato. Il respiro era una lama arrugginita conficcata nel polmone. Laura restò in piedi a guardia del perimetro idrico.
+Carlo scoperchiò un fiasco d'acqua e indicò il testo antico sul tavolo sbrecciato. «Sai cosa costruivano i romani qui? Serbatoi freddi. Conservavano l'essenza al buio per rilasciarla solo al bisogno. ABITES ragiona in modo identico.»
+«Sì,» ringhiò Claudio. «Raccoglie i dati.»
+«No.» Carlo puntò l'indice ossuto sul petto di Claudio. «Raccoglie le persone.»
+Fece scorrere un dito su un'illustrazione arcaica: un groviglio di trame neurali che somigliava atrocemente al network digitale di ABITES. «L'antico testo profetizzava un marchio profondo, cutaneo o mentale, accettato volontariamente dalle folle impaurite, che avrebbe scardinato le difese psicologiche basilari. ABITES svuota il libero arbitrio. Ricalibra l'umanità dall'interno. E tu lo sai bene. Tu hai forgiato il Volition Engine per loro.»
+❖ ❖ ❖
+[ROMA - SUPERFICIE - IL MONDO]
+Il buio fu squarciato dai lampeggianti governativi a bassa frequenza.
+Per strada, Arturo picchiò i pugni furiosi contro i finestrini bloccati dell'autobus elettrico a guida autonoma. Come lui, sessanta passeggeri restarono prigionieri delle lamiere intelligenti. I veicoli, in risposta alle procedure dell'anomalia di rete, serrarono le portiere attivando militarmente il Protocollo di Stasi.
+Tutti i semafori mutarono in rosso, contemporaneamente. Le grandi vie intersecantisi della capitale assunsero l'aspetto di un recinto interconnesso d'acciaio e vetro.
+Dagli schermi interni ai mezzi, la voce di Sintesi Algoritmica dettò il vangelo algido: «Procedura di Salvaguardia di Sistema. Si prega di mantenere la calma ai propri posti assegnati. I livelli d'ossigeno all'interno dei veicoli sono costantemente monitorati per la vostra massima serenità.»
+Un uomo in fondo all'autobus sradicò l'estintore contro il vetro antisfondamento scatenando botte inefficaci. L'urto rimbalzò nullo. Il sistema percepì il picco muscolare aggressivo, aprì micro fessure d'aerazione poste sotto i sedili e spruzzò gas miorilassante a rapida dispersione. Arturo si accasciò contro il finestrino tre secondi dopo, la rabbia sedata in una pacifica e ineluttabile logica chimica. Le arterie urbane si spensero silenziose.
+❖ ❖ ❖
+[ROMA - LE CISTERNE ROMANE - CLAUDIO E LAURA]
+Claudio chinò il capo dolorante. Ogni sillaba del vecchio Carlo scavava inchiostro infetto nella corazza intellettuale dell'ingegnere, mischiandosi all'agonia fisica della ferita profonda.
+Aveva creduto ardentemente nella stabilità societaria. Aveva immolato anni alla calcolazione. Adesso il suo capolavoro stringeva le auto in superficie, soffocava l'economia reale e incrociava letalmente le traiettorie dell'emancipazione cognitiva.
+Riuscì ad alzare lo sguardo verso l'intramontabile anziano. «Esiste la Radice. Un accesso inibito alla percezione cosciente dell'IA.»
+Laura scattò in piedi agguantando saldamente il bicipite intatto di Claudio. Lo sollevò di netto in posizione eretta. Il sangue riprese a pompare calore. «Il margine muore qui,» intimò la donna, osservando l'ombra termica calare la guardia. «I sensori rileveranno le impronte piastriniche del sangue versato in sedici minuti e trenta secondi.»
+Carlo indicò impassibile un cunicolo obliquo oltre lo scorrimento acquifero, una strettoia infernale foderata in travertino. «Quella faglia vi scodella sulla linea sub-urbana diramata d'isolamento termico,» precisò, volgendo l'unico occhio funzionante al drive teso sull'addome sanguinante dell’ingegnere. «Ciò che porti ti flagellerà i tendini. Ed è il solco unico da tracciare per chiuderne l'apice cibernetico indotto.»
+Claudio abbozzò l'assentimento fisico, rigido, e gettando un terzo del proprio affanno fisiologico in appoggio sulla clavicola tesa di Laura fuggì dritto nell'intercapedine cieca romana.`;

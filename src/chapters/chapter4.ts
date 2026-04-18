@@ -1,79 +1,35 @@
-export const chapter4Content = `Capitolo 4: La Geometria del Consenso
-
-L'aria all'ottantesimo piano scorreva sterile, priva di polline o odori umani. I filtri di purificazione soffiavano un alito gelido che a Julian Vane serviva solo a mantenere intatta la lucidità.
-
-Si avvicinò alla vetrata. Sotto i suoi piedi, Ginevra bruciava. Nel settore sud, bagliori d'incendi improvvisati squarciavano la coltre di smog. La nebbia notturna assorbiva quel riflesso, trasformando il panorama in una lenta agonia color arancio. Julian fissava quello scempio. Non sentiva nulla.
-
-Si voltò verso la parete. La proiezione olografica riempiva tre metri di stanza con dati nitidi, privi di sfumature inutili. La mappa del settore sud-4 pulsava. Piccoli punti rossi indicavano il calore dei bidoni in fiamme e dei cortili trasformati in bivacchi. Quattro notti prima, l'Amministrazione aveva tagliato il riscaldamento nei blocchi dal B-17 al B-23. Quarantaduemila corpi assideravano al buio. Il sistema contava unità. Il sistema gestiva asset. L'angoscia umana rimaneva un rumore di fondo incalcolabile.
-
-Julian aveva letto il report alle cinque e quaranta. Le sue proiezioni scivolavano su quel caos con un margine di errore del due virgola tre percento. Adesso le undici di sera segnavano l'inizio della rivolta. Le traiettorie di massa si muovevano come le lancette di un orologio sincronizzato.
-
-Allungò una mano sul pannello. Premette il tasto grigio dell'Emergenza Sanitaria.
-
-Un tono basso confirmò l'operazione. Sulla mappa, il settore sud mutava colore. Il rosso della rivolta sbiadiva nel bianco dell'emergenza medica. Il protocollo di risposta sostituiva scudi e lacrimogeni con le uniformi candide delle squadre di ABITES. Kit nutrizionali. Razioni.
-
-E cerotti neurali.
-
-Alle sue spalle, le porte si spalancarono. Il passo cadenzato del Generale Müller risuonò sulla resina del pavimento prima ancora che l'uomo entrasse nel campo visivo di Julian. Il generale avanzava con un tablet stretto sotto il braccio, le tempie imperlate di sudore, il colletto dell'uniforme aperto per un bisogno d'aria negato dalla stanza.
-
-Julian attese. Volse il corpo solo quando il generale fu a metà stanza.
-
-«Signor Vane, i dati mostrano un pattern di aggregazione esplosiva. Se non interveniamo subito con le unità antisommossa...»
-
-«Müller.» Julian spezzò la foga del militare con una sferzata secca. Il generale si bloccò.
-
-«Ha analizzato le stime di aggregazione del blocco B-17?»
-
-«Sì, ma...»
-
-«L'apice della rivolta avverrà tra trentasei e quarantaquattro ore.» Julian indicò lo schermo con un cenno appena accennato. «Le sue unità antisommossa avrebbero sei ore di efficacia. Dopo, le telecamere e i droni civili trasformerebbero il suo intervento in un suicidio mediatico.»
-
-Müller serrò le mascelle. «E la lascerà bruciare, questa città?»
-
-«Abbiamo attivato le squadre sanitarie.»
-
-«Non basteranno a calmare gente che muore di freddo...»
-
-«Non devono calmare nessuno.» Julian fissò il generale. Gli occhi non brillavano. «Devono esserci. Tre squadre per ogni blocco. Uniformi bianche. Impeccabili. Razioni ad alto apporto proteico. Voglio che la loro presenza sia fisica, costante, rassicurante.»
-
-Müller aprì la bocca. Le parole restarono intrappolate nei polmoni. Quando comprese, il viso gli sbiancò.
-
-«Le razioni...» sussurrò. «Le distribuirà solo se installeranno il cerotto neurale.»
-
-«Le offriremo in abbinamento al supporto,» corresse Julian, tornando a osservare la nebbia arancione. «La scelta, ovviamente, resta libera.»
-
-Il generale deglutì. Le dita strette sul tablet tremavano lievemente. Müller cercò di distendere i muscoli delle mani, riducendole a due grumi inerti. «Signor Vane, se non riattiviamo il riscaldamento, le stime parlano di almeno trenta morti per assideramento.»
-
-«Ventisei virgola quattro.» Julian non si girò. «Il calcolo è aggiornato a questa mattina.»
-
-Müller bloccò il respiro. Le spalle cedettero, il petto si sgonfiò. Resa totale.
-
-«Quarantaquattro mesi fa,» riprese Julian, «l'adesione volontaria ai cerotti era ferma al tre virgola otto percento. Oggi?»
-
-Müller tacque.
-
-«Trentuno virgola due.» Julian posò le dita sul vetro freddo della finestra. «L'adesione cresce del quattro virgola uno percento dopo ogni catastrofe. Siamo alla settima. Il disegno è chiaro.»
-
-«E i ventisei morti?»
-
-«Sono una costante del modello.»
-
-L'aria nella stanza divenne pesante. Müller riprese fiato con fatica. «E chi rifiuterà il programma anche dopo questo trauma?»
-
-«Il sistema procederà al ciclo successivo.» Julian tornò al tavolo. «La rete idrica del settore sud-7 regge, ma per l'estate le proiezioni indicano...»
-
-«Basta.» L'interruzione fu ruvida, trasudava disgusto.
-
-Julian lo misurò con lo sguardo. Il mento di Müller puntava ancora verso l'alto, come una barca rimasta in secca dopo la mareggiata.
-
-«Vada, generale.»
-
-Müller voltò le spalle. Il rumore dei suoi stivali morì contro le porte che si chiudevano.
-
-Julian contò quattro battiti. Si avvicinò al tavolo. Bevve un sorso d'acqua. 
-
-Sullo schermo, i punti caldi nel blocco B-19 bruciavano come previsto. Tra trentasei ore le squadre mediche avrebbero varcato la soglia. Tra quarantotto, la fame e il ghiaccio avrebbero compiuto l'opera. Tra due settimane, la rete neurale avrebbe assorbito un altro picco di adesioni.
-
-Julian posò il bicchiere. Osservò la pioggia invisibile batteva contro il vetro. Ginevra ardeva. Sapeva che entro dieci anni quel fuoco si sarebbe spento. Non perché qualcuno avrebbe salvato la città.
-
-Ma perché nessuno avrebbe più avuto la forza di appiccare l'ultimo incendio.`;
+export const chapter4Content = `Macro-Capitolo 4: Il Primo Sangue
+[ROMA - COLLETTORE EST - CLAUDIO E LAURA]
+Claudio riemerse dalle catacombe di Aris attraverso una scala a chiocciola corrosa dall'ossido. Sbucò nel collettore fognario principale. L'oscurità era pesante, tagliata solo dalla torcia luminosa di Laura.
+Lei lo aspettava in silenzio, appoggiata ai mattoni romani antichi, fondina pronta. Nessuna domanda inutile. Il riflesso dell'acqua nera brillava nei suoi occhi tattici.
+«Aris ti ha dato il drive?»
+«Sì.» Claudio le mostrò il rettangolo metallico.
+Il sibilo si propagò un attimo prima della minaccia visiva. Due droni da sorveglianza sotterranea emersero dall'incrocio ovest: i sensori termici affettavano le tenebre impenetrabili. Macchine arachnoidi d'acciaio, modificate per muoversi fluidamente negli spazi stretti.
+«Dispersione,» sibilò Laura, estraendo la pistola scheletrata in un solo battito.
+Claudio scattò di lato verso l'intercapedine idraulica. Il drone calò dall'alto a piombo, artigli aperti puntati alla sua giacca. Laura reagì, premette tre volte il grilletto. Il primo colpo frantumò l'ottica. Il secondo abbatté il rotore d'irradiazione termica. Il drone deviò bruscamente, ma il telaio pesante sfuggì al controllo e precipitò di taglio contro Claudio.
+L'ala di metallo logorata perforò il fianco sinistro dell'ingegnere, infilandosi letale tra le costole, squarciando la muscolatura sotto i vestiti. Il dolore scattò immediato e feroce, una morsa di fuoco bianco. Claudio bloccò il rantolo serrando mascella e mandibola, il sapore salato del sangue gli invase il palato. Precipitò in ginocchio nell'acqua sudicia, stringendo il drive vitale al petto.
+Laura neutralizzò il secondo automa recidendone i comandi con una lama ceramica netta.
+Si voltò. Gli scrosci di liquido nero celavano in parte il sangue viscoso che colava ora copioso lungo i pantaloni corazzati di Claudio. Il primo sangue era stato versato al fango, inesorabile.
+❖ ❖ ❖
+[MONTI APPALACHI - BOSCO - MARCUS DRAKEN]
+La pioggia cadeva muta. L'elmetto corazzato di Marcus Draken, veterano in comando della squadra Teslaris-7, filtrava digitalmente la precipitazione, derubricandola a mero rumore ambientale. Avanzava nel fango calpestando lo scricchiolio umido di foglie e arbusti.
+Il visore tattico frontale dipingeva il mondo col cinismo termico dell'IA. Segnalò le anomalie magnetiche. Otto esseri umani fuggitivi, completamente sconnessi dal protocollo, alloggiavano intorno a una stazione radio rurale.
+«Operazione,» intimò Draken via radio criptata.
+Il subordinato Reyes penetrò la porta di sfondamento. Draken lo supportò con i fasci abbaglianti frontali. Accovacciata e inerme c'era una madre con i propri figli impauriti. Reyes la sopraffece, annullandole le vie di reazione.
+Fuori, la struttura rustica bruciava per le innescate reazioni combustibili, emettendo puzza acre mista alla terra.
+Draken intercettò sul radar tattico un'anomalia ferita. Puntò il fucile, avvistandola nei rovi fitti; donna, disarmata, la piega del ginocchio imbevuta di lordura. Sguardo ostile e dritto.
+«Non devi spingere per forza quel grilletto,» scandì debolmente lei.
+Draken pesò i dati calcolati sul visore e la carnalità degli occhi umani di fronte a lui. Abbassò gradualmente l'arma automatica.
+«Richiedo assistenza sanitaria remota al bersaglio mobile ferito e procedo al contenimento.» Ruppe il veto di abbattimento dettato dall'IA. Buttò le garze in dotazione sulle ginocchia della prigioniera. Dalla collina settentrionale, nascosta dentro la boscaglia, Sara seguì tutta l'azione con rigore d’analisi: l'automa ABITES stringeva l'algoritmo, ma spiragli di devianza etica continuavano a incrinare la perfezione del sistema.
+❖ ❖ ❖
+[ROMA - COLLETTORE EST - SARA (VIA SEGNALE) E CLAUDIO]
+Il pad logistico in mano a Sara impazzì colmo di dati all'interno della boscaglia fitta nordamericana. Il canale di telemetria biometrico su Claudio crollò irrimediabilmente, sparando allarmi letali riguardo alla miseria cardiaca dell'Ingegnere: cento battiti. Deficit pressorio convalidato, probabilità d'emorragia critica dell'ottantasette percento.
+L'essenza romantica si blindò divenendo scudo calcolante tattico in lei, stringendone i nervi allo spasimo più lucido.
+Mandare i protocolli crittati nelle infrastrutture fognarie di Roma equivaleva a morire sul colpo a livello di rilevamento georeferenziato.
+Sbloccò il sigillo di sicurezza, egualmente. Non le importò nulla della propria incolumità se rapportata a quella di lui, in fin di vita nel fango metropolitano occidentale.
+A diecimila chilometri d'acqua atlantica, giù nelle viscere latine, le mani sudaticce di Claudio premevano vanamente sui grumi, impedendo scarsi spruzzi dall'incisione profonda. Laura iniettò una polvere disinfettante locale dal med-kit provvisorio ma fu insufficiente di fronte alla gola carnosa della fessura addominale.
+Tre metri dinanzi ai respiri irregolari giaceva una cassa di degenza d'emergenza in inutilizzo decennale. Un click risonante riecheggiò, liberando automaticamente la scroccatura pneumatica anteriore.
+Bende d'espansione e dosi plasmatiche giacevano a completa disposizione dei fuggitivi di stato.
+«Ci annusano, è in corso localizzazione tattica per l'apertura non codificata localmente,» riferì la mercenaria.
+L'ingegnere abbozzò un sorriso dolente tra le arcate dentarie. Cercò mentalmente i lineamenti decisi del grande nord glaciale della sua amante distonica e analogica.
+«Sistematemi le bendature e muoviamoci, ci ha donato il tempo che meritiamo e io mi rifiuto categoricamente di spegnerlo nel dissanguamento.»`;

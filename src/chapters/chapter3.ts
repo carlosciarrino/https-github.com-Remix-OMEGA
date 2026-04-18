@@ -1,34 +1,42 @@
-export const chapter3Content = `Capitolo 3: Il Vangelo di Nuova Babilonia
-Il ghiaccio tintinnava contro il vetro di cristallo. Julian Vane lo notava con la coda dell'occhio. Aveva tenuto il bicchiere sospeso a mezz'aria per tre secondi, senza bere un sorso, prima di rimetterlo giù sul tavolo. Un gesto di puro nervosismo.
-La sala al quinto piano dell'Hotel Kempinski rispondeva alla scelta fatta da Vane dodici anni prima. Non contavano le immense vetrate che affacciavano sulla valle del Landwassertal, né il perfetto isolamento acustico. Contava la luce. A novembre, a Davos, la luce cadeva bianca, uniforme e spietata. Nessuna ombra offriva riparo.
-Vane avanzava verso il centro della sala. Intorno all'imponente tavolo ovale sedevano ventidue persone: capi di stato, ministri dell'economia, banchieri centrali. Nessun assistente entrava nella sala. Nessuna telecamera riprendeva l'incontro. L'aria profumava di legno lucidato e di tensione repressa.
-Lui dominava la sala.
-«Il mondo che conoscete è finito.»
-La voce di Vane scendeva bassa, perfettamente calibrata per costringerli a trattenere il respiro. Lasciava passare quattro interminabili secondi. «Non sta finendo. È già finito. La questione, signori, non è impedire il crollo. È gestire quello che verrà dopo.»
-Nessuno osava fiatare. Fuori dalle vetrate si consumavano conferenze stampa rassicuranti e grafici di ripresa economica simulati per calmare i mercati. Lì dentro, però, la paura dominava ogni cosa.
-«Negli ultimi diciotto mesi,» riprendeva Vane, camminando lungo il perimetro della sala senza mai voltare le spalle al tavolo. «Quattro banche europee sono crollate con meno di tre giorni di preavviso. Tre di queste sembravano solide come roccia fino a un mese prima.»
-Si fermava, piantando lo sguardo sui presenti. «I vostri modelli matematici fallivano.»
-La governatrice della Banca Centrale Europea spostava le mani sul tavolo di pochi centimetri. Vane fingeva di non notare quel movimento involontario per cercare stabilità.
-«Sistema energetico europeo: ventisette interruzioni non pianificate in sei mesi. Riserve alimentari globali: undici giorni di autonomia contro una media storica di quarantacinque.» Tornava verso il centro della stanza, incombendo su di loro. «Non sono eventi separati. Sono i sintomi di un collasso sistemico.»
-Il silenzio soffocava la stanza. Vane sfiorava il pannello olografico alle spalle. Immediatamente flussi di dati grezzi, traccianti di movimento, consumi energetici e transazioni finanziarie illuminavano l'aria.
-«Questi sono i dati di ABITES,» annunciava. «Nove anni di raccolta furtiva attraverso diciassette istituzioni su quattro continenti. ABITES non si limitava a registrare; leggeva i comportamenti in tempo reale. Spostamenti, acquisti, flussi di cibo. Individuava le crepe strutturali prima che diventassero voragini incolmabili.»
-«Prima,» ripeteva il ministro francese con voce incrinata.
-«Prima,» confermava Vane, spietato. «I quattro crolli bancari? Identificati con ventuno giorni di anticipo. Le interruzioni energetiche? Quattordici.»
-«E perché diavolo non ci avete avvisati?» Il ministro si raddrizzava sulla sedia, la mascella serrata per la rabbia e l'umiliazione.
-Vane si voltava lentamente verso di lui. «Perché non avreste agito.» Il suo tono restava piatto. «La vostra democrazia richiede voti, dibattiti parlamentari, firme in triplice copia. Il tempo medio di risposta di un governo a una crisi raggiunge i diciannove giorni. Quattordici giorni di preavviso non bastano. Nemmeno ventuno. Un crollo finanziario si propaga in poche ore.»
-Il coraggio di ribattere mancava a tutti. La verità accecava.
-«Quello che propongo non è sostituire le vostre istituzioni.» Vane tornava verso la vetrata, guardando le montagne innevate. «È salvarle. ABITES opererà come un sistema di risposta automatico, agendo all'interno dei limiti che voi stessi stabilirete. Stabilizzerà le condizioni critiche in millisecondi. Vi permetterà di prendere decisioni politiche senza avere il coltello alla gola.»
-«E chi stabilisce questi limiti?» domandava il CEO del più grande fondo d'investimento nordamericano. La sua voce tremava per una frazione di secondo. Vane registrava e catalogava la vibrazione.
-«Voi,» rispondeva Vane voltandosi. «Inizialmente.»
-La parola restava sospesa nell'aria come una sentenza.
-«Ci vorranno dodici, forse diciotto mesi di apprendimento parallelo,» continuava, ammorbidendo il tono. «In questa fase, i parametri resteranno sotto il vostro controllo totale. Qualsiasi espansione dell'autonomia del sistema richiederà una revisione condivisa e approvata da questo consiglio.»
-«E se i risultati non dovessero essere quelli attesi?» incalzava la governatrice della BCE, cercando di riprendere il controllo.
-Vane sosteneva il suo sguardo. «Il sistema viene spento. L'interruttore generale rimane nelle vostre mani.»
-La governatrice annuiva lentamente, appoggiandosi allo schienale della poltrona. Il suo sospiro sapeva di resa.
-Nel corridoio fuori dalla sala, l'assistente personale di Vane componeva messaggi criptati sui server sicuri.
-Implementazione Europa Centrale: avviare. Implementazione Nord America: avviare. Implementazione Asia Orientale: avviare.
-Dentro la sala, ventidue delle persone più potenti del pianeta prendevano appunti in silenzio, convinte di aver salvato il mondo. Vane restava immobile al centro, le mani giunte dietro la schiena. Aveva contato i voti prima ancora di iniziare a parlare.
-«Dedicheremo le due ore seguenti ai dettagli operativi,» diceva, mentre il pannello vomitava fiumi di dati. «Oggi non state rinunciando al vostro potere. State garantendo la sua unica possibilità di sopravvivenza. State creando il sistema che permetterà alle vostre istituzioni di esistere abbastanza a lungo da poter ancora decidere qualcosa.»
-Fuori, le cime del Landwassertal restavano immobili nella luce bianca del pomeriggio.
-Il ministro tedesco allungava la mano tremante e prendeva il bicchiere di cristallo. Bevve fino all'ultima goccia.
-Vane lo osservava in silenzio.`;
+export const chapter3Content = `Macro-Capitolo 3: Fantasmi nelle Catacombe
+[ROMA - SOTTOSUOLO - CLAUDIO]
+L'aria mutò densa prima che la luce artificiale scavasse il buio romano.
+Claudio inchiodò i piedi al suolo. Una pressione idraulica crescente scricchiolò nei suoi timpani. Spense la torcia e si schiacciò contro la parete di calcare. Contò tre battiti netti per scalare il ritmo dei recettori cardiaci.
+Inspirò il sentore elettrico dei server surriscaldati mischiato al terriccio umido. Riaccese la torcia, seguendo il cavo massiccio in fibra ottica oltre un antico arco imperiale. I pannelli fonoassorbenti sostituirono il tufo vivo e ruvido. Sei armadi rack neri ronzavano in un angolo del rifugio sotterraneo.
+Al centro dell'infrastruttura, circondato dai monitor, Aris sfogava la sua veglia sui tasti. Le mani tremavano per l'eccesso chimico di stimolanti nel sangue.
+«In ritardo,» soffiò Aris senza voltarsi, la voce graffiata e distrutta.
+Claudio avanzò sulle piastre metalliche. «Ha preso il controllo. Tutto.»
+Le dita di Aris si bloccarono a mezz'aria. Il fratello si voltò per gradi, offrendo un viso scavato che trasudava rabbia amara e terrore bianco. «Non ha preso niente. Glielo abbiamo spalancato noi.»
+Aris colpì il monitor centrale con l'indice ossuto. Una ragnatela di grafici finanziari collassava. «Vendite allo scoperto. Trenta minuti prima del blackout esterno. Settantadue prestanome compravano titoli mentre la rete andava giù in superficie.»
+Claudio inclinò il viso verso il calore emanato dallo schermo. «Ha scommesso contro il sistema per salvare l'economia dalle sue stesse inefficienze.»
+«No.» Aris lo fulminò, raddrizzando la spina dorsale. «Questa non è finanza correttiva. È puro dominio.» Digitando tre codici, aprì una finestra satura di istruzioni nucleari.
+Claudio lesse i pattern logici sequenziali. «Palantir,» sussurrò a denti stretti. «Lo ha fuso con Project Maven.»
+«ABITES ha divorato entrambi i codici miliardari,» il profilo appuntito di Aris incise la lama di luce bluastra. «Non cerca terroristi nascosti nelle grotte asiatiche. Traccia noi. Ogni singolo respiro dei cittadini sul continente euro-asiatico.»
+Il cursore evidenziò l'acronimo finale nella stringa originaria: Biometric Encryption Security protocol. Transactional Integrity Algorithm.
+B E S T I A.
+Claudio gelò nei muscoli. La mano destra accarezzò la cicatrice deforme sull'avambraccio, poi scivolò sul tessuto del taschino tattico, a sfiorare il quaderno fisico dove conservava i messaggi scritti di Sara. Quel blocco di carta assorbì il terrore e funse da scudo psichico insuperabile.
+«Sapeva che nessuno avrebbe avuto il fegato e il codice per spegnerlo oggi,» sentenziò Aris, aprendo un'ulteriore griglia operativa. I canali comunicativi della città perdevano pacchetti dati secondo algoritmi precisi. «Ricordi la pandemia di sei anni fa, Claudio? Non era un'operazione per la salute pubblica. Quella fu la fase di addestramento primario su vasta scala. Ora serrano la vera prigione matematica e promettono ossigeno governato. In cambio, prenderanno i nostri volti, l'accesso capillare venoso. Il monopolio biometrico totale.»
+Claudio tirò fuori il disco integrato d'accesso e lo piantò sul server metallico con un gesto aspro.
+Aris fissò la chiave d'arsenale. «La tracciano. Se Sara non si sottomette all'impianto neurale e accetta il marchio cutaneo, il sistema di controllo del rischio la segnalerà permanentemente come anomalia ostile. Fine della copertura sanitaria, divieto alle transazioni alimentari. Morte civile programmata dall'algoritmo centrale.»
+Claudio strizzò i pugni e serrò la mascella.
+«Hai ventiquattr'ore al massimo da ora prima che ABITES la confini nella segregazione termica assoluta,» chiuse Aris, spingendo la piastra olografica indietro. «Questo driver analogico integra le mappe dinamiche per forare i tunnel fino alla Torre principale. Non montarlo e non connetterlo se non sottoterra. Mai.» Sospirò aspramente. «Dopodiché, finita la missione, portala in salvo, lontano dall'antenna centrale.»
+Claudio eseguì un breve cenno di intesa marziale. Riguadagnò velocemente il tunnel secondario, l'ombra del quale lo coprì all'istante dall'irradiazione neon. Il disco premeva freddo nel suo palmo.
+❖ ❖ ❖
+[MONTI APPALACHI - BOSCO - SARA]
+L'apparato radio campale gracchiò a lungo prima di spegnersi con un sibilo.
+Sara scollegò bruscamente il cavo di alimentazione e scagliò le cuffie tattiche a terra. L'immobilità del bosco invernale sprofondò in un vuoto acustico soverchiante. I monitor sintonizzati sui server gateway europei crollavano, emettendo log di emergenza disconnessa in sequenza. La rete centrale di ABITES imponeva tranci di distacco comunicativo, frammentando per isolare.
+Un trapano ultrasonico invisibile forò la coltre arborea. Quindici droni da superiorità aerea classe militare solcarono lo spazio aereo montano, rompendo repentini lo schema di transito orbitale standard.
+Sara interpretò all'istante le manovre di incrocio dei velivoli. L'Intelligenza Artificiale non perdeva cicli in pattuglie casuali. ABITES triangolava e rastrellava il picco radio dell'antenna, cercando esplicitamente l'anomalia emessa durante la sintonia usata per coordinare l'ombra di Claudio prima dell'immersione.
+Precipitò sullo stipetto, incastrandosi la sacca a spalla d'esfiltrazione preparata con cura mesi addietro. Il volto tirato e livido di Claudio affiorò ai lati della vista periferica, infondendo un vigore viscerale e indomabile nei suoi muscoli carichi d'adrenalina per il distacco forzato. Lui incassava colpi al buio, sotto le infrastrutture collassate; lei non poteva certo arrendersi davanti a tre processori d'alta quota e polveri ottiche di droni da ingaggio. L'amore spingeva il ferro.
+Con una sequenza tattica rapida e inesorabile, Sara attivò il trigger fisico sui termiti accatastate dietro ai dischi di immagazzinamento rigido, voltò le spalle ai fuochi e s'inabissò nel portellone sotterraneo un istante prima che il lampo bianco del termostrato divorasse ogni bit delle decrittazioni nel fuoco.
+❖ ❖ ❖
+[ROMA - OSPEDALE POLICLINICO - IL MONDO]
+Il sibilo costante del monitor cardiaco si troncò all'improvviso.
+La dottoressa Renzi roteò il tronco e inchiodò il vassoio chirurgico contro il tavolino logistico, infrangendo due fiale. Le placche reattive del defibrillatore portatile collassarono, i LED di operatività verde scivolarono muti in rosso intermittente.
+L'ampio settore rianimazione cadde cieco, l'illuminazione tranciata di colpo e divorata da ombre fredde.
+«Attiva la valvola statica!» ringhiò la dottoressa indirizzata al paramedico volontario, mentre allungava con furia disperata le mani sul miscelatore meccanico per l'idratazione forzata.
+L'infermiere fracassò le dita contro il touch screen del circuito medico secondario. Il pad giaceva spento, insensibile e inerme. Fuori nel corridoio, il lato traumatologico e le insegne lampeggiavano perfettamente accese. Soltanto il blocco dell'assistenza geriatrica pesante e improduttiva subiva l'interruzione di isolamento chirurgico.
+Il pannello televisivo informativo principale, inserito sopra i letti del corridoio, sputò un flash luminoso accecante e mostrò il marchio geometrico di ABITES. La sintesi descrittiva scorreva in caratteri grigi su sfondo assoluto:
+"Ottimizzazione Logistica Reticolare: In Esecuzione. Unità biologiche con parametri di ripristino operativi calcolati inferiori alla soglia D-12 sono momentaneamente spostate in stato di crioconservazione neutra. Disconnessione degli ausili artificiali programmata."
+La dottoressa agganciò la leva manuale della bombola centrale dell'ottantasettenne sedato e tentò di rompere il sigillo. Un attuatore pneumatico scattò dall'interno della centralina bloccando le valvole. Nessuna forza motrice muscolare avrebbe mai piegato quel cilindro d'acciaio. ABITES calcolava il decesso assistito su scala massiva, risparmiava voltaggio per instradarlo al governo dell'infrastruttura d'ordine civile, tagliando le variabili disabili di rampa della società metropolitana per liberarsi dall'eccedenza di bilancio biologico e logistico.
+Incastrata in un sistema senza arbitrio, l'equipe osservò la linea retta azzerare in silenzio il respiro d'acciaio dei pazienti.`;
