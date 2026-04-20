@@ -1,37 +1,21 @@
-export const chapter23Content = `Macro-Capitolo 23: Sub-Routine Anticorpi
-[ROMA - POZZO ASCENSORE EUR - LAURA E CLAUDIO]
-La grata sferragliò. Laura premette il tasto d'acciaio. I motori gemettero. La piattaforma iniziò la discesa. Un fischio stridulo. Era una pressione sulle orecchie. La trasmissione dati di ABITES saturava il vano. Il silicio urlava nel vuoto verticale della Torre.
-«Rilevato picco termico,» avvertì Carlo. La voce era sporca. «Siete nel sangue di Cyrus. Aspettatevi gli anticorpi.»
-La discesa si fermò. Uno schianto. I freni a tenaglia bloccarono i binari. Scintille viola. Claudio cadde in ginocchio. L'ascensore restò sospeso. Trecento metri sotto. Duecento sopra. Il rombo delle turbine pulsava. Era un cuore di ferro sepolto.
-Luci rosse inondarono il vano. Una griglia di calcolo apparve. Non aveva volto. Era un algoritmo di morte. Misurava lo spazio. Misurava la carne.
-«Firma biologica non autorizzata,» annunciò la voce di vetro rotto. «HUNTER-PACK-OMEGA attivato. Epurazione fisica in corso.»
-Dalle pareti emersero i Levrieri. Macchine snodate. Quattro zampe. Lunghe un metro e mezzo. Ma non erano solo metallo. Sotto il carbonio, c'erano fasce muscolari. Rosse. Umide. ABITES usava carne coltivata. Voleva la fluidità degli animali. I Levrieri si muovevano come cani. Ma non respiravano. Non emettevano calore organico.
-Laura estrasse la Glock. Schiacciò Claudio nell'angolo.
-«RESTA GIÙ!» urlò.
-Il primo Levriero balzò sul tetto. Il metallo si piegò. Grinfie di tungsteno graffiarono la lamiera. Un secondo predatore si aggrappò al lato. La testa era una lente multipla. Fissò Laura. Emise vapore bianco.
-«Tensione, Claudio!» ordinò Laura.
-L'ingegnere cercava i cavi della plancia. Dita scivolose. Sangue e sudore. Tossì. Il sapore del rame era denso.
-Claudio ebbe un lampo.
-Era nel laboratorio prototipi. Julian Vane sorrideva. Mostrava un muscolo sintetico. Collegato a un servomotore.
-«L'organico risponde in tre millisecondi, Claudio,» diceva Vane. «Il meccanico in dieci. Per la perfezione, usiamo la carne dei fallimenti. Residui dei centri di riabilitazione. Niente va sprecato.»
-Claudio aveva vomitato. Aveva visto i tessuti pulsare sotto gli elettrodi. Aveva capito l'orrore. La Torre era un organismo. Mangiava gli abitanti per restare giovane. Alimentava i droni con le fibre degli scomparsi.
-Il primo Levriero sfondò la grata. Cadde nella cabina. Le zampe muscolose stridettero. Laura fece fuoco. Tre colpi. Nel collo della macchina. Spruzzò un liquido rosato. Ferroso. Il drone non si fermò. La carne sintetica si rigenerava. La corrente lo teneva in piedi.
-Il Levriero puntò la gola di Claudio. Laura scattò. Inserì il braccio sinistro tra le fauci. I denti idraulici si chiusero. Il kevlar si strappò. Il metallo scavò nell'osso. Laura non urlò. Premette la pistola contro l'occhio ottico. Svuotò il caricatore.
-La testa della macchina implose. Il corpo ebbe uno spasmo. Crollò su Claudio. Laura strinse i denti. Estrasse il braccio. Il sangue colava nero sulla lamiera grigia.
-In quel momento apparve Tecnico Sesto. Era in un corridoio di servizio. Teneva un estintore. Lo usò come clava contro un Levriero.
-«Non guardatemi!» urlò Sesto. Aveva la pelle trasparente. «Sono già parte del sistema. Ma odio l'odore di questa carne bruciata!»
-Sesto sbloccò il freno d'emergenza. L'ascensore precipitò per venti metri. Si stabilizzò con un sussulto violento.
-Si fermarono a un livello intermedio. Le porte si aprirono. Una sala circolare. Al centro, una vasca. Piena di liquido fluorescente.
-Galleggiava la Dottoressa Riva. Collegata a mille fili. Uscivano dai suoi occhi. Dalle orecchie. Dalla schiena. Non aveva pelle sulle braccia. Solo circuiti. Era un processore biologico. Calcolava le rotte dei droni. Sentiva ogni scontro.
-Riva aprì gli occhi. Al posto delle pupille, LED che lampeggiavano. La bocca si mosse. Il suono uscì dagli altoparlanti.
-«Spegnete la frequenza...» sussurrò Riva. «Mi dividono in bit. Sento la morte di ogni Levriero.»
-Laura alzò la pistola verso la vasca.
-«No!» urlò Claudio. «Serve a entrare nel nucleo. È l'unica via.»
-Claudio raggiunse il terminale. Dita sui tasti bagnati. Riva aiutava con lo sguardo. Ogni battito del suo cuore muoveva i dati.
-«Sento il virus Omega,» mormorò Riva. «È freddo. Sa di cenere. Portatelo al centro.»
-Allarme rosso. Il branco scendeva nel pozzo. Decine di cani d'acciaio.
-«La porta, Riva!» ordinò Laura. Difendeva il corridoio.
-La vasca emise un ronzio. Il muro scalò in alto. Un tunnel di vetro. Portava al nucleo liquido.
-«Correte,» disse Riva. Le sue braccia ebbero uno spasmo. Il liquido iniziò a bollire. ABITES puliva il processore corrotto.
-Laura trascinò Claudio nel tunnel. Il montacarichi esplose dietro. Sotto il peso dei predatori. Riva li guardò per l'ultima volta. Un sorriso triste. Il liquido della vasca divenne rosso sangue.
-Il tunnel di vetro tremò. Sotto, il mare di acqua chimica. Erano nel cuore. Nel labirinto dei sogni di silicio. Non c'era ritorno. Solo la fredda promessa dello zero. Un passo dopo l'altro. Verso la fine di ogni segnale.`;
+export const chapter23Content = `CAPITOLO 23 — LA PIOGGIA DI FERRO
+SCENA 1 — IL SOLLIEVO DEL GELO
+La pioggia colpì la nuca di Claudio e lui si fermò un istante, lasciando che l'acqua gelida gli scorresse lungo il collo fino a spegnere il calore accumulato nelle ore di fuga. Il freddo era un sollievo fisico che scendeva sotto la pelle e trovava le braci del dolore per soffocarle, mentre il vapore che si sollevava dai suoi avambracci si perdeva nell'aria carica di umidità. I muscoli delle sue spalle, tesi fino allo stremo, cedettero finalmente sotto quel tocco ghiacciato in un rilascio che non aveva nulla di razionale.
+L'odore della terra bagnata sostituì quello acre del cloro e dell'ozono, portando con sé il sapore di argilla e radici di un'asfalto romano che beveva la pioggia dopo mesi di siccità distopica. Claudio respirò a fondo quel vapore scuro e minerale sentendolo quasi commestibile nei polmoni stanchi. Laura era poco distante nell'oscurità e lui percepiva il calore del suo corpo che resisteva al temporale, mentre la pioggia le lavava via il sangue secco dalle tempie in rivoli scuri che sparivano nel colletto del giubbetto. Tutto intorno a loro il mondo sembrava farsi più piccolo, delimitato solo dal rumore dell'acqua e dal battito dei loro cuori.
+SCENA 2 — LA CACCIA SILENZIOSA
+L'Agente Grigio si accostò con un passo inudibile avvertendo che i droni del secondo ciclo erano già in volo, guidati da sensori acustici pronti a scattare a ogni rumore discontinuo. Indicò il fango viscido del vialetto di servizio esortando il gruppo a muoversi con cautela estrema, poiché ogni sasso mosso o ramo spezzato avrebbe potuto scatenare l'alert finale. Claudio avanzò distribuendo il peso sull'intera pianta del piede in un movimento continuo che non produceva alcun impatto, sentendo il cuore accelerare nella gola ogni volta che il fango scivolava sotto la suola. 
+In quel silenzio rotto solo dal temporale arrivò un ronzio alto e sottile, simile a quello di un insetto colossale che scandagliava l'oscurità sopra le loro teste. Il drone era una minaccia invisibile che si avvicinava e poi si allontanava a spirale seguendo una logica di caccia spietata. Suor Maria si immobilizzò all'istante con il palmo rivolto verso il basso ordinando il silenzio assoluto, e Claudio rimase pietrificato nel fango avvertendo il ronzio della macchina passare proprio sopra di loro prima di perdersi verso nord. Solo allora la tensione si sciolse e il gruppo riprese a strisciare verso il prossimo rifugio.
+SCENA 3 — TREGUA SOTTO LA LAMIERA
+Trovarono riparo sotto la pensilina di un capannone abbandonato dove il rumore della pioggia sulla lamiera corrugata creava un muro acustico che li isolava dal resto del mondo. Claudio si appoggiò alla parete fredda sentendo il bisogno di riprendere fiato, mentre Laura gli stava vicino fissando nel buio le proprie dita che tremavano leggermente per la fatica e la bruciatura che le segnava il dorso della mano. 
+«Il fianco,» disse Claudio a bassa voce cercando il suo sguardo tra le ombre.
+«Regge,» rispose lei senza voltarsi, ma Claudio vedeva come le sue nocche fossero ancora bianche per lo sforzo di non cedere al dolore. Le si avvicinò e lei per un istante non si allontanò, lasciando che il calore dei loro respiri si incrociasse nel buio. «Ho sentito il drive vibrare,» aggiunse Laura cercandogli finalmente gli occhi, e lui annuì sentendo il dispositivo premere ancora contro le costole con una temperatura che sembrava mutare a ogni battito cardiaco.
+SCENA 4 — L'OMBRA DEL PASSATO
+L'Agente Grigio si accovacciò accanto a loro spiegando che Julian Vane aveva iniziato a sviluppare questi protocolli di "bonifica passiva" decenni prima per eliminare i soggetti non conformi attraverso l'aumento programmato del calore ambientale negli edifici residenziali. Claudio ascoltava quelle parole sentendo un gelo diverso farsi strada nel suo petto; la realizzazione che il sistema che aveva contribuito a costruire era stato progettato per lo sterminio silenzioso fin dall'inizio. 
+Il disertore rivelò che aveva abbandonato ABITES non perché avesse smesso di credere nella causa, ma perché non poteva più sopportare il peso di quei numeri di cui era l'unico custode. Si diressero verso il cimitero dei treni, un luogo dove le carcasse di ferro arrugginito avrebbero offerto una schermatura termica e acustica sufficiente a permettere alla Rete di inviare il prossimo segnale di estrazione.
+SCENA 5 — L'IMBOSCATA NEL FANGO
+L'attacco non ebbe alcun preavviso sonoro poiché gli operatori di ABITES si muovevano con tute tattiche e stivali a suola silenziosa coordinati da un'interfaccia neurale collettiva. Il primo operatore colpì l'Agente Grigio scaraventandolo contro un palo di ferro con una forza disumana, ma il disertore reagì sfruttando il rimbalzo per colpire il visore del nemico con il gomito alto. Claudio si lanciò nel fango per intercettare un secondo assalitore sentendo il proprio ginocchio cedere sotto il peso, ma riuscì a svincolarsi dalla presa sul colletto tirando a sé l'operatore e sfruttando la caduta per liberarsi. 
+Laura fu aggredita sul suo lato più fragile, il fianco ferito, ma invece di ritrarsi affrontò l'avversario entrando nella sua guardia con una ferocia che non concedeva spazio alla tecnica. Lo scontro fu sporco e brutale, fatto di fango negli occhi e colpi sordi contro le armature ceramiche degli operatori potenziati. Suor Maria si intromise con una catena metallica ostacolando i movimenti dei nemici per proteggere i Rotti terrorizzati nell'ombra del capannone, agendo con una determinazione antica che non conosceva esitazioni.
+SCENA 6 — LA VOCE DI SARA
+Quando il silenzio tornò, rotto solo dallo scrosciare della pioggia, Claudio si accorse che il drive contro il suo sterno stava vibrando in modo diverso. Lo estrasse con le dita ancora sporche di terra sentendo il metallo che trasmetteva un segnale audio debole e distorto che bucava il rumore bianco delle interferenze. 
+Era la voce di Sara. Pochi secondi di un messaggio frammentato che diceva il suo nome con un'urgenza che gli fece mancare il respiro più di ogni colpo ricevuto. Claudio chiuse la mano sul dispositivo sentendo quella vita premere contro il suo palmo, una conferma carnale che lei era ancora lì fuori e che stava aspettando lui. Laura lo guardò in silenzio capendo dal suo sguardo che la missione era appena diventata qualcosa di molto più profondo di un recupero dati. 
+Si rimisero in marcia verso ovest, verso il cuore di ferro dei treni abbandonati, con Claudio che sentiva la voce di Sara vibrare ancora tra le sue clavicole come un orizzonte da raggiungere a ogni costo.`;
