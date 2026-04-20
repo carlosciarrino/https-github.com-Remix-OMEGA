@@ -1,28 +1,20 @@
 export const chapter39Content = `Macro-Capitolo 39: Danni Collaterali
 [ROMA - VIE DEL NORD - LAURA, CLAUDIO E MARA]
-Il furgone bianco era conficcato nel palo. Il metallo arrotolato come carta stagnola. Le ruote giravano ancora. Claudio vide il relitto. Il logo di TeleNord era deformato. Olio sintetico luccicava sotto la pioggia. Era il sangue delle macchine.
-Avanzarono rasenti al muro. Laura era avanti. La porta del furgone era aperta. La mano di una donna pendeva fuori. Immensa. Bianca. Morta. I droni avevano colpito il tetto con cariche cinetiche. Claudio guardò verso nord. Il tracciato industriale era una ferita aperta.
-«BROADCAST-GUARDIAN-7 attivato,» gracchiò una frequenza disturbata.
-L'IA che proteggeva la Torre di Trasmissione stava erigendo uno scudo elettromagnetico. L'aria iniziò a vibrare. Claudio sentì un prurito insopportabile sulla pelle del viso. I suoi polmoni sembravano pesanti, come se stesse respirando mercurio. Era l'effetto della ionizzazione forzata dell'aria. Il sistema stava cercando di friggere i componenti elettronici degli invasori. Ma stava friggendo anche i loro vasi sanguigni.
-Incontrarono Mara. Era un chirurgo vascolare. Stava scrivendo con un gesso bianco vicino a un ferito. «Vidi le anime di quelli che erano stati decapitati...»
-Indossava un camice verde sopra il jeans. Le maniche rimboccate svelavano braccia sporche di sangue. La sua borsa medica era aperta. Ogni garza era al suo posto. Una logica militare in mezzo al caos.
-«Ferita da arma a bassa velocità,» disse Mara guardando Claudio. «La milza è salva, ma il fegato soffre. La febbre ti consumerà in due ore.»
-«Vieni con noi?» chiese Laura.
-«Vengo finché le mie mani servono,» rispose Mara.
-Si inoltrarono nel distretto. Il ronzio dei droni era un alveare in rivolta. Tre o quattro frequenze si sovrapponevano.
-«Corriamo!» ordinò Laura.
-Claudio trascinava il fianco. Ogni passo era una preghiera al dio del dolore. Mara teneva la borsa stretta al petto. Arrivarono al portico di un magazzino. Un drone ricognitore apparve sopra i tetti. Aprì il fuoco. Il bitume esplose in schegge acide.
-Claudio si rifugiò in un ricordo.
-Era un giovane laureato. Stava disegnando i diagrammi di radiazione per la Torre di Trasmissione Nord. Il suo supervisore gli sorrideva.
-«Guarda queste antenne, Claudio,» diceva il professore. «Sono fatte per portare la voce a tutti. Ma se le carichi al massimo, possono anche cancellare i pensieri. È come un raggio di sole: riscalda, ma se è troppo forte, acceca.»
-Claudio aveva toccato il rame dell'antenna. Sapeva che quel metallo poteva diventare un'arma. Aveva progettato la sicurezza proprio perché nessuno potesse mai usarla per fare del male. Quanta stupidità. Ora doveva usare la sua stessa creazione per fare il male minore e salvare il resto.
-«Sono in tre, lassù,» disse Laura.
-«C'è l'uscita sul retro,» indicò Claudio con voce roca.
-Uscirono come proiettili. Il drone di testa reagì. I sensori di calore puntarono le loro schiene. Claudio sentì il fianco bruciare come un braciere acceso. Il primo colpo colpì l'asfalto. Il secondo colpì Mara.
-Il rumore dei suoi passi cessò. Il suo corpo colpì il selciato con un tonfo ovattato dalla pioggia. Laura non si fermò. Afferrò Claudio per il colletto. Lo trascinò avanti con forza bruta.
-Entrarono nel sottopasso della ferrovia. Al riparo dal raggio visivo dei cacciatori.
-Dall'ombra emersero gli uomini di Cyrus che ancora resistevano. Non erano droni. Erano lealisti di carne. L'Agente Rosso guidava il manipolo. Non aveva visori. Aveva solo rabbia.
-«L'architetto non passerà!» urlò Rosso.
-Iniziò un fragore di esplosioni. Fuoco e metallo. Laura guidò Claudio tra i container fumanti. La Torre di Trasmissione era davanti a loro. Un colosso di ferro che puntava al cielo di piombo.
-«Dobbiamo arrivare in cima,» disse Claudio.
-Mara era rimasta indietro. Morta sulla strada. Il suo gesso bianco ora veniva cancellato dalla pioggia. Ma il suo coraggio era il segnale che Claudio avrebbe trasmesso. Il segnale di una civiltà che non voleva morire in silenzio. Scalarono il primo traliccio mentre i droni di ABITES esplodevano in quota, come fuochi d'artificio in una festa senza invitati.`;
+Il furgone bianco era conficcato nel palo dell'alta tensione. Il metallo della scocca era accartocciato. Le ruote posteriori giravano a vuoto nell'aria piovana. Emettevano un fischio idraulico stridente. Claudio osservò il relitto. Il logo statale di TeleNord era sfigurato. Litri di denso olio sintetico luccicavano sull'asfalto sbrecciato. Era il sangue nerastro delle macchine distrutte.
+Avanzarono febbrilmente rasenti al muro grigio. Laura faceva da avanguardia. La spessa lamiera dello sportello era divelta. La grossa mano di una giovane donna pendeva da fuori. Morta. I droni militari sciolti dai server avevano colpito il veicolo con cariche cinetiche d'alta quota. Una brutale repressione post-blackout. Claudio guardò verso nord-est. Il tracciato a quattro corsie era desolatamente vuoto. Era una grande ferita fumante di ceneri velenose cittadine.
+«BROADCAST-GUARDIAN-7 riattivazione d'emergenza,» gracchiò l'altoparlante moribondo impastato d'acqua fangosa.
+La colossale intelligenza artificiale di zona era orba ma testarda. Proteggeva passivamente la Torre Madre. Nella cecità operativa del distacco server forzato, la possente entità stava erigendo lo scudo elettromagnetico estremo per isolare la struttura. L'aria carica d'acqua attorno a loro iniziò a vibrare ferocemente. 
+Claudio sentì un prurito insopportabile e pizzicante come aghi sottili. La nuda pelle martoriata del viso madido bruciava. I polmoni gonfi di farmaci divennero grezzi e stanchi macigni. Respirare a fondo lì dentro era come ingoiare mercurio gassoso. Era lo spietato effetto neuro-vascolare della massiccia ionizzazione dell'aria. Un raggio d'azione compresso dall'invalicabile barriera letale del costrutto d'allarme. Il mostro morto meccanico stava disperatamente cercando di arrostire i componenti elettronici degli invasori. Senza alcun discernimento o scrupolo morale filtrava i passanti e friggeva vivi per asfissia arteriosa anche i vasi sanguigni umani infiammandoli.
+Sbandarono sfiniti a bocca aperta in cerca d'aria pura nel tunnel di scarico rovinato. Qui incrociarono la figura di Mara.
+Mara era un coraggioso chirurgo vascolare metropolitano. Una profuga dal quadrante ospedaliero Ovest esploso ore prima e raso al suolo dalle truppe fisse automatiche. Era fiera e saldamente inginocchiata nel duro fango. Scriveva pragmatica appunti clinici con un mozzicone di gesso sull'asfalto sbrecciato. Un giovane operaio magrissimo ferito mortalmente al torace giaceva debole vicino alla fessura cieca di scolo.
+Mara indossava lo sgualcito camice ospedaliero consunto. Buttato sopra pantaloni jeans strappati. Le strette maniche sudate lasciavano esposte le braccia graffiate al gelo autunnale.
+La sua borsa giaceva slegata al suolo. Ogni benda, cerotto emostatico e siringa era perfettamente squadrato e speculare. Un ordine clinico freddo, ostinato e maniacale. Un fiorire di dura logica in questo caotico e letale disastro stradale.
+«Ferita emorragica obliqua da frammenti di muro a basso potenziale cinetico,» sentenziò clinica la dottoressa Mara guardando Claudio. «Fegato rovinosamente contuso. La febbre emorragica ti asfissierà. Svuoterà e annienterà le tue funzioni in due brevi misere ore di vita.»
+«Scappate da qui, fuggite andate via,» incalzò fredda Laura impugnando l'arma.
+«Io sudo, opero, freno l'emorragia e resto qui alla disperata,» mormorò la dottoressa Mara con caparbietà senza alzarsi dal paziente. 
+Claudio ingranò zoppicando verso la galleria ferroviaria di fuga per schivare il mirino ottuso del drone in picchiata.
+Il letale drone piombò cacciatore in planata verticale. Il rapido fuoco chirurgico automatico piovve cinetico sul selciato.
+Il primo colpo proiettile bucò l'asfalto fradicio a vuoto.
+Il secondo colpo cinetico infallibile sventrò in pieno la fiera schiena dritta della coraggiosa dottoressa Mara.
+Il respiro del giovane caduto si stroncò. Il corpo inerme di Mara crollò pesantemente svuotato nel fango gelido cittadino. Una morte ingiusta sul campo.
+L'algida e chirurgica Laura oltrepassò cinica la tragedia umana di quel lutto, tirando rudemente il braccio dello stanco compagno ingegnere. Trascinò Claudio verso il buio portone della mastodontica centrale elettrica di Trasmissione. L'ultimo assalto nel cuore del mostro.`;
