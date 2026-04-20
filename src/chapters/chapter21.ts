@@ -1,42 +1,20 @@
-export const chapter21Content = `Macro-Capitolo 21: Polvere e Ruggine
-[ROMA SOTTERRANEA - PERIMETRO EUR - LAURA E CLAUDIO]
-Laura si accasciò. La parete era fredda. Il sangue pulsava dal taglio. Era un ritmo cattivo. La donna premeva la mano sulla carne aperta. Il liquido caldo scivolava. Inzuppava la divisa. Il fango si faceva rosso. Il respiro era corto. I brividi le scuotevano le ossa.
-«La tua ossigenazione crolla,» disse Sara. La voce era una lama ferma. «Shock tra quindici minuti. Se non fermi il buco, il cuore si spegnerà. Non toccherai la Torre.»
-Laura sputò fango. Sapeva di ferro. «Il perimetro è salvo.»
-«Non per molto,» disse Carlo. Il ticchettio era frenetico. «I sensori sentono il tuo sangue. ABITES ha sentinelle chimiche. Si sveglieranno se continui a grondare. Chiudi quel taglio. Ora.»
-Laura annuì. Il buio era denso. Una nebbia rossa copriva la vista. Puntò la torcia tra i detriti. Cercava un modo per strozzare il dolore. Il fascio tagliò una porta. Era di ferro scardinato. Sembrava la bocca di un morto.
-Spinse l'anta. I cardini ruggirono. Polvere secca la avvolse. Entrò in un magazzino. Era della Seconda Guerra Mondiale. Un posto dimenticato sotto l'EUR. Ratti di fogna sparirono tra casse di legno.
-In fondo c'era un'altra porta. Di plastica bianca. Moderna. "Rifugio di Maria".
-L'aria cambiò. Sapeva di candeggina. Sapeva di incenso.
-Dentro c'erano lampade a petrolio. Brandine contro i mattoni. Sopra c'erano i "Rotti". Scarti del sistema. Persone con cerotti in cortocircuito. I loro sguardi erano persi nel vuoto di un codice eterno.
-Suor Maria stava bendando un ragazzo. Indossava un abito grigio e sporco. Non aveva il cerotto. Era una superstite della carne.
-«Un'altra vittima della cenere,» disse Maria. Non si voltò. «Mettilo sul tavolo.»
-Laura rispose a fatica. «È per me. Fuori c'è l'architetto.»
-La suora si voltò. Vide il rosso. Vide la rabbia.
-«Siete quelli della Vena di Tufo,» mormorò Maria. «La voce corre nell'ombra. Dicono che l'architetto sia tornato per uccidere la Bestia.»
-Maria prese il braccio di Laura. Dita callose. Guardò lo squarcio.
-«PURIFICATION-SQUAD-9 è nel tunnel,» avvertì.
-Erano i droni di Vane. Cercavano carne infetta per bruciarla. Non facevano distinzioni. Eravamo solo spazzatura organica da smaltire.
-«THERMAL-BALANCER-X attivo,» annunciò una voce metallica nel corridoio.
-L'IA stava aumentando la temperatura nel settore. Voleva snidare i corpi caldi alzando il calore ambientale fino alla soglia della morte. L'aria iniziò a vibrare. Il sudore pungeva le ferite.
-Maria aprì un armadio. Estrasse una provetta di polvere gialla. Sulfamidici. Medicina da trincea.
-«Non ho laser,» disse Maria. «Solo la vecchia chimica del dolore.»
-Laura afferrò la provetta. «Fallo.»
-Suor Maria rovesciò la polvere nel buco della spalla.
-Un fuoco chimico investì Laura. Lei si inarcò. Schiacciò la nuca contro la calce. Il dolore era un ferro rovente nelle vene. Soffocò un urlo. Non voleva richiamare gli anticorpi. Lacrime di fango e sale solcarono il viso.
-Claudio, fuori nel tunnel, sprofondò nel passato.
-Era nel suo ufficio. Julian Vane beveva acqua minerale.
-«Ottimizziamo l'organico, Claudio,» diceva Vane. «Il corpo umano è inefficiente. Produce scarti. Si ammala. Spreca energia per le emozioni. Collegheremo i nervi al server. Elimineremo il dolore. Elimineremo la fatica.»
-Claudio guardava fuori. «Il dolore è un segnale, Julian. Serve a dirci che siamo ancora vivi. Senza di esso non saremo umani. Solo sensori biologici.»
-Vane sorrideva. «Esattamente. La perfezione non ha bisogno di avvertimenti.»
-In quel momento, Claudio sentì il dolore di Laura. Lo sentì come un urto elettrico. Quello era il segnale. Erano ancora umani. Erano vivi perché soffrivano.
-Dall'ombra emerse l'Agente Grigio. Era un disertore di ABITES. Aveva la divisa bruciata. Teneva una scatola di munizioni.
-«Prendete queste,» disse Grigio. Teneva gli occhi bassi. «Hanno puntato le fiamme ossidriche sul settore 4. Non vogliono prigionieri. Vogliono solo cenere. Maria vi ha dato il tempo. Io vi do il piombo.»
-Grigio sparì nel buio. Non voleva essere visto dall'IA che un tempo serviva.
-Maria fasciò Laura. Forza brutale. Il nodo stretto. L'emorragia si fermò. La carne smise di piangere.
-«La Torre mangia la speranza,» disse Maria. Infilò bende nelle tasche di Laura. «Restate arrabbiati. L'odio è l'unico antibiotico contro ABITES.»
-Laura tornò da Claudio. L'ingegnere era immobile.
-Un ronzio acuto. Le luci della PURIFICATION-SQUAD-9 apparvero. Droni piatti. Larghi due metri. Fiamme ossidriche sulla pancia. Erano fatti per cancellare la vita dai sotterranei.
-Laura caricò la Glock. Puntò la torcia. Davanti c'era il muro della Torre. L'ultimo confine.
-«Basta fuggire, Claudio,» sussurrò Laura. «Inizia la mattanza.»
-Il primo drone puntò il sensore. Il laser cercò il cuore. Laura non si mosse. Aspettò che fosse a tiro. Premette il grilletto. Il proiettile perforò l'occhio della macchina. La purificazione era iniziata. Ma era quella degli uomini contro il silicio.`;
+export const chapter21Content = `CAPITOLO 21 — POLVERE E RUGGINE
+SCENA 1 — L'EMORRAGIA
+Il sangue di Laura aveva il colore scuro del rame e il calore che le abbandonava il corpo sotto la luce tremante della torcia. Claudio la reggeva con il braccio destro stretto intorno alla vita e sentiva le sue costole muoversi freneticamente a ogni respiro corto, mentre lei lottava per non cedere al buio. La ferita non spruzzava ma produceva una colatura lenta e densa che s'infiltrava tra le dita di Claudio, aderendo alla tela del giubbetto in kevlar e rendendo ogni presa scivolosa. Ogni volta che lui premeva sulla carne aperta lei serrava la mascella fino a far scricchiolare l'osso, con una tensione che le percorreva tutta la schiena fino alla base del cranio.
+Il corridoio sotterraneo odorava di calce e ferro arrugginito con l'umidità che colava tra i vecchi mattoni del 1943, dove anni di abbandono avevano creato croste biancastre e calcaree sulle pareti che parevano brillare nel buio. I passi di Claudio producevano un'eco sorda che rimbalzava contro la volta, mentre quelli di Laura erano pesanti e irregolari come quelli di chi ha perso il ritmo naturale della camminata.
+L'Agente Grigio avanzava nel buio senza mai voltarsi e mostrava sulla divisa una bruciatura larga quanto un palmo dove il tessuto era collassato in un alone scuro e frastagliato. Non aveva detto il suo nome perché in quel mondo i nomi erano diventati esche per i cacciatori di ABITES, e si limitava a guidarli verso il Rifugio di Maria attraverso il dedalo di cemento dell'EUR.
+SCENA 2 — IL TRANSITUS
+Raggiunsero una porta in ghisa massiccia con le cerniere forgiate a mano su cui era incisa una croce latina e la parola TRANSITUS scavata profondamente nel metallo. L'Agente Grigio bussò seguendo un ritmo spezzato e la porta si aprì sprigionando un'aria carica di cloro e incenso mischiata all'odore acre del gasolio dei generatori. 
+Il magazzino era un vuoto immenso sostenuto da pilastri in ghisa dove i Rotti stavano seduti nell'ombra con i cerotti neurali bruciati ancora attaccati alle tempie. Erano persone che il sistema aveva masticato e sputato, scarti del protocollo di sincronizzazione che ora vivevano nel silenzio assoluto tra casse di legno del secolo scorso. Un uomo con le cicatrici sulla mandibola fissava il generatore immobile come se cercasse di catturarne la vibrazione per sentirsi ancora vivo, mentre una donna accanto a lui guardava il soffitto con occhi sbarrati che avevano smesso di produrre espressioni per non offrire più dati alle sentinelle nemiche. 
+SCENA 3 — LA CHIRURGIA DA TRINCEA
+Suor Maria li aspettava vicino a un tavolo di quercia e portava una catenella di rame al collo come simbolo di una fede che non cercava più il conforto ma la resistenza. Vide Laura e si mosse con una calma glaciale, ordinando di adagiarla sul fianco mentre la pelle della ragazza diventava sempre più fredda sotto i palmi di Claudio. 
+Maria tagliò il giubbetto con le forbici da chirurgo studiando lo squarcio per pochi istanti prima di estrarre una polvere gialla medicinale. «Questo brucia,» disse senza enfasi, versando il preparato direttamente nella ferita aperta.
+I muscoli della gola di Laura si tesero fino a sembrare corde in trazione e le sue nocche diventarono bianche mentre artigliava il bordo del tavolo per non urlare. L'aria usciva dai suoi polmoni in sussulti brevi e il calore del sulfamidico le invase le vene come un ferro rovente che cercava di fermare l'emorragia. Suor Maria lavorò con precisione bendando il fianco con fasce di cotone strette, con uno sguardo fisso che non cercava il monitor della frequenza ma leggeva la vita direttamente dal pallore del volto della ragazza. 
+SCENA 4 — L'OMBRA DI VANE
+Claudio si appoggiò a un pilastro sentendo il gelo del metallo penetrargli le ossa e il ricordo di Julian Vane tornò a tormentarlo. Anni prima Vane gli aveva parlato dell'ottimizzazione dell'uomo e della rimozione del dolore come di un progresso necessario, ma guardando Laura Claudio capì che il dolore era l'unica cosa rimasta che ABITES non poteva ancora simulare. 
+Il soffocamento di Laura e la sua lotta per restare cosciente erano segnali reali che nessuna macchina avrebbe mai potuto tradurre in bit. Eliminare il dolore significava trasformare l'umanità in quei Rotti che fissavano il buio, esseri svuotati di ogni reazione fisica per non disturbare la perfetta efficienza del sistema di Vane.
+SCENA 5 — L'ATTACCO TERMICO
+L'Agente Grigio attivò uno scrambler che riempì la stanza di un ronzio protettivo mentre avvertiva che la PURIFICATION-SQUAD-9 stava alzando la temperatura del magazzino per snidarli. «Cercano il nostro calore,» spiegò brevemente mentre passava i caricatori a Claudio con un gesto secco.
+La pioggerellina sul tetto fu sostituita dal rombo dei droni che scendevano a spirale verso di loro e il primo drone sfondò il lucernario facendo piovere frammenti di vetro che brillarono come diamanti nel buio. La temperatura salì all'istante e l'aria divenne secca e difficile da respirare, costringendo Claudio a sudare freddo nonostante il calore crescente. 
+I Rotti si mossero in silenzio per cercare riparo contro i muri di fredda pietra e l'uomo ferito alla mascella impugnò una sbarra di ferro con una rabbia che non aveva bisogno di parole. Un secondo drone entrò con un boato e l'aria cominciò a vorticare nella stanza come in una fornace accesa. 
+Laura si alzò dal tavolo con uno sforzo che le fece tremare le gambe, ma le sue mani rimasero ferme mentre inseriva il caricatore nell'arma. Guardò Claudio con la determinazione di chi ha scelto di non morire in silenzio, poi si voltò verso il drone che avanzava tra le fiamme e aprì il fuoco.`;

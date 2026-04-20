@@ -1,55 +1,29 @@
 export const chapter17Content = `CAPITOLO 17 — FEBBRE E ASFALTO
 SCENA 1 — IL PASSAGGIO
-L'asfalto crepava lungo la mezzeria. Sutura aperta.
-Claudio mise il piede sulla crepa. Il ginocchio cedette. Tre millimetri di cedimento. Claudio artigliò la portiera. Il metallo gelò le dita. Le nocche registrarono una sensazione ovattata. Assenza di segnale.
-Trentotto e sette. Renato misurò la febbre col vetro del termometro a gallio. Il numero rimase sospeso nell'aria. Dati. Solo dati.
-Laura prese il peso di Claudio. Braccio sinistro, spalla contro spalla. Trasmissione di calore. Claudio si raddrizzò.
-Il valico si spalancò. Strumento asfaltato, due corsie, curve cieche. Guard-rail arrugginiti. Segnaletica illeggibile. Un cartello pendeva come una bandiera morta.
-La linea di rifornimento automatizzata transitava ogni sei ore. Moduli magnetici da quattro tonnellate. Ottantadue chilometri orari. Sensori attivi. Centottanta minuti alla prossima scansione. Renato lesse il dato.
-Claudio fece il secondo passo. La strada saliva. I tendini tiravano. Ogni irregolarità del suolo risalì la colonna come una scarica elettrica.
-Caldo. Ferro. Sara.
-Il nome apparve. Flash tattile. Temperatura di una superficie ricordo.
-Laura strinse il braccio. Claudio registrò la pressione. Continuarono a salire.
+L'asfalto crepava lungo la mezzeria come una sutura aperta, e Claudio vi pose il piede cedendo di tre millimetri. Artigliò la portiera gelida con dita che registravano solo una sensazione ovattata di assenza di segnale, mentre Renato misurava la febbre a trentotto e sette con il vetro del termometro a gallio.
+Laura prese il peso del compagno spalla contro spalla, un trasferimento di calore che registrò prima di continuare a salire un valico spalancato di strumenti asfaltati, curve cieche, guard-rail arrugginiti e cartelli pendenti come bandiere morte. La linea di rifornimento automatizzata transitava ogni sei ore con moduli magnetici da quattro tonnellate e sensori attivi a ottantadu chilometri orari, lasciando centottanta minuti alla prossima scansione.
+Ogni irregolarità del suolo risaliva la colonna come una scarica elettrica, e il nome "Sara" appariva come flash tattile con la temperatura di una superficie ricordo che Laura rinforzava stringendo il braccio.
 SCENA 2 — LA CRISI
-Il carrello giaceva al km 14.
-Modulo di seconda generazione. Bobina anteriore ceduta. Inclinazione di sette gradi. Livrea bianca opaca, polvere, ruggine. AFL-2031-MN-047.
-Renato aprì il pannello con la brugola. Infilò l'adattatore artigianale. La basetta di bachelite accoppiò i circuiti.
-Claudio sedette contro la ruota. Schiena sul metallo. Asfalto ruvido sotto i pantaloni. Grana del suolo percepita.
-Trentanove e due. Il campo visivo oscillò. Ritardo di calibrazione delle superfici.
-Laura si accovacciò. Poggiò il dorso della mano sulla fronte di Claudio. Due secondi. Misurazione esatta.
-«Renato,» disse Laura.
+Il carrello giaceva al km 14. Era un modulo di seconda generazione con la bobina anteriore ceduta e un'inclinazione di sette gradi, la livrea bianca opaca incrostata di polvere e ruggine identificata come AFL-2031-MN-047.
+Renato aprì il pannello con la brugola accoppiando i circuiti con l'adattatore artigianale, mentre Claudio sedeva contro la ruota percependo la grana del suolo sotto i pantaloni con il mondo che girava a sinistra per la febbre a trentanove e due.
+Laura si accovacciò poggiando il dorso della mano sulla fronte del compagno per due secondi, misurazione esatta.
+«Renato,» disse.
 «Lavoro.»
-Il display a matrice di punti arancioni eruttò sequenze di errore. Renato martellò il tastierino. Gli errori sparirono.
-«Modo manuale degradato. Bobina anteriore inerte. Diciotto chilometri orari. Sterzo inattivo.»
-«Sei minuti,» disse Renato.
+Il display a matrice di punti arancioni eruttò sequenze di errore, e Renato martellò il tastierino finché i messaggi sparirono lasciando il posto a "Modo manuale degradato. Bobina anteriore inerte. Diciotto chilometri orari. Sterzo inattivo."
+«Sei minuti,» disse.
 «Sali,» ordinò Laura.
-Claudio si alzò. Il mondo girò a sinistra. Si orientò col fianco del carrello. Portello laterale aperto. Interno di plastica e grasso.
-Claudio s'abbatté sul pavimento. Gambe inerti. Laura scivolò al suo fianco. Contatto. Calore fisso. Claudio registrò la respirazione di lei. Dati stabili.
+Claudio s'abbatté sul pavimento con le gambe inerti, e Laura scivolò al suo fianco stabilendo un contatto di calore fisso su cui sintonizzò la propria esistenza.
 SCENA 3 — IL BLOCCO
-Il carrello partì. Sussulto. Ronzio magnetico. L'inclinazione si corresse. Pavimento vibrante a quattordici hertz.
-Portello aperto venti centimetri. Flusso d'aria: pino, gasolio vecchio.
-Renato guidava dai comandi esterni. Passo ritmico sull'asfalto. Cacciavite contro la tasca.
-Ferro.
-Il drive premeva lo sterno. Rettangolo solido. Centosettantadue grammi. Peso reale. Misurabile.
-Claudio chiuse gli occhi. Frequenza costante. Laura restò solida contro il fianco.
-Il tornante era cieco.
-Renato fermò il mezzo. Quaranta metri dall'apice. Piattaforma di sorveglianza fissa. Palo di quattordici metri. Sensore termico. Struttura in alluminio. Unità drone agganciata.
-Il sensore emanava calore visibile nell'aria gelata.
-«Problema,» disse Renato.
-Laura si alzò. Claudio aprì gli occhi. Campo visivo stabile.
-«Il sensore termico ci rileva,» confermò Renato. «Siamo nel cono.»
-«Il drone?»
-«In elaborazione. Venti secondi all'alert.»
-Laura vide il cumulo di detriti vicino al guard-rail. Sassi, calcestruzzo, rami. Prese un sasso. Sette chili. Bordi vivi.
-Lancio.
-Il sasso colpì il palo. Colpo secco. Metallico. Il palo oscillò. Il sensore ruotò di tre gradi fuori asse.
-Renato scattò al pannello. «Cono ridotto. Passaggio possibile in corsia sinistra. Dieci secondi.»
+Il carrello partì con un sussulto e un ronzio magnetico correggendo l'inclinazione su un pavimento vibrante a quattordici hertz.
+il Portello era aperto di venti centimetri, e un Flusso d'aria di pino e gasolio vecchio. Renato guidava dai comandi esterni col passo ritmico sull'asfalto, con un cacciavite contro la tasca, ferro contro ferro, mentre il drive premeva lo sterno di Claudio. Centosettantadue grammi. Peso reale. Misurabile.
+chiuse gli occhi sintonizzandosi sulla stabilità dei dati di Laura al suo fianco.
+Tornante era cieco. Renato fermò il mezzo a quaranta metri dall'apice dove la piattaforma di sorveglianza fissa, con un palo di quattordici metri in alluminio e un drone agganciato, emanava calore visibile nell'aria gelata.
+«Problema,» disse.
+Laura si alzò e Claudio aprì gli occhi fissando il cono del sensore termico. 
+«Ci rileva,» confermò Renato, «e siamo nel cono. Venti secondi all'alert.»
+Laura scorse un cumulo di detriti vicino al guard-rail con sassi, calcestruzzo e rami, prendendo un sasso di sette chili con bordi vivi per poi lanciarlo contro il palo. Colpo secco metallico, il palo oscillò e il sensore ruotò di tre gradi fuori asse.
+«Cono ridotto. Passaggio possibile in corsia sinistra. Dieci secondi.»
 «Margine?»
 «Fisica pura.»
-Laura chiuse il portello. Ventidue centimetri di fessura.
-Il carrello ronzò. Diciotto chilometri orari. Vibrazione costante. Il tornante scivolò davanti al portello socchiuso. Palo. Sensore inclinato. Drone a riposo. Scomparvero.
-Nessun drone in volo.
-Claudio premette la mano sul drive. Centosettantadue grammi.
-Sara.
-Il mezzo accellerò. Il valico a quattro chilometri. Renato camminava. Renato calcolava. Stabilità del campo visivo: trenta secondi.
+Il carrello ronzò a diciotto chilometri orari nel tornante, con il palo e il sensore inclinato che scivolavano oltre il portello socchiuso senza che il drone prendesse il volo. Claudio premeva la mano sul drive. Centosettantadue grammi. Sara. Il mezzo accelerò verso il valico a quattro chilometri con Renato che camminava all'esterno calcolando una stabilità del campo visivo di trenta secondi.
 Bastava.`;

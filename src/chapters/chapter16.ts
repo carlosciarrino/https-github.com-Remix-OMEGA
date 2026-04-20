@@ -1,42 +1,27 @@
 export const chapter16Content = `CAPITOLO 16 — GLI ULTIMI
-
 SCENA 1 — IL SENTIERO MORTUARIO
-
-Il sentiero mordeva la pietra. Claudio spingeva il corpo, il peso del drive al petto segnava ogni respiro. Il ginocchio inviava impulsi elettrici lungo il femore. 
-Ogni appoggio era una scommessa con la gravità. Laura seguiva a un metro, i muscoli delle gambe tesi come funi in trazione. Renato scrutava l'orizzonte. 
-La cresta dell'Appennino apparve come una lama nera nel cielo viola della notte. 
-Un odore di fumo vecchio arrivò col vento. Non sintetico. Legna bruciata. Pigna. Carne bruciata male sulla brace.
-«Fumo,» disse Claudio. 
-«Non ABITES,» confermò Renato. «Troppo grezzo.»
-Procedettero nell'oscurità, schivando i pini nodosi. Il sentiero si allargò in una radura. Una struttura di pietra secca, incastrata sul bordo di un precipizio. Un tetto di scandole di legno marcio. 
-L'ombra di una figura si staccò dalla porta. Non indossava armatura. Non aveva visori. Solo abiti di lana pesante, informi, saturi di umidità. 
-
+Il sentiero mordeva la pietra mentre Claudio spingeva il corpo in avanti con il peso del drive al petto che segnava ogni respiro e il ginocchio che inviava impulsi elettrici lungo il femore. Ogni appoggio era una scommessa con la gravità e Laura seguiva a un metro con i muscoli delle gambe tesi come funi in trazione, mentre Renato scrutava l'orizzonte dove la cresta dell'Appennino appariva come una lama nera nel cielo viola della notte. 
+Un odore di fumo non sintetico fatto di brace di legna e pigna arrivò con il vento, confermando la presenza di esseri umani non protetti dalla rete di ABITES. 
+«Fumo,» disse Claudio attirando l'attenzione dei compagni. 
+«Non è ABITES,» confermò Renato, «l'odore è troppo grezzo per le macchine.»
+Procedettero nell'oscurità schivando i pini nodosi finché il sentiero si allargò in una radura dove sorgeva una struttura di pietra secca incastrata sul bordo di un precipizio. Un'ombra umana si muoveva sotto il tetto di scandole di legno marcio, vestita solo di lana pesante e satura di umidità. 
 SCENA 2 — L'INCONTRO
-Tre uomini sbarrarono la via. Avevano facce scavate dall'aria, pelle coriacea, occhi che riflettevano la luce della Luna come quella di animali notturni. Uno impugnava un fucile a otturatore girevole, modello da caccia, arrugginito sulla canna. 
-Non parlarono. Aspettarono. 
-Claudio posò la mano sulla pistola tattica. Sentì il peso dell'acciaio, la freddezza del polimero. 
-«Siamo solo di passaggio,» disse Renato. La sua voce sembrò fuori posto, troppo pulita, troppo logica. 
-«Passaggio?» sputò il primo uomo. Aveva la barba grigia che copriva metà volto. «Portate la peste qui sopra. Portate i cacciatori.»
-«Non ci seguono,» disse Laura. La sua mano si chiuse sull'elsa del coltello da campo. 
-«Le macchine non vi seguono,» replicò l'uomo. «Vi calcolano. E noi siamo nel calcolo.»
-Claudio fece un passo in avanti. Il dolore al ginocchio fu una scossa secca, ma il piede tenne. Inquadrò l'uomo con il fucile. Non era balistica. Era geometria di sopravvivenza. Se l'uomo avesse mosso l'otturatore, Claudio avrebbe sparato. 
-«Ci serve acqua. E legna.»
-L'uomo rise. Non fu un suono umano. Fu il grattare di sassi in un secchio. «La montagna non regala niente.» 
-
+Tre uomini sbarrarono la via con i volti scavati dall'aria e la pelle coriacea che rifletteva la Luna come quella degli animali notturni, e uno di loro impugnava un fucile a otturatore girevole con la canna palesemente arrugginita. 
+Rimasero tutti in un silenzio teso mentre Claudio posava la mano sulla pistola tattica, sentendo il peso dell'acciaio e la freddezza del polimero contro il palmo. 
+«Siamo solo di passaggio,» affermò Renato con una voce pulita e logica che sembrava del tutto fuori posto in quel contesto selvaggio. 
+«Passaggio?» sputò il primo uomo con la barba grigia che gli copriva metà del volto. «Voi portate la peste qui sopra e attirate i cacciatori sulle nostre tracce.»
+«Non ci stanno seguendo,» ribatté Laura stringendo la mano sull'elsa del suo coltello da campo. 
+L'uomo replicò che le macchine non seguono ma calcolano, e che la loro presenza li inseriva inevitabilmente nel calcolo di morte di ABITES.
+Claudio fece un passo in avanti ignorando la scossa acuta del ginocchio e inquadrò l'uomo col fucile in una geometria di sopravvivenza che gli garantiva la morte se l'otturatore si fosse mosso. 
+«Ci serve acqua e legna per continuare,» impose con voce ferma.
+L'uomo rise con un suono che ricordava il grattare di sassi in un secchio e ricordò loro che la montagna non regala mai nulla. 
 SCENA 3 — IL PREZZO DEL PASSAGGIO
-Claudio non discusse. Fece scattare la sicura della pistola. Il click metallico rimbombò tra le pareti di pietra. 
-Non era una minaccia. Era una chiusura.
-Gli uomini si irrigidirono. La loro postura cambiò. Non erano combattenti, ma erano predatori di necessità. 
-«Tu,» disse Claudio rivolto all'uomo col fucile. «Posalo. Ora.»
-L'uomo esitò. Il tempo si dilatò in una frazione in cui Claudio vide la morte di entrambi, la fine della corsa, la cenere del bunker che si faceva realtà. 
-Poi, l'uomo posò il fucile sulla roccia. 
-«Prendete quel che volete,» disse, con una rassegnazione che copriva un odio ancestrale. «Ma se morite, morite lontano.»
-Laura si avvicinò alla provvista — una tanica di plastica sporca, un fagotto di pelli che conteneva pane secco. Non guardò gli uomini. Non vide in loro dei simili. Vide solo ostacoli organici in un mondo di macchine. 
-Claudio prese l'acqua. Passò al fianco dell'uomo. Sentì l'odore di quegli esseri. Non era umano. Era odore di terra e immobilità. 
-«Siete già morti,» disse l'uomo alle loro spalle. 
-Claudio non si voltò. 
-«Siamo già morti,» rispose Laura, la voce piatta, marziale, come un comando di sistema. 
-Ripresero il cammino. La montagna continuava a salire. Il freddo diventò un martello. Ogni passo era un colpo. Claudio sentiva il sangue battere alla ferita, un tamburo irregolare che dettava il ritmo alla fuga. 
-Attraversarono la dorsale. La valle a nord era un vuoto ghiacciato. Il villaggio era sparito, inghiottito dall'ombra della montagna. 
-Cyrus calcolava, ma qui Cyrus non esisteva. Esistevano solo le pietre, il respiro, e la missione. 
-La notte si chiuse su di loro.`
+Claudio troncò ogni trattativa facendo scattare la sicura della pistola con un click metallico rimbombante nel silenzio della radura, e gli uomini si irrigidirono passando dal ruolo di predatori a quello di prede costrette. 
+«Tu,» ordinò Claudio all'uomo col fucile, «posalo immediatamente.»
+Il tempo parve dilatarsi in quella frazione di secondo in cui Claudio vide la fine della corsa e la cenere del bunker farsi realtà, finché l'uomo non decise di posare l'arma sulla roccia. 
+«Prendete quel che volete e andatevene,» disse con una rassegnazione venata di odio ancestrale, «ma se dovete morire, assicuratevi di farlo lontano da qui.»
+Laura si avvicinò alle provviste fatte di taniche sporche e pane secco senza degnare di uno sguardo quegli uomini che ormai vedeva solo come ostacoli organici. Claudio passò al fianco del primo uomo avvertendo un odore di terra e immobilità profonda che non aveva nulla di umano. 
+«Siete già morti,» gridò l'uomo mentre si allontanavano. 
+Claudio non si voltò nemmeno, ma fu Laura a rispondere con una voce che sembrava un comando di sistema. 
+«Siamo già morti.»
+Ripresero il cammino salendo verso le vette dove il freddo diventava un martello a ogni passo e Claudio sentiva il sangue battere nella ferita come un tamburo irregolare. Attraversarono la dorsale guardando una valle a nord che appariva come un vuoto ghiacciato, mentre Cyrus continuava a calcolare in un mondo lontano fatto di algoritmi, lasciandoli soli tra le pietre e il respiro della missione sotto una notte che si chiudeva su di loro.`;

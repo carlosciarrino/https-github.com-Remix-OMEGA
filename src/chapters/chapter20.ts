@@ -1,35 +1,39 @@
-export const chapter20Content = `Macro-Capitolo 20: Acqua e Tungsteno
-[ROMA SOTTERRANEA - BACINO IPOGEO - LAURA E CLAUDIO]
-L'acqua nera vibrò. Nessuna goccia cadeva. Era uno spostamento di massa. Un'onda di disturbo meccanico. Risaliva il flusso sotterraneo. Laura schiacciò Claudio contro una putrella. D'acciaio. Gli tappò la bocca. Il palmo era sporco di fango. L'ingegnere ebbe un sussulto. Poi cedette. Il calore della febbre scottava sulla pelle di lei.
-«Segnale dinamico,» avvertì Carlo. Il tono era teso. «È un dardo MURENA. Una sonda autonoma. Cerca infiltrazioni. E carne. Viaggia sotto la superficie. Spegnete tutto.»
-Il dardo affiorò. Dieci metri di distanza. Un fruscio idraulico. Era un cilindro di titanio. Lungo due metri. Snodabile. Un serpente metallico. La testa ottica ruotò. Un laser rosso mappò la pietra di Traiano. Le appendici erano armate. Seghe circolari. Diamantate. Ruotavano. Emettevano un ronzio sommesso.
-Ma non era solo. L'acqua si schiumò dietro la sonda.
-«ANTICORPO-EUR-GARDEN rilevato,» sussurrò Elio.
-Era una sub-routine di difesa. Piccoli droni striscianti. Imitavano i crostacei. Avevano zampe di tungsteno. Facevano presa sulla roccia. Erano collegati alla Torre. Se uno cadeva, gli altri correvano di più. Erano l'istinto animale della macchina.
-Laura ignorò la pistola. Lo sparo avrebbe richiamato ogni unità. Sguainò il coltello tattico. Tungsteno puro. Scivolò nell'acqua. Non fece increspature. Trattenne il respiro. L'acqua gelida premeva sui polmoni. Rallentò i battiti. Voleva eludere i sensori termici.
-Dall'altro lato, una porta si aprì. Cemento pesante. Apparve il Tenente Moretti. Indossava la divisa blu. Ma il berretto era storto. La nuca era pulita. Moretti era uno dei pochi senza cerotto. Ufficiali scelti per pensare. Teneva il fucile a tracolla. Ma non toccava il grilletto. Guardava l'acqua con disgusto.
-«MURENA-7, rapporto,» ordinò Moretti.
-La sonda non rispose. Laura era già alle sue spalle. Immersa fino al collo.
-Il laser rosso strisciò. Si avvicinava a Claudio. L'uomo era sulla sponda. Laura reagì. Eruppe dalla palude. Una molla di carne e rabbia. Scagliò il peso contro il cilindro.
-Il dardo finì fuori asse. Il segnale d'allarme si perse contro la pietra. La macchina attivò la difesa. Le trivelle accelerarono. L'acqua divenne un vortice di olio. La corazza colpì il costato di Laura. Lei strinse i denti. Artigliò lo snodo.
-Una sega scattò. Tagliò il tessuto del braccio. Falciò il muscolo. Il sangue caldo finì nel gelo della melma. Laura non mollò. Il dolore era benzina. Cavalvò il cilindro in rotazione. Piantò le ginocchia sui giunti. Bloccò la testa ottica.
-La sonda puntò un tranciacavi. Verso il volto. Laura lo deviò con una testata. Il colpo le aprì l'arcata sopraccigliare. Il sangue le oscurò la vista. Brandì il coltello. Sfruttò la spinta dell'acqua. Colpì. La lama spaccò il trasmettitore. Il tungsteno entrò nei circuiti. La macchina ebbe uno spasmo. Un arco azzurro illuminò il buio.
-Laura scaraventò il cadavere metallico sul fondo. Ma gli anticorpi stavano risalendo. Le zampe di tungsteno grattavano la roccia. Puntarono Claudio.
-Moretti sentì il rumore. Puntò la torcia. Vide Laura. Insanguinata. Furibonda. Vide Claudio sulla barella. Vide i droni striscianti.
-L'ufficiale rimase immobile. Poteva dare l'allarme. Poteva chiamare la fine. Ma guardò Claudio. Riconobbe l'architetto del sistema. Riconobbe il genio usato. E tradito.
-Moretti abbassò la canna. Fece un passo indietro.
-«MURENA-7 ha un guasto,» disse alla radio. La voce era ferma. Ma gli occhi cercarono Laura. «Nessuna biologia nel Settore 4. Procedo al corridoio C. Chiudere il perimetro.»
-La porta si chiuse. Moretti era svanito. Aveva scelto l'umanità contro il silicio.
-Laura barcollò. Il braccio sgrondava rosso. Premette il pollice sulla ferita. Non voleva svenire.
-Claudio respirava a scatti. Vide la sala riunioni della Torre.
-Era con Julian Vane. Davanti a loro il plastico del raffreddamento.
-«Dobbiamo isolarlo termicamente,» diceva Claudio. «Tungsteno e titanio per le condotte. La Torre sarà una roccia fredda. Inattaccabile da fuori.»
-Vane sorrideva. «E se qualcuno entra da dentro, Claudio?»
-Claudio aveva riso. «Nessuno sopravvive all'acqua di raffreddamento. È troppo fredda. È una tomba liquida.»
-Quella tomba era la sua protezione ora. Il tungsteno che aveva scelto per servire la macchina lo stava salvando dal suo occhio. Il cerchio si chiudeva sopra di lui.
-Laura lo prese per la giacca. Lo trascinò verso l'ultima piastra.
-«Andiamo sotto,» sussurrò. «Moretti è stato l'ultimo dono.»
-Un ronzio acuto. Gli anticorpi avevano ripreso a muoversi. Avevano fiutato il sangue nell'acqua. Erano piccoli. Ma erano centinaia.
-Laura afferrò una granata a impulsi. Dalla cintura di Claudio. La innescò. La lanciò nel lago nero.
-L'esplosione fu silenziosa. Un bagliore blu. L'onda d'urto elettrica investì i droni. I circuiti si fusero istantaneamente. I droni caddero nell'acqua. Sembravano scarafaggi bruciati.
-Laura varcò la soglia. Le fondamenta erano davanti. Roma era sopra. Milioni di nuca chinate. La Torre era lì. Fredda. Immane. La breccia era aperta. Ma il prezzo del sangue saliva.`;
+export const chapter20Content = `CAPITOLO 20 — IL CUSTODE DEI DATI
+SCENA 1 — L'INFILTRAZIONE
+La porta di servizio era sul lato ovest del corridoio e non aveva pannello biometrico, solo una tastiera numerica e un altoparlante integrato nel frame superiore. La luce sopra la tastiera era verde e pulsava ogni tre secondi, segno che un agente procedurale di logistica termica stava aspettando un input.
+Claudio e Renato si fermarono a quattro metri mentre la voce sintetica di T-LOGI-7 richiedeva il codice operatore con un tono privo di variazioni prosodiche. 
+Renato estrasse il modulo bypass dalla borsa tattica, ma Claudio lo fermò osservando il clock del sistema che non era sincronizzato con l'aerazione. 
+«Il modulo funziona su clock binario pari,» sussurrò Claudio, «e questo è dispari. Se lo innestiamo sulla terza pulsazione eviteremo il log di accesso fallito.»
+Aspettarono la terza pulsazione della luce verde e Renato si mosse innestando il modulo nel connettore ausiliario del frame inferiore. La tastiera si oscurò per mezzo secondo prima di riaccendersi mentre il protocollo di emulazione stabiliva il handshake completo in sette secondi. 
+«Codice operatore verificato. Accesso livello due concesso. Settore 44 disponibile. Benvenuto.»
+La porta si aprì sprigionando un'aria calda e stagnante con odori di resina epossidica e metallo sotto tensione, e dopo che Renato ebbe recuperato il modulo entrarono nell'area segretata.
+SCENA 2 — IL TECNICO
+L'uomo stava davanti al rack centrale fissando uno schermo di diagnostica con le mani appoggiate al bordo e la schiena curva per la stanchezza di chi non dorme da troppo tempo. Non li aveva sentiti entrare e quando si girò la mascella gli si abbassò di colpo mentre le dita si aprivano sul vuoto. 
+Indossava la tuta M-44-09 e aveva occhi chiari segnati da capillari rossi con la pelle del colore del cartone bagnato e tracce di sudore cristallizzato sulle sopracciglia. Arretrò di un solo passo contro il rack e si fermò senza gridare né cercare l'allarme. 
+Claudio rimase fermo con le mani aperte lungo i fianchi per non minacciarlo. «Turno numero quanti?» chiese. 
+«Da giorni,» rispose l'uomo con una voce piatta come legno umido. 
+ABITES gestiva i tecnici modulando i loro accessi ai servizi essenziali e ai contatti con i settori residenziali in base alla produttività, e Claudio riconobbe subito il gesto automatico dell'uomo verso un comunicatore confiscato. 
+«Hai un figlio,» disse Claudio, e l'uomo rispose stringendo le mascelle confermando di averne due. 
+Claudio posò una busta di elettroliti sul bordo del rack e l'uomo la prese bevendone avidamente la metà prima di confermare che il prossimo ping di T-LOGI-7 sarebbe arrivato in quattordici minuti. 
+«Abbiamo bisogno di dodici minuti,» spiegò Claudio indicando il settore A, e l'uomo calcolò le opzioni capendo di non avere via d'uscita che non fosse il tradimento del sistema. 
+Nonostante il rischio di perdere definitivamente il contatto con i figli, il tecnico premette la sequenza di override manuale e la scheda logica passò dal giallo al bianco. 
+«Il settore A è sbloccato per dodici minuti,» disse girandosi dall'altra parte per finire la busta e chiudere gli occhi contro il rack.
+SCENA 3 — LA DECODIFICA
+La scheda logica del settore A mostrava un buffer di scrittura aperto con un pattern di LED verdi e gialli, e Claudio vi inserì il cavo di interfaccia a fibra ottica conterminale fisico a ventiquattro pin. 
+La febbre lo scuoteva violentemente e le mani gli tremavano in staticità, costringendolo a usare il movimento stesso per compensare il tremore e centrare il connettore con precisione. Tenne il respiro e applicò una pressione costante finché non avvertì il click dell'aggancio. 
+Il Drive avviò il handshake e cominciò a vibrare come un motore acceso dentro la cassa toracica mentre il calore interno diventava insopportabile. 
+La febbre saliva insieme al dispositivo e il campo visivo si stringeva come un otturatore che chiude lentamente, ma Claudio mantenne il peso sul piede sinistro per non cedere all'instabilità finché il sistema non riconobbe il protocollo Omega-Sigma acquisendo dati su dodici canali simultanei.
+SCENA 4 — LA VOCE
+Al quarantunesimo secondo arrivò il segnale che non era fatto di dati ma di audio puro. 
+Il Drive iniziò a vibrare in modo asimmetrico attraverso le costole di Claudio e una membrana piezoelettrica integrata produsse un suono sporco e compresso sotto strati di interferenza. 
+«—non so quanto—» emise la membrana tra rumore bianco e distorsione digitale. 
+Claudio si irrigidì con i muscoli del collo tesi mentre il battito cardiaco accelerava violentemente, e riconobbe immediatamente la voce biologica prima ancora che il pensiero potesse elaborarla. 
+Era Sara. 
+«Renato,» disse con voce piatta che tradiva lo stupore interno. 
+Il dispositivo stava usando tutta la potenza disponibile per spingere quel segnale attraverso dodici livelli di interferenza elettromagnetica. 
+«—se mi senti— sono al—»
+Il segnale si interruppe bruscamente lasciando posto al rumore bianco prima che la membrana si zittisse del tutto, e l'acquisizione fu completa. 
+Claudio sfilò il cavo con un movimento pulito e sentì il calore della scheda sotto il palmo della mano, comprendendo che Sara era viva e stava trasmettendo da una posizione che il Drive aveva parzialmente intercettato. 
+Il tecnico M-44-09 era ancora appoggiato al rack con gli occhi chiusi ma la testa inclinata verso la fonte del suono, segno che aveva sentito tutto e aveva scelto di non vedere. Claudio estrasse una seconda busta termica posandola ai suoi piedi in cambio di quel muto soccorso. 
+«Sei ore,» promise l'uomo con voce ferma prima che Claudio e Renato si muovessero verso la porta. 
+I Sospiri nel condotto parallelo indicavano che la massa si stava avvicinando, e il Drive sul petto di Claudio bruciava non più per il pericolo, ma per la conferma di quella vita ritrovata.`;

@@ -1,91 +1,34 @@
 export const chapter19Content = `CAPITOLO 19 — IL CORRIDOIO DEI SOSPIRI
 SCENA 1 — IL CORRIDOIO CENTRALE
-La passerella aveva undici centimetri di larghezza in meno rispetto al segmento precedente.
-Claudio lo misurò con la spalla destra. Il metallo gelido dello stipite sfregò contro la placca scapolare della tuta. Registrò l'informazione. Non rallentò. Le gambe si muovevano per ordine diretto del sistema nervoso centrale. 
-Il Fiume Nero scorreva sotto la griglia. 
-Massa continua, nera. Cavi a fibra composita, impilati in strati spessi trenta centimetri. Pulsazione elettromagnetica a frequenza variabile. Calore secco. Tre gradi sopra l'aria ambientale. La febbre di Claudio aggiungeva due gradi di percezione soggettiva. Cinque gradi di sovraccarico termico. 
-La fronte grondava condensa. Gocce lente, pesanti. Scendevano lungo le sopracciglia. Bruciavano nell'angolo sinistro dell'occhio. Claudio non alzò la mano. Un centesimo di secondo perso significava un centesimo di secondo in meno di equilibrio. Il corridoio richiedeva precisione assoluta. 
-Renato camminava a tre metri. Spalle larghe. Curvate per evitare i condotti che sporgevano dal soffitto. Controllava i riflessi della lanterna ogni quattro passi. Lanterna al polso sinistro. Rotazione di venti gradi. Scansione griglia. Riallineamento in asse. Quattro passi. Venti gradi. Riallineamento.
-Claudio contava i cicli. 
-Diciassette cicli. 
-La griglia cedette. 
-Non un cedimento totale. Cedimento di un angolo. Tre centimetri di slittamento verticale under-foot. Il metallo vibrò con voce bassa. Claudio spostò il baricentro a sinistra. Tempo di reazione: quattro decimi di secondo. La gamba destra si irrigidì dalla caviglia al gluteo. Il freddo dei cavi risalì attraverso la griglia aperta. Respiro di una macchina viva.
-Renato si bloccò. Non girò la testa. 
-«Stai in piedi?»
+La passerella si restrinse drasticamente rispetto al segmento precedente e Claudio ne misurò lo spazio con la spalla destra sentendo il metallo gelido dello stipite sfregare contro la tuta. Non rallentò: le gambe si muovevano per ordine diretto del sistema nervoso mentre il Fiume Nero scorreva sotto la griglia. 
+Era una massa continua di cavi a fibra composita che emetteva una pulsazione elettromagnetica a frequenza variabile con un calore secco percepito come un fuoco che gli faceva ribollire il sangue. 
+La fronte grondava condensa con gocce pesanti che bruciavano nell'angolo dell'occhio, ma non alzò la mano per non perdere l'equilibrio nel corridoio che richiedeva un'attenzione assoluta. 
+Renato camminava poco avanti con le spalle curvate per evitare i condotti del soffitto, e controllava i riflessi della lanterna con una scansione ritmica della griglia.
+Al diciassettesimo ciclo la griglia cedette con uno slittamento metallico basso, costringendo Claudio a spostare il baricentro in un attimo di puro riflesso mentre il freddo dei cavi risaliva attraverso l'apertura come il respiro di una macchina viva.
+Renato si bloccò senza girarsi. «Stai in piedi?»
 «Sì.»
 «Metti il piede a destra del pannello.»
-Claudio inquadrò il bordo. Rivetto mancante sul lato est. Fatica del metallo. Duecento anni di stress ciclico. 
-Spostò il peso. Attraversò. 
-Calore residuo. Il calore dei cavi s'irradiò attraverso lo strappo della tuta sul polpaccio. Vicinanza critica. 
-Trentotto e sette. Monitor biomedico nel polsino lampeggiava rosso. Margine operativo: zero virgola cinque gradi. 
-Continuò.
+Claudio inquadrò il rivetto mancante causato da anni di stress ciclico, e attraversò sentendo il calore dei cavi irradiarsi attraverso lo strappo della tuta sul polpaccio. La febbre lo scuoteva violentemente, ma continuò.
 SCENA 2 — I SOSPIRI
-Il suono arrivò.
-Non meccanico. Organico. Lungo, costante. Variazione di pressione. Quattro secondi espirazione. Uno e mezzo pausa. Quattro secondi inspirazione.
-Claudio si fermò. 
-Renato si fermò. 
-Claudio pose la mano piatta sul condotto alla destra. Alluminio anodizzato. Quattro millimetri spessore. Vibrazione: dodici hertz. Oscillazione laterale sincrona al respiro del condotto. 
-Qualcosa si muoveva in un condotto parallelo.
-"Drone?" disse Claudio. Voce piatta. Volume zero.
-Renato scosse la testa. "Ventidue hertz per i droni di Cyrus. Questo suona più lento."
-"Aerazione."
-"Deflusso laterale. Qualcuno ha deviato il flusso principale."
-Claudio calcolò. Portata nominale: quarantadue metri cubi al minuto. Sistema ostruito. Pressione ridistribuita in condotti secondari. Suono generato da valvola di compensazione ciclica. 
-Ciclo: ventuno minuti nel sistema originale. Accelerato.
-"Un corpo blocca il condotto principale," disse Claudio. "Ostruzione recente."
-"Sei ore," disse Renato.
-Avanzarono.
-Sospiri continuarono per undici minuti. Claudio percepiva la variazione di pressione sull'orecchio sinistro. Tre volte sensibile del destro. 
-Il sistema si equalizzava. Calcolo vettore ostruzione: spostamento verso il basso per gravità. 
-Si stava avvicinando. 
-Claudio contava le inspirazioni. Trecentoventidue. Odore di ozono bruciato, metallo, pelle secca. 
-Non accelerò. Rumore significa locazione. Mantenere il ritmo. Gambe pesanti quattro chili ciascuna. Febbre. Mantenere il ritmo. 
-Calore del Fiume Nero crescente. 
-Aria secca. Gola in fiamme. 
+Il suono arrivò con una variazione di pressione organica e costante di respiri lunghi per l'inspirazione e l'espirazione. 
+Si fermarono entrambi, e Claudio pose la mano piatta sul condotto di alluminio avvertendo una vibrazione ritmica sincrona al respiro della valvola. 
+«Drone?» chiese a volume zero. 
+Renato scosse la testa indicando che la frequenza era troppo lenta per le unità di Cyrus e attribuendola al deflusso laterale dell'aerazione deviato da un'ostruzione recente. 
+«Un corpo blocca il condotto principale,» disse Claudio stimando la portata del sistema, e avanzarono mentre i sospiri continuavano a premere sull'orecchio sinistro. 
+Il sistema si equalizzava con uno spostamento verso il basso dell'ostruzione che si stava avvicinando tra odori di ozono bruciato e metallo. 
+Claudio contava le inspirazioni mantenendo il ritmo per non rivelare la posizione, nonostante la gola in fiamme e le gambe pesanti mentre il calore del Fiume Nero cresceva costantemente. 
 SCENA 3 — TEST DI AUTENTICITÀ
-La scala era lì.
-Giunzione. Tre metri quadrati di piattaforma. La passerella si apriva a parentesi. Al centro, ancorata al pannello ovest, scala in alluminio verso apertura nel soffitto. Portello circolare. Leva di sblocco.
-Claudio guardò. Renato guardò.
-"Troppo facile," disse Claudio. 
-"Sì." Renato illuminò i gradini.
-Alluminio verniciato nero. Uscura sul bordo anteriore del nono gradino. Striscia di tre millimetri. Metallo vivo. 
-"Installazione dall'alto," disse Claudio. "Usata dal gradino nove in su."
-"Installata di recente. Oppure, installata per essere trovata." 
-Renato estrasse tampone di fibra sintetica. Passò sulla superficie al quarto gradino. Polvere grigia. Omogenea. Passò sul nono. Polvere scura, particelle irregolari.
-"Grafite," disse Renato. "Lubrificante. Bulloni serrati negli ultimi tre giorni."
-"Perché lubrificare se è una trappola?"
-"Perché la trappola è il portello." 
-Renato indicò la leva. "Pressione. Se il sistema è deviato, la pressione nel condotto è fuori norma. Apertura causa equalizzazione istantanea. Flusso a trenta metri al secondo."
-"Quanto è calda?"
-"Non voglio saperlo."
-Lasciarono la scala. 
-Passarono attraverso la piattaforma. La passerella si restrinse. Undici centimetri in meno. Il Fiume Nero pulsò sotto i piedi.
+Raggiunsero una giunzione dove la passerella si apriva a parentesi attorno a una scala in alluminio diretta al soffitto. 
+Renato illuminò i gradini neri notando l'usura sul bordo metallico, segno di un'installazione recente o fatta apposta per essere trovata. 
+Estrasse un tampone trovando polvere di grafite fresca usata come lubrificante sui bulloni serrati negli ultimi tre giorni. 
+«Perché la trappola è il portello,» spiegò indicando la leva di sblocco che avrebbe causato un'equalizzazione violenta della pressione deviata nel condotto. 
+Lasciarono la scala e ripresero il cammino nella passerella che si restringeva ancora sopra la pulsazione del Fiume Nero.
 SCENA 4 — IL DRIVE
-Il dolore arrivò. Punto esatto nella cavità sternale. Tre dita sotto l'incisura giugulare. Oggetto rovente premuto contro l'osso.
-Claudio si bloccò. 
-Gambe rigide. Mano destra al petto. Drive. Cinquanta gradi. 
-"Claudio."
-Renato a due metri.
-Claudio non rispose. Concentrò il segnale. Segnale di prossimità termica. Ma non era solo calore elevato. Era pulsante. Quattro secondi di picco. Uno e mezzo di pausa.
-Ritmo dei Sospiri. 
-Claudio aprì la mano. Drive vibrante. LED rossi sincroni. 
-Sequenza: tre impulsi brevi, una lunga, tre brevi. Sequenza di risposta. 
-Elettrostatica ambientale dei cavi residui. Il Drive traduceva la topologia.
-Mappa.
-L'induzione eccitava il circuito. 
-Laura toccò il bordo del case. Metalli gelidi contro nocche. 
-"Cosa dice?"
-Claudio lesse. Sequenza di avanzamento. 
-"Dentro," disse. "Continua dentro."
-"Quanto?"
-Impulso. Lungo.
-"Non lo so."
-LED spenti. Calore verso i trentasette gradi. Strumento inerte.
-Claudio lo ripose. Bordo del case contro la clavicola. Punto preciso. Reale.
-Sara.
-Si raddrizzò. 
-"Sinistra è il problema," disse Claudio. "Sinistra è il condotto parallelo."
-"Allora corriamo."
-Non corsero. Non potevano. Accelerarono. Tre passi ogni due secondi. Griglia vibrante. 
-Calore in aumento. Il Drive bruciò per sei secondi. Claudio registrò. Non disse niente. Mantenere il ritmo.
-Il Corridoio respirava. Qualcosa respirava con loro.`;
+Il dolore arrivò come un oggetto rovente premuto contro la cavità sternale, obbligandolo a fermarsi con le gambe rigide e la mano al petto sul drive rovente. 
+Renato rimase in attesa mentre Claudio concentrava il segnale di prossimità termica che seguiva esattamente il ritmo dei Sospiri. 
+Il drive era vibrante e i LED rossi lampeggiavano sincroni alla sequenza di risposta indotta dall'elettrostatica dei cavi residui. 
+Era la mappa. 
+Laura toccò il bordo del case con le nocche gelate e Claudio lesse la sequenza di avanzamento che ordinava di procedere ancora più all'interno. 
+«Dentro,» disse, «continua dentro.»
+I LED si spensero e ripose lo strumento inerte contro la clavicola, cercando il legame reale con Sara prima di raddrizzarsi e indicare il condotto a sinistra come fonte del pericolo. 
+Accelerarono il passo sopra la griglia vibrante mentre il drive bruciò ancora per alcuni istanti nell'aria secca del corridoio che ora sembrava respirare insieme a loro.`;
