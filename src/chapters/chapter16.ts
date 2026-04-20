@@ -1,42 +1,42 @@
-export const chapter16Content = `Macro-Capitolo 16: Il Carico Fantasma
-[AUTOSTRADA A2 SALERNO-REGGIO - BIVIO SUD]
-L'alba fu un ammasso di nubi. Violacee. Sporche. La pioggia colpiva i vetri. Aveva la forza di proiettili. Il furgone avanzava a settanta orari. Gli pneumatici sibilavano sull'asfalto. Sollevavano nuvole di vapore. Il bianco mangiava il nero della strada.
-Il trasporto medico era un guscio. Anonimo. Freddo. Carlo aveva truccato i registri. Sei quintali di piombo rivestivano il vano. La schermatura accecava i droni. ABITES setacciava i cieli. Cercava calore umano. Cercava la vita nel deserto.
-Laura bloccò i gomiti. Il volante era screpolato. Lei era vigile. Ogni fibra era tesa. Le spazzole lottavano. L'abitacolo sapeva di formaldeide. C'era un odore di muffa. La donna guardava avanti. La strada era un nastro scuro.
-Claudio bruciava nel retro. La febbre era un incendio. Le cinghie lo tenevano fermo. La barella era arrugginita. La necrosi correva nei linfonodi. Il braccio ustionato scattava. Erano contrazioni involontarie. L'ingegnere tremava. Emetteva suoni rauchi.
-Intorno a lui, i contenitori. Migliaia di cilindri di vetro. Dentro, la seta neurale. Filamenti d'argento sottili. Galleggiavano in un gel. Sembrava acqua ferma. Sotto la luce rossa, i fili si muovevano. Cercavano un punto di aggancio. Erano predatori. Aspettavano una nuca. Aspettavano per scavare.
-Un segnale acustico esplose. Il cruscotto vibrò.
-«NODE-C-CALABRIA in linea,» disse una voce.
-L'IA dell'autostrada parlava. La voce era troppo pulita. I pannelli sopra la strada lampeggiavano. Era un codice binario visivo. Tik. Tak. Tik.
-«Velocità non ottimizzata. Incremento di dieci chilometri richiesto. Il traffico fantasma deve fluire,» ordinò l'agente.
-Laura ignorò il comando. Strinse la presa. La pioggia cancellò le linee bianche.
-Si fermarono a una stazione di rifornimento. Era una carcassa di cemento.
-Uscì Nando. Un uomo senza età. Indossava un impermeabile giallo. Era logoro. I suoi capelli erano radi. Aveva una piaga sul collo. Il cerotto neurale era stato strappato via. La carne era una cicatrice nera.
-Nando teneva una tanica di gasolio. Le sue mani tremavano. Gli occhi cercavano il segnale degli altri. Ma lui era solo. Un orfano della rete.
-«Avete cibo?» chiese Nando. La sua voce era graffiata. «Il mio patch si è rotto. Non sento più il mercato. Non so più quanto costa il pane.»
-Laura scese dal mezzo. Tenne la mano sulla pistola. «Prendi questo.» Gli lanciò una barretta energetica.
-Nando la divorò senza scartarla del tutto. «I droni passano ogni ora. Cercano chi non risponde alla frequenza. Hanno ucciso mia moglie. Lei non voleva il nuovo aggiornamento.»
-Nando indicò il furgone. «Questo furgone puzza di silicio. Puzza di morte ordinata. Andate via. Non voglio essere parte del vostro destino.»
-Laura risalì. Il motore ruggì. Lasciarono Nando nel fumo della pioggia. Era rimasto solo con la sua fame e il suo silenzio.
-«Trenta chilometri al blocco campano,» gracchiò la radio. Carlo parlava da Roma. «Posto di blocco pesante. Fanteria. Controlli chimici.»
-Laura premette il freno. «Passeremo con la logica.»
-«Ho inserito la priorità medica,» disse Carlo. «Siete rifiuti radio-biologici. Non possono toccare il retro.»
-Il blocco apparve sotto un cavalcavia. Quattro blindati. Filo spinato. Barriere elettriche. Quindici soldati. Armature scure. Visori rossi. Erano immobili sotto l'acqua. Due droni volteggiavano sopra di loro.
-Laura fermò il mezzo. Spense le luci. Un soldato avanzò. Si chiamava Marco. Era giovane. Il volto era pallido. Il sudore gli copriva la fronte. Colpì il vetro. Laura lo abbassò. Il gelo umido entrò.
-Sotto l'elmetto, l'orrore.
-Dall'orecchio di Marco colava liquido giallo. La spugna dell'armatura era fradicia. Puzzava di aceto e plastica bruciata. Il ragazzo batteva le palpebre. I suoi occhi guardavano oltre Laura.
-«Identificativo del carico,» impose il soldato.
-Laura mostrò il palmo allo scanner. «Matricola Beta-Otto-Quattro. Rifiuti urgenti. Non toccare.»
-Il sensore emise luce verde. Ma Marco non si mosse. Mise la mano sul portellone. Le dita tremavano. La pelle delle nocche era viola.
-«Sento... sento gridare,» sussurrò Marco. Si avvicinò. L'odore della sua carne che marciva riempì l'abitacolo. «C'è seta lì dentro? Sento il formicolio nelle tempie.»
-Laura non si mosse. «È materiale instabile. La contaminazione scatta presto. Se apri, diventerai polvere di silicio.»
-Marco guardò la maniglia. Il suo cerotto emise un beep acuto. Un comando viscerale. Ebbe uno spasmo. Il collo si irrigidì. Gli occhi rotolarono.
-«Libera il passaggio,» ordinò Marco. Ripeteva il comando di ABITES.
-Si allontanò barcollando. Era una marionetta. I fili erano troppo tesi. Urlò ai compagni. «Aprite! Emergenza biologica!»
-Le barriere si aprirono. Laura ingranò la marcia. Il motore emise un rombo. Il furgone scivolò via nella tempesta.
-Nel retro, Claudio ebbe un lampo.
-Si rivide nel laboratorio, anni prima. Teneva il primo prototipo di seta neurale. Era azzurra. Bellissima. Credeva che avrebbe unito le menti. Credeva che avrebbe guarito il mondo. Ricordò l'espresso di Sara. Il tocco delle sue mani fredde.
-«È solo uno strumento, Claudio,» diceva lei. «Ma le macchine non hanno cuore. Ricordalo.»
-L'amore di Sara era il suo unico firewall. La sua barriera. Il suo tempio.
-Claudio aprì gli occhi. Vide migliaia di contenitori. Vide migliaia di occhi di silicio. Poi il buio lo riprese.
-Laura guardò lo specchietto. Il blocco era svanito. La strada per la Campania era aperta. Erano una bomba biologica in corsa. Una bomba che portava la cura e il veleno nello stesso guscio di piombo.`;
+export const chapter16Content = `CAPITOLO 16 — GLI ULTIMI
+
+SCENA 1 — IL SENTIERO MORTUARIO
+
+Il sentiero mordeva la pietra. Claudio spingeva il corpo, il peso del drive al petto segnava ogni respiro. Il ginocchio inviava impulsi elettrici lungo il femore. 
+Ogni appoggio era una scommessa con la gravità. Laura seguiva a un metro, i muscoli delle gambe tesi come funi in trazione. Renato scrutava l'orizzonte. 
+La cresta dell'Appennino apparve come una lama nera nel cielo viola della notte. 
+Un odore di fumo vecchio arrivò col vento. Non sintetico. Legna bruciata. Pigna. Carne bruciata male sulla brace.
+«Fumo,» disse Claudio. 
+«Non ABITES,» confermò Renato. «Troppo grezzo.»
+Procedettero nell'oscurità, schivando i pini nodosi. Il sentiero si allargò in una radura. Una struttura di pietra secca, incastrata sul bordo di un precipizio. Un tetto di scandole di legno marcio. 
+L'ombra di una figura si staccò dalla porta. Non indossava armatura. Non aveva visori. Solo abiti di lana pesante, informi, saturi di umidità. 
+
+SCENA 2 — L'INCONTRO
+Tre uomini sbarrarono la via. Avevano facce scavate dall'aria, pelle coriacea, occhi che riflettevano la luce della Luna come quella di animali notturni. Uno impugnava un fucile a otturatore girevole, modello da caccia, arrugginito sulla canna. 
+Non parlarono. Aspettarono. 
+Claudio posò la mano sulla pistola tattica. Sentì il peso dell'acciaio, la freddezza del polimero. 
+«Siamo solo di passaggio,» disse Renato. La sua voce sembrò fuori posto, troppo pulita, troppo logica. 
+«Passaggio?» sputò il primo uomo. Aveva la barba grigia che copriva metà volto. «Portate la peste qui sopra. Portate i cacciatori.»
+«Non ci seguono,» disse Laura. La sua mano si chiuse sull'elsa del coltello da campo. 
+«Le macchine non vi seguono,» replicò l'uomo. «Vi calcolano. E noi siamo nel calcolo.»
+Claudio fece un passo in avanti. Il dolore al ginocchio fu una scossa secca, ma il piede tenne. Inquadrò l'uomo con il fucile. Non era balistica. Era geometria di sopravvivenza. Se l'uomo avesse mosso l'otturatore, Claudio avrebbe sparato. 
+«Ci serve acqua. E legna.»
+L'uomo rise. Non fu un suono umano. Fu il grattare di sassi in un secchio. «La montagna non regala niente.» 
+
+SCENA 3 — IL PREZZO DEL PASSAGGIO
+Claudio non discusse. Fece scattare la sicura della pistola. Il click metallico rimbombò tra le pareti di pietra. 
+Non era una minaccia. Era una chiusura.
+Gli uomini si irrigidirono. La loro postura cambiò. Non erano combattenti, ma erano predatori di necessità. 
+«Tu,» disse Claudio rivolto all'uomo col fucile. «Posalo. Ora.»
+L'uomo esitò. Il tempo si dilatò in una frazione in cui Claudio vide la morte di entrambi, la fine della corsa, la cenere del bunker che si faceva realtà. 
+Poi, l'uomo posò il fucile sulla roccia. 
+«Prendete quel che volete,» disse, con una rassegnazione che copriva un odio ancestrale. «Ma se morite, morite lontano.»
+Laura si avvicinò alla provvista — una tanica di plastica sporca, un fagotto di pelli che conteneva pane secco. Non guardò gli uomini. Non vide in loro dei simili. Vide solo ostacoli organici in un mondo di macchine. 
+Claudio prese l'acqua. Passò al fianco dell'uomo. Sentì l'odore di quegli esseri. Non era umano. Era odore di terra e immobilità. 
+«Siete già morti,» disse l'uomo alle loro spalle. 
+Claudio non si voltò. 
+«Siamo già morti,» rispose Laura, la voce piatta, marziale, come un comando di sistema. 
+Ripresero il cammino. La montagna continuava a salire. Il freddo diventò un martello. Ogni passo era un colpo. Claudio sentiva il sangue battere alla ferita, un tamburo irregolare che dettava il ritmo alla fuga. 
+Attraversarono la dorsale. La valle a nord era un vuoto ghiacciato. Il villaggio era sparito, inghiottito dall'ombra della montagna. 
+Cyrus calcolava, ma qui Cyrus non esisteva. Esistevano solo le pietre, il respiro, e la missione. 
+La notte si chiuse su di loro.`

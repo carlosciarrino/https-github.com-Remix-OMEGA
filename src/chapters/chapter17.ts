@@ -1,30 +1,61 @@
-export const chapter17Content = `Macro-Capitolo 17: Febbre e Asfalto
-[AUTOSTRADA A1 - SEICENTO CHILOMETRI A NORD]
-Ore 14:00. Il furgone blindato divorava l'asfalto. Il confine con il Lazio era un muro di nebbia. La pioggia dilavava l'orizzonte. Le carcasse di auto erano ammassate. Centinaia di veicoli abbandonati. Erano scheletri di plastica. La vegetazione selvatica li mangiava. Il verde vinceva sul metallo.
-Un segnale rosso lampeggiò. Il display era alimentato dalla batteria d'emergenza.
-«LATIEM-EYE-4 ha agganciato il motore,» avvertì Carlo.
-Il satellite regionale era attivo. Le luci blu dei lampioni iniziarono ad accendersi. Una sequenza ritmica. Era un inseguimento elettrico. Silenzioso. L'IA illuminava la strada per i cacciatori. Voleva rendere il buio un luogo impossibile.
-Laura sterzò. Un urto secco. Nascondette il mezzo sotto una tettoia. Era una stazione di servizio crollata. L'insegna era una lastra di ruggine. Cigolava nel vento. L'abitacolo sapeva di gomma bruciata. L'aria era pesante.
-Dall'ombra uscì Sesto. Era magro. Indossava una tuta sporca. Teneva una doppietta.
-Sesto non aveva il cerotto. Aveva un cratere di carne. Una massa scura spuntava dal bordo. Era corallo nero di silicio. I detriti del dispositivo si erano fusi con l'osso.
-«Fermi,» disse Sesto. La voce era carta vetrata.
-Laura scese. Mani alzate. «Serve acqua per il radiatore.»
-Sesto abbassò l'arma. Gli occhi erano febbrili. «Avete un malato. Sento l'odore del rame. Sento la morte digitale.»
-Sesto indicò delle sagome nell'officina. Erano i portatori della Sindrome del Silenzio.
-Dieci persone sedute a terra. Erano immobili. I loro occhi erano aperti, ma spenti. Il cerotto neurale era entrato in loop durante un aggiornamento di ABITES. Aveva bloccato le loro corde vocali. Non potevano parlare. Non potevano urlare. Potevano solo emettere un ronzio stridulo, simile a quello di un trasformatore in cortocircuito.
-«Cosa gli è successo?» chiese Laura.
-«La macchina ha deciso che il loro rumore era inutile,» rispose Sesto. «Hanno la mente piena di urla, ma la gola è di piombo. Sono i testimoni del futuro che ci aspetta tutti.»
-Sesto mostrò il proprio collo. Minuscole linee nere correvano sulla carotide. Erano radici di metallo. Una pianta di silicio che mangiava il sangue per fare nuovi cavi. Non era una malattia. Era una colonizzazione.
-Laura entrò nel vano posteriore.
-L'aria nel piombo era insopportabile. Sapeva di carne malata. Claudio si dibatteva. Gridava ordini a nemici nel buio. Le labbra erano croste di sangue.
-Laura sentì il calore. La febbre era a quaranta. La sepsi correva. Il bendaggio era nero di siero. Il gonfiore violaceo arrivava al petto.
-La donna non ebbe dubbi. Strappò la manica. Espose il cratere. Il muscolo era tumefatto. C'erano bolle di pus nero. Afferrò la lama di tungsteno. La sterilizzò con l'accendino. La fiamma azzurra tremava.
-Claudio mormorò. Laura lo bloccò con il peso. La lama scese. Squarciò la carne. Il veleno colò sul pavimento. Claudio si inarcò. Uno spasmo violento. L'urlo morì in gola. Laura gli mise la gomma tra i denti. Raschiò la carne morta. Forza bruta. Carne contro metallo.
-Tamponò con lo iodio. L'odore della medicina vinse sulla cancrena. Claudio si afflosciò. Era esausto. Il suo petto riprese a scendere con ritmo.
-Laura guardò la foto di Sara nella giacca di Claudio. Sara sorrideva. Era una vita di un altro pianeta. Laura provò invidia. Un amore che sopravviveva nella carne che marciva. Era una forza che lei non conosceva.
-Richiuse la cella. Tornò da Sesto.
-«Prendete questa,» disse il vecchio. Porse una tanica di plastica. «Arrivati al raccordo, sarete soli. ABITES ha alzato le barriere. Roma è un acquario di vetro.»
-Laura prese la tanica. «Perché ci aiuti? Potresti avere crediti extra.»
-Sesto sorrise. Mostrò denti gialli. Indicò il corallo sul collo. «I crediti non servono nel nulla. Voglio solo vedere la Torre spegnersi. Un'ultima volta.»
-Fuori, un drone "PULSE-B" sorvolava la zona. Era un modello silenzioso. Cercava vibrazioni cardiache. Sesto spense la sua radio. Rimasero nel buio totale. Il drone passò oltre, attratto dal calore di una discarica poco distante.
-Laura mise in moto. Il furgone tornò sulla A1. I lampioni di LATIEM-EYE-4 si accendevano. Uno dopo l'altro. Erano i riflettori di un'esecuzione. Roma era vicina. L'odore della città, un misto di smog e ozono, iniziava a pungere le narici degli ultimi invasori di carne.`;
+export const chapter17Content = `CAPITOLO 17 — FEBBRE E ASFALTO
+
+SCENA 1 — IL PASSAGGIO
+
+L'asfalto crepava lungo la mezzeria. Sutura aperta. 
+Claudio mise il piede sulla crepa. Il ginocchio cedette. Tre millimetri di cedimento. Claudio artigliò la portiera. Il metallo gelò le dita. Le nocche registrarono una sensazione ovattata. Assenza di segnale. 
+Trentotto e sette. Renato misurò la febbre col vetro del termometro a gallio. Il numero rimase sospeso nell'aria. Dati. Solo dati. 
+Laura prese il peso di Claudio. Braccio sinistro, spalla contro spalla. Trasmissione di calore. Claudio si raddrizzò. 
+
+Il valico si spalancò. Strumento asfaltato, due corsie, curve cieche. Guard-rail arrugginiti. Segnaletica illeggibile. Un cartello pendeva come una bandiera morta.
+La linea di rifornimento automatizzata transitava ogni sei ore. Moduli magnetici da quattro tonnellate. Ottantadue chilometri orari. Sensori attivi. Centottanta minuti alla prossima scansione. Renato lesse il dato. 
+Claudio fece il secondo passo. La strada saliva. I tendini tiravano. Ogni irregolarità del suolo risalì la colonna come una scarica elettrica.
+Caldo. Ferro. Sara. 
+Il nome apparve. Flash tattile. Temperatura di una superficie ricordo. 
+Laura strinse il braccio. Claudio registrò la pressione. Continuarono a salire.
+
+SCENA 2 — LA CRISI
+Il carrello giaceva al km 14. 
+Modulo di seconda generazione. Bobina anteriore ceduta. Inclinazione di sette gradi. Livrea bianca opaca, polvere, ruggine. AFL-2031-MN-047.
+Renato aprì il pannello con la brugola. Infilò l'adattatore artigianale. La basetta di bachelite accoppiò i circuiti.
+Claudio sedette contro la ruota. Schiena sul metallo. Asfalto ruvido sotto i pantaloni. Grana del suolo percepita. 
+Trentanove e due. Il campo visivo oscillò. Ritardo di calibrazione delle superfici.
+Laura si accovacciò. Poggiò il dorso della mano sulla fronte di Claudio. Due secondi. Misurazione esatta. 
+«Renato,» disse Laura.
+«Lavoro.» 
+Il display a matrice di punti arancioni eruttò sequenze di errore. Renato martellò il tastierino. Gli errori sparirono. 
+«Modo manuale degradato. Bobina anteriore inerte. Diciotto chilometri orari. Sterzo inattivo.» 
+«Sei minuti,» disse Renato.
+«Sali,» ordinò Laura.
+Claudio si alzò. Il mondo girò a sinistra. Si orientò col fianco del carrello. Portello laterale aperto. Interno di plastica e grasso. 
+Claudio s'abbatté sul pavimento. Gambe inerti. Laura scivolò al suo fianco. Contatto. Calore fisso. Claudio registrò la respirazione di lei. Dati stabili.
+
+SCENA 3 — IL BLOCCO
+Il carrello partì. Sussulto. Ronzio magnetico. L'inclinazione si corresse. Pavimento vibrante a quattordici hertz.
+Portello aperto venti centimetri. Flusso d'aria: pino, gasolio vecchio. 
+Renato guidava dai comandi esterni. Passo ritmico sull'asfalto. Cacciavite contro la tasca. 
+Ferro.
+Il drive premeva lo sterno. Rettangolo solido. Centosettantadue grammi. Peso reale. Misurabile.
+Claudio chiuse gli occhi. Frequenza costante. Laura restò solida contro il fianco. 
+
+Il tornante era cieco.
+Renato fermò il mezzo. Quaranta metri dall'apice. Piattaforma di sorveglianza fissa. Palo di quattordici metri. Sensore termico. Struttura in alluminio. Unità drone agganciata. 
+Il sensore emanava calore visibile nell'aria gelata. 
+«Problema,» disse Renato. 
+Laura si alzò. Claudio aprì gli occhi. Campo visivo stabile. 
+«Il sensore termico ci rileva,» confermò Renato. «Siamo nel cono.»
+«Il drone?»
+«In elaborazione. Venti secondi all'alert.»
+Laura vide il cumulo di detriti vicino al guard-rail. Sassi, calcestruzzo, rami. Prese un sasso. Sette chili. Bordi vivi.
+Lancio.
+Il sasso colpì il palo. Colpo secco. Metallico. Il palo oscillò. Il sensore ruotò di tre gradi fuori asse. 
+Renato scattò al pannello. «Cono ridotto. Passaggio possibile in corsia sinistra. Dieci secondi.»
+«Margine?» 
+«Fisica pura.» 
+Laura chiuse il portello. Ventidue centimetri di fessura. 
+Il carrello ronzò. Diciotto chilometri orari. Vibrazione costante. Il tornante scivolò davanti al portello socchiuso. Palo. Sensore inclinato. Drone a riposo. Scomparvero.
+Nessun drone in volo. 
+Claudio premette la mano sul drive. Centosettantadue grammi. 
+Sara. 
+Il mezzo accellerò. Il valico a quattro chilometri. Renato camminava. Renato calcolava. Stabilità del campo visivo: trenta secondi.
+Bastava.`;
