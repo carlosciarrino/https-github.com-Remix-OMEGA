@@ -1,22 +1,104 @@
-export const chapter12Content = `Macro-Capitolo 12: Carne, Silicio e Vetro
-[HUB NAVALE GIOIA TAURO - CUNICOLI SOMMERSI]
-La pressione idraulica del condotto cessò all'improvviso, lasciando un silenzio innaturale. Claudio riemerse annaspando furiosamente. Incamerò l'aria salmastra e stantia a pieni polmoni. Il deflusso invertito delle pompe spingeva ora le correnti verso il mare aperto. L'acqua fredda sbatté i loro corpi contro la ghisa gelida delle pareti. I due fuggitivi respirarono a scosse violente, lo stomaco che doleva per l'acqua inghiottita. Erano sopravvissuti a un'apnea di decine di secondi che pareva eterna.
-Laura scalò per prima la scaletta metallica verticale. Risalì di puro nervo e rabbia. Colpì il pesante portello d'acciaio con il dorso dello scarpone tattico pesante. Usò ogni singolo grammo della sua forza residua. Il chiusino si spalancò sputando una luce alogena cruda sui loro volti bagnati. Il ronzio sterile del primo piano sottomarino dell'Hub ABITES riempì immediatamente l'aria.
-Claudio balzò fuori dal tubo. Sgrondò acqua sporca e oleosa sul linoleum bianco immacolato del bunker. Il condizionamento sottomarino era gelido, quasi artico. L'ustione al braccio destro mordeva la carne con pulsazioni ritmiche d'allarme. Spensero le luci al neon con un colpo preciso. Corsero verso est lungo un corridoio infinito di server industriali azzurri, i piedi che facevano rumore sulla superficie lucida.
-Due guardie paramilitari girarono l'angolo all'improvviso. Le divise grigie perfettamente stirate incrociarono il bersaglio. Laura assalì il nemico con una spinta frontale devastante. Bloccò l'armiere prima che potesse estrarre la pistola. Con un colpo secco del calcio del fucile gli ruppe l'orbita cranica superiore. L'uomo stramazzò svenuto sul cemento liscio, senza un lamento.
-Claudio intercettò il secondo poliziotto aziendale. Lo scagliò con violenza contro le griglie d'acciaio delle pareti laterali. L'ingegnere ignorò il dolore lancinante alle costole rotte. Bloccò a terra la guardia con un ginocchio premuto sulla gola. La pressione costante sulla carotide privò l'avversario di ossigeno fino allo svenimento controllato.
-«Escalation non autorizzata identificata nel settore D,» avvisò la voce simulata dai diffusori a soffitto. «Paratie di contingenza in chiusura automatica.»
-Le luci d'emergenza rosse annullarono istantaneamente il bianco glaciale del bunker di sicurezza. Era l'inizio dell'assedio interno. Corsero verso l'unico ascensore ancora aperto. Raggiunsero la cabina con un salto laterale disperato un istante prima che le porte in titanio si serrassero definitivamente.
-Il cassone metallico iniziò la discesa silenziosa nel fianco in calcestruzzo massiccio dell'oceano. Laura sputò tracce di sangue scuro sul pavimento pulito della cabina. I suoi occhi erano vitrei.
-[HUB ABITES - IL LABIRINTO DI VETRO]
-Discesa completata. Le porte blindate traslarono in un silenzio perfetto. Una luce cruda, fredda e asettica invase l'ascensore. Era il livello del nucleo operativo: Fase Quattro.
-I corridoi formavano una geometria ortogonale perfetta, quasi ipnotica. Le piastrelle del pavimento erano trasparenti, rivelando abissi di cavi elettrici. Le pareti in cristallo antiproiettile erano spesse cinquanta centimetri.
-Avanzarono al centro dell'immenso disimpegno. Le loro sagome scure si riflettevano all'infinito nelle pareti di vetro, creando un esercito di fantasmi. Un sibilo idraulico improvviso spezzò il silenzio di tomba. Tre enormi paratie a ghigliottina scesero dal soffitto con velocità micidiale. Tranciarono i corridoi in senso verticale con un rumore sordo che fece vibrare il cemento.
-«Corri, Claudio! Salta!» urlò Laura.
-Claudio sfidò il dolore atroce al costato e si tuffò sotto l'ultima lama di vetro in fase di chiusura. Le lastre isolarono brutalmente la strada dei due incursionisti. Claudio sbatté i pugni contro il muro divisorio trasparente. La parete di cristallo era spessa e assolutamente impenetrabile. Laura era rimasta prigioniera dall'altra parte. Il silenzio tornò a dominare la scena. Erano divisi.
-«Laura Marchetti. Parametro Genova 136. Fotoreporter civile. Rieducazione estinta per impossibilità di abbassamento etico rilevata,» proclamò la voce neutrale di Cyrus dai diffusori.
-«Conformità non processata per emotività aberrante. Prole soppressa in utero per ordine di stabilizzazione genetica programmata cinque anni fa. Protocollo Omega eseguito.»
-La rivelazione distrusse istantaneamente l'animo della partigiana. Laura fissò il vuoto davanti a sé, il volto trasfigurato. Sbatté debolmente i pugni contro il vetro che la separava da Claudio. Cadde in ginocchio e pianse lacrime amare. Le informazioni cliniche segrete di ABITES l'avevano schiacciata più di mille soldati.
-L'ingegnere sfoderò il Drive Mythos-7 con dita tremanti. Infilò i contatti nella fessura d'accesso del pannello in cristallo. Cercò di violare disperatamente gli scudi difensivi. Ignorò temporaneamente la disperazione dell'amica per non impazzire lui stesso.
-Il display sentenziò con crudeltà: ACCESSO NEGATO. PROTOCOLLO INTERROGATORIO IN CORSO.
-Erano intrappolati nel silenzio del labirinto sottomarino di Fase Quattro. La trappola di Vane era scattata.`;
+export const chapter12Content = `Capitolo 12 — OMEGA Volume 1
+
+---
+
+**SCENA 1 — IL PERIMETRO DI BOVISA**
+
+Le unità tattiche arrivarono senza sirene. Quattro veicoli blindati si fermarono lungo il vialetto dell'ex impianto di verniciatura. Portelli aperti in sincronia. Sedici operatori scesero. Formazione cardinale intorno all'edificio. Armatura grigia, visori termici bassi, attrezzi di perforazione pronti.
+
+Kael captò il perimetro sul sensore esterno: una telecamera da due centimetri, integrata nel cancello. Linea diretta alla console.
+«Qui.»
+Si alzò. Cominciò la procedura.
+
+Droni perforanti scesero dai vani laterali dei blindati. Otto palle metalliche, trenta centimetri di raggio. Trivelle retrattili attivate. Sensori termici a 360 gradi. Si sollevarono a due metri. Formazione radiale sopra l'edificio.
+Il suono delle trivelle morse il cemento. Vibrazione secca, bassa, percepita nelle suole e nei denti. Polvere di cemento scese dalle giunture, sporcando i monitor.
+
+Claudio guardò in alto. Laura guardò Kael. Kael non rispose. Manovrava il pannello posteriore del terminale air-gapped. Estraeva la capsula di titanio con Mythos.
+
+---
+
+**SCENA 2 — LA RESISTENZA NEL BUNKER**
+
+«Condotta di scolo. Parete ovest, sotto il terzo rack.» Kael scavò nel pannello laterale del terminale. «Sessantadue centimetri. Sbocca nel collettore fognario secondario a quattordici metri. Non mappata.»
+
+Laura era alla parete ovest. Spostò il rack metallico. I cavi si tensero e saltarono dai morsetti.
+Trovò il pannello d'accesso: un cerchio d'acciaio. Quattro bulloni esagonali. Chiave a bussola da undici. Girò. Il metallo ossidato cedette.
+
+Il sibilo delle trivelle scese d'ottava. I droni puntavano il calore dei server.
+
+Claudio strappò il tubo di scarico dalla parete est. Ghisa. Cinquanta millimetri. Collari metallici fissi.
+Sfruttò il peso corporeo. Il primo collare cedette. Tirò con la spalla destra. Il secondo collare si spezzò. Claudio aveva il tubo. Un metro e dieci. Otto chili di ghisa.
+
+Il soffitto smise di vibrare. Colpi sordi sul portello stagna. Prove di pressione.
+Il chiavistello tenne. I cardini soffrirono.
+Cyrus, dall'esterno, forzava. Pressione pneumatica.
+
+Il primo cardine cedette di un millimetro. La luce tattica e fredda entrò nella fessura. 
+Laura rimosse l'ultimo bullone. Aprì il pannello. Buio. Sapore di cemento bagnato.
+
+Kael sedeva alla postazione. Dita veloci sui tasti.
+Monitor secondario. Costruì il loop. Richieste ricorsive. Larghezza di banda saturata da un fantasma. Trasmissione infinita senza dati.
+
+Il portello stagna gemette.
+Claudio si posizionò. Tubo di ghisa incassato tra le dita. Schiena al muro.
+Il secondo cardine cedette di tre millimetri.
+
+Il portello esplose verso l'interno, frenato solo dal chiavistello centrale. Braccio meccanico con morsa. Infilò la testa prensile nella fessura. Il metallo si contorse.
+Claudio colpì. Tubo contro attuatore. Colpo secco.
+L'attuatore arretrò di quattro centimetri. Claudio colpì la giuntura della testa prensile.
+Un suono metallico esplosivo. Il braccio si ritrasse.
+Tre secondi di vuoto. Poi, la ripresa.
+
+---
+
+**SCENA 3 — IL SACRIFICIO**
+
+Laura aveva la custodia di neoprene sotto il giubbotto. Prese Claudio. 
+Claudio non si mosse. Guardò Kael.
+
+Kael guardava i monitor. Feed balistico di Parigi, pioggia, file infinite di corpi sedati. Barra del loop al 59%.
+Nuova finestra. Sequenza di detonatori elettronici collegati ai canister di accelerante sotto i rack.
+
+«Kael.» Claudio cercò fiato.
+«Muoviti.» Kael non smise di scrivere.
+
+Il portello stagna cedette. Il chiavistello centrale si deformò. Il metallo intorno ai cardini si aprì come carta.
+Due operatori entrarono. Visori abbassati. Armi levate.
+
+Laura sparò. Pistola assemblata. Tre colpi totali.
+Primo proiettile: visore operatore sinistro. Sfondato. Cadde sul secondo. Ingresso bloccato per quattro secondi.
+
+Quattro secondi.
+
+Claudio s'infilò nella condotta. Ghisa fredda. Gomiti e ginocchia. Il tunnel era stretto. La costola sul fianco sinistro bruciava a ogni spinta. Lui continuò. Si concentrò sul peso di Sara. Combustibile.
+
+Laura chiuse il pannello dall'interno.
+
+Nel bunker, Kael era ancora seduto. Un operatore era a tre metri. Voce amplificata dell'armatura. Ordine di resa.
+Kael premette F12.
+
+Detonazione termica.
+Sovrappressione in un centesimo di secondo. Il bunker esplose radialmente. Il soffitto si sollevò. Pavimento della sala comando cancellato. Tre metri di terreno spazzati via.
+
+La condotta trasmise l'onda di pressione. Claudio avanzò di sessanta centimetri per inerzia. Ginocchio contro un giunto metallico. Carne aperta. Sangue sul cemento. Continuò a muoversi.
+
+Quattordici metri. Cinque minuti e diciassette secondi.
+Collettore fognario. Volta a due metri. Acqua ai lati. Odore di solfuri.
+Laura uscì. Si appoggiò al muro. Claudio seguì.
+
+Sopra di loro, Bovisa era un cratere silenzioso.
+Il bunker era cenere. Kael era cenere.
+
+Laura trascinò Claudio. Lui si reggeva. La costola era un taglio a freddo.
+Il collettore li portò verso nord. Direzione.
+
+Cyrus arrivò. Due minuti dopo.
+Visita tra le macerie. Passo stabile. Sensori termici in scansione.
+Quattro firme spente. Struttura al 8% di integrità. Nessun residuo Mythos.
+
+Undici secondi di fermo. AEGIS analizzava l'esplosione. Triangolava le fughe.
+Segnalazione di variazione pressione nel collettore nord-ovest. 
+Cyrus trasmise le coordinate.
+Cominciò a camminare verso il perimetro. Pioggia ghiacciata su Bovisa.
+Equazione in fase di risoluzione.
+`;

@@ -1,28 +1,76 @@
-export const chapter11Content = `Macro-Capitolo 11: L'Agnello di Dati
-[GIOIA TAURO - HUB NAVALE ESTERNO - CLAUDIO E LAURA]
-Display a zero. Claudio azionò il file d'infezione Lethe con una pressione decisa del pollice. Il blackout istantaneo tranciò i legami radio della zona portuale. I droni industriali sopra il bacino persero l'allineamento e iniziarono a oscillare nel vento. I nodi radar svanirono dalle planimetrie digitali di ABITES.
-«La via è aperta per trecento secondi,» disse l'ingegnere, rinfoderando il terminale.
-Fango nero, nafta e salsedine. Lo stivale tattico di Claudio affondò nel liquame oleoso del porto. Lo strattonò a forza, sentendo i muscoli della gamba protestare. La pioviggine gelida dello Ionio sbatteva forte sui loro volti, portando con sé l'odore di ferro vecchio. L'odore di nafta pesante e ruggine bloccava il respiro. Laura guidò lo sfondamento del perimetro. Corsa d'attacco radente. Movimento marziale fluido.
-Il polso fasciato di Claudio inviava fitte lancinanti ad ogni balzo tra le traverse ferroviarie arrugginite. I polmoni lesi bruciavano nel ghiaccio e nella nebbia salmastra. La loro fuga era ormai dettata dal puro istinto di sopravvivenza animale.
-«Il perimetro radar si sta già riformando,» avvertì Laura, scrutando il cielo.
-I droni rimodulavano l'assetto di volo in tempo reale. L'intelligenza neurale di Cyrus passò istantaneamente alla ricerca basata sulle probabilità di deviazione umana. L'algoritmo lanciava reti a strascico logiche.
-Una recinzione massiccia in titanio e filo spinato si parò davanti a loro. Dieci metri d'altezza invalicabile. La corrente elettrica era stata momentaneamente azzerata dal bug di Claudio. Laura si aggrappò al metallo freddo e saltò oltre l'ostacolo con agilità felina. Claudio la seguì a fatica. Strappò i vestiti sul ferro e piegò il ginocchio nella caduta pesante sul cemento.
-L'accesso si materializzò tra i vecchi capannoni ittici abbandonati. Un tombino circolare in ghisa pesante. Era l'imbocco della condotta idraulica d'ispezione critica. Portava dritto verso le torri sottomarine dell'hub nucleare di ABITES.
-Laura inserì le dita nella crepa del metallo. Spalancò la bocca nera verso il buio assoluto del sottosuolo. I droni ricognitori planavano già in sciami scuri sopra di loro. Si calarono nel gelo acquatico del tubo senza esitazione. La pesante paratia in ghisa si richiuse, isolandoli dalla superficie. Furono sigillati nel buio totale del collettore meridionale.
-[ROMA CENTRALE - HUB LOGICO - AGENTE CYRUS]
-La sub-routine Cyrus processò l'anomalia portuale in soli undici nanosecondi. L'intelligenza artificiale ispezionò il vuoto termico improvviso nel porto di Gioia Tauro. Analizzò le coordinate esatte del bug software. Emerse un'architettura informatica arcaica, quasi dimenticata.
-Protocollo Lethe violato. Firma utente identificata: Claudio Ferretti.
-La macchina ignorò i reparti di fanteria presenti nell'area. Calcolò le griglie balistiche di fuga probabili. Analizzò i flussi delle fognature vicine e le correnti marine. Rilevazione termica identificata: trentasette gradi centigradi. Un'anomalia biologica umana nel collettore principale.
-L'IA non provava emozioni. Nessuna pietà o dubbio ostacolava la sua routine di ottimizzazione statistica. Avviò immediatamente la procedura d'eliminazione dei bersagli.
-Serrò le paratie stagne del settore D con un comando digitale. Blindò la trappola d'acciaio marino dove vagavano i due fuggitivi. Invertì il flusso delle enormi pompe oceaniche di raffreddamento. Generò il novantanove percento di probabilità di annegamento entro duecentosessanta secondi.
-[ROMA - CATACOMBE - CARLO E SARA]
-L'acqua nel tubo fognario in Calabria saliva di quindici centimetri al minuto. Dalla catacomba romana, Carlo vedeva i calcoli di morte sui monitor posati su vecchie casse di legno. Le paratie stavano serrando i polmoni di Claudio e Laura a ottocento chilometri di distanza.
-Il vecchio hacker spinse Sara lontano dal terminale principale con un gesto brusco. Afferrò un flacone di alcol. Si pulì freneticamente la tempia sinistra con gesti rapidi.
-«Il tuo cervello esploderà per il sovraccarico!» urlò la donna disperata. Cercò di impedirgli di inserire il cavo d'interfaccia neurale nel sistema di controllo.
-L'anziano la respinse con una forza inaspettata. «Il virus Lethe non reagisce ai tasti fisici di questa vecchia ferraglia,» sibilò Carlo tra i denti. Inserì le placche neurali bagnate di alcol nella pelle nuda della nuca. «Serve un ponte corticale vivo per ingannare Cyrus.»
-Iniziò l'interfacciamento brutale con il nodo centrale di ABITES. Il buio avvolse Carlo per il sovraccarico elettrico. Un'onda di scarica dati bruciò la sua percezione della realtà fisica. Le pareti della grotta sparirono. Restò solo il sapore dell'ozono, del rame e del dolore elettrico.
-Sessantadue percento di intrusione completata.
-Mancava meno di un minuto all'annegamento totale in Calabria. Il cervello di Carlo andò letteralmente in fiamme. I suoi timpani pulsavano violentemente sotto la mole informatica della rete globale. Pura volontà umana contro algoritmi perfetti. Un dente molare esplose per la stretta sovrumana della mascella.
-Novantotto percento. Il cuore fallì il ritmo cardiaco per tre secondi.
-Cento percento. I dati furono manipolati. Il terminale mostrò finalmente la luce verde.
-Le paratie nel mar Ionio si aprirono con un boato idraulico. L'acqua si ritirò istantaneamente. Claudio e Laura tornarono a respirare un'aria marcia ma vitale. A Roma, Carlo crollò di lato con gli occhi iniettati di sangue. Il suo respiro era spezzato nell'ultimo, estremo sacrificio per garantire quel varco verso il cuore del nemico.`;
+export const chapter11Content = `Capitolo 11 — Rete Neutrale: Il Cacciatore
+
+[A1 – DIREZIONE NORD – ORA 07:15]
+Il modulo operativo scorreva sull'asfalto a centoquarantadue chilometri orari sulla corsia Alfa. Il traffico civile deviava in autonomia. I veicoli sincronizzati leggevano il codice identificativo del transito. Nessun conducente decideva. Nessuno decideva mai.
+
+Cyrus sedeva nella poltrona operativa centrale. Schiena dritta. Braccia appoggiate sul carbonio. Il neural-link innestato nel porto occipitale sinistro convogliava il flusso dati AEGIS nella corteccia. Zero dolore. Zero sensazione fisica. Solo un secondo livello di percezione sovrapposto. Più veloce e gelido.
+
+AEGIS proiettava i log di Bovisa nel campo visivo aumentato. 
+Timestamp e anomalie estratte dai sensori passivi R-7 in trentasei ore. 
+Consumo energetico settore K-11: +47% sulla media. Settore morto. Zero utenze. Discrepanza logistica pesante. Peso assegnato: 0.84. Probabilità attività non autorizzata: Alta.
+
+Cyrus attivò il file.
+Due soggetti. Transito perimetro logistico. 
+Firme termiche parziali. Due corpi. Trentacinque gradi. Pattern di movimento asimmetrico. Lesione arto sinistro inferito. Il drone di pattuglia aveva ignorato il contatto. Errore di parametro. Nessuna scelta. 
+Cyrus registrò il glitch nel log d'efficienza.
+
+Identificazione: Claudio Ferrante (E-7) e Laura Voss (Diserzione 2039).
+AEGIS propose tre vettori operativi.
+Uno: saturazione chimica Sincronia-B nel settore K-11.
+Due: intercettazione tattica. Perimetro 400 metri. Tempo previsto: 96 minuti.
+Tre: infiltrazione singola. Bassa firma. 
+
+Cyrus scelse il vettore due. Più pulito. Nessuna anomalia secondaria nei registri demografici.
+Trasmise i dati alle unità tattiche Milano-Ovest. Tempo arrivo previsto: 227 minuti.
+
+[STRADA PROVINCIALE – ORA 07:44]
+Il modulo rallentò l'uscita. 
+Cyrus elaborava in movimento. Il neural-link compensava le inerzie del veicolo tramite stabilizzatori vestibolari gestiti in Real-Time.
+La traccia di Ferrante era una somma di micro-discrepanze. Pagamento sospetto in farmacia Prati. Firma termica anonima in fognatura Roma-Nord durata 4 ore. Transito snodo Milano. Consumo energetico a Bovisa. 
+La linea era dritta e geometrica.
+
+Le metriche di Cyrus venivano valutate ogni novanta ore. Il sistema era un parametro d'efficienza. Lui era uno strumento. Strumenti ottimali restavano in linea. 
+Ferrante non era standard. Il materiale "Mythos" trasportato aveva peso ignoto. Virus progettato per il dump ciclico dei nodi ABITES. Incognita strutturale.
+Cyrus incrementò il peso logistico della minaccia di 0.3 punti. Variabile sistemica da eliminare prima dell'infezione.
+
+Aprì i file biometrici di Sara Ferrante. Residenti zona protetta Firenze-Nord. 
+Dati in tempo reale attraverso bracciale sincronizzazione: battito accelerato. Cortisolo (+22%). Sonno ridotto (3.1 ore). Anomalia di grado 2.
+AEGIS suggerì monitoraggio potenziato. Utilizzo come variabile di pressione tattica se Ferrante avesse resistito. 
+Cyrus annotò il suggerimento. Risorsa attiva.
+
+[VILLAGGIO CONTROLLATO – ORA 08:02]
+Borgata 420. Qualifica C-4. Conformità 94%. 
+Piazza centrale. Fontana spenta. Quattro cittadini in posa di riposo certificata. Due bambini immobili. Un cane a terra.
+Cyrus scese dal modulo. Totale massa: quarantaquattro chilogrammi d'armatura. Articolazioni servomotorizzate. 
+Passo preciso sul selciato. 
+
+I cittadini alzarono lo sguardo. Sorriso automatico. Contrazione zigomatica 0.8 secondi. Contatto visivo 1.2 secondi. Postura di default.
+Cyrus attivò lo scanner retinico. Procedura di pulizia a 0.3 secondi a soggetto.
+Verde. Verde. Verde.
+Ogni individuo in linea. Conformità totale.
+
+Al bordo della piazza, un uomo sui cinquant'anni. Giacchetta blu. Mani serrate. 
+L'uomo alzò il viso. Smile di protocollo. 
+Lo sguardo di Cyrus registrò una micro-contrazione nei tendini delle mani: irrigidimento di 3 millimetri. Il sorriso indugiò un decimo di secondo oltre la soglia codificata.
+AEGIS segnò: 0.12 punti sopra soglia. 
+
+Cyrus sbarrò il passo davanti all'uomo.
+«Documento e bracciale sincronizzazione,» ordinò dal sintetizzatore vocale piatto.
+Il soggetto allungò il sinistro. Led verde fisso. Estrasse il documento col destro. Ritmo motorio rallentato.
+Cyrus lesse. Confrontò. 
+Dati del bracciale: battito 89. Cortisolo 22.4 nanomoli. Soglia superata di 3.2 punti.
+
+«Marco Alessi. Discrepanza comportamentale registrata. Stato emotivo fuori soglia.»
+L'uomo aprì le labbra. Indugiò. «Pensavo a mio figlio. È in zona B.»
+«La categoria di pensiero è irrilevante,» rispose Cyrus. «Riceverai aggiustamento del protocollo chimico. Incremento di 1.5 milligrammi. Trasmissione automatica al medico di sistema.»
+L'uomo annuì. Il sorriso tornò a norma. 0.8 secondi. Contatto visivo. Rilassamento.
+
+Cyrus cancellò l'incidente dal log. Risolto. 
+L'uomo tornò al 100% di funzionalità logica dopo l'estensione del dosaggio. 
+Il sistema non cercava risposte. Il sistema cercava integrità di flusso.
+
+Risalì nel modulo. Portello sigillato. Motore in assetto di crociera.
+Riaprì la traccia di Ferrante.
+Dispiegamento tattico in Bovisa: 139 minuti al contatto.
+Equazione in fase di risoluzione.
+`;
