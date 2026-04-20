@@ -52,4 +52,4 @@ Nessun drone in volo.
 Claudio premette la mano sul drive. Centosettantadue grammi.
 Sara.
 Il mezzo accellerò. Il valico a quattro chilometri. Renato camminava. Renato calcolava. Stabilità del campo visivo: trenta secondi.
-Bastava.`;`,Overwrite:true,TargetFile:
+Bastava.`;

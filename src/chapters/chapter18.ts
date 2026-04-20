@@ -66,4 +66,4 @@ Claudio osservò la scritta. Tratti stesi con pressione costante. Tempo a dispos
 Silenziò il fischio auricolare.
 «Non torniamo,» disse.
 Renato riprese il cammino. Lanterna oscillante. Fiamma stabile di tre gradi a sinistra. Il buio si ritirò di trenta metri fissi.
-Passarono.`;`,Overwrite:true,TargetFile:
+Passarono.`;
