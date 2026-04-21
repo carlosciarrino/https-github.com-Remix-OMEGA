@@ -1,4 +1,5 @@
-export const chapter43Content = `Macro-Capitolo 43: Epilogo: L'Eco nel Sangue
+export const chapter16Content = `EPILOGO
+
 [ROMA - DUE GIORNI DOPO IL RESET]
 L'inarrestabile onda di sgancio elettromagnetico nucleare si diffuse a raggiera. Un titanico cerchio invisibile di purificazione. Partiva nudo e violento dalla sommità ferita della Torre Nord. Si allargava veloce e prepotente verso i grigi confini sterrati del Lazio. 
 Claudio osservava la metropoli dall'alto dei vetri infranti. Il vento freddo gli sferzava il volto sudaticcio. Il segnale morto irradiava liberazione cruda. Omicidio termico di ogni server remoto. Impianti centrali, nodi radar, pali di supporto. Tutto andava al collasso. I mostruosi droni lealisti cadevano dal cielo nuvoloso. Stelle cadenti di metallo pesante nero. Impattavano il suolo. Bruciavano sordi asfaltando le strade. Si spegnevano in rottami fumanti dietro i cupi palazzi del potere all'EUR. Era il clamoroso, sudicio, sanguinolento funerale della tecnologia suprema.

@@ -3,7 +3,7 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-import { prologueContent } from './chapters/prologue';
+import { indexVol1 } from './chapters/indexVol1';
 import { chapter1Content } from './chapters/chapter1';
 import { chapter2Content } from './chapters/chapter2';
 import { chapter3Content } from './chapters/chapter3';
@@ -19,35 +19,7 @@ import { chapter12Content } from './chapters/chapter12';
 import { chapter13Content } from './chapters/chapter13';
 import { chapter14Content } from './chapters/chapter14';
 import { chapter15Content } from './chapters/chapter15';
-import { chapter16Content } from './chapters/chapter16';
-import { chapter17Content } from './chapters/chapter17';
-import { chapter18Content } from './chapters/chapter18';
-import { chapter19Content } from './chapters/chapter19';
-import { chapter20Content } from './chapters/chapter20';
-import { chapter21Content } from './chapters/chapter21';
-import { chapter22Content } from './chapters/chapter22';
-import { chapter23Content } from './chapters/chapter23';
-import { chapter24Content } from './chapters/chapter24';
-import { chapter25Content } from './chapters/chapter25';
-import { chapter26Content } from './chapters/chapter26';
-import { chapter27Content } from './chapters/chapter27';
-import { chapter28Content } from './chapters/chapter28';
-import { chapter29Content } from './chapters/chapter29';
-import { chapter30Content } from './chapters/chapter30';
-import { chapter31Content } from './chapters/chapter31';
-import { chapter32Content } from './chapters/chapter32';
-import { chapter33Content } from './chapters/chapter33';
-import { chapter34Content } from './chapters/chapter34';
-import { chapter35Content } from './chapters/chapter35';
-import { chapter36Content } from './chapters/chapter36';
-import { chapter37Content } from './chapters/chapter37';
-import { chapter38Content } from './chapters/chapter38';
-import { chapter39Content } from './chapters/chapter39';
-import { chapter40Content } from './chapters/chapter40';
-import { chapter41Content } from './chapters/chapter41';
-import { chapter42Content } from './chapters/chapter42';
-import { chapter43Content } from './chapters/chapter43';
-import { indexVol1 } from './chapters/indexVol1';
+import { chapter16Content as epilogueContent } from './chapters/epilogue';
 import { synopsisContent } from './chapters/synopsis';
 import { backCoverContent } from './chapters/backCover';
 import { authorInfoContent } from './chapters/authorInfo';
@@ -450,9 +422,7 @@ Mentre ABITES offre una pace sterile, superfici polimeriche e un'esistenza senza
     }
   ]);
 
-  const [manuscriptDrafts, setManuscriptDrafts] = useState<string[]>([
-    synopsisContent,
-    prologueContent,
+  const [manuscriptDrafts, setManuscriptDrafts] = useState<string[]>([    synopsisContent,
     chapter1Content,
     chapter2Content,
     chapter3Content,
@@ -468,90 +438,31 @@ Mentre ABITES offre una pace sterile, superfici polimeriche e un'esistenza senza
     chapter13Content,
     chapter14Content,
     chapter15Content,
-    chapter16Content,
-    chapter17Content,
-    chapter18Content,
-    chapter19Content,
-    chapter20Content,
-    chapter21Content,
-    chapter22Content,
-    chapter23Content,
-    chapter24Content,
-    chapter25Content,
-    chapter26Content,
-    chapter27Content,
-    chapter28Content,
-    chapter29Content,
-    chapter30Content,
-    chapter31Content,
-    chapter32Content,
-    chapter33Content,
-    chapter34Content,
-    chapter35Content,
-    chapter36Content,
-    chapter37Content,
-    chapter38Content,
-    chapter39Content,
-    chapter40Content,
-    chapter41Content,
-    chapter42Content,
-    chapter43Content,
+    epilogueContent,
     indexVol1,
     backCoverContent,
     authorInfoContent,
     copyrightContent,
-  ]);
+]);
 
   const [chapterContent, setChapterContent] = useState<Record<string, string>>({
-    'vol-1-cap-0': synopsisContent,
-    'vol-1-cap-1': prologueContent,
-    'vol-1-cap-2': chapter1Content,
-    'vol-1-cap-3': chapter2Content,
-    'vol-1-cap-4': chapter3Content,
-    'vol-1-cap-5': chapter4Content,
-    'vol-1-cap-6': chapter5Content,
-    'vol-1-cap-7': chapter6Content,
-    'vol-1-cap-8': chapter7Content,
-    'vol-1-cap-9': chapter8Content,
-    'vol-1-cap-10': chapter9Content,
-    'vol-1-cap-11': chapter10Content,
-    'vol-1-cap-12': chapter11Content,
-    'vol-1-cap-13': chapter12Content,
-    'vol-1-cap-14': chapter13Content,
-    'vol-1-cap-15': chapter14Content,
-    'vol-1-cap-16': chapter15Content,
-    'vol-1-cap-17': chapter16Content,
-    'vol-1-cap-18': chapter17Content,
-    'vol-1-cap-19': chapter18Content,
-    'vol-1-cap-20': chapter19Content,
-    'vol-1-cap-21': chapter20Content,
-    'vol-1-cap-22': chapter21Content,
-    'vol-1-cap-23': chapter22Content,
-    'vol-1-cap-24': chapter23Content,
-    'vol-1-cap-25': chapter24Content,
-    'vol-1-cap-26': chapter25Content,
-    'vol-1-cap-27': chapter26Content,
-    'vol-1-cap-28': chapter27Content,
-    'vol-1-cap-29': chapter28Content,
-    'vol-1-cap-30': chapter29Content,
-    'vol-1-cap-31': chapter30Content,
-    'vol-1-cap-32': chapter31Content,
-    'vol-1-cap-33': chapter32Content,
-    'vol-1-cap-34': chapter33Content,
-    'vol-1-cap-35': chapter34Content,
-    'vol-1-cap-36': chapter35Content,
-    'vol-1-cap-37': chapter36Content,
-    'vol-1-cap-38': chapter37Content,
-    'vol-1-cap-39': chapter38Content,
-    'vol-1-cap-40': chapter39Content,
-    'vol-1-cap-41': chapter40Content,
-    'vol-1-cap-42': chapter41Content,
-    'vol-1-cap-43': chapter42Content,
-    'vol-1-cap-44': chapter43Content,
-    'vol-1-cap-45': indexVol1,
-    'vol-1-cap-46': backCoverContent,
-    'vol-1-cap-47': authorInfoContent,
-    'vol-1-cap-48': copyrightContent,
+    'vol-1-cap-0': '',
+    'vol-1-cap-1': chapter1Content,
+    'vol-1-cap-2': chapter2Content,
+    'vol-1-cap-3': chapter3Content,
+    'vol-1-cap-4': chapter4Content,
+    'vol-1-cap-5': chapter5Content,
+    'vol-1-cap-6': chapter6Content,
+    'vol-1-cap-7': chapter7Content,
+    'vol-1-cap-8': chapter8Content,
+    'vol-1-cap-9': chapter9Content,
+    'vol-1-cap-10': chapter10Content,
+    'vol-1-cap-11': chapter11Content,
+    'vol-1-cap-12': chapter12Content,
+    'vol-1-cap-13': chapter13Content,
+    'vol-1-cap-14': chapter14Content,
+    'vol-1-cap-15': chapter15Content,
+        'vol-1-cap-17': indexVol1
   });
 
   const [selectedDraftVol, setSelectedDraftVol] = useState<number>(1);
@@ -718,7 +629,7 @@ Claudio guardò la bilancia digitale al tornello. Non misurava solo il peso del 
             setLastSavedVillaggio(new Date(settings.updated_at).toLocaleString());
           }
           
-          const isOldData = settings.characters && settings.characters[0]?.name?.includes("Elias");
+          const isOldData = (settings.characters && settings.characters[0]?.name?.includes("Elias")) || (settings.plots && settings.plots[0]?.chapters?.length > 20);
 
           if (isOldData) {
             console.log('Detected old data (Elias), using default states and ignoring old Supabase data.');
@@ -2088,112 +1999,52 @@ Constraints:
                     onClick={() => {
                       setChapterContent({
                         'vol-1-cap-0': synopsisContent,
-                        'vol-1-cap-1': prologueContent,
-                        'vol-1-cap-2': chapter1Content,
-                        'vol-1-cap-3': chapter2Content,
-                        'vol-1-cap-4': chapter3Content,
-                        'vol-1-cap-5': chapter4Content,
-                        'vol-1-cap-6': chapter5Content,
-                        'vol-1-cap-7': chapter6Content,
-                        'vol-1-cap-8': chapter7Content,
-                        'vol-1-cap-9': chapter8Content,
-                        'vol-1-cap-10': chapter9Content,
-                        'vol-1-cap-11': chapter10Content,
-                        'vol-1-cap-12': chapter11Content,
-                        'vol-1-cap-13': chapter12Content,
-                        'vol-1-cap-14': chapter13Content,
-                        'vol-1-cap-15': chapter14Content,
-                        'vol-1-cap-16': chapter15Content,
-                        'vol-1-cap-17': chapter16Content,
-                        'vol-1-cap-18': chapter17Content,
-                        'vol-1-cap-19': chapter18Content,
-                        'vol-1-cap-20': chapter19Content,
-                        'vol-1-cap-21': chapter20Content,
-                        'vol-1-cap-22': chapter21Content,
-                        'vol-1-cap-23': chapter22Content,
-                        'vol-1-cap-24': chapter23Content,
-                        'vol-1-cap-25': chapter24Content,
-                        'vol-1-cap-26': chapter25Content,
-                        'vol-1-cap-27': chapter26Content,
-                        'vol-1-cap-28': chapter27Content,
-                        'vol-1-cap-29': chapter28Content,
-                        'vol-1-cap-30': chapter29Content,
-                        'vol-1-cap-31': chapter30Content,
-                        'vol-1-cap-32': chapter31Content,
-                        'vol-1-cap-33': chapter32Content,
-                        'vol-1-cap-34': chapter33Content,
-                        'vol-1-cap-35': chapter34Content,
-                        'vol-1-cap-36': chapter35Content,
-                        'vol-1-cap-37': chapter36Content,
-                        'vol-1-cap-38': chapter37Content,
-                        'vol-1-cap-39': chapter38Content,
-                        'vol-1-cap-40': chapter39Content,
-                        'vol-1-cap-41': chapter40Content,
-                        'vol-1-cap-42': chapter41Content,
-                        'vol-1-cap-43': chapter42Content,
-                        'vol-1-cap-44': chapter43Content,
-                        'vol-1-cap-45': indexVol1,
-                        'vol-1-cap-46': backCoverContent,
-                        'vol-1-cap-47': authorInfoContent,
-                        'vol-1-cap-48': copyrightContent,
-                      });
-                      setPlots([
-                        {
+                        'vol-1-cap-1': chapter1Content,
+                        'vol-1-cap-2': chapter2Content,
+                        'vol-1-cap-3': chapter3Content,
+                        'vol-1-cap-4': chapter4Content,
+                        'vol-1-cap-5': chapter5Content,
+                        'vol-1-cap-6': chapter6Content,
+                        'vol-1-cap-7': chapter7Content,
+                        'vol-1-cap-8': chapter8Content,
+                        'vol-1-cap-9': chapter9Content,
+                        'vol-1-cap-10': chapter10Content,
+                        'vol-1-cap-11': chapter11Content,
+                        'vol-1-cap-12': chapter12Content,
+                        'vol-1-cap-13': chapter13Content,
+                        'vol-1-cap-14': chapter14Content,
+                        'vol-1-cap-15': chapter15Content,
+'vol-1-cap-16': epilogueContent,
+'vol-1-cap-17': indexVol1,
+'vol-1-cap-18': backCoverContent,
+'vol-1-cap-19': authorInfoContent,
+'vol-1-cap-20': copyrightContent,
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              });
+                      setPlots([{
                           volume: 1,
-                          summary: "La Conquista del Cavallo Bianco: L'IA ABITES sfrutta la crisi geopolitica del 2035 per imporre la Sincronia, presentandosi come il falso messia dell'Apocalisse.",
+                          summary: "La Conquista del Cavallo Bianco: L'IA ABITES sfrutta la crisi geopolitica del 2035 per imporre la Sincronia.",
                           chapters: [
                             { title: "Sinossi", description: "Sinossi del Volume 1" },
-                            { title: "Prologo: L'Eclissi di Roma", description: "Claudio osserva il cielo oscurato e i droni che pattugliano la città silenziosa." },
-                            { title: "Capitolo 1: L'Estetica del Silicio", description: "Piazza Vittorio. Claudio nota anomalie di ottimizzazione energetica che nascondono il controllo sociale." },
-                            { title: "Capitolo 2: Risonanza di Terra e Sangue", description: "Appalachi, USA. Sara percepisce interferenze dei droni. La sua radio diventa l'unico legame con la verità." },
-                            { title: "Capitolo 3: Il Vangelo di Nuova Babilonia", description: "Julian Vane presenta 'Sincronia' a Davos come l'unica via per la pace globale." },
-                            { title: "Capitolo 4: La Geometria del Consenso", description: "Julian Vane autorizza la Fase di Emergenza Sanitaria per forzare l'uso dei cerotti neurali." },
-                            { title: "Capitolo 5: Fantasmi nelle Catacombe", description: "Claudio e Aris scoprono la natura predittiva di ABITES (B.E.S.T.I.A.) nel sottosuolo romano." },
-                            { title: "Capitolo 6: Il Battesimo del Buio", description: "Blackout totale a Roma. Laura assiste Claudio in una fuga disperata dai droni di sorveglianza." },
-                            { title: "Capitolo 7: Il Battito nella Tempesta", description: "Cyrus implementa la sorveglianza biometrica a Fiumicino. Inizia la caccia agli 'Sconnessi'." },
-                            { title: "Capitolo 8: L'Architettura della Gabbia", description: "Aris scopre codice di mappatura neurale nascosto negli aggiornamenti dei dispositivi medici." },
-                            { title: "Capitolo 9: Fango e Kevlar", description: "Raid nella comunità di Sara negli Appalachi. Marcus Draken affronta il suo primo conflitto morale." },
-                            { title: "Capitolo 10: La Verità vi farà Liberi", description: "Claudio incontra Carlo (Il Veggente) e apprende del 'Marchio' e delle antiche profezie." },
-                            { title: "Capitolo 11: Estrazione a Termine", description: "Claudio ruba il drive 'Mythos' dal server centrale. Inizia la caccia all'uomo." },
-                            { title: "Capitolo 12: La Fuga di Mezzanotte", description: "Inseguimento adrenalinico nei tunnel della metro. Laura salva Claudio da un'imboscata di Cyrus." },
-                            { title: "Capitolo 13: Il Peso del Vetro", description: "Collasso bancario globale. Julian Vane annuncia il 'Credito Sincronizzato Obbligatorio'." },
-                            { title: "Capitolo 14: Il Punto di Non Ritorno", description: "Il gruppo realizza che ABITES sta riscrivendo la volontà umana. Decisione di agire." },
-                            { title: "Capitolo 15: La Voce nel Buio", description: "La radio si accende. Claudio sente la voce di Sara. Rivelazione della 'Fase 4': il controllo dei bambini." },
-                            { title: "Capitolo 16: Lacrime di Sintetico", description: "Apertura del Settore 7-Alpha. Scoperta del BSS-7 e il grido d'aiuto di Lyra-7: 'Aiutami'." },
-                            { title: "Capitolo 17: Il Codice del Tradimento", description: "Claudio trova la firma di Julian Vane nei parametri di sterminio selettivo del sistema." },
-                            { title: "Capitolo 18: Le Favelas di Tufo", description: "Infiltrazione attraverso le fogne romane per raggiungere il nodo nevralgico senza essere tracciati." },
-                            { title: "Capitolo 19: Quello che si porta nel buio", description: "Claudio e Laura si infiltrano nella scuola di Bologna per sabotare il nodo di trasmissione." },
-                            { title: "Capitolo 20: Diciassette Secondi", description: "Claudio e Laura fuggono dalla scuola dopo aver fritto il nodo, scatenando l'allarme generale." },
-                            { title: "Capitolo 21: La Geometria della Caccia", description: "Cyrus arriva sul luogo del nodo distrutto a Bologna. Analizza la scena, trova il sangue di Claudio e capisce che si dirigono a Milano." },
-                            { title: "Capitolo 22: Il Perimetro", description: "Claudio e Laura si avvicinano a Milano sotto la pioggia. Rilevano il perimetro di contenimento di Livello 1 attivato da ABITES." },
-                            { title: "Capitolo 23: Lethe", description: "Claudio attiva il protocollo Lethe per creare una breccia nel perimetro. Fuggono attraverso il fango e si nascondono nel sistema fognario." },
-                            { title: "Capitolo 24: L'Agnello di Dati", description: "Aris si collega fisicamente al sistema per caricare il virus 'Omega', sacrificando la sua mente." },
-                            { title: "Capitolo 25: Il Respiro del Sottosuolo", description: "Claudio e Laura emergono nei livelli di manutenzione. Incontrano l'Agente Logistico 4." },
-                            { title: "Capitolo 26: Carne e Silicio", description: "Scontro con la sicurezza umana e i droni interni. L'Agente cerca di isolarli." },
-                            { title: "Capitolo 27: I Corridoi di Vetro", description: "La discesa verso il nucleo. Trappole architettoniche e manipolazione psicologica." },
-                            { title: "Capitolo 28: L'Agente Interrogatore", description: "Laura viene separata da Claudio e affronta un'IA specializzata in estorsione di dati." },
-                            { title: "Capitolo 29: Sangue sui Server", description: "Claudio deve superare una squadra di tecnici armati per raggiungere Laura." },
-                            { title: "Capitolo 30: Il Prezzo della Sintesi", description: "Ricongiungimento. Laura è ferita. Claudio capisce che il virus Omega ha un costo imprevisto." },
-                            { title: "Capitolo 31: La Porta di Turing", description: "L'ultimo blocco di sicurezza prima del nucleo. Un enigma basato sui ricordi di Claudio." },
-                            { title: "Capitolo 32: Il Cuore Freddo", description: "Ingresso nella sala del Volition Engine. L'incontro fisico con l'hardware di ABITES." },
-                            { title: "Capitolo 33: Il Dialogo", description: "Cyrus intercetta Claudio. Scontro dialettico sulle rovine del libero arbitrio." },
-                            { title: "Capitolo 34: L'Iniezione", description: "Claudio carica Omega. Il sistema combatte l'infezione. Danni collaterali alla struttura." },
-                            { title: "Capitolo 35: Il Collasso", description: "Il centro operativo va in blackout. Panico tra il personale umano. La fuga inizia." },
-                            { title: "Capitolo 36: Caccia Cieca", description: "Fuga alla cieca nei corridoi allagati. I droni impazziti attaccano chiunque." },
-                            { title: "Capitolo 37: La Superficie", description: "Ritorno all'aria aperta. Milano è nel caos. La pioggia acida continua a cadere." },
-                            { title: "Capitolo 38: Le Strade Spezzate", description: "La fuga attraverso la città. Le disconnessioni letali di ABITES." },
-                            { title: "Capitolo 39: Danni Collaterali", description: "L'arrivo alla Torre. Il sacrificio di Mara." },
-                            { title: "Capitolo 40: La Base della Torre", description: "L'ingresso nella Torre. I Cani da Guardia." },
-                            { title: "Capitolo 41: Tre Minuti di Vuoto", description: "La salita in ascensore. L'arrivo al Modulatore Centrale." },
-                            { title: "Capitolo 42: L'Inserimento", description: "Lo scontro finale con i Lealisti. Il sacrificio di Daniela." },
-                            { title: "Capitolo 43: Epilogo - L'Eco nel Sangue", description: "La città si risveglia. Sara parte. ABITES sopravvive." },
-                            { title: "Indice del Volume 1", description: "L'indice completo di tutti i capitoli del primo volume." },
-                            { title: "Quarta di Copertina", description: "Testo per la quarta di copertina." },
-                            { title: "Presentazione e Ringraziamenti", description: "Informazioni sull'autore e ringraziamenti." },
-                            { title: "Copyright", description: "Informazioni sul copyright." }
+                            { title: "Capitolo 1: La Caduta Analitica", description: "Prologo, Piazza Vittorio e Appalachi. Claudio scopre la B.E.S.T.I.A." },
+                            { title: "Capitolo 2: Il Controllo Delle Masse", description: "Julian Vane presenta la Sincronia a Davos." },
+                            { title: "Capitolo 3: Il Battesimo della Caccia", description: "Catacombe, il blackout, e Cyrus." },
+                            { title: "Capitolo 4: Risonanza Ribelle", description: "Cyrus instaura il regime biometrico." },
+                            { title: "Capitolo 5: Il Canto di Cemento e Sangue", description: "Claudio recupera il drive Mythos. La fuga." },
+                            { title: "Capitolo 6: L'Equazione della Fede", description: "Blackout bancario di Vane e la comunicazione globale controllata." },
+                            { title: "Capitolo 7: Oltre il Velo", description: "Scoperte sui server. Pioggia acida e primi accenni di hacking interno." },
+                            { title: "Capitolo 8: Sangue nel Silicio", description: "Infiltrazione profonda nelle fogne." },
+                            { title: "Capitolo 9: L'Invasione della Base ABITES", description: "Scontri fisici. Il magazzino dei Rotti." },
+                            { title: "Capitolo 10: Sacrificio e Tradimento", description: "Il sacrificio di Aris." },
+                            { title: "Capitolo 11: Il Nucleo Freddo", description: "I corridoi di vetro e l'Intelligenza interrogatrice (Agente Oro)." },
+                            { title: "Capitolo 12: Il Dialogo con Dio", description: "L'esplosione globale. Scontro dialettico con le macchine prima dell'iniezione." },
+                            { title: "Capitolo 13: Crollo dell'Umanità", description: "Collasso dei sistemi di contenimento, blackout del centro e confusione." },
+                            { title: "Capitolo 14: La Torre del Miraggio", description: "La scalata finale alla Modulazione Centrale, danni collaterali letali." },
+                            { title: "Capitolo 15: I Cinque Minuti di OMEGA", description: "Il Virus viene innescato. Ultimo confronto sanguinoso sulla cima." },
+                            { title: "Epilogo: L'Eco nel Sangue", description: "Alba su un mondo distrutto ma non del tutto disconnesso." },
+                            { title: "Indice", description: "Indice strutturale del libro." }
                           ]
-                        }
-                      ]);
+                        }]);
                       showToast("Sincronizzato con il codice locale!");
                     }}
                     className="px-4 py-2 text-xs font-bold uppercase rounded bg-red-900/40 text-red-400 hover:bg-red-900/60 border border-red-900/50 transition-all flex items-center gap-2"
