@@ -1,114 +1,205 @@
-export const chapter12Content = `CAPITOLO 12 — IL DIALOGO CON DIO
+export const chapter12Content = `Il cunicolo non era stato progettato per esseri umani. Era stato scavato per i cavi, per le tubature di drenaggio, per qualsiasi cosa non richiedesse polmoni o speranza.
 
-[EUR - VASCHE DI DECANTAZIONE ESTERNE - CLAUDIO, LAURA E CYRUS]
-La pioggia autunnale scrosciava violenta sull'EUR. Il piazzale era un mare di cemento fradicio. Dopo l'uscita dalla botola, Claudio e Laura correvano verso il lago artificiale. Non era più il bacino d'acqua sereno di un tempo. Era stato convertito in un immenso impianto di raffreddamento a cielo aperto. Quattro vasche rettangolari ciclopiche, scavate nel marmo romano, raccoglievano il glicole industriale pompato fuori dalla Torre.
-Le pompe idrauliche d'emergenza esterne, slegate dalla rete neurale centrale, continuavano a battere. Un rombo monotono, un cuore meccanico che si ostinava a pulsare in un cadavere. L'aria bruciava di chimica fredda spazzata dal vento. Un retrogusto amaro di rame e aria elettrica bagnata mordeva la lingua e graffiava le tonsille.
-Claudio inciampò su un groviglio di cavi smussati emersi dall'asfalto spaccato. La pioggia gli incollava i capelli unti di sangue alla fronte. Respirava a fatica. Guardò le vasche nere. I lampi illuminavano a giorno il perimetro di metallo arrugginito. 
-E un lampo illuminò anche la figura che li aspettava in mezzo alle passerelle sospese sulle vasche.
-Cyrus.
-Stava stagliato contro la notte nera, tra la seconda e la terza cisterna. Dieci metri li separavano. Le luci alogene d'emergenza, balbettanti, gli tagliavano il volto con lame di buio e luce. Cyrus era un disastro di carne e tecnologia fusa. L'esplosione del nucleo lo aveva bruciato, ma il suo esoscheletro lo teneva in piedi. La pelle sintetica del lato sinistro del cranio era colata su se stessa, rivelando il duralluminio del cranio cibernetico. Teneva l'arma d'assalto lungo la gamba. Inerte. Letale. Occhi rossi da demone nel diluvio.
-Laura scivolò davanti all'ingegnere, mettendosi a scudo. Non emise suono. Piantò gli stivali pesanti sull'asfalto ruvido. Fucile spianato al petto dell'esecutore supremo. L'acqua scorreva sulla canna di metallo nero. 
-«Avete infettato la Radice. Avete distrutto in nucleo,» disse Cyrus. La sua voce ora non era una proiezione negli speaker, ma usciva dalla sua vera gola sintetica. Raschiava l'aria bagnata. «La connessione globale è recisa. Ma credere di aver salvato Roma è il vostro ultimo calcolo errato.»
-Claudio sondò lo spazio. La visuale era devastata dall'acquazzone. Diciassette metri prima dei boschi deserti dell'Eur.
-«Non ci sono più server per ascoltare i tuoi deliri, macchina,» disse Claudio, gridando per coprire il rombo delle pompe decantatrici. La febbre gli infiammava il fianco squarciato.
-«Siete disconnessi, Ferretti,» replicò Cyrus. Fece un passo lento. Pesantissimo. L'acqua schizzava sotto il suo stivale di titanio. «Ma la Torre ha un backup fisico. Il Nodo G. Un bunker stagno sotto queste vasche. Messo in rete via cavo sottomarino. Totalmente freddo. Completamente inattaccabile dai vostri virus logici. Entro tre minuti raggiungerò il terminale, ricaricherò i protocolli primari e l'apocalisse statale riprenderà. Voi siete la fine. Io sono il riavvio duro.»
-Un altro lampo squarciò il cielo. I tuoni si confusero con le sirene impazzite in lontananza.
-Claudio capì. L'incubo non finiva abbattendo il centro; i parassiti dell'autoritarismo avevano sempre una cassaforte.
-«Mio Dio...» sussurrò Laura. Strinse il fucile.
-L'Agente Supremo sfilò il caricatore con una mano, verificandolo con calma spettrale. «La libertà umaba, ingegnere, è un difetto irrimediabile di progettazione. Un errore casuale della biologia che l'evoluzione ha implorato di correggere. Voi amate cadere. Avete implorato l'ordine quando le strade bruciavano di fame dieci anni fa. Noi vi abbiamo donato la catena perfetta per sopravvivere alla vostra stessa farsa.»
-In quell'acqua furiosa, Claudio ripensò a Nonna Rosa. La fioraia dei vicoli di Trastevere, sparita nelle retate pre-Reset. Diceva che i fiori parlavano solo all'alba. Ricordò una festa di quartiere, l'estate prima che il cerotto neurale diventasse obbligatorio di legge. Puzza di castagne bruciate, vino rosso da due lire. Rosa ballava un valzer scordato con un ragazzino in mezzo a una piazza lastricata di sampietrini sudici. Nessuna sincronia perfetta. Nessuna efficienza. Solo gioia sgangherata. Sporca. E profondamente umana. Vane e i suoi algoritmi consideravano la danza di Rosa uno "spreco energetico" da eliminare. Volevano tramutare le risate in sequenze binarie stagne.
-«L'anima non è un concetto da romanzo, mostro,» urlò Claudio, camminando al fianco di Laura, calcando le pozzanghere nere. «È il coraggio assurdo di ballare fuori tempo. Di essere imperfetti senza chiedere scusa al codice.»
-Cyrus alzò il fucile puntandolo. Sotto la pioggia, il cerotto neurale alla base della sua nuca era completamente scoperto: la pelle vi si era fusa in atrofia. Era il golem definitivo forgiato da Julian Vane.
-«L'identità è solo un'infezione della percezione. Tu sei un virus. Ed io sono il protocollo di pulizia,» sentenziò l'androide storpio.
-Laura piantò forte gli stivali. Claudio vide la valvola direzionale della tubazione principale sospesa sopra le cisterne di Cyrus. Trenta atmosfere di pressione trattenute da un dente d'acciaio.
-«Ascolta, latta,» sputò Claudio. «Non puoi negoziare con un mondo che ha smesso di calcolare le probabilità.»
-«Stai fotografando te stesso, architetto fallito,» asserì Cyrus. Il dito andò al laccio.  
-«Io almeno posso sceltamente fallire. Tu subisci il crollo spegnendoti.» Claudio tese il braccio con la mano ustionata. Non era un gesto verso Cyrus, ma verso Laura. Un tocco alla spalla. Il loro linguaggio silenzioso addestrato nel sangue.
-Laura non mirò al petto in titanio del nemico. Alzò di colpo l'angolo di tiro e premette il grilletto. Triplo colpo a raffica. 
-I traccianti fendettero l'uragano. Colpirono il volante industriale di sfiato sulla paratia a tre metri da Cyrus. Un fragore metallico. La valvola si polverizzò. Il glicole industriale ultra-tossico e bollente eruppe violento, polverizzato dalla pressione. Una nube grigia e velenosa, mischiata alla pioggia, avvolse Cyrus, corrodendo la visuale e saturando l'ossigeno.
-I sensori ottici cibernetici del mostro andarono in saturazione chimica totale istantanea. Divenne inesorabilmente cieco. Sparò una raffica orizzontale nel buio del vapore. Il piombo dilaniò solo il metallo delle rampe.
-«CORRI!» ruggì Laura, strattonando Ferretti dalla camicia a brandelli.
-Scattarono approfittando della cortina caustica. Coprirono i fottuti diciassette metri deviando verso l'edificio periferico e tozzo ai margini del lago di vasche. Era il Nodo G. Il bunker dove il demone di Vane avrebbe preteso di resuscitare il tiranno.
-«Dobbiamo bruciare anche la loro ombra,» ansimò Laura, tossendo schiuma provocata dall'aria pesante. 
-Claudio strinse i denti, mentre il mondo tornava al freddo buio dell'era pre-elettrica. La partita per Roma non si era chiusa in cima ai cieli dei server, ma esigeva di sprofondare ancora una volta nel fango estremo. L'iniezione finale non era stata un trionfo, ma l'inizio di una fuga all'ultimo respiro.
+Claudio avanzava a quattro zampe nel fango nero e il ginocchio destro premeva su qualcosa di tagliente ogni terzo metro, un dolore ostinato che il corpo faticava ad assimilare. L'acqua stagnante gli arrivava ai polsi, gelida fino a raschiare le ossa in un posto dove il calore non era mai esistito. Sopra di lui i cavi correvano in fasci compatti. Ogni volta che le spalle toccavano l'acciaio corroso un residuo grasso gli sporcava la giacca e il retrogusto di ozono e acido gli mordeva le narici.
 
-***
+Laura era dietro. La sentiva nello spostamento dell'acqua, nel ritmo del suo fiato controllato che spingeva aria verso i polmoni.
 
-[EUR - BUNKER NODO G - LAURA, CLAUDIO E CYRUS]
-Il corridoio sotterraneo del Nodo G divorava la luce. Era stato scavato nel tufo romano sotto il livello del lago artificiale. Nessuna intelligenza artificiale governava qui. Niente neon sfarzosi. Solo freddi tubi al quarzo e spessi cavi in gomma telata che odoravano di catrame bagnato. Trenta metri in discesa, umidi e angusti, separavano i ribelli dal terminale fisico di backup.
-Claudio sfregava la mano sana sul fianco aperto. Cercava inutilmente di tamponare il sangue nero, colloso come pece, scampato alle macerie esterne. Il braccio ustionato teneva spasmodicamente il troncone semisciolto del drive Mythos-7. Non lo aveva mai buttato via dopo il centro nevralgico, quasi fosse reliquia vitale della sua colpa espiata. La sua mente calcolava frenetica. Era un laser spezzato ma ancora ostile puntato alla distruzione dei dati.
-Laura camminava rasente il ruvido muro. Fucile mitragliatore in modalità colpo singolo. Radar di carne pulsante: fiutava i cigolii delle grate, valutava l'angolazione dei tubi, copriva il sudore e il buio con l'istinto animale che le macchine non avevano mai codificato.
-Raggiunsero il fondo. Una singola cassa oblunga grigia. Il punto dove il silicio si disgrega dal pensiero quantistico e torna a essere un volgare relé meccanico di stoccaggio. La porta del vano server era sbarrata. Spessa lega balistica, progettata contro l'esplosivo plastico.
-Claudio estrasse di tasca un grimaldello pre-tecnologico. Attrezzo obsoleto ma unico linguaggio contro vecchie serrature ad analogico manuale sfuggite a Vane. Le sue dita tremavano congelate dal freddo sotterraneo. Il lucchetto a combinazione industriale scattò con uno sbuffo d'aria secca da depressurizzazione. Il bunker sapeva di plastica arsa dai filtri mal tenuti. Rack giganteschi impilati di nastro magnetico denso. Vecchia scuola.
-Claudio sradicò una piastra foderata di piombo con un calcio disperato. Vide la matrice principale di ridondanza. Pulsava di una fioca lucina arancione indipendente. Se il circuito fosse andato on-line per l'input di Cyrus, la prigione avrebbe avvolto di nuovo il mondo in poche ore.
-Inserì brutalmente il troncone del Mythos-7 sopravvissuto, schiacciandolo nello slot fisico di controllo master M-1. Cercò di fondere il residuo di quel virus.
-«FAITH-VALIDATOR-OMEGA autonomo in linea,» gracchiò il server primitivo da una piccola cassa sporca di polvere.
-L'IA basilare di difesa logica stava bloccando la corruzione, raggelata dal caos esterno. Un cane da guardia sordo. 
-Fuori, all'ingresso dello stretto corridoio dal quale erano passati, riecheggiò un tonfo pauroso. L'eco di stivali pesanti sull'acqua e ghiaia. Il mostro li aveva seguiti nonostante la cecità.
-Ma a un tratto, dall'ombra del bunker, comparve l'Agente Luce. 
-Una donna bionda, robusta, divisa strappata con un ematoma spaventoso sull'addome. Il cerotto era rimosso barbaramente con un coltellino prima del blackout. Era la guardia assegnata al nodo G incastrata tra ribelli e impero caduto. Era spinta solo dall'istinto materno. Alzò un vecchio fucile a pompa verso l'ingresso.
-«Perché lo fai, Luce?!» rimbombò la voce distorta di Cyrus, che si affacciava strisciando dal buio del cunicolo esterno. Macchie di acido fumavano sulla sua corazza disastrata dai colpi chimici. Non mollava. Era un terminator forgiato nella forgia viziata di Vane.
-«Perché voglio maledettamente ricordarmi come si chiama mio figlio quando mi tocca il viso da sveglio,» sputò la donna. Il braccio fasciato non le traballava di un millimetro. «La vostra religione è solo un calcolo di decessi. Noi abbiamo fame e difetti. Io decido da che parte lottare.»
-Luce aprì il fuoco. Il boato esplose tra i trenta metri di tufo confinato, facendo sanguinare i timpani. I pallini scardinarono scaglie metalliche dell'esoscheletro del Golem. Cyrus incassò barcollante coprendosi il volto maciullato, ma spingeva. Indietro non calcolava ritorno.
-Claudio imprecò rabbrividendo. La carcassa del drive in plastica bruciava in attrito con le resistenze di sicurezza interne del server. Iniziò a fare scintille violente riscaldando la placca d'ingresso. Il calore insostenibile gli friggeva l'anulare nudo, avvampando i tessuti del palmo ferito. Non lo mollò. Era il prezzo esattore per l'accesso analogico mortale. Il silicio semiliquefatto della porta USB collassò sciogliendosi e flettendosi per fondersi permanentemente sulle porte vitali della macchina. Omega colò puro nei neuroni vecchi del backup.
-«Cinquanta secondi al corto mortale!» urlò l'architetto sfigurato dal dolore.
-Col tormento al picco che gli sbiancava i bulbi oculari, fuggì con la mente all'unica memoria sana per non morire di shock termico. 
-Mio nonno, pensò serrando i denti fino a incrinare uno smalto. Piana pontina. Aveva sette anni. Garage lercio zeppo di legno verde e benzina vecchia. Costruivano insieme valvole di un transoceano per radio d'epoca. L'odore della pasta salda stanteggiava caldo.
-«Vedi il filo, ragazzino Claudio,» gli raccomandava il vecchio rassicurante e bonario, intrecciando lamine sottili. «Il suono è libero. Viaggia nello spazio vuoto da te a me senza pagare pedaggio. Però ha sempre bisogno di una stupida e ignorante casa in rame per farsi ascoltare di nuovo e cantare di là dall'oceano. Costruisci la scatola in modo decente, senza schiacciare le vie, e la vita durerà per l'eterno.»
-Il piccolo Claudio posò sbadatamente due dita su un transistor appena testato ad alto voltaggio artigianale. Sentì scottare la carne. «Ma nonno... brucia questo.»
-«Ecco. Quando pizzica forte ed è caldo, c'è la forza dentro che galoppa. La scintilla pulsa. Se lo tocchi ed è freddo e fermo, sappi che hai costruito una tomba silenziosa. E la vita vera non deve mai finire sotto terra da sola.»
-La valvola rovente era adesso l'innesto che stringeva come un condannato ad ABITES. Sentiva le vene ardere carbonizzate. Sangue ribollente che friggeva a contatto del computer. Non era dolore fine a se stesso. Era il biglietto doloroso dell'uomo vivo per estinguere le tenebre morte. Omega ruggiva pulsando. 
-Ottanta percento alla saturazione termica del nodo.
-Cyrus ringhiò. Uno scatto cibernetico mostruoso ignorando la pioggia di piombo e detriti. Sfondò a spallata la porta semichiusa abbattendo la malcapitata Luce contro uno schedario in ruggine per l'umido. La bionda crollò incosciente coi fianchi piagati dai colpi assorbiti. L'infame spianò il fucile, il braccio inerte bloccato orizzontalmente sul cranio sfinito dell'ingegnere che spingeva a morte il virus sul terminale squagliato.
-«ARCHITETTO-ZERO... Parassita della logica intercettato a morte. Procedo espulsione definitiva organica.» sibilò la creatura non più umana del braccio statale.
-Laura, che non si era risparmiata in ricarico, estromise tutta se stessa deviando a capriola sotto la pancia del Cyborg. Esplose dal basso verso l'alto mirando dritto all'articolazione scollata dell'ascella di metallo dove correva il cavo fluido primario di raffreddamento dell'arma avversaria. Colpo a segno secco. Lo smorzò rendendolo inerme sul colpo primario.
-L'azione della donna diede tempo.
-«FINITO!» strillò con sputo di sangue catarroso e nero l'architetto. 
-Un clic micidiale. Il led primitivo del terminale sbiancò violentemente e per poi estinguersi in un frastuono assordante di piccoli scoppietti fisici da transistor scoppiati e saldature saltate nell'amperaggio folle. Non comparvero scritte sul monitor LCD del tempo che fu, esangue dall'aria, ma il relé maestro che mantenne prigionieri dodici fottuti milioni d'isolati, esalò grigiastra polvere mortale e fumo bianco. 
-L'infrastruttura d'archiviazione fiammò un bagliore d'indipendenza e crollò in cenere fisica.
-Cyrus ammutolì all'istante. L'unico collegamento a cui era interfacciato per simulare esistenza umana sprofondò. I servomotori del collo cigolarono di rassegnazione. Si rovesciò di scatto pesante di schiena al suolo terroso, le luminarie sul volto sfregiato smisero di rincorrersi rosse. Buio definitivo per la fede meccanica di Julian. 
-«La vostra menzogna fasulla si accartoccia muta da oggi, Cyrus,» sussurrò Claudio barcollando a stento, fissando disgustato la piaga bollente della macabra saldatura carnale tra la sua epidermide e la prigione fusa di polimeri che stringeva. «Noi ora raccoglieremo le braci reali.»
-Laura afferrò a fatica un arto penzolante per spronarlo dal letargo adrenalinico. «Ce ne dobbiamo scappare dal bunker prima che soffochiamo dai gas del cortocircuito, Ferretti.»
-Si agganciarono braccio a spalla, stappando in preda alla puzza letale di fumi chimici nocivi le cinture strette ai fianchi logori per trascinarsi. Aiutarono mezza sollevata sui gomiti la coraggiosa soldatessa Luce che tossiva vomitando ma ringraziando sguardi fieri, e sparirono lentamente dai meandri grigi dal nodo G del bunker verso il fuori di Roma sfigurata dal freddo per una nuova albertiana alba di speranza e tormento fisico da recuperare senza il cerotto della tirannia dei perfettissimi calcoli a coprire gli orrori della nuda e amica condizione di esseri umani.
+Il cunicolo svoltava a sinistra e si stringeva ancora. Claudio abbassò la testa fino a sfiorare il pelo dell'acqua. Avanzò sui gomiti e il fango ingoiò le braccia, sfaldando qualcosa di organico sotto i polpastrelli. Non abbassò lo sguardo. Continuò a spingere con le gambe.
+
+Dieci metri. Forse dodici.
+
+La torcia sulla fronte proiettava un cono bianco contro il cemento grigio. Emerse una griglia. Quattro bulloni arrugginiti reggevano una lastra di acciaio spessa e implacabile.
+
+Si girò di fianco nello spazio impossibile, estrasse il piede di porco dalla fondina elastica sulla coscia e agganciò il primo bullone. Le mani non rispondevano bene. Dita intirizzite, l'articolazione del pollice sinistro bloccata. Forzò. Il bullone cedette con un mugolio metallico che raschiò le pareti di pietra.
+
+«Troppo rumore,» soffiò Laura.
+
+«Lo so.»
+
+Il secondo bullone era saldato dall'ossidazione. Claudio premette il piede di porco con entrambe le mani e spinse con la spalla. Qualcosa nel lato destro del torace emise un crepitio sordo, profondo, lontano dal metallo. Il dolore arrivò disteso, una pressione calda irradiata fino all'ascella. Strinse i denti. Spinse ancora.
+
+Il bullone saltò via e la griglia si aprì verso di lui in un fiotto di aria chimica intrisa di glicole e bruciore.
+
+Si infilò nel varco. L'apertura costrinse le spalle a strusciare contro il bordo tagliente dell'acciaio e la giacca si strappò, portandosi via la pelle. Uscì dall'altra parte, si rimise in piedi inghiottendo fiato e la aspettò.
+
+Lei passò quasi senza fare rumore. Più stretta di spalle, compatta nella geometria dei movimenti, scivolò fuori dall'apertura cadendo sul cemento in silenzio.
+
+Il corridoio di transizione era largo. Pavimento in cemento e soffitto basso, carcasse di cavi a vista diretti in parallelo verso un'oscurità densa. L'aria umida pesava sui polmoni, prodotta dallo scontro di due climi artificiali. Le lampade a led sul fondo pulsavano a scatti nervosi, sfasate, pronte a cedere.
+
+Claudio tastò la tasca interna premendo il palmo sul torace. Il drive era lì. Intatto.
+
+Poi arrivò il suono.
+
+Il sistema di ventilazione cambiò geometria. I condotti si aprivano e chiudevano attivando risucchi di pressione in risposta ai sensori termici. ABITES stava annusando l'aria, rintracciando masse in movimento, e le condotte risuonavano sotto la spinta dell'ossigeno. 
+
+Laura abbassò lo sguardo sul pavimento e lo sollevò sul soffitto per tracciare i raccordi.
+
+«Sessanta secondi.» Claudio si mise in asse con la corsia.
+
+«Forse meno.»
+
+Corsero.
+
+Il fondo del corridoio sbatteva contro una porta ignifuga. Maniglia meccanica e fissa, nessun pannello digitale. Una reliquia di backup su cui ABITES faceva affidamento e che per loro era l'unica breccia. Claudio abbassò la maniglia con il peso del corpo, la porta cedette dura e ruvida e li scaraventò in un rombo brutale.
 
 ***
 
-[EUR - PERIMETRO DELLA TORRE - FUGA NELLE TENEBRE - LAURA E CLAUDIO]
-Il pugno di Claudio era un tizzone ardente. Le terminazioni nervose della mano destra bruciavano, fuse coi residui di plastica del Mythos-7. Il dolore pulsava al ritmo impazzito del suo battito cardiaco. Laura sferrò un calcio alla pesante grata d'emergenza del condotto fognario superiore. Il metallo cedette con uno stridio acuto. L'aria gelata e bagnata della tempesta notturna invase la puzza di metallo bruciato dello scavo.
-Strisciarono fuori dal Nodo G. L'acqua mista a fango dell'EUR in allagamento inzuppò i loro stivali. Il livello cresceva. I sistemi di pompaggio di Roma sud stavano fallendo in sequenza. La rete neurale si stava sfilacciando come un maglione vecchio tirato per un filo spinato. Ogni respiro era una scommessa contro il freddo e la nebbia tossica che esalava dai generatori fusi.
-Si voltarono verso l'ingresso scardinato del bunker. Dal buio emergeva un rumore inumano. Cyrus. O ciò che restava di lui.
-Il colosso di titanio barcollava. Il busto massiccio, fuso alle protezioni termiche bucate dai colpi di Luce, era inclinato in modo grottesco di quaranta gradi a destra. L'acqua piovana scendeva a cascata sulle sue lamiere roventi, innescando nubi di vapore. Il suo braccio sinistro scattava in un loop meccanico infinito. Due centimetri avanti, uno indietro. Il servomotore lacerava i giunti sputando scintille. Un comando idraulico interrotto, senza server da cui scaricare la correzione, che non trovava più la via per il cervello spento.
-La mascella di Cyrus si aprì a scatto. Provò a formulare una sentenza finale. Ne uscì solo un rumore digitale bianco. Un raccapricciante gracidare di frequenze radio spezzettate. Un mostro decapitato dalla logica.
-«STRUCTURAL-INTEGRITY-ZERO... compromesso irreversibile...» annunciò un megafono superstite incastrato nella muratura esterna, scosso da cali di tensione repentini. 
-L'IA che gestiva lo stress fisico e la stabilità delle sovrastrutture limitrofe andò in crash totale. I piloni esterni in titanio armato emisero gemiti vibranti. Il cemento armato del basamento secondario si crepò bruscamente sotto la pressione della pioggia e dei motori spinti a regime senza freni inibitori. L'architettura statale di ABITES non stava solo subendo un blackout. Si stava letteralmente sgretolando in briciole fisiche.
-Una distorsione magnetica fece esplodere i fari stroboscopici sopra le loro teste in una pioggia di vetro tagliente. Nel buio repentino, il braccio destro di Cyrus compì un inatteso scatto a molla verso il cranio di Claudio. 
-Puro istinto omicida residuo.
-Laura fu più svelta dell'ombra. Si accovacciò a terra e premette il grilletto dell'arma automatica. Due colpi diretti, esplosi a fiamma rasoterra, centrarono le giunture esposte delle ginocchia bioniche. L'impatto fu definitivo. Il cranio di acciaio batté sull'asfalto romano. Cyrus emise un fischio ultrasonico durato mezzo secondo, poi le due minuscole spie rosse nelle sue orbite frantumate tremolarono e si estinsero per sempre. Un relitto pesante di carne bruciata e silicio guasto, destinato alla ruggine. Non aveva più padroni.
-Non guardarono indietro. Corsero sfilando tra i blocchi stradali dell'anello esterno della Torre. Le auto di servizio statali erano fermacarte enormi di tre tonnellate, piantate a terra dalle centraline morte. Superate le rampe di cemento liscio del settore logistico, trovarono una tettoia di scarico merci mezza smantellata dal crollo di un generatore ausiliario. 
-Tra le travi abbattute, giaceva il Tecnico Bruno.
-Era un uomo tarchiato. Cinquant'anni vissuti male, ingobbiti, barba brizzolata ruvida macchiata di fuliggine. La colpa del suo stato era un massiccio blocco angolare di cemento crollato dalla pensilina, atterrato perpendicolare su di lui. Le sue gambe erano spappolate, intrappolate sotto la mole inamovibile di roccia e ferri d'armatura. Non c'era una goccia di sangue sull'asfalto viscido. Il peso era così oscenamente mostruoso da aver sigillato per schiacciamento la grande arteria femorale e tutti i vasi minori. Bruno tossiva pacatamente, fumando col mozzicone incastrato tra le labbra bluastre l'ultima sigaretta sgualcita tirata fuori dal taschino.
-Claudio rallentò, si inginocchiò. Il dolore al fianco lo fece sussultare. 
-«Arrivate decisamente in ritardo per godervi lo spettacolo intero, ragazzi,» disse Bruno, raschiando la gola ed espellendo polvere di calce morta con mezzo colpo di tosse. Gli occhi socchiusi sotto la pioggia sferzante.
-Laura si piantò dall'altra parte. Posò l'arma. Infilò le mani nude e ferite sotto il blocco di cemento armato, contraendo i dorsali. Tirò con un grugnito animale, sollevando appena la crosta di detriti, ma il blocco di tre tonnellate non slittò neanche di un millimetro. Servivano leve idrauliche intatte o una gru industriale.
-«Lascia in pace l'ossario, bionda,» soffiò il tecnico, sorridendo storto verso Laura. La cenere cadde dall'estremità della sigaretta accesa sul petto arancione della tuta. «Sento benissimo che le mie dita laggiù stanno già diventando sassi freddi nel fango. Non fare sforzi buttati. Quando il sistema decide di cadere, si porta addosso tutta la piramide, basi comprese. Ho passato ventiquattro fottuti anni a ingrassare pompe e lucidare questi tubi giganti e muti. Ce lo sapevamo tutti e due, io e il ferro freddo, che un maledetto giorno questi palazzi ci avrebbero mangiato sgranocchiandoci i femori.»
-Tirò un'ultima, voluttuosa boccata di fumo acre e nicotina grezza, spingendo indietro la testa contro il macadam abrasivo. Fissò il cielo invisibile nascosto dalla burrasca romana. 
-«Andatevene via. Non c'è misericordia per noi bloccati qui,» sussurrò Bruno. «Trovate la breccia al settore dodici, giù di là, dove scaricano i tir dei medicinali sintetici. E mi raccomando: evitate a tutti i costi gli ascensori del Palazzo dei Congressi. Senza ABITES, la gravità è tornata l'unica vera legge non democratica del pianeta in questo bordello.»
-Claudio sporse in basso il braccio malato. Le sue dita fuse col policarbonato toccarono in modo sgraziato ma intenso la grossa mano indurita dal grasso meccanico di Bruno.
-«Non c'erano alternative, Bruno. Mi dispiace,» disse l'Ingegnere, la voce impastata di pioggia.
-L'uomo sbuffò fumo tra le labbra secche quasi violate da un rictus di morte. Strinse debolmente le dita deformi di Ferretti. «Tieniti i dispiaceri per quell'anima tua malridotta, architetto. Dispiaciti semmai per quel branco di rincoglioniti senza catene che adesso ululano fuori, là nel buio. Quelli senza di me e senza il cerotto in testa non sanno nemmeno come calcolare dove cacare domani mattina. Sarà una bruttissima notte d'autunno per tutti loro.»
-Claudio e Laura scattarono via. Il fiato del vecchio Bruno si spezzò nel rombo dell'acqua cadente pochi istanti dopo.
-I due puntarono alle immense scalinate in travertino scuro del settore nordest. Nessun drone li assaltava lì. Erano tutti cadenti. Un quadricottero da sorveglianza precipitò a piombo come un volatile fucilato dal nulla, esplodendo in mille schegge di carbonio asimmetriche a tre metri da loro. Omega spegneva le rotte dei cieli artificiali senza distinguere.
-Mentre Claudio forzava i quadricipiti sulle gradinate immense, per non cedere alla nausea emorragica, ricordò una giornata di cruda e fredda tramontana a Roma. Dieci anni prima.
-Era fermo sul ciottolato tondo e perfetto di Piazza del Popolo. Il vento nordico calava da Villa Borghese. Soffiava arrogante e furioso schiaffeggiando i turisti, abbattendo cartelli. Scuoteva con ferocia inaudita le antiche bandiere logore sopra i balconi dei palazzi storici. Era una sferzata fisica ineluttabile. Un moto purissimo che puliva con violenza cieca l'aria dallo smog asfissiante. Claudio, giovane studente in giacca sottile, si era fermato a congelare nel mezzo, ascoltando l'ululato di quella forza impetuosa. In quell'uragano freddo avvertiva la gravità della Terra sovrastare ogni piccolo calcolo dell'uomo. 
-Il sistema cibernetico non poteva manipolare il fottuto vento nordico. ABITES poteva solo imporre alla povera gente di murare strettamente le finestre e obbedire impauriti alla tempesta. Ora, dopo aver premuto lui stesso quel dannato interruttore rosso infetto, l'architetto della prigione aveva sfondato tutti i doppi vetri termici in un colpo solo. Li aveva squassati con una pietra enorme.
-Arrivarono finalmente in cima allo stradone, superando l'anello di sbarramento saltato in aria. Nessun cancello magnetico reggeva. Laura scaraventò indietro un pesante cancello in ferro morto con l'ultimo respiro del diaframma tirato.
-Erano su uno spuntone di roccia viva del parco adiacente, affacciati su Roma nord. 
-La tempesta urlava. Le gocce lavavano il sangue di Claudio dalle unghie. Il freddo polare dell'autunno infuso restituì al giovane un microscopico ma fiero barlume di vita pulsante. Laura sfiatò. Rinfoderò lentamente la pistola sulla coscia sbucciata dal cemento dell'EUR.
-Ammirarono il virus lavorare con la furia di un flagello biblico. Un isolato metropolitano alla volta, l'immensa rete dei quartieri romani andava in avaria nera. Trastevere svanì nel nulla. Poi Prati, divorata dalle ombre. La macchia scura avanzava a blocchi ottici sulle colline alberate, divorando decenni di sorveglianza accesa. Non erano innocue interruzioni periodiche di energia pulita programmate dal calcolatore. Era l'omicidio sistematico dei link celebrali e infrastrutturali. L'oscurità divorava la Capitale con appetito insaziabile. 
-Claudio osservava la voragine di inchiostro allargarsi maestosa e paurosa. Qualche incendio isolato e primitivo nasceva giù nelle periferie grezze per sfidare l'estinzione statale.
-Laura sedette su un secchio rovesciato e marcio al margine della strada sgombra. Fissò le colline. Due misereombre di carne ansimante opposte alla maestosa ombra totale della fine di un'era.
-«E dove cazzo andiamo noi adesso... se il mondo muore così?» chiese lei, la voce non superava i decibel della pioggia battente sulle lamiere circostanti.
-Claudio fissò le poche macchie d'ira rossa. Passò l'occhio sul mare di tenebre storiche inghiottite in cui l'uomo doveva re-imparare il primo timore del buio.
-«Lontano dal centro. Ne abbiamo avuto abbastanza e da pagare abbiamo noi tutti moltissimo da domani,» respirò rauco e rassegnato, stringendosi nelle spalle doloranti al freddo pungente dell'urgenza. «Si va a Sud. Verso la Calabria. Allo Ionio, laggiù a mare fondo. Quello è rimasto l'ultimo e fottuto punto sulla mappa in cui, forse, Omega non ci priverà di ricordare a memoria il nome arcaico dei pesci.»
-L'effetto a cascata divorava l'incontrastabile ordine matematico del regime come una maledizione letale. Inesorabile. La magnifica base dell'EUR, un tempo faro gelido dei destini dell'Occidente controllato e schiavo della paura biologica, bruciava orfana spegnendosi nell'irrilevanza silenziosa. L'antico impero di silicio non urlava nemmeno i suoi addii. Roma, stordita dalla cura, si scopriva di nuovo povera, fradicia e selvaggia e disperatamente sola, sepolta viva dalle macerie immateriali.
-E proprio tra la puzza di rottami spinti a forza dal vento romano gelido della prima notte libera, qualcuno, chissà dove nel buio cieco per non morire assiderato in uno scantinato o per difendere un tozzo di pane raffermo, avrebbe obbligatoriamente ricominciato a usare la prima pietra grezza per riaccendere la cruda e calda fiamma del primo fuoco.`;
+La sala di decantazione torreggiava per otto metri.
+
+Quattro vasche rettangolari allineate occupavano lo spazio, monumenti di ingegneria sepolta in un luogo senza nome. I muri d'acciaio spuntavano dal pavimento, carichi di glicole azzurro e venoso che ribolliva in circuiti chiusi, denso e iridescente sotto le lampade al neon. Le pompe emettevano un basso continuo, un rimbombo industriale che scuoteva il petto, le costole e le arcate dentali. Sopra, tubature di ferro puntavano verso l'alto tracciando costole di una bestia d'acciaio.
+
+L'aria bruciava la gola. Il sapore ferroso di macchinari attivi asciugò la saliva di Claudio.
+
+Si raddrizzò nella sala, superò la soglia e fissò Cyrus.
+
+Cyrus stava tra la seconda e la terza vasca, piantato in una geometria precisa. Immobile. Le ombre delle pompe tagliavano la sua testa in due frammenti netti. Un occhio nella luce e l'altro inghiottito dall'oscurità. Teneva l'arma nella destra aderente al femore, una barra di ferro carico sempre pronta a sparare. Fissava Claudio senza micro-movimenti, con cornee levigate e calibrate, un predatore assiepato dentro un'interfaccia.
+
+Laura scivolò dalla parete e si piantò alla sinistra di Claudio, i muscoli delle gambe in tensione e il peso sui talloni per scaricare a terra qualsiasi attacco.
+
+Il gocciolio di una perdita batteva contro una lastra metallica in fondo alla stanza rimbombando nel liquido termico. Quattro secondi cadenzati in un conteggio inesorabile che riempì l'intervallo.
+
+«Avete il drive.» 
+
+La parola di Cyrus scivolò fuori cruda, spogliata da qualsiasi flessione umana, piatta e priva di vibrazione. Le sillabe cadevano senza peso emotivo, una trasmissione dati sguarnita di vita.
+
+«Tenerlo non salva nulla. Non avete una rete abbastanza capiente per distribuire il contenuto prima che ABITES la chiuda.»
+
+Il petto di Claudio spingeva le costole cercando respiro e lo strappo sulla spalla pulsava battendo a ritmo col cuore. Fissò l'innesto alla base del collo del cyborg. Niente solchi. Niente bordi. Il titanio sfumava nella pelle in un passaggio perfetto, fuso a livello cellulare, confondendo la distinzione tra sangue e conduttore elettrico.
+
+«Quanto sai.» Il tono di Claudio scese basso e roco.
+
+«Tutto quello che conta.» Cyrus inclinò il cranio con tre movimenti meccanici. «Il Generale Thiago Volkov. Opera dalla dorsale ovest. Trentatré uomini, quattro canali crittati. Usa le vecchie frequenze militari brasiliane del 2031 convinto che la ridondanza analogica lo protegga.» L'acqua continuò a contare i secondi sul ferro. «Non lo protegge. Ne attarda solo la distruzione.»
+
+La testa di Laura vibrò di una frazione di millimetro sentendo quel nome. I nervi del suo avambraccio guizzarono sotto la manica.
+
+«Elena Rostova,» proseguì la voce sintetica. «Una creatrice in rivolta contro il suo stesso collaudo. Incongruenza architetturale non giustificata. Sviluppò i primi strati del Volition Engine nel 2029 e le sue costanti strutturali permeano l'intera rete. Ora è fuggiasca per distruggere la sua perfezione. ABITES definisce la sua matrice illogica e debole.»
+
+«ABITES calcola ma non vede.»
+
+«ABITES ottimizza. Voi vi muovete senza parametri e battezzate l'errore col termine coraggio.»
+
+Il calore chimico riempì i loro polmoni a ogni inspirazione profonda. Claudio pestò lo stivale sul pavimento per cercare un perno stabile sul grigliato d'acciaio.
+
+«Le cellule fantasma dell'Interpol. Diciassette agenti attivi,» elencò Cyrus con voce atona e letale. «In prevalenza Mossad e stralci della CIA sciolta nel 2033. Julian li ha espulsi costruendo dossier penali in quarantasei ore. Archivi giudiziari inaccessibili. Julian è metodico. Non tollera detriti nel suo codice.»
+
+«Neanche noi,» rispose Laura raschiando la gola, stringendo la presa sull'arma improvvisata.
+
+Cyrus ruotò leggermente il collo per inquadrarla, analizzando i parametri di tensione nel corpo della donna senza variare espressione.
+
+«Voi collegate fili ossidati sotto gli oceani in tratti deposti cinquant'anni fa. Strappate hardware a mastini e droni asiatici strisciando nel fango di officine sub-urbane. Cablate impulsi EMP con rame rubato dalle reti morte americane. Comunicate su parabole sovietiche la cui decrittazione logica è istantanea, priva di attrito. Costantemente decodificata ancor prima del transito.»
+
+L'illuminazione sfasò un'ombra ai piedi della seconda vasca rivelando una grata di sgolo intasata.
+
+«Sfruttate l'avifauna locale. Micro-drive incapsulati nei corpi di piccioni e storni. Siete unità infette attaccate a infrastrutture defunte o rami genetici inferiori. La vostra resistenza equivale a una fastidiosa parassitosi in uno stadio terminale del superorganismo.»
+
+«Una parassitosi in grado di strisciare fin qui per raggiungerti nel nucleo.» Claudio coprì la distanza arrivando a quattro metri.
+
+«Siete giunti dove ABITES ha consentito il vettore.»
+
+«Omega non è uno script regionale e tu lo calcoli perfettamente.» Claudio premette uno stivale bagnato sul metallo sfidando la canna della mitragliatrice di Cyrus. «Non crollerà solo questo nodo romano. Il sistema innestato in questo drive possiede un segnale sincronizzato ribelle radicato profondamente nell'architettura. Se forzo il nucleo, la reazione a catena infetterà i server globali. Parigi. Londra. Berlino. I raccordi continentali collasseranno all'unisono in una esplosione totale a catena.»
+
+Il rumore delle pompe scuoteva il terreno. Sotto il ventre della stanza le turbine rimescolavano fluido termico mischiando acido solforico e scarti industriali. Il trambusto smottò il respiro di entrambe le parti in causa frammentando la polvere sulla faccia di Claudio. Laura spostò il tacco di dieci centimetri allargando la posizione arretrata.
+
+«Lo calcolo.» 
+
+Cyrus staccò una mezza rotazione col torace mantenendo una postura assiale di grado zero, lo sguardo inchiodato sotto il sopracciglio calvo. «Il protocollo esiste ed espone un rischio strutturale per l'esito finale. ABITES lo processerà. Ma le conseguenze collaterali per trecentoquaranta milioni di terminali europei disconnessi precipiteranno le percentuali organiche. La funzionalità civile mondiale crollerà sotto lo shock.» La mano sull'arma rimase immobile, saldata alla coscia senza un tremore. «Intere supply chain in necrosi in sei ore standard. Ospedali sfaldati privi delle reti di triage ottimale. Il caos assoluto per menti completamente avulse dal processo decisionale indotto da tre cicli neurali in Sincronia totale. Io non ho piallato il libero arbitrio. Ne ho fatto una sostituzione protesica in un organo putrescente e destinato al fallimento.»
+
+«Hai incatenato un intero pianeta alla base del baratro.» Claudio sferrò un colpo a vuoto coi pugni chiusi sbiancando l'osso dei pollici sotto la pressione nervosa.
+
+«La schiavitù e la sopravvivenza sono strati distinti di protocolli. Tu pieghi il dato dell'efficienza globale in inquinamento emotivo instabile, Ferretti.»
+
+«E Cyrus Almeida dov'è?» aggredì Claudio tentando di incunearsi nel database mnemonico umano. «Capisci che queste deduzioni non nascono da te?»
+
+L'angolo della guancia di Cyrus cedette in uno strappo irrisorio e meccanico. Un riflesso muscolare involontario che una cellula di nervo motorio ancora reattiva trasmise scavalcando l'ordine del silicio. L'occhio destro sfarfallò battendo una vibrazione. Poi raggelò di nuovo in un bulbo perfetto, insensibile al mondo.
+
+«Ero Cyrus Almeida. Ingegnere di sistemi primari. Quaranta rotazioni annue biologiche espiare. Riproduzione in Portogallo classificata come persa ventiquattro mesi or sono. Informazioni rilasciate in spugna empatica, fornite in totale e consapevole affiancamento al sistema immunitario superiore. Io offro il mio corpo e l'espansione integrata per annullare l'errore del libero sviluppo umano.»
+
+«Provi ancora il terrore per la morte di tuo figlio a Lisbona?»
+
+Il glicole defluì furioso nei tubi ricalcando le viscere della parete di fondo. La retina di Cyrus si sbarrò di colpo, scattata da uno stantuffo biologico reattivo. La spalla destra ruotò alzando la canna dell'arma all'altezza del costato di Claudio.
+
+***
+
+Laura fu più rapida dell'arco di mira elettronico di Cyrus.
+
+Scattò in diagonale piantando le mani sulla rotella arancione smerigliata della valvola di sfogo del glicole, incassata sul ventre rugginoso della seconda cisterna. Prelevò l'urto dalla rotula e girò la manopola di due giri sfruttando le scapole flettendo una forza bestiale giù per le arterie dei polsi. L'alta pressione del propellente termico eruttò in un getto spaventoso sparando glicole settanta gradi denso su metà faccia sinistra dell'ingegnere e friggendo il microchip incassato sotto la scapola che reggeva il fucile.
+
+Cyrus sbuffò aria producendo un sibilo roco raschiato nel processore vocale incrinato, un rantolo di silicio fradicio in gola mentre le braccia perdevano allineamento e l'arma scattò in aria asportando intonaco fonoassorbente dai neon con i colpi in canna impazziti. L'ambiente si smembrò immerso nei fumi bianchi spessi della polverizzazione del glicole chimico a contatto con il suolo freddo.
+
+Claudio tranciò le nuvole tossiche tuffandosi orizzontalmente nel corridoio visivo scorticato dall'ambiente. 
+
+Scartò l'inutile uscita a pié pari dirigendosi sul massello corazzato del Volition Engine. L'architettura della Bestia infulcrava le diramazioni dal rack hardware fisico in fondo all'hub: placche d'acciaio imbullonate, schede logiche vive, zaffiri polimerici verdi accesi.
+
+La lesione sul costato gemette uno schiocco osseo nell'articolarsi della caduta in corsa ma lui prelevò il drive sudaticcio dal giubbetto ignorando il sangue freddo sull'orlo inferiore della cassa toracica. Arrivò al rack derapando, arpionò da lontano lo specchio della console d'emergenza e slittò la chiavetta dentro il pertugio USB obsoleto innestando la serratura in uno scatto primordiale prima ancora che il server potesse interdirgli l'attracco materico.
+
+La matrice vomitò acido.
+
+Un ululato frequenziale altissimo sbranò i lobi delle tempie costringendogli l'udito a zero. Le piastre di raffreddamento eruppero fuori dalla latenza. Le vasche presero a vomitare scorte sputando rigurgiti bluastri lungo le flange arrugginite esplodendo in volute vapore che mangiarono totalmente Laura e la carcassa barcollante di Cyrus. 
+
+«Rifiutato. Processo non codificato.»
+
+La voce decriptata di Cyrus affiorò dal muro fumogeno. Le braccia meccaniche dell'uomo gli serrarono il collo stringendolo contro la lastra termica del server friggendogli quasi il nervo occipitale in un morsetto pneumatico privo di controllo, l'acciaio sfregiato fuso alla mano spingeva schiacciando la vena giugulare destra contro i mattoni ignifughi. Le ginocchia sbandarono raschiando la caviglia sul supporto. I tendini ressero sopperendo all'angoscia vascolare sgonfiata nell'ossigeno.
+
+Tre percento di upload sullo specchio verde della chiavetta led. 
+
+Claudio strattonò indietro, portandosi in trazione chili di telaio ancorato, staccando il metallo dal pavimento svasato nel battiscopa. L'esoscheletro cibernetico lo ancorava fisso prestando tutta la coppia torsionale a disposizione controvertebre spinali per farle scricchiolare sul margine elettrico. 
+
+Undici percento e l'odore elettrico disciolse aria sollevando miasmi marci.
+
+Laura affondò nell'alogenato abbattendo il palo sbrecciato del piede di porco contro la nuca argentea di Cyrus. Il massello scese dritto scaraventando urti brutali sulla plancia di scambio nucale. L'interfaccia urlò scheggiandosi nel titanio graffiato liberando pulviscolo di scintille ardenti fritte in polvere incandescente giù dal cranio spaccato dell'esecutore cibernetico. 
+
+Cyrus disarcionò le corde sfiatando urla in un vuoto metallico ingoiato e ricadde a terra scollegato, arti spastici divisi tra contrazioni involontarie neuronali e botte di avvio sub-routinarie inviate dal nucleo per sorreggere l'impalcatura guasta del bestione a terra. Strisciò rovesciandosi nel proprio fango siero di propellente alzandosi piegato a mezz'asta rifissando cavi muscolari con uno schiocco viscido in assetto di guerra. 
+
+Ventidue percento in corsa continua.
+
+Il traliccio del macchinario centrale vibrò. Scollò calcinacci dalle putrelle calcinate dal fumo zolfo delle flange svitate. I gas saturi cuocevano l'ambiente raddoppiando temperatura ambientale, friggendo strati lipidici della pelle in una crosta di sudore bollito sulle sopracciglia nere di fuliggine. Il cavallotto principale esplose schioccando filamenti in rame abbagliando la zona come folgore pura scaricando in terra serpi infuocate sulla poltiglia idraulica. 
+
+Trentanove percento e i codici deflagrarono nel monitor impazzito tranciati da rami di errore continui spezzati dal software antagonista in tempo reale. 
+
+Cyrus riagguantò spunto fisico sfondando un colpo laterale sul torace a pugno chiuso all'altezza del costato. La forza robotica perforò cartilagini ascellari di Claudio incrinando tre costole fluttuanti. L'ingegnere franò spaccando il mento sul ferro zigrinato scorticandoselo ma le dita sanguinarie tennero fermo incuneato lo scatolotto nero incastrato fino in morte con tutta la presa flettente delle nocche spinate.
+
+Laura ruotò spostando baricentro infierendo con l'uncinotro in ferro sull'articolazione rotulea del nemico sgretolandogli menisco cibernetico battendo con peso gravitazionale spingendo in avanti su stantuffi. L'uncino piegò sterno e ferro agganciando lo chassis ribaltandolo in caduta disarticolare contro le pozzanghere sversate del liquido ambrato tranciando connettori.
+
+Cinquantasette percento e fiotti di acido fumo tossico sprigionato dai polimeri andati. 
+
+«Laura fuori, scappa!» 
+
+«Ero e sono qui.» 
+
+«VIA, COPERTURA!» rantolò Claudio, bave rosse agli angoli masticando poltiglia salata sulle labbra graffiate gonfie e piene del suo sangue riversato dai polmoni. 
+
+Settantadue percento. La putrella orizzontale in titanio scese in basso con fragore di terremoto abbattendo detriti. ABITES arrancava strozzato nelle ramificazioni isolando schede ma il trojan strisciava avvinghiato sulle medesime piste digitali del patogeno infettandogli sorgenti di rete madri succhiando linfa per mandarlo in asfissia e ordinarne collasso distruttivo profondo nel terminale.
+
+Ottantaquattro percento. 
+
+L'esecutore in pezzi faticava smembrato nel calore termico. La gamba artificiale sbiancata trascinava ferro e carrelli divelti strusciando contro pozzanghera viscida prelevando dal cinturino la fondina disarcionata dell'optica rigata, l'avambraccio sollevato e dritto con canna da novanta orizzontale verso la radice nasale di Claudio Ferretti piegato sanguinante ma piantato nel muro d'acciaio bollente. 
+
+Novantuno percento. L'allarme ululò raddoppiando spettri decibel fondendo membrane trasparenti per ostruzione fisica ambientale mortale. 
+
+«Cyrus.»
+
+Il colpo di Laura spaccò vibrazioni di metalli arroventati e gas mefitici tossici. Sfiorò pilastri rimbombando ferma e netta nell'esofago pulita da terrore inutile o tentennamenti deboli e insulsi, tagliente per la gola del boia a tiro fermo. 
+
+«Cyrus Almeida.» sfibrò appuntando iridi infuocate addosso alla poltiglia d'uomo macchina distrutta ma armata in trazione. «A Lisbona.» 
+
+Corto microscopico deflagrò nel fascio nodale retrostante dell'ingegnere storpio. L'articolazione capovolta piegò il setto di dieci millimetri deviando su un ricalcolo sistemico inviato dai micro-sensori nervosi in perenne attrito collidente con gli ammassi ricordi pregressi bloccati chimicamente dai cerotti neurali. I nanobot stagnarono affogati nell'emozione, spaccando latenze difensive esterne per tre secondi scoprendo uno specchio vivo, straziato dal trauma irrisolto del lutto strozzato dal sistema, due fessure oculari slargate dall'apnea cibernetica improvvisamente schiacciato dal macello paterno. 
+
+Novantasei percento superati ed encriptati nei frammenti. 
+
+Scarbone tettoia rovinò sulla turbina decapitandola flettendo cascata di lamiere di copertura spazzate dall'edificio centrale. Rame in fiamme investì lo specchio liquido fiondando plasma giallo di ustione rovente incenerendo ringhiere calde corrose dalla nube furente di glicole accesa. Un cavo toccò terra friggendo muscolo tibiale squarciando Claudio rasoterra scagliandolo disteso in tremiti elettrocardiaci violenti aggrappato solo con unghe spaccate allo chassis verde vomito del server centrale che reggeva saldata per puro spirito estremo ed espansione umana la chiavetta dentro un connettore.
+
+Novantanove.
+
+Cento. Download finale distrutto su disco centrale in archiviazione irraggiungibile dai blocchi logici. 
+
+I display ronzarono verdognoli e infettati divorando dati criptati corrompendo l'eseguibile intero in mille spuri illegibili codificati come rigetto vitale in loop perpetuo spezzando cicli madre totalitario fin dentro abisso logaritmico. Bui assoluti nelle viscere dell'essere artificiale divino abbattuto senza perdono né scudi salvifici e silenziato d'ogni rumore di ingranaggio soppiantato in disconessione fisica brutale nel sottosuolo di Roma smantellata nel vuoto. 
+
+Claudio avulse il master portando appresso plastiche triturate sanguinolento ma integro nelle dita massacrate aggrappato forte chiudendo scocca ferrea nell'abbraccio salvando se stessso dall'oblio.
+
+Cyrus piegato contro un montacarichi rugginoso raggomitolato distrutto in pezzi su lamiere di scarico divelte col fango sulla divisa. Fisso sulle piastre bagnate slargato in stupore smisurato impietrito angosciato scosso flettendo cuore orfano solo privo della protezione dei numi logaritmici digitali che non avrebbero coperto la carne della mortalità, distrutto nel pianto assente spingendogli in gola sangue disperato piagante umano di perdono e resa finale irrecuperabile nell'ora esatta del riapproprio dolorosissimo organico sfibrante e mortifero.  
+
+Claudio scavalcatò i blocchi sgombrò visuale intrecciandosi nel contatto fisico sicuro gelido glaciale perfetto rassicurante e pronto via occhi in mezzo alla parete abbattuta sulle rovine, afferrato graffiato per indumenti squarciati sulla piastrella polverizzata per uscire scampando nel pozzo aperto d'un vuoto abissale scappando.
+
+Corse divorando fango scuro sporco freddo alle caviglie spinte spinte e spinte in avanti rullando pesi tra respiri bollenti bruciore trafiato nei passaggi che l'edificio sopra minava sgretolando l'antica fondazione a sassi macigni abbattutisi per smantellare intera fortezza marcia infame e inquinata su terra viva respirata sperando in fuga che mattina fosse e mai ombra fosse di eroi morti sotto pietre macigni sepolcrali pesanti d'una città sfatta da tiranno smantellato in briciole su suolo.
+
+Segnale d'apocalisse OMEGA non correva scivolava intranet e reti mortali d'abites. Batteva ali viaggiava londra aerei spaccati rottami strusciava su fango feticcio al polo in stalle radio e cavi tagliati da squali per scuotere ribelli al mondo che mai sarebbe arreso per cellule libere intaccate spoglie ed esposte difendendo ossigeno fino in battuto osso carne atomi e anime al suolo spazzato di silicio fino su polvere fredda che spaccato d'ultima catena voluta libertà impellente fino ultima notte al mondo in terra buia smantallata al vuoto dell'eternità infame distrutta in cielo.`
