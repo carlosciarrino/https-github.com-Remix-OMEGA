@@ -45,7 +45,7 @@ Capitolo 10 - Il Perimetro Interno
   10.3 Macro-Capitolo 29: Sangue sui Server
 Capitolo 11 - Il Nucleo Freddo
   11.1 Macro-Capitolo 30: La Genealogia del Controllo
-  11.2 Macro-Capitolo 31: Il Cuore di Vetro
+  11.2 Macro-Capitolo 31: La Piazza in Fiamme
   11.3 Macro-Capitolo 32: L'Intercapedine
 Capitolo 12 - Il Dialogo con Dio
   12.1 Macro-Capitolo 33: Il Dialogo
