@@ -1,7 +1,7 @@
 export const chapter33Content = `Macro-Capitolo 33: Il Dialogo sotto la Pioggia
 [EUR - VASCHE DI DECANTAZIONE ESTERNE - CLAUDIO, LAURA E CYRUS]
 La pioggia autunnale scrosciava violenta sull'EUR. Il piazzale era un mare di cemento fradicio. Dopo l'uscita dalla botola, Claudio e Laura correvano verso il lago artificiale. Non era più il bacino d'acqua sereno di un tempo. Era stato convertito in un immenso impianto di raffreddamento a cielo aperto. Quattro vasche rettangolari ciclopiche, scavate nel marmo romano, raccoglievano il glicole industriale pompato fuori dalla Torre.
-Le pompe idrauliche d'emergenza esterne, slegate dalla rete neurale centrale, continuavano a battere. Un rombo monotono, un cuore meccanico che si ostinava a pulsare in un cadavere. L'aria bruciava di chimica fredda spazzata dal vento. Un retrogusto amaro di rame e ozono bagnato mordeva la lingua e graffiava le tonsille.
+Le pompe idrauliche d'emergenza esterne, slegate dalla rete neurale centrale, continuavano a battere. Un rombo monotono, un cuore meccanico che si ostinava a pulsare in un cadavere. L'aria bruciava di chimica fredda spazzata dal vento. Un retrogusto amaro di rame e aria elettrica bagnata mordeva la lingua e graffiava le tonsille.
 Claudio inciampò su un groviglio di cavi smussati emersi dall'asfalto spaccato. La pioggia gli incollava i capelli unti di sangue alla fronte. Respirava a fatica. Guardò le vasche nere. I lampi illuminavano a giorno il perimetro di metallo arrugginito. 
 E un lampo illuminò anche la figura che li aspettava in mezzo alle passerelle sospese sulle vasche.
 Cyrus.

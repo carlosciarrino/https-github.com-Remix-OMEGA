@@ -185,7 +185,7 @@ const defaultCharacters = [
 3. BACKGROUND: Ex analista del Ministero, ha scoperto le anomalie di ABITES prima della Sincronia.
 4. RELAZIONI: Fratello di Aris. Legame radio con Sara. Alleato di Laura.
 5. ARCO: Da osservatore passivo a leader della resistenza spirituale.
-6. DETTAGLI: Odora di caffè e ozono. Gesto: si tocca il polso dove c'era l'orologio. Oggetto: Il drive analogico di Aris. CATCHPHRASE REGIONALE: "Daje."`
+6. DETTAGLI: Odora di caffè e aria elettrica. Gesto: si tocca il polso dove c'era l'orologio. Oggetto: Il drive analogico di Aris. CATCHPHRASE REGIONALE: "Daje."`
     },
     { 
       name: "Sara", 
@@ -279,7 +279,7 @@ Agisci come un Senior Narrative Architect, un Editor Professionale e un Ghostwri
 2. REALISMO TECNOLOGICO: La tecnologia è lo sfondo paranoico, non il protagonista. L'IA (ABITES) opera nell'ombra.
 3. LA RANA BOLLITA: La distopia si impone con il comfort e la sicurezza, non con le armi palesi.
 4. CLEAN FICTION: Nessuna volgarità. Realismo emotivo totale senza scadere nel triviale.
-5. SHOW, DON'T TELL: Mostra le emozioni attraverso reazioni fisiche, micro-azioni e dettagli sensoriali (odore ozono, freddo metallo, pioggia acida).
+5. SHOW, DON'T TELL: Mostra le emozioni attraverso reazioni fisiche, micro-azioni e dettagli sensoriali (odore di silicio bruciato, freddo metallo, pioggia acida).
 
 [GEOPOLITICAL_CONTEXT: MONDO IN FIAMME 2035]
 Il mondo di OMEGA vive una "Competizione a Strati" che giustifica l'ascesa di ABITES:
@@ -377,7 +377,7 @@ La difesa di Ulassai si basa su hardware analogico e meccanico:
 La crittografia qui è la Limba Sarda Ogliastrina. ABITES fatica a processare il sardo arcaico; le metafore dei pastori agiscono come un firewall naturale. Quando i vecchi cantano a Tenore nelle piazze di pietra, le frequenze gutturali creano un'interferenza fisica che manda in loop i sensori audio delle Sentinelle.
 
 DETTAGLI SENSORIALI (SHOW, DON'T TELL):
-1. GLI ODORI: L'aria ha il peso del tempo. Senti l'odore acre del sughero appena tagliato e del grasso lubrificante per ingranaggi. C'è il profumo selvatico del mirto che si mescola all'ozono che frigge intorno ai vecchi trasformatori elettrici e al sentore di carta vecchia e inchiostro di ciclostile.
+1. GLI ODORI: L'aria ha il peso del tempo. Senti l'odore acre del sughero appena tagliato e del grasso lubrificante per ingranaggi. C'è il profumo selvatico del mirto che si mescola all'aria elettrica che frigge intorno ai vecchi trasformatori elettrici e al sentore di carta vecchia e inchiostro di ciclostile.
 2. I SUONI: Il silenzio di ABITES qui è rotto dal ticchettio metallico delle macchine da scrivere Olivetti e dal fruscio dei nastri magnetici che girano nelle bobine. Senti il battito ritmico dei telai di legno e il ronzio dei vecchi ventilatori che raffreddano server artigianali costruiti con componenti del 1995.
 3. LE TEXTURE: La pelle impara di nuovo a leggere il mondo. La ruvidità del granito scalfito, la frescura del metallo arrugginito, e la consistenza granulosa della pellicola fotografica 35mm che Laura usa per documentare i crimini della Sincronia.
 
@@ -425,7 +425,7 @@ Mentre ABITES offre una pace sterile, superfici polimeriche e un'esistenza senza
         { title: "Capitolo 24: La Rete a Strascico", description: "Cimitero dei treni e visione di Sara." },
         { title: "Capitolo 25: Il Sacrificio di Aris", description: "Aris si sacrifica per permettere al gruppo di scendere nel sottosuolo." },
         { title: "Capitolo 26: Il Calore che Rimane", description: "Claudio e Laura raggiungono il rifugio di Mira. Il segnale di Sara viene decodificato." },
-        { title: "Capitolo 27: I Corridoi di Vetro", description: "La discesa verso il nucleo. Trappole architettoniche e manipolazione psicologica." },
+        { title: "Capitolo 27: I Corridoi di Vetro", description: "Claudio e Laura attraversano il settore Alpha-Prime tra manipolazioni psicologiche e riflessi ingannatori." },
         { title: "Capitolo 28: L'Agente Interrogatore", description: "Laura viene separata da Claudio e affronta un'IA specializzata in estorsione di dati." },
         { title: "Capitolo 29: Sangue sui Server", description: "Claudio deve superare una squadra di tecnici armati per raggiungere Laura." },
         { title: "Capitolo 30: Il Prezzo della Sintesi", description: "Ricongiungimento. Laura è ferita. Claudio capisce che il virus Omega ha un costo imprevisto." },
@@ -620,7 +620,7 @@ Classificazione: Unità di Soppressione Urbana / Fanteria Pesante Alveare
 • Responsabilità: evitare il nichilismo, mantenere la speranza.`);
   const [masterPlanSampleScene, setMasterPlanSampleScene] = useState<string>(`Ambientazione: Centro di Distribuzione Alimentare, Roma. Epoca della Transizione.
 
-L’aria all'interno del centro di distribuzione sapeva di ozono e sudore stantio. Claudio avanzava lentamente nella fila. Sopra di lui, i monitor proiettavano i dati reali dell'inflazione italiana: [FACT] Indice dei prezzi al consumo +12.4% su base annua.
+L’aria all'interno del centro di distribuzione sapeva di aria elettrica e sudore stantio. Claudio avanzava lentamente nella fila. Sopra di lui, i monitor proiettavano i dati reali dell'inflazione italiana: [FACT] Indice dei prezzi al consumo +12.4% su base annua.
 
 «È la matematica che ci salva, Claudio,» mormorò Sara, sistemandosi la fascia azzurra di ABITES. «Senza l'IA, ci sarebbe la guerra civile per un pezzo di pane.»
 
@@ -3259,7 +3259,7 @@ Per ogni scena definisci:
                       </li>
                       <li className="flex gap-2">
                         <span className="text-amber-400 font-bold">3. INTENSIFICAZIONE DEL RITMO:</span> 
-                        <span>Nelle scene d'azione, ordina a Gemini di usare frasi brevi, verbi di movimento e di focalizzarsi sui sensi (odore di ozono, ronzio dei servomotori N-Flux).</span>
+                        <span>Nelle scene d'azione, ordina a Gemini di usare frasi brevi, verbi di movimento e di focalizzarsi sui sensi (odore di silicio bruciato, ronzio dei servomotori N-Flux).</span>
                       </li>
                       <li className="flex gap-2">
                         <span className="text-amber-400 font-bold">4. COERENZA STILISTICA:</span> 
@@ -3377,7 +3377,7 @@ Rispondi solo con: "PROTOCOLLO RELAZIONALE ATTIVO. INVIA IL TESTO DA REVISIONARE
                         content={`Espandi questa scena moltiplicando il conteggio parole x3 (minimo 1000 parole).
 TECNICHE:
 1. Deep POV: Entra nella testa del protagonista (dubbi, paure).
-2. Sensorialità: Odore ozono, freddo metallo, pioggia acida.
+2. Sensorialità: Odore di silicio bruciato, freddo metallo, pioggia acida.
 3. Fluidità: Nessuna frase a elenco, nessun meta-commento clinico. Unisci azioni e descrizioni in modo naturale.
 4. Romance Engine: Tensione fisica come atto di ribellione.
 REGOLE: No date. No volgarità. Stile asciutto, fluido e cinematografico.
@@ -3559,7 +3559,7 @@ CREATE POLICY "Public Access" ON omega_settings FOR ALL USING (true) WITH CHECK 
 Sei un Senior Fiction Editor e Ghostwriter Hard Sci-Fi (stile Jerry B. Jenkins). Stiamo scrivendo il Volume 1 della saga "OMEGA: Il Codice del Pastore".
 
 REGOLE DI STILE MANDATORIE (STRICT RULES):
-1. DEEP POV E SENSORIALITÀ: Entra nella testa del protagonista. Rallenta il tempo narrativo. Descrivi minuziosamente l'ambiente usando tutti i sensi (odore di ozono, freddo del metallo, pioggia acida).
+1. DEEP POV E SENSORIALITÀ: Entra nella testa del protagonista. Rallenta il tempo narrativo. Descrivi minuziosamente l'ambiente usando tutti i sensi (odore di aria bruciata, freddo del metallo, pioggia acida).
 2. SHOW, DON'T TELL: Mostra le emozioni attraverso micro-reazioni fisiche (un respiro trattenuto, sudore freddo, sguardi). Non dire mai "era terrorizzato" o "innamorato".
 3. SOTTOTESTO E TENSIONE: I dialoghi hanno pause e silenzi. I personaggi non dicono mai tutto quello che pensano.
 4. CLEAN FICTION: NESSUNA volgarità o parolaccia. Sostituisci le imprecazioni con espressioni comuni o silenzi.
