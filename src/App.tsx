@@ -3,7 +3,7 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-import { indexVol1 } from './chapters/indexVol1';
+import { volume1Data as indexVol1 } from './chapters/indexVol1';
 import { chapter1Content } from './chapters/chapter1';
 import { chapter2Content } from './chapters/chapter2';
 import { chapter3Content } from './chapters/chapter3';
@@ -19,7 +19,15 @@ import { chapter12Content } from './chapters/chapter12';
 import { chapter13Content } from './chapters/chapter13';
 import { chapter14Content } from './chapters/chapter14';
 import { chapter15Content } from './chapters/chapter15';
-import { chapter16Content as epilogueContent } from './chapters/epilogue';
+import { chapter16Content } from './chapters/chapter16';
+import { chapter17Content } from './chapters/chapter17';
+import { chapter18Content } from './chapters/chapter18';
+import { chapter27Content } from './chapters/chapter27';
+import { chapter39Content } from './chapters/chapter39';
+import { chapter40Content } from './chapters/chapter40';
+import { chapter41Content } from './chapters/chapter41';
+import { chapter42Content } from './chapters/chapter42';
+import { epilogueContent } from './chapters/epilogue';
 import { synopsisContent } from './chapters/synopsis';
 import { backCoverContent } from './chapters/backCover';
 import { authorInfoContent } from './chapters/authorInfo';
@@ -2014,11 +2022,19 @@ Constraints:
                         'vol-1-cap-13': chapter13Content,
                         'vol-1-cap-14': chapter14Content,
                         'vol-1-cap-15': chapter15Content,
-'vol-1-cap-16': epilogueContent,
-'vol-1-cap-17': indexVol1,
-'vol-1-cap-18': backCoverContent,
-'vol-1-cap-19': authorInfoContent,
-'vol-1-cap-20': copyrightContent,
+                        'vol-1-cap-16': chapter16Content,
+                        'vol-1-cap-17': chapter17Content,
+                        'vol-1-cap-18': chapter18Content,
+                        'vol-1-cap-27': chapter27Content,
+                        'vol-1-cap-39': chapter39Content,
+                        'vol-1-cap-40': chapter40Content,
+                        'vol-1-cap-41': chapter41Content,
+                        'vol-1-cap-42': chapter42Content,
+                        'vol-1-cap-19': epilogueContent,
+                        'vol-1-cap-20': JSON.stringify(indexVol1, null, 2),
+                        'vol-1-cap-21': backCoverContent,
+                        'vol-1-cap-22': authorInfoContent,
+                        'vol-1-cap-23': copyrightContent,
 
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               });
                       setPlots([{

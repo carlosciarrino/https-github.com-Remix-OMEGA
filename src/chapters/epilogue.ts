@@ -1,4 +1,4 @@
-export const chapter16Content = `EPILOGO
+export const epilogueContent = `EPILOGO
 
 [ROMA - DUE GIORNI DOPO IL RESET]
 L'inarrestabile onda di sgancio elettromagnetico nucleare si diffuse a raggiera. Un titanico cerchio invisibile di purificazione. Partiva nudo e violento dalla sommità ferita della Torre Nord. Si allargava veloce e prepotente verso i grigi confini sterrati del Lazio. 

@@ -1,66 +1,65 @@
-export const indexVol1 = `Indice Strutturale del Volume 1: OMEGA
-ATTO I: IL CEMENTO E L'ALGORITMO
-Capitolo 1 - La Caduta Analitica
-  1.1 Scena: Prologo - L'Eclissi di Roma
-  1.2 Scena: L'Estetica del Silicio
-  1.3 Scena: La Geometria del Consenso
-Capitolo 2 - Il Controllo Delle Masse
-  2.1 Scena: Fantasmi nelle Catacombe
-  2.2 Scena: Il Primo Sangue
-  2.3 Scena: Emorragia
-ATTO II: LE VENE DI ROMA
-Capitolo 3 - Sotto il Perimetro
-  3.1 Scena: Deviazione
-  3.2 Scena: L'Invasione Pediatrica
-  3.3 Scena: L'Ultima Alba
-Capitolo 4 - Pressione Termica
-  4.1 Scena: Cortocircuito e Sangue
-  4.2 Scena: I Sommergibili
-  4.3 Scena: L'Agnello di Dati
-Capitolo 5 - Il Crollo Fisico
-  5.1 Scena: Carne, Silicio e Vetro
-  5.2 Scena: L'Eclissi del Silicio
-  5.3 Scena: L'Incudine degli Abissi
-ATTO III: LA VIA PER L'EUR
-Capitolo 6 - Oltre le Mura Morte
-  6.1 Scena: Le Ceneri della Fuga
-  6.2 Scena: Il Carico Fantasma
-  6.3 Scena: Febbre e Asfalto
-Capitolo 7 - Il Passaggio Arcaico
-  7.1 Scena: La Vena di Tufo
-  7.2 Scena: Il Fiume Nero
-Capitolo 8 - Sopravvivenza e Breccia
-  8.1 Scena: Acqua e Tungsteno
-  8.2 Scena: Polvere e Ruggine
-  8.3 Scena: La Breccia Termica
-  8.4 Scena: Sub-Routine Anticorpi
-ATTO IV: L'ASSEDIO ALLA TORRE
-Capitolo 9 - Infiltrazione Strategica
-  9.1 Scena: La Rete a Strascico
-  9.2 Scena: Il Sacrificio di Aris
-  9.3 Scena: Respiro del Sottosuolo
-Capitolo 10 - Il Perimetro Interno
-  10.1 Scena: Carne e Silicio
-  10.2 Scena: I Corridoi di Vetro
-  10.3 Scena: Sangue sui Server
-Capitolo 11 - Il Nucleo Freddo
-  11.1 Scena: La Genealogia del Controllo
-  11.2 Scena: La Piazza in Fiamme
-  11.3 Scena: L'Onda d'Urto Globale
-Capitolo 12 - Il Dialogo con Dio
-  12.1 Scena: Il Dialogo
-  12.2 Scena: L'Iniezione
-  12.3 Scena: Effetto a Cascata
-ATTO V: IL RESET DI ROMA
-Capitolo 13 - La Grande Fuga
-  13.1 Scena: Caduta Libera
-  13.2 Scena: Terra Bruciata
-Capitolo 14 - L'Eclissi Totale
-  14.1 Scena: Le Strade Spezzate
-  14.2 Scena: Danni Collaterali
-Capitolo 15 - L'Ultima Trasmissione
-  15.1 Scena: La Base della Torre
-  15.2 Scena: Tre Minuti di Vuoto
-  15.3 Scena: L'Inserimento
-Epilogo
-  E.1 Scena: Epilogo: L'Eco nel Sangue`;
+import { chapter1Content } from './chapter1';
+import { chapter2Content } from './chapter2';
+import { chapter3Content } from './chapter3';
+import { chapter4Content } from './chapter4';
+import { chapter5Content } from './chapter5';
+import { chapter6Content } from './chapter6';
+import { chapter7Content } from './chapter7';
+import { chapter8Content } from './chapter8';
+import { chapter9Content } from './chapter9';
+import { chapter10Content } from './chapter10';
+import { chapter11Content } from './chapter11';
+import { chapter12Content } from './chapter12';
+import { chapter13Content } from './chapter13';
+import { chapter14Content } from './chapter14';
+import { chapter15Content } from './chapter15';
+import { chapter16Content } from './chapter16';
+import { chapter17Content } from './chapter17';
+import { chapter18Content } from './chapter18';
+import { chapter27Content } from './chapter27';
+import { chapter39Content } from './chapter39';
+import { chapter40Content } from './chapter40';
+import { chapter41Content } from './chapter41';
+import { chapter42Content } from './chapter42';
+import { epilogueContent } from './epilogue';
+import { synopsisContent } from './synopsis';
+import { authorInfoContent } from './authorInfo';
+import { backCoverContent } from './backCover';
+import { copyrightContent } from './copyright';
+
+export const volume1Data = {
+  title: "OMEGA",
+  subtitle: "Decadenza e Ruggine",
+  author: "Thiago Volkov",
+  year: 2026,
+  copyright: copyrightContent,
+  synopsis: synopsisContent,
+  chapters: [
+    { id: 'cap1', title: 'Capitolo 1', content: chapter1Content },
+    { id: 'cap2', title: 'Capitolo 2', content: chapter2Content },
+    { id: 'cap3', title: 'Capitolo 3', content: chapter3Content },
+    { id: 'cap4', title: 'Capitolo 4', content: chapter4Content },
+    { id: 'cap5', title: 'Capitolo 5', content: chapter5Content },
+    { id: 'cap6', title: 'Capitolo 6', content: chapter6Content },
+    { id: 'cap7', title: 'Capitolo 7', content: chapter7Content },
+    { id: 'cap8', title: 'Capitolo 8', content: chapter8Content },
+    { id: 'cap9', title: 'Capitolo 9', content: chapter9Content },
+    { id: 'cap10', title: 'Capitolo 10', content: chapter10Content },
+    { id: 'cap11', title: 'Capitolo 11', content: chapter11Content },
+    { id: 'cap12', title: 'Capitolo 12', content: chapter12Content },
+    { id: 'cap13', title: 'Capitolo 13', content: chapter13Content },
+    { id: 'cap14', title: 'Capitolo 14', content: chapter14Content },
+    { id: 'cap15', title: 'Capitolo 15', content: chapter15Content },
+    { id: 'cap16', title: 'Capitolo 16', content: chapter16Content },
+    { id: 'cap17', title: 'Capitolo 17', content: chapter17Content },
+    { id: 'cap18', title: 'Capitolo 18', content: chapter18Content },
+    { id: 'cap27', title: 'Capitolo 27', content: chapter27Content },
+    { id: 'cap39', title: 'Capitolo 39', content: chapter39Content },
+    { id: 'cap40', title: 'Capitolo 40', content: chapter40Content },
+    { id: 'cap41', title: 'Capitolo 41', content: chapter41Content },
+    { id: 'cap42', title: 'Capitolo 42', content: chapter42Content },
+  ],
+  epilogue: epilogueContent,
+  authorInfo: authorInfoContent,
+  backCover: backCoverContent
+};
