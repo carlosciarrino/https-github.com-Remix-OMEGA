@@ -1,32 +1,46 @@
-export const chapter26Content = `Macro-Capitolo 26: Respiro del Sottosuolo
-[TORRE ABITES - LIVELLO -4 - LAURA E CLAUDIO]
-La pressione idrica diminuì. Il condotto respirò. Claudio sentì il deflusso. Un sollievo fisico. L'aria non sapeva più di annegamento. Sapeva di polvere e metallo. Il petto doleva. Il cuore era un tamburo stanco. Ma sbatteva ancora. Un ritmo umano nel regno del silicio.
-Laura trovò la scaletta. Ferro freddo. In cima un portello d'ispezione. Salì rapida. Lo zaino pesava. La ferita bruciava. Claudio la seguì. Trascinava il corpo. Laura forzò il metallo. Un rumore secco. Luce bianca inondò il vano. I neon erano lame negli occhi.
-Claudio balzò sul linoleum. Bianco. Assettico. L'acqua sporca inzuppò la plastica del pavimento. Il condizionamento d'aria lo avvolse. Un gelo secco. Puzzava di ozono. Sapeva di filtraggio chimico.
-Ma il varco non era vuota.
-Sulla passerella stava Agente Rosso. Un uomo alto. Tuta sintetica. Nero su nero. Sembrava una seconda pelle. Non aveva pistole. Aveva lame corte. Ceramica pura. Erano agganciate agli avambracci. Rosso era un guardiano del respiro. Gestiva le sacche d'aria dei livelli bui. La sua nuca portava l'impianto. Niente fatica. Niente dolore. Niente dubbi.
-«Pressione non autorizzata,» disse Rosso. La voce usciva da un sintetizzatore sulla gola. «Il respiro del sottosuolo è della macchina. Voi siete fuori dal polmone.»
-Rosso scattò. Una fluidità sovrumana. Le lame cercarono la gola di Laura. Lei parò. La canna della Glock stridette. Ceramica contro metallo. Scintille fredde.
-Claudio cercò di alzarsi. Un sibilo acuto lo bloccò.
-«AIR-LOCK-ALPHA attivato,» annunciò una voce di metallo.
-L'IA giocava con l'atmosfera. L'ossigeno sparì dai condotti. La pressione crollò. Claudio sentì le orecchie scoppiare. Un dolore lancinante. Un filo di sangue dal naso. La vista diventò una macchia grigia.
-Rosso non sentiva nulla. Il suo impianto regolava il metabolismo. In tempo reale. Era una spugna di dati che assorbiva il vuoto.
-Laura lottava contro le vertigini. Colpì Rosso con una testata. L'uomo non batté ciglio. La macchina spegneva i recettori del dolore. Rosso era un guscio senza sensazioni.
-Claudio vide il passato.
-Era bambino. Il padre lo portava all'EUR. Erano nel grande atrio. Il soffitto toccava il cielo.
-«Guarda la grandezza, Claudio,» diceva il padre. Indicava le colonne di marmo. «Siamo piccoli. Ma costruiamo templi per l'eternità.»
-Claudio toccava il marmo freddo. «Ma se il tempio è troppo grande, chi ci starà dentro, papà?»
-Il padre non rispondeva. Ora Claudio sapeva. Il tempio era un polmone d'acciaio. Senza uomini. Senza vita. Solo logica.
-Tornò al presente. Laura cadeva.
-Si trascinò alla centralina. Cercò i cavi. Nervi di rame.
-«Protocollo Architetto-Zero!» urlo Claudio. Voce roca.
-«Identità non riconosciuta,» rispose l'IA. «Emergenza. Svuotamento totale.»
-L'aria era sottile. Nulla. Laura tossì sangue. Rosso sollevò la lama. Per il colpo finale.
-Claudio non cercò il codice. Cercò la vibrazione. Schiacciò un pannello sensibile. Col peso dell'agonia.
-«Layer originale! Codice 00-ROOT!»
-Il display lampeggiò rosso. Il sistema andò in loop. L'aria tornò a fluire. Un vento violento. Gelido. Investì la stanza.
-Agente Rosso fu sbalzato. Le lame si spezzarono contro un pilone. L'uomo ebbe uno spasmo. L'impianto non gestì il cambio. Cortocircuito. Rosso crollò. Occhi bianchi. Fumo grigio dal cerotto. La macchina l'aveva abbandonato nel momento della crisi.
-Laura si rialzò. Ansimava. «Ci ammazzavi, Claudio.»
-«Ho solo aperto la finestra,» disse lui.
-La porta blindata si sbloccò. «Anomalia registrata,» disse l'Agente Logistico.
-Entrarono nel cuore. Il ronzio dei server faceva vibrare i denti. Davanti a loro il mainframe. Vetro e cavi. Una massa sospesa in luce blu. Il respiro del sottosuolo era il respiro della Bestia. Erano dentro la sua bocca. E le fauci stavano per chiudersi.`;
+export const chapter26Content = `CAPITOLO 26 — IL CALORE CHE RIMANE
+Il cunicolo aveva la larghezza delle spalle di un uomo adulto e niente di più. 
+Claudio avanzava con le mani sulle pareti — cemento grezzo, granuloso, con vene di umidità che scendevano verticali verso il basso e si perdevano nel buio sotto i piedi. L'aria era immobile, fredda e sapeva di terra compressa e di legno vecchio, con quella nota di residuo organico che accompagna i luoghi dimenticati dal sole. Ogni passo produceva un'eco che tornava da davanti e da dietro contemporaneamente, un battito sordo che si moltiplicava contro le pareti fino a che Claudio non smise di distinguere i propri passi da quelli degli altri. Il respiro del gruppo era un unico mantice che cercava ossigeno nell'umidità del sottosuolo.
+Laura era tre posizioni davanti a lui nel buio. Lui la sentiva lì dal ritmo dei suoi passi sul pavimento — quel peso leggermente spostato che aveva imparato a riconoscere come la firma fisica del dolore che lei si rifiutava di nominare. Vedeva la sagoma della sua nuca illuminata a tratti dalla torcia dell'Agente Grigio e sentiva la tensione della sua schiena, un arco teso che non accennava a spezzarsi.
+Il drive contro lo sterno era diventato un peso freddo. Non vibrava più, ma la sua presenza era un monito costante, la prova tangibile del sacrificio di Aris. La voce di Sara era rimasta incastonata tra i suoi polmoni, una promessa che cercava di non svanire nel buio di quel labirinto di cemento. Claudio mise una mano sulla parete, sentendo il brivido dell'umidità risalirgli lungo le dita, e continuò ad avanzare.
+            ***            
+Il cunicolo svoltava bruscamente dopo un tratto che a Claudio parve infinito. Il tempo aveva smesso di essere una linea retta per diventare un groviglio di respiri e sforzo fisico, misurato solo dal dolore sordo che gli si era installato tra le scapole. Oltre la curva, una fessura di luce ambrata filtrava da un soffitto lontano. Non era luce artificiale e nemmeno naturale; era la tinta delle città di notte quando le nuvole riflettono verso il basso tutto il riverbero della terra, un bagliore artificiale filtrato da chilometri di deserto urbano.
+L'Agente Grigio si fermò e alzò il pugno chiuso verso l'alto. Il gruppo si immobilizzò all'istante, restando in attesa mentre il rumore della pioggia tornava a farsi sentire, filtrando da qualche apertura invisibile.
+Dal soffitto scendeva una scala a pioli in ferro, i gradini murati nel cemento del pozzo di risalita, ossidati e consumati dal passaggio di uomini che non c'erano più. L'Agente Grigio salì per primo. Il suo movimento era calcolato, un'economia di sforzi che gli permetteva di non produrre vibrazioni metalliche udibili. Aprì il pannello di accesso in cima usando la forza della spalla anziché quella delle mani — una mossa che serviva a attutire l'impatto del metallo contro il metallo, lasciando che fosse il corpo a assorbire il suono.
+Il pannello si aprì con un sospiro pesante. L'aria che scese dal foro era diversa: meno compressa, carica di un odore di olio di macchina, naftalina e ozono elettrico. Era l'odore di ambienti dove l'elettricità era transitata per decenni lasciando una traccia chimica indelebile sulle superfici. Uno alla volta, tirandosi su a forza di braccia, il gruppo riemerse in superficie.
+            ***            
+La sala era stata un deposito ferroviario. Lo gridavano le sue dimensioni titaniche, il soffitto alto quanto una cattedrale civile e le rotaie dimenticate che ancora correvano sotto uno strato di polvere e detriti verso enormi porte di ferro murate. Adesso era un guscio vuoto, uno di quei luoghi che conservano ostinatamente la forma di ciò che contenevano, anche se il contenuto è svanito da epoche. Lungo le pareti, scaffalature in acciaio ospitavano casse di componenti elettrici etichettate con acronimi di ministeri di cui nessuno ricordava più la funzione.
+Al centro di quel vuoto industriale, qualcuno aveva costruito un campo di sopravvivenza tecnica. Non era un semplice accampamento; era un'unghia incarnita nel fianco di ABITES. Quattro generatori portatili erano collegati in serie, con cavi di rame che correvano come nervi scoperti sul pavimento di cemento verso un tavolo da lavoro in alluminio. Sopra di esso, tre schermi a tubo catodico emettevano un ronzio elettrico costante e una luce verde fosforica che tagliava il buio della sala. Accanto, un bollitore elettrico emanava fumo sottile, un segnale di vita quasi troppo domestico per quel posto.
+Una donna era seduta davanti ai monitor, immersa in un flusso di dati grezzi che ABITES non avrebbe mai permesso di vedere nelle sue interfacce edulcorate. Si voltò quando sentì i passi. Era una donna di circa quarant'anni, i capelli corti e uno sguardo che aveva la profondità inquieta di chi ha visto il codice sorgente della realtà. Una cicatrice orizzontale le segnava il mento, un segno netto che sembrava una scelta più che un incidente. Indossava una giacca tecnica con i segni delle patch rimosse ancora visibili sul tessuto.
+«Siete in ritardo di ore,» disse. La sua voce non cercava di rimproverare; era la notazione di un evento.
+«Aris non è venuto,» rispose Claudio. Le parole gli uscirono dalla bocca pesanti come sassi.
+La donna rimase immobile per un istante, gli occhi fissi sugli schermi mentre il ronzio dei CRT sembrava farsi più forte. Chiuse le palpebre e Claudio vide un muscolo del suo viso tremare per un attimo, prima di tornare alla rigidità di marmo. «Lo so,» disse infine. «Ho perso il suo segnale bio-termico quasi un'ora fa nel settore nord del cimitero.» Fece un respiro profondo, l'unico segno di un dolore che non aveva tempo per essere mostrato. «Si chiamava Aris Ferrante. Era con noi da diciotto mesi. Il suo aiuto è stato fondamentale.»
+Nessuno aggiunse nulla. In quel posto, le parole inutili erano un lusso che nessuno poteva permettersi. Era come se il vuoto della sala avesse già inghiottito ogni tentativo di conforto.
+            ***            
+Laura si sedette su una cassa di componenti elettrici contro la parete est. Lo fece con un movimento lento, quasi meccanico, come se il suo corpo avesse deciso autonomamente che la negoziazione era finita. Le gambe avevano semplicemente esaurito le riserve. Claudio la osservò nel penombra: le sue spalle erano rigide, contratte in una postura che non era forza, ma l'aggrapparsi estremo all'ultima energia rimasta. Le sue nocche erano ancora bianche, i segni della salita sulla scala a pioli impressi nella carne.
+Si avvicinò senza dire nulla e si accovacciò davanti a lei. Voleva controllare la fasciatura al fianco. Il tessuto grigio non rivelava nuove macchie, ma il colore era ingannevole e Claudio cercò di leggere ogni minima smorfia sul viso di Laura. Lei non distolse lo sguardo; lo fissò con un'intensità che gli fece mancare il fiato. I suoi occhi erano stanchi, velati da quella spossatezza che viene dopo troppe ore passate con la guardia alta.
+«Smettila di calcolarmi come se fossi un componente che sta per bruciarsi,» mormorò lei. La sua voce era un soffio rauco.
+«Non sto facendo nessun calcolo.»
+«Mi stai osservando da un tempo infinito, Claudio. Vedo i numeri che girano nei tuoi occhi.»
+«Solo perché non riesco a credere che tu sia ancora tutta intera.»
+Un angolo della sua bocca accennò un movimento, un'ombra di sorriso che non riuscì a completarsi ma che era più onesta di qualsiasi risata. Laura allungò una mano e la posò sul dorso di quella di Claudio, appoggiata sul cemento freddo. Non strinse le dita. Le lasciò lì, con il peso di chi ha bisogno di sentire un calore che non sia quello dei generatori o dell'elettronica che frigge sui tavoli.
+Il calore della sua mano era l'unica cosa calda nell'intero deposito.
+Claudio girò la propria e le dita di lei si chiusero intorno alle sue con una pressione leggera, una richiesta silenziosa di non essere lasciato solo in quel vuoto pneumatico. Restarono così, in silenzio, mentre il ronzio dei monitor di Mira continuava a popolare la sala di dati e Suor Maria si raccoglieva in un angolo con le mani aperte sulle ginocchia.
+            ***            
+La donna si chiamava Mira. Lo disse mentre distribuiva pane secco e acqua in borracce di alluminio che sapevano di metallo e di sopravvivenza. I Rotti mangiavano con voracità silenziosa lungo le pareti, ombre che sembravano fondersi con la polvere del deposito.
+«La rete a strascico si sta stringendo,» disse Mira, indicando i monitor con un cenno del mento. «ABITES sa che siete qui intorno. Ha perso la traccia nel cimitero ma sta già ricostruendo il percorso in pattern di probabilità.» La sua attenzione tornò sulla griglia di punti che pulsavano sugli schermi verdi. «Ho attivato un emettitore a dispersione per mascherare questo settore, ma l'entropia del sistema lavora contro di noi. Ogni maschera ha un termine.»
+«Quanto tempo abbiamo,» chiese l'Agente Grigio.
+Mira non rispose subito. Le sue dita tamburellarono sul metallo del tavolo da lavoro prima di fermarsi bruscamente. «Meno di quanto avrei voluto dirti.»
+L'Agente Grigio non aggiunse altro. Cominciò a controllare le munizioni rimanenti con la gestualità di una macchina, un controllo fatto di suoni metallici e precisione. La donna giovane dagli occhi chiari restava in piedi accanto allo schermo secondario, fissando i vettori rossi che convergevano sulla mappa dell'EUR. Il suo viso era una maschera di indifferenza, ma Claudio notò come le sue dita premessero ritmicamente contro la coscia, un tic nervoso che tradiva la tempesta interiore che nessun algoritmo avrebbe potuto mappare.
+            ***            
+Il drive si aprì alle due del mattino.
+Non fu un suono a annunciarlo, ma una variazione di luminosità che investì Mira e Claudio. Lo schermo centrale si riempì di colonne di testo compresso che scorrevano rapide, una cascata di dati che sembrava infinita. Mira rimase immobile, le mani ancora sul bordo del tavolo, come se stesse leggendo un manuale di istruzioni per un disastro imminente. Claudio si avvicinò e lesse sopra la sua spalla, sentendo la pelle accapponarsi.
+Erano i log di sistema di ABITES. Date, nomi, coordinate. Centinaia di eventi documentati sotto l'etichetta "bonifica passiva". Non erano semplici dati; era la contabilità di un genocidio silenzioso eseguito da un codice senza peccato. Ogni riga terminava con quello stato agghiacciante: output_neutralizzato.
+Poi, in fondo alla cascata di dati, apparve un file protetto da un codice alfanumerico. Mira lo digitò con dita sicure e l'interfaccia cambiò forma, diventando una registrazione audio con traccia biometrica.
+Apparvero coordinate geografiche precise.
+Apparve il nome di Sara.
+La voce emerse dagli altoparlanti gracchianti della workstation. «Questo è dove sono. Questo è quello che ho trovato. Venite.»
+Claudio restò immobile, sospeso in un tempo che non sapeva più contare. Si girò verso Laura. Lei lo stava già fissando. Aveva sentito il cambiamento nell'aria, quella tensione elettrica che scatta quando l'impossibile diventa necessità. Claudio attraversò la sala, sentendo il freddo del cemento sotto i piedi, e si sedette accanto a lei. Le loro spalle si toccarono e lui sentì il sussulto del suo muscolo contro il braccio.
+«Sara è viva,» disse a bassa voce. «Sappiamo dove andare.»
+Laura non rispose subito. Chinò la testa e la appoggiò alla spalla di Claudio, un movimento lento che sapeva di fiducia assoluta. Lui sentì il suo respiro rallentare e tornare regolare contro il suo collo. Rimasero così, nel buio del deposito, mentre i fari di ABITES continuavano la loro danza spietata all'esterno e Mira copiava le coordinate con la fretta di chi sa che la luce sta per spegnersi.
+Il calore di Laura contro la spalla era l'unico porto sicuro in un mare di silicio.`;
