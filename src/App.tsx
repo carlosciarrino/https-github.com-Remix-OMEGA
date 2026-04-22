@@ -22,6 +22,8 @@ import { chapter15Content } from './chapters/chapter15';
 import { chapter16Content } from './chapters/chapter16';
 import { chapter17Content } from './chapters/chapter17';
 import { chapter18Content } from './chapters/chapter18';
+import { chapter19Content } from './chapters/chapter19';
+import { chapter20Content } from './chapters/chapter20';
 import { chapter27Content } from './chapters/chapter27';
 import { chapter39Content } from './chapters/chapter39';
 import { chapter40Content } from './chapters/chapter40';
@@ -456,6 +458,8 @@ Mentre ABITES offre una pace sterile, superfici polimeriche e un'esistenza senza
     chapter16Content,
     chapter17Content,
     chapter18Content,
+    chapter19Content,
+    chapter20Content,
     chapter27Content,
     chapter39Content,
     chapter40Content,
@@ -485,7 +489,12 @@ Mentre ABITES offre una pace sterile, superfici polimeriche e un'esistenza senza
     'vol-1-cap-13': chapter13Content,
     'vol-1-cap-14': chapter14Content,
     'vol-1-cap-15': chapter15Content,
-        'vol-1-cap-17': indexVol1
+    'vol-1-cap-16': chapter16Content,
+    'vol-1-cap-17': chapter17Content,
+    'vol-1-cap-18': chapter18Content,
+    'vol-1-cap-19': chapter19Content,
+    'vol-1-cap-20': chapter20Content,
+    'indexVol1': JSON.stringify(indexVol1, null, 2)
   });
 
   const [selectedDraftVol, setSelectedDraftVol] = useState<number>(1);
@@ -681,7 +690,12 @@ Claudio guardò la bilancia digitale al tornello. Non misurava solo il peso del 
             if (settings.master_plan_sample_scene) setMasterPlanSampleScene(settings.master_plan_sample_scene);
             if (settings.ten_volume_plan) setTenVolumePlan(settings.ten_volume_plan);
             if (settings.biblical_events) setBiblicalEventsState(settings.biblical_events);
-            if (settings.chapter_content) setChapterContent(prev => ({ ...prev, ...settings.chapter_content }));
+            if (settings.chapter_content) {
+              const safeChapterContent = Object.fromEntries(
+                Object.entries(settings.chapter_content).map(([k, v]) => [k, typeof v === 'string' ? v : JSON.stringify(v, null, 2)])
+              );
+              setChapterContent(prev => ({ ...prev, ...safeChapterContent }));
+            }
           }
         }
       } catch (err: any) {
