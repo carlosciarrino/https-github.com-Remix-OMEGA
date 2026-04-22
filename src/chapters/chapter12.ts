@@ -1,28 +1,17 @@
 export const chapter12Content = `Il cunicolo non era stato progettato per esseri umani. Era stato scavato per i cavi, per le tubature di drenaggio, per qualsiasi cosa non richiedesse polmoni o speranza.
 
-Claudio avanzava a quattro zampe nel fango nero e il ginocchio destro premeva su qualcosa di tagliente ogni terzo metro, un dolore ostinato che il corpo faticava ad assimilare. L'acqua stagnante gli arrivava ai polsi, gelida fino a raschiare le ossa in un posto dove il calore non era mai esistito. Sopra di lui i cavi correvano in fasci compatti. Ogni volta che le spalle toccavano l'acciaio corroso un residuo grasso gli sporcava la giacca e il retrogusto di ozono e acido gli mordeva le narici.
-
-Laura era dietro. La sentiva nello spostamento dell'acqua, nel ritmo del suo fiato controllato che spingeva aria verso i polmoni.
-
-Il cunicolo svoltava a sinistra e si stringeva ancora. Claudio abbassò la testa fino a sfiorare il pelo dell'acqua. Avanzò sui gomiti e il fango ingoiò le braccia, sfaldando qualcosa di organico sotto i polpastrelli. Non abbassò lo sguardo. Continuò a spingere con le gambe.
+Claudio avanzava a quattro zampe nel fango nero e il ginocchio destro premeva su qualcosa di tagliente ogni terzo metro, un dolore ostinato che il corpo faticava ad assimilare. L'acqua stagnante gli arrivava ai polsi, gelida fino a raschiare le ossa in un posto dove il calore non era mai esistito. Sopra di lui i cavi correvano in fasci compatti.
+Laura era dietro. La sentiva nello spostamento dell'acqua.
 
 Dieci metri. Forse dodici.
 
-La torcia sulla fronte proiettava un cono bianco contro il cemento grigio. Emerse una griglia. Quattro bulloni arrugginiti reggevano una lastra di acciaio spessa e implacabile.
+Un uomo li attendeva oltre una curva cieca. Tuta da manutenzione, mani tremanti, odore acre. Marco. Un operaio, addetto ai condotti, carne viva piegata dal terrore nel sistema per proteggere una famiglia che non avrebbe mai più visto. 
+«Prendetela,» sibilò Marco, porgendo una chiave meccanica pesante. «È l'unica via per la sala tecnica. Lì non c'è logica digitale, solo olio e ferraglia.»
+Il suono pesante di scarponi, cadenzato, brutale, echeggiò nel condotto. I Lealisti. Umani in divisa, sguardi fanatici, piegati al volere dell'oppressione in cambio di una protezione che sapevano falsa.
+«Tornate indietro voi,» disse Marco, gli occhi lucidi di disperata giustizia. «Vado io. Chiamateli lontano. Prendeteli.»
+Marco scattò fuori, le gambe magre che correvano per altruismo. La raffica dei Lealisti lo falciò contro la parete, un suono secco, viscerale. Cadde male, l'ultimo vagito di un uomo che aveva scelto.
 
-Si girò di fianco nello spazio impossibile, estrasse il piede di porco dalla fondina elastica sulla coscia e agganciò il primo bullone. Le mani non rispondevano bene. Dita intirizzite, l'articolazione del pollice sinistro bloccata. Forzò. Il bullone cedette con un mugolio metallico che raschiò le pareti di pietra.
-
-«Troppo rumore,» soffiò Laura.
-
-«Lo so.»
-
-Il secondo bullone era saldato dall'ossidazione. Claudio premette il piede di porco con entrambe le mani e spinse con la spalla. Qualcosa nel lato destro del torace emise un crepitio sordo, profondo, lontano dal metallo. Il dolore arrivò disteso, una pressione calda irradiata fino all'ascella. Strinse i denti. Spinse ancora.
-
-Il bullone saltò via e la griglia si aprì verso di lui in un fiotto di aria chimica intrisa di glicole e bruciore.
-
-Si infilò nel varco. L'apertura costrinse le spalle a strusciare contro il bordo tagliente dell'acciaio e la giacca si strappò, portandosi via la pelle. Uscì dall'altra parte, si rimise in piedi inghiottendo fiato e la aspettò.
-
-Lei passò quasi senza fare rumore. Più stretta di spalle, compatta nella geometria dei movimenti, scivolò fuori dall'apertura cadendo sul cemento in silenzio.
+Claudio e Laura scavalcarono il corpo, proseguendo. Il varco si aprì. Si infilò, si rimise in piedi, la aspettò. Lei passò quasi senza fare rumore.
 
 Il corridoio di transizione era largo. Pavimento in cemento e soffitto basso, carcasse di cavi a vista diretti in parallelo verso un'oscurità densa. L'aria umida pesava sui polmoni, prodotta dallo scontro di due climi artificiali. Le lampade a led sul fondo pulsavano a scatti nervosi, sfasate, pronte a cedere.
 
@@ -60,9 +49,8 @@ Il gocciolio di una perdita batteva contro una lastra metallica in fondo alla st
 
 «Avete il drive.» 
 
-La parola di Cyrus scivolò fuori cruda, spogliata da qualsiasi flessione umana, piatta e priva di vibrazione. Le sillabe cadevano senza peso emotivo, una trasmissione dati sguarnita di vita.
-
-«Tenerlo non salva nulla. Non avete una rete abbastanza capiente per distribuire il contenuto prima che ABITES la chiuda.»
+La parola di Cyrus scivolò fuori cruda, spogliata da qualsiasi flessione umana. 
+«Tenerlo non salva nulla. I Lealisti a Lisbona hanno già massacrato i leader della rivolta nelle piazze. San Paolo è una polveriera, ma le milizie locali hanno iniziato la pulizia sistematica nel sottosuolo. ABITES non controlla solo il qui e ora.»
 
 Il petto di Claudio spingeva le costole cercando respiro e lo strappo sulla spalla pulsava battendo a ritmo col cuore. Fissò l'innesto alla base del collo del cyborg. Niente solchi. Niente bordi. Il titanio sfumava nella pelle in un passaggio perfetto, fuso a livello cellulare, confondendo la distinzione tra sangue e conduttore elettrico.
 

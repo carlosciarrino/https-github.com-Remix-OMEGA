@@ -56,9 +56,11 @@ Sesto dislivello crollato fischio ventilatori singhiozzi asmatici lame fessure a
 
 Ottavo ed ultimo battito scaglione sventrando varcatura finale verde laccato metallo liscio muto bollente ferro cieco scuro assente tastiera pannello infame cieco fisso invalicabile blocco spietato.
 
-Laura sferrò palmo nudo scontro acciaio arroventato incenerente urto bruciacchiante carne arrossata ritraendo morsa sbarrata sofferente arsa febbrina urto cocente dolorosissimo fiammea. Rimasero ancorati fissi zitti muti, rassegnati rimbombi, aria fiati soffi ranti fischi denti mascelle chiuse polpacci stanchi stremati logorati madidi sudore ruggine polvere fumo, fissando barriera zitta.
+Laura sferrò palmo nudo contro acciaio arroventato. Carne bruciò. Ritrasse mano. Rimasero ancorati. Fissi. Muti. Rassegnati rimbombi. Aria sporca. Ruggine, polvere, fumo. Fissarono barriera.
 
-Ritrasse ossa assettò ruvido deltoide spalla spigolando tesa scattante urto colpo brutale scasso spinta in fulmineo incazzato scossone rottura battente, cerniera cigolante divelta stridette abbattuta fuori uscente asse rotta scardine cedendo vento aria sbarrata aperta fuoriscita estirpo nero fiondante crudo svelante spazio apocalisse estesa. 
+Dalle ombre del corridoio emersero due sagome. Divisioni Lealisti. Non erano pattuglie di recupero, erano sciacalli. Il primo, viso sfregiato da una ustione chimica, teneva un manganello elettrico. Scintillava a vuoto. Non cercavano ordini, cercavano carne. Il secondo, spalle larghe, ridacchiava, un suono roco che grattava le pareti. Incastonarono stivali su detriti. Uno dei due colpì una rastrelliera metallica per il puro piacere del frastuono. Sputarono a terra. Avidi. Senza disciplina, solo fame di dominio su macerie.
+
+Laura non esitò. Sferrò colpo brutale scasso spinta in fulmineo scossone. Rottura battente. Cerniera cigolante divelta stridette. Abbattuta fuori asse. Scardine cedette. Vento aria sbarrata aperta fuoriscita estirpo nero fiondante crudo. Spazio apocalisse svelato. 
 
 ***
 
