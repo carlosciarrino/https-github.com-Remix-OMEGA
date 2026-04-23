@@ -1987,17 +1987,9 @@ Constraints:
                           summary: indexVol1.subtitle,
                           chapters: [
                             { title: "Sinossi", description: "Sinossi del Volume 1" },
-                            ...indexVol1.chapters.map(m => ({ title: m.title, description: "" }))
-                          ]
-                        },
-                        {
-                          volume: 1,
-                          name: "Metadata",
-                          chapters: [
-                            { title: "Copyright", description: "Informazioni sul copyright." },
-                            { title: "Indice del Volume 1", description: "L'indice completo e aggiornato." },
-                            { title: "Quarta di Copertina", description: "Testo per la quarta di copertina." },
-                            { title: "Presentazione e Ringraziamenti", description: "Informazioni sull'autore e ringraziamenti." }
+                            ...indexVol1.chapters.map(m => ({ title: m.title, description: "" })),
+                            { title: "Epilogo", description: "L'Eco nel Sangue." },
+                            ...indexVol1.metadata.map(m => ({ title: m.title, description: m.id }))
                           ]
                         }
                       ];
@@ -2026,7 +2018,7 @@ Constraints:
                         const nextIdx = indexVol1.chapters.length + 1;
                         newContent[`vol-1-cap-${nextIdx}`] = epilogueContent;
                         
-                        // Metadati mapping ordinato
+                        // Metadata mapping ordinato
                         newContent[`vol-1-cap-${nextIdx + 1}`] = copyrightContent;
                         newContent[`vol-1-cap-${nextIdx + 2}`] = JSON.stringify(indexVol1, null, 2);
                         newContent[`vol-1-cap-${nextIdx + 3}`] = backCoverContent;
