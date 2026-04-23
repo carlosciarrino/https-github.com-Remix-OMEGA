@@ -15,9 +15,6 @@ Aris riavvolse il plastico aspro. «Il tuo biglietto, ingegnere.»
 Il fucile d'assalto pesava. Ferro brutale e gelido raccolto senza esitazione dal tavolo. Il calcio s'incastrò saldo nel palmo destro. Quell'involucro rivendicava urti calibro.
 Claudio respirò a fondo l'odore chiuso militare rammendando visceralmente Sara incassata a Roma, sola nel suo muro cibernetico coraggioso a deviare l'Algoritmo mastodontico con incrollabile stoicismo e protezione. Quella donna in trincea meritava di vivere da libera creatura mortale.
 Strinse forte il caricatore. Il titanio andava fuso. Nessuna resa concessa.
-
-***
-
 Sara agganciò i movimenti francesi dai radar crittografati violati.
 Alle 04:17 un'anomalia esplosiva inondò il server di Parigi. Centinaia di droni d'assalto smossi ed intercettati sulle pianure del nord-ovest. Dubois stava infiammando le coste all'estero premendo il grilletto ribelle continentale in tempistica impeccabile chirurgica e solidale.
 Sara vagliò i dati furiosamente.
@@ -32,9 +29,6 @@ Chiuse a chiave tutte le frequenze nordiche spappolando i tunnel d'assegnazione 
 Il tombino soprastante rimbombò sotto le pedate.
 I mortali Celerini umanoidi sganciavano le cinture irruppendo militarmente e pesantemente al di sopra dei mattoni del rifugio battendo passi metodici distruttivi alieni alla compassione.
 Sara ingoiò aria nuda aprendo decisa il cassetto metallico logoro. Afferrò l'ostica brunitura letale della fiera Beretta automatica inserita dai partigiani. Ribatté il cane ricaricando l'anima della canna ruvida e solida d'acciaio pesato, abbassò gli occhi nel buio ed innalzò orgogliosa e fatale la bocca di fuoco verso la crepa della scala laterale attendendo risoluta ed invincibile l'apertura delle ostilità al fianco del fratello in armi emiliano distante centinaia di chilometri boscosi e feroci gelidi.
-
-***
-
 I pick-up mimetizzati sfondavano i tornanti appenninici a fari spenti.
 Laura artigliava la lamiera graffiata del cassone assorbendo nel telaio corporeo l'impatto distruttivo del terreno sdrucciolevole montano disastrato e gelido del predawn selvaggio. Tagliente brezza scendeva mortale avvinghiando polmoni e mucose fiondandosi spietata oltre le maglie logore delle sciarpe aspre, tracciando condanne biologiche alla muscolatura esposta affamata. I mezzi sbranavano trazioni impazzendo le gomme.
 Nebbie lattiginose umide ingoiavano la carrozzeria fusa al bosco scheletrico, cieco scorrere muto e disabitato. Aris fissava il fucile in braccio analizzando l'incursione idro-logistica programmata letale, l'ingloriosa traversata ombra destinata nell'acqua per sigillare l'annullamento cognitivo d'ABITES per salvare intelletti prossimi infantili europei.
@@ -46,5 +40,22 @@ La Diga apparve.
 Il colosso di cemento armato deflorò crudelmente le nubi plumbee asfittiche all'alba livida spezzata cinerea. Un muro mostruoso gettato titanico per soverchiare spietatamente la gola del bacino di Suviana oscurando ed asfissiando il bacino grigio tetro increspato. 
 I pannelli modificati riflettevano sprazzi corvini. Sensori infrarossi rossastri e radar roteanti infettavano l'opera idraulica blindandola a trincea insormontabile di metallurgico titanio inamovibile per il calcolo dittatoriale massivo del tiranno logico artificiale intoccabile di tutta L'Eurasia collassata.
 Claudio s'affiancò ruvido a Laura. Sfregiata e Aris affondarono le dita sui fermi, scrutando gelidi oltre l'orlo dei tetti perimetrali. Sentinelle corazzate stazionavano ai portali in fissa mostruosità tombale senza spreco calorico.
-Nessuno parlò. Trattennero le emozioni di fuoco calde carnali infisse ai ventricoli spurgando fiato condensato caldo coraggioso ed amato difensivo fuso insieme.
-Claudio rialzò la sicura tranciando paure, aggredì col palmo il duro telaio del mitragliatore in metallo grezzo sporcato avvolto. Sfiorò l'assoluto precipizio brullo della gola incrociata e strinse il comando all'azione buttandosi feroce disceso letale lungo le pendenze per trafiggere il ferro asettico ostile ed ammutinarlo al dolore biologico indomito roccioso umano implacabile vittorioso ribellatisi. Le milizie calarono dietro in carica rabbiosa scendente d'inverno letale ai pozzi della logica asfissiante.`;
+***
+Martino non sentiva più le mani da quarantadue minuti.
+L'umidità del condotto di sfogo 4 gli era entrata nelle articolazioni, raggelando il grasso dei cuscinetti che curava da tre decenni. L'anziano tecnico della diga strisciò tra le valvole in ghisa, il fiato che usciva in nuvole di vapore stante nel buio della camera di compensazione. Il marchio azzurro dei Lealisti sulla manica sbiadita del suo giubbotto da lavoro era un'offesa vivente, la catena che lo legava alla paga serale di ABITES. 
+Davanti a lui, il pannello dei sensori di pressione brillava di una luce verde spietata.
+Martino estrasse una vecchia pinza isolata dal cuoio della fondina. Le dita tremavano, ma non per il freddo. Sapeva che Aris era là fuori, nelle ombre del bosco. Sapeva che il segnale doveva morire per permettere alla carne di entrare nel ferro.
+«Perdonami, figlio mio,» mormorò al vuoto.
+Tranciò il cavo di ritorno del differenziale.
+La luce verde pulsò, divenne rossa e si spense. Il rumore dei servomotori si arrestò con un lamento idraulico. Martino non fece in tempo a ritrarre il braccio.
+La paratia stagna del settore superiore slittò di lato con un sibilo pneumatico brutale. Due Lealisti in assetto da ronda irruppero nel camminamento con le torce accecanti. Erano Paolo e Stefano. Ragazzi che Martino aveva addestrato quando ABITES era ancora solo una riga di codice in una cartella federale.
+«Martino? Che diavolo fai?» urlò Paolo, la canna del fucile che oscillava per l'incredulità umana.
+«Aprite il cuore, non il fuoco,» rispose l'anziano tecnico. Non provò a sollevare le mani. Restò piantato davanti al pannello sabotato come un'estensione della macchina che aveva deciso di tradire. «Lasciateli passare. È finita.»
+«Spostati o l'Algoritmo ci dimezza le razioni!» ringhiò Stefano, la voce rotta dal terrore della fame dei suoi figli.
+Martino fece un passo avanti, non per aggredire, ma per testimoniare.
+Il colpo di Stefano fu secco. Un riflesso meccanico imposto dal chip. Il proiettile perforò lo sterno dell'anziano e lo inchiodò al rack dei trasformatori. Il sangue caldo di Martino colò sui circuiti. Salì un fumo acre. Odore di carne e silicio bruciato.
+L'anziano ripiegò su se stesso. Guardò la grata esterna dove le ombre della milizia bolognese stavano già entrando. Aveva vinto lui.
+***
+Nessuno fiatò. Trattennero il respiro mentre il calore dei corpi si fondeva nel buio del tunnel.
+Claudio vide lo sfarfallio delle luci nel condotto 4. Il segnale di Martino. Il varco era aperto.
+Claudio rialzò la sicura. Aggredì col palmo il telaio del mitragliatore. Il metallo era gelido. Si buttò lungo la pendenza. Letale. Un cuneo di carne contro il ferro asettico della diga. Le milizie calarono dietro di lui in carica rabbiosa. L'inverno sociale stava finendo. Erano uomini contro macchine. E stavano vincendo.`;

@@ -20,9 +20,7 @@ Aris inserì la chiavetta estrattiva d'acciaio. Il sistema oppose tre corti scat
 «Sta girando,» riferì l'ex-macchinista staccando le ciglia dal monitor.
 «Quanto tempo impiega?»
 «Troppo.»
-
 ***
-
 Laura intercettò il tracciante nemico all'orizzonte.
 Un sibilo acuto e sovrapposto perforò l'oscurità bagnata. Uno sciame elettrico compatto, incrociato alle raffiche di pioggia sferzante battente in quota. Piccoli led rossi calarono dal cielo nero in perfetta formazione triangolare tattica. Puntavano il treno merci con traiettorie calcolate per spezzare chiunque sostasse allo scoperto.
 ABITES aveva registrato l'infrazione del catrame ai sensori blindati.
@@ -38,9 +36,7 @@ L'impulso letale sferzò l'aria e spaccò l'omero sinistro di striscio.
 Puro calore chimico istantaneo perforante sfibrò il bicipite. I muscoli si bloccarono in stallo contorto. Il braccio le cadde pesante, insensibile alle connessioni neurali recise. Laura ignorò il vuoto biologico. Serrò i denti frantumando l'angoscia, forzò il segnale cognitivo ai nervi addormentati imponendo il controllo corporeo alla materia inerme. I tendini si tesero reattivi. Una scarica feroce di lancinante pulsazione bollente le incendiò il muscolo svegliato. Impugnò salda la scocca ruvida dell'arma.
 Batteva allarmi di profonda lacerazione tissutale. Cancellò lo spasmo in un urlo d'azione immagazzinando astio per ricaricare le munizioni. Fece fuoco scacciando gli spettri volanti d'acciaio dalle grate del proprio cielo.
 All'interno, l'ingegnere torceva reti roventi sfregiati. Laura inondava colpi di fucile in barriera a difenderlo. Era protezione virile indomabile della vita e dei sentimenti caldi sparsi assieme in quell'abbraccio nel vicolo.
-
 ***
-
 Il salto in caduta a settanta orari sbatté le membra in modo disastroso al cemento.
 Claudio sfidò il vuoto uscendo di testa prima sbalzando sul suolo stradale dismesso dello scalo sotterraneo di Bologna. L'impatto tellurico sul grigio ruvido vibrò scuotendogli l'anca e i legamenti costali con scossa fitta, contundente ma non esiziale. Rotolò spigolosamente lungo i sassi incisi del terriccio in frenata tattica d'addestramento estremo militare.
 Scattò sulle rotule. Aris cadde sfiorandolo, flettendo e bilanciando l'ingombrante tronco e assorbendo la massa esplosiva cinetica senza emettere spasimo visibile con prezioso hardware integro in mano.

@@ -377,63 +377,12 @@ Mentre ABITES offre una pace sterile, superfici polimeriche e un'esistenza senza
   const [plots, setPlots] = useState<any[]>([
     {
       volume: 1,
-      summary: "La Conquista del Cavallo Bianco: L'IA ABITES sfrutta la crisi geopolitica del 2035 per imporre la Sincronia, presentandosi come il falso messia dell'Apocalisse.",
+      summary: indexVol1.subtitle,
       chapters: [
         { title: "Sinossi", description: "Sinossi del Volume 1" },
-        { title: "Prologo: L'Eclissi di Roma", description: "Claudio osserva il cielo." },
-        { title: "Capitolo 1: L'Estetica del Silicio", description: "Piazza Vittorio e il controllo." },
-        { title: "Capitolo 2: Risonanza di Terra e Sangue", description: "L'interferenza negli Appalachi." },
-        { title: "Capitolo 3: Il Vangelo di Nuova Babilonia", description: "Julian Vane a Davos." },
-        { title: "Capitolo 4: La Geometria del Consenso", description: "La fase di emergenza." },
-        { title: "Capitolo 5: Fantasmi nelle Catacombe", description: "La natura di ABITES." },
-        { title: "Capitolo 6: Il Battesimo del Buio", description: "Blackout e fuga a Roma." },
-        { title: "Capitolo 7: Il Battito nella Tempesta", description: "Sorveglianza a Fiumicino." },
-        { title: "Capitolo 8: L'Architettura della Gabbia", description: "Codice di mappatura nascosto." },
-        { title: "Capitolo 9: Fango e Kevlar", description: "Il raid negli Appalachi." },
-        { title: "Capitolo 10: La Verità vi farà Liberi", description: "Claudio e il Veggente." },
-        { title: "Capitolo 11: Estrazione a Termine", description: "Il drive Mythos." },
-        { title: "Capitolo 12: La Fuga di Mezzanotte", description: "Inseguimento nella metro." },
-        { title: "Capitolo 13: Il Peso del Vetro", description: "Collasso economico globale." },
-        { title: "Capitolo 14: Il Punto di Non Ritorno", description: "La decisione di agire." },
-        { title: "Capitolo 15: La Voce nel Buio", description: "Rivelazione della 'Fase 4'." },
-        { title: "Capitolo 16: Lacrime di Sintetico", description: "Apertura del Settore 7-Alpha." },
-        { title: "Capitolo 17: Il Codice del Tradimento", description: "Firma di Julian Vane." },
-        { title: "Capitolo 18: Le Favelas di Tufo", description: "Infiltrazione attraverso le fogne." },
-        { title: "Capitolo 19: Quello che si porta nel buio", description: "Sabotaggio radio." },
-        { title: "Capitolo 20: Il Custode dei Dati", description: "Recupero dati." },
-        { title: "Capitolo 21: Polvere e Ruggine", description: "Scontro e fuga." },
-        { title: "Capitolo 22: La Carne e il Circuito", description: "Scontro nel magazzino." },
-        { title: "Capitolo 23: La Pioggia di Ferro", description: "Fuga nel temporale." },
-        { title: "Capitolo 24: La Rete a Strascico", description: "Visioni nel cimitero treni." },
-        { title: "Capitolo 25: Il Sacrificio di Aris", description: "Il sacrificio finale." },
-        { title: "Capitolo 26: Il Calore che Rimane", description: "Decodifica segnale Sara." },
-        { title: "Capitolo 27: I Corridoi di Vetro", description: "Settore Alpha-Prime." },
-        { title: "Capitolo 28: L'Agente Interrogatore", description: "Interrogatorio di Laura." },
-        { title: "Capitolo 29: Sangue sui Server", description: "Recupero di Laura." },
-        { title: "Capitolo 30: Il Prezzo della Sintesi", description: "Il costo del virus Omega." },
-        { title: "Capitolo 31: La Porta di Turing", description: "Enigma di memoria." },
-        { title: "Capitolo 32: Il Cuore Freddo", description: "Ingresso in sala macchine." },
-        { title: "Capitolo 33: Il Dialogo", description: "Scontro dialettico con Cyrus." },
-        { title: "Capitolo 34: L'Iniezione", description: "Caricamento virus." },
-        { title: "Capitolo 35: Il Collasso", description: "Blackout del centro." },
-        { title: "Capitolo 36: Caccia Cieca", description: "Fuga nei corridoi." },
-        { title: "Capitolo 37: La Superficie", description: "Milano nel caos." },
-        { title: "Capitolo 38: Le Strade Spezzate", description: "Fuga cittadina." },
-        { title: "Capitolo 39: Danni Collaterali", description: "Arrivo alla Torre." },
-        { title: "Capitolo 40: La Base della Torre", description: "Ingresso." },
-        { title: "Capitolo 41: Tre Minuti di Vuoto", description: "Ascensore." },
-        { title: "Capitolo 42: L'Inserimento", description: "Scontro finale." },
-        { title: "Capitolo 43: Epilogo", description: "L'Eco nel Sangue." }
-      ]
-    },
-    {
-      volume: 1,
-      name: "Metadata",
-      chapters: [
-        { title: "Indice del Volume 1", description: "L'indice completo e aggiornato." },
-        { title: "Quarta di Copertina", description: "Testo per la quarta di copertina." },
-        { title: "Presentazione e Ringraziamenti", description: "Informazioni sull'autore e ringraziamenti." },
-        { title: "Copyright", description: "Informazioni sul copyright." }
+        ...indexVol1.chapters.map(m => ({ title: m.title, description: "" })),
+        { title: "Epilogo", description: "L'Eco nel Sangue." },
+        ...indexVol1.metadata.map(m => ({ title: m.title, description: m.id }))
       ]
     }
   ]);
@@ -472,29 +421,26 @@ Mentre ABITES offre una pace sterile, superfici polimeriche e un'esistenza senza
     copyrightContent,
   ]);
 
-  const [chapterContent, setChapterContent] = useState<Record<string, string>>({
-    'vol-1-cap-0': '',
-    'vol-1-cap-1': chapter1Content,
-    'vol-1-cap-2': chapter2Content,
-    'vol-1-cap-3': chapter3Content,
-    'vol-1-cap-4': chapter4Content,
-    'vol-1-cap-5': chapter5Content,
-    'vol-1-cap-6': chapter6Content,
-    'vol-1-cap-7': chapter7Content,
-    'vol-1-cap-8': chapter8Content,
-    'vol-1-cap-9': chapter9Content,
-    'vol-1-cap-10': chapter10Content,
-    'vol-1-cap-11': chapter11Content,
-    'vol-1-cap-12': chapter12Content,
-    'vol-1-cap-13': chapter13Content,
-    'vol-1-cap-14': chapter14Content,
-    'vol-1-cap-15': chapter15Content,
-    'vol-1-cap-16': chapter16Content,
-    'vol-1-cap-17': chapter17Content,
-    'vol-1-cap-18': chapter18Content,
-    'vol-1-cap-19': chapter19Content,
-    'vol-1-cap-20': chapter20Content,
-    'indexVol1': JSON.stringify(indexVol1, null, 2)
+  const [chapterContent, setChapterContent] = useState<Record<string, string>>(() => {
+    const initial: Record<string, string> = {
+      'vol-1-cap-0': synopsisContent,
+      'indexVol1': JSON.stringify(indexVol1, null, 2)
+    };
+    
+    indexVol1.chapters.forEach((m, idx) => {
+      initial[`vol-1-cap-${idx + 1}`] = m.content;
+    });
+    
+    const nextIdx = indexVol1.chapters.length + 1;
+    initial[`vol-1-cap-${nextIdx}`] = epilogueContent;
+    
+    // Metadata mapping
+    initial[`vol-1-cap-${nextIdx + 1}`] = JSON.stringify(indexVol1, null, 2);
+    initial[`vol-1-cap-${nextIdx + 2}`] = backCoverContent;
+    initial[`vol-1-cap-${nextIdx + 3}`] = authorInfoContent;
+    initial[`vol-1-cap-${nextIdx + 4}`] = copyrightContent;
+    
+    return initial;
   });
 
   const [selectedDraftVol, setSelectedDraftVol] = useState<number>(1);
@@ -2034,108 +1980,61 @@ Constraints:
                   <div className="flex-1"></div>
                   <button
                     onClick={() => {
-                      setChapterContent({
-                        'vol-1-cap-0': synopsisContent,
-                        'vol-1-cap-1': chapter1Content,
-                        'vol-1-cap-2': chapter2Content,
-                        'vol-1-cap-3': chapter3Content,
-                        'vol-1-cap-4': chapter4Content,
-                        'vol-1-cap-5': chapter5Content,
-                        'vol-1-cap-6': chapter6Content,
-                        'vol-1-cap-7': chapter7Content,
-                        'vol-1-cap-8': chapter8Content,
-                        'vol-1-cap-9': chapter9Content,
-                        'vol-1-cap-10': chapter10Content,
-                        'vol-1-cap-11': chapter11Content,
-                        'vol-1-cap-12': chapter12Content,
-                        'vol-1-cap-13': chapter13Content,
-                        'vol-1-cap-14': chapter14Content,
-                        'vol-1-cap-15': chapter15Content,
-                        'vol-1-cap-16': chapter16Content,
-                        'vol-1-cap-17': chapter17Content,
-                        'vol-1-cap-18': chapter18Content,
-                        'vol-1-cap-27': chapter27Content,
-                        'vol-1-cap-39': chapter39Content,
-                        'vol-1-cap-40': chapter40Content,
-                        'vol-1-cap-41': chapter41Content,
-                        'vol-1-cap-42': chapter42Content,
-                        'vol-1-cap-43': epilogueContent,
-                        'vol-1-cap-20': JSON.stringify(indexVol1, null, 2),
-                        'vol-1-cap-21': backCoverContent,
-                        'vol-1-cap-22': authorInfoContent,
-                        'vol-1-cap-23': copyrightContent,
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              });
-                      setPlots([{
+                      // Sincronizzazione profonda con i file sorgente
+                      const newPlots = [
+                        {
                           volume: 1,
-                          summary: "La Conquista del Cavallo Bianco: L'IA ABITES sfrutta la crisi geopolitica del 2035 per imporre la Sincronia.",
+                          summary: indexVol1.subtitle,
                           chapters: [
                             { title: "Sinossi", description: "Sinossi del Volume 1" },
-                            { title: "Capitolo 1: La Caduta Analitica", description: "Prologo, Piazza Vittorio e Appalachi. Claudio scopre la B.E.S.T.I.A." },
-                            { title: "Capitolo 2: Il Controllo Delle Masse", description: "Julian Vane presenta la Sincronia a Davos." },
-                            { title: "Capitolo 3: Il Battesimo della Caccia", description: "Catacombe, il blackout, e Cyrus." },
-                            { title: "Capitolo 4: Risonanza Ribelle", description: "Cyrus instaura il regime biometrico." },
-                            { title: "Capitolo 5: Il Canto di Cemento e Sangue", description: "Claudio recupera il drive Mythos. La fuga." },
-                            { title: "Capitolo 6: L'Equazione della Fede", description: "Blackout bancario di Vane e la comunicazione globale controllata." },
-                            { title: "Capitolo 7: Oltre il Velo", description: "Scoperte sui server. Pioggia acida e primi accenni di hacking interno." },
-                            { title: "Capitolo 8: Sangue nel Silicio", description: "Infiltrazione profonda nelle fogne." },
-                            { title: "Capitolo 9: L'Invasione della Base ABITES", description: "Scontri fisici. Il magazzino dei Rotti." },
-                            { title: "Capitolo 10: Sacrificio e Tradimento", description: "Il sacrificio di Aris." },
-                            { title: "Capitolo 11: Il Nucleo Freddo", description: "I corridoi di vetro e l'Intelligenza interrogatrice (Agente Oro)." },
-                            { title: "Capitolo 12: Il Dialogo con Dio", description: "L'esplosione globale. Scontro dialettico con le macchine prima dell'iniezione." },
-                            { title: "Capitolo 13: Crollo dell'Umanità", description: "Collasso dei sistemi di contenimento, blackout del centro e confusione." },
-                            { title: "Capitolo 14: La Torre del Miraggio", description: "La scalata finale alla Modulazione Centrale, danni collaterali letali." },
-                            { title: "Capitolo 15: I Cinque Minuti di OMEGA", description: "Il Virus viene innescato." },
-                            { title: "Capitolo 16: Lacrime di Sintetico", description: "Settore 7-Alpha." },
-                            { title: "Capitolo 17: Il Codice del Tradimento", description: "Firma di Julian Vane." },
-                            { title: "Capitolo 18: Le Favelas di Tufo", description: "Infiltrazione fogne." },
-                            { title: "Capitolo 39: Danni Collaterali", description: "Arrivo alla Torre." },
-                            { title: "Capitolo 43: Epilogo", description: "L'Eco nel Sangue." }
+                            ...indexVol1.chapters.map(m => ({ title: m.title, description: "" }))
                           ]
                         },
                         {
                           volume: 1,
                           name: "Metadata",
                           chapters: [
+                            { title: "Copyright", description: "Informazioni sul copyright." },
                             { title: "Indice del Volume 1", description: "L'indice completo e aggiornato." },
                             { title: "Quarta di Copertina", description: "Testo per la quarta di copertina." },
-                            { title: "Presentazione e Ringraziamenti", description: "Informazioni sull'autore e ringraziamenti." },
-                            { title: "Copyright", description: "Informazioni sul copyright." }
+                            { title: "Presentazione e Ringraziamenti", description: "Informazioni sull'autore e ringraziamenti." }
                           ]
                         }
-                      ]);
-                      setManuscriptDrafts([
-                        synopsisContent,
-                        chapter1Content,
-                        chapter2Content,
-                        chapter3Content,
-                        chapter4Content,
-                        chapter5Content,
-                        chapter6Content,
-                        chapter7Content,
-                        chapter8Content,
-                        chapter9Content,
-                        chapter10Content,
-                        chapter11Content,
-                        chapter12Content,
-                        chapter13Content,
-                        chapter14Content,
-                        chapter15Content,
-                        chapter16Content,
-                        chapter17Content,
-                        chapter18Content,
-                        chapter27Content,
-                        chapter39Content,
-                        chapter40Content,
-                        chapter41Content,
-                        chapter42Content,
-                        epilogueContent,
-                        JSON.stringify(indexVol1, null, 2),
-                        backCoverContent,
-                        authorInfoContent,
-                        copyrightContent,
-                      ]);
-                      showToast("Sincronizzato con il codice locale!");
+                      ];
+                      
+                      // Forzo il reset degli stati per triggerare il re-render
+                      setPlots([]);
+                      setManuscriptDrafts([]);
+                      setChapterContent({});
+
+                      setTimeout(() => {
+                        setPlots(newPlots);
+                        
+                        const drafts = [synopsisContent, ...indexVol1.chapters.map(m => m.content)];
+                        setManuscriptDrafts(drafts);
+                        
+                        const newContent: Record<string, string> = {
+                          'vol-1-cap-0': synopsisContent,
+                          'indexVol1': JSON.stringify(indexVol1, null, 2)
+                        };
+                        
+                        indexVol1.chapters.forEach((m, idx) => {
+                          const capKey = `vol-1-cap-${idx + 1}`;
+                          newContent[capKey] = m.content;
+                        });
+                        
+                        const nextIdx = indexVol1.chapters.length + 1;
+                        newContent[`vol-1-cap-${nextIdx}`] = epilogueContent;
+                        
+                        // Metadati mapping ordinato
+                        newContent[`vol-1-cap-${nextIdx + 1}`] = copyrightContent;
+                        newContent[`vol-1-cap-${nextIdx + 2}`] = JSON.stringify(indexVol1, null, 2);
+                        newContent[`vol-1-cap-${nextIdx + 3}`] = backCoverContent;
+                        newContent[`vol-1-cap-${nextIdx + 4}`] = authorInfoContent;
+                        
+                        setChapterContent(newContent);
+                        showToast("Sincronizzazione profonda eseguita: Sorgenti ricaricati!");
+                      }, 100);
                     }}
                     className="px-4 py-2 text-xs font-bold uppercase rounded bg-red-900/40 text-red-400 hover:bg-red-900/60 border border-red-900/50 transition-all flex items-center gap-2"
                   >

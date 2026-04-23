@@ -1,26 +1,17 @@
-export const chapter40Content = `***
-Il generatore di ruggine della recinzione cedeva, un grido di metallo protestante contro la spinta dell'uomo. La rete si piegava, le maglie deformate fino a diventare una lama sottile che incideva i guanti. Claudio sentì il freddo dell'acciaio attraverso il tessuto. Erano tre anni che qualcuno premeva contro quella rete ogni notte, una danza di resistenza che aveva ridotto il sistema a un relitto abbandonato. La Torre si stagliava davanti a loro, trecentodieci metri di cemento buio che perforavano il cielo sporco, una tomba verticale che conteneva le risposte che li avrebbero distrutti o salvati. Un portale di ferro bloccava l'ingresso, stretto da una catena che sbarrava il passaggio. Laura non cercò una chiave. Prese d'asporto la mano di Claudio, il contatto fisico un'iniezione di forza pura, e pose la propria calma d'acciaio contro quella barriera. Il segno del taglio netto sul metallo brillava, opaco, un lavoro fatto da mano che non temeva l'elettricità. Spinse. Il ferro gemette, un suono arido, di strofinamento di molecole, prima di abbandonare le cerniere e cedere.
-
-***
+export const chapter40Content = `Il generatore di ruggine della recinzione cedeva, un grido di metallo protestante contro la spinta dell'uomo. La rete si piegava, le maglie deformate fino a diventare una lama sottile che incideva i guanti. Claudio sentì il freddo dell'acciaio attraverso il tessuto. Erano tre anni che qualcuno premeva contro quella rete ogni notte, una danza di resistenza che aveva ridotto il sistema a un relitto abbandonato. La Torre si stagliava davanti a loro, trecentodio metri di cemento buio che perforavano il cielo sporco, una tomba verticale che conteneva le risposte che li avrebbero distrutti o salvati. Un portale di ferro bloccava l'ingresso, stretto da una catena che sbarrava il passaggio. Laura non cercò una chiave. Prese d'asporto la mano di Claudio, il contatto fisico un'infezione di forza pura, e pose la propria calma d'acciaio contro quella barriera. Il segno del taglio netto sul metallo brillava, opaco, un lavoro fatto da mano che non temeva l'elettricità. Spinse. Il ferro gemette, un suono arido, di strofinamento di molecole, prima di abbandonare le cerniere e cedere.
 Il buio nell'atrio era una sostanza solida, fredda, che si attaccava alla pelle. Laura accese la torcia. Il cono di luce tagliò la polvere in sospensione, illuminando particelle che danzavano come spettri in una cattedrale abbandonata. I cavi penzolavano dal soffitto, membra di un organismo elettrico che aveva smesso di pulsare, e l'aria sapeva di decomposizione algoritmica. L'ascensore di servizio stava lì, immobile, una scatola di metallo che non prometteva nulla.
 «Seminterrato,» disse Claudio. La vibrazione della voce gli fece sentire il dolore al fianco. Indicò la porta metallica a sinistra, un varco verso l'oscuro delle fondamenta.
-
 Scesero la rampa. L'odore li colpì subito — diesel bruciato, gasolio che filtrava dai giunti, un grasso vecchio, viscoso, che si sposava con quello delle macchine che dormivano lì sotto. Quattro generatori diesel dominavano lo spazio. Erano monumenti di ghisa e ferro, pronti a ruggire se il sistema avesse lanciato il comando. Claudio cercò la valvola sul generatore più vicino. Il metallo dell'ottone era ossidato, una pelle rugosa che offriva resistenza.
 «Ruota in senso orario.» Claudio spinse, il dolore che gli risaliva lungo la spina dorsale come un ago rovente. 
 Laura intervenne, le sue mani incollate alla manopola — il calore del suo palmo che premeva contro il freddo del metallo. Uno scatto secco, di molla caricata, risuonò nel silenzio del seminterrato. La valvola girò. La manovra fu un cedimento brutale.
 «Leva di innesco. Manico rosso.»
 Laura la afferrò. La leva resistette, poi si spezzò nell'aria con un rumore netto, portando con sé il fragore pneumatico di cilindri che si riattivavano.
-
-***
 Il generatore ruggì. Il pavimento tremò sotto il rombo continuo, una vibrazione che saliva dai piedi e faceva tremare le otturazioni dei denti. Luci arancioni inondarono il seminterrato, una luce febbrile, instabile, che illuminava le venature del cemento. La sequenza di accensione risalì la rampa — una vita che tornava in un corpo che doveva restare morto. Trecento metri sopra di loro, la Torre cominciò a vibrare, una fiammata di attività elettrica che inondò ogni piano. Risalirono i gradini con il fiato corto, il ritmo cardiaco che batteva a tempo con i motori. Il display dell'ascensore mostrò un LED verde, solido, spietato. Premettero la chiamata. Il meccanismo scese — un lamento di funi metalliche in movimento.
-
 Fuori, qualcosa premeva contro il dispositivo di chiusura — un impatto sordo, la massa di un corpo che caricava, un bang di acciaio strappato, di cerniere che urlavano mentre si piegavano. 
 Laura spense la torcia. Il buio tornò assoluto.
 Nel varco del portale apparve la sagoma. Quattro zampe meccaniche, una struttura toracica che ruotava con una precisione oscena. La torretta di sensori scansionò il buio. L'unità non trasmetteva calore umano, solo la logica di una caccia che doveva terminare.
 Dietro, una seconda sagoma.
 I sensori puntarono. Il LED virò al rosso. Un rosso assassino.
-
-***
 I passi metallici scandivano il tempo — un conto alla rovescia di ticchettii di ferro su cemento.
 8. 7.
 I pistoni sibilavano, un lamento pneumatico.
