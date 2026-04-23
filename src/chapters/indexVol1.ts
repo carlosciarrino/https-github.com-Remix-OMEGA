@@ -18,6 +18,9 @@ import { chapter17Content } from './chapter17';
 import { chapter18Content } from './chapter18';
 import { chapter19Content } from './chapter19';
 import { chapter20Content } from './chapter20';
+import { chapter21Content } from './chapter21';
+import { chapter22Content } from './chapter22';
+import { chapter23Content } from './chapter23';
 import { chapter27Content } from './chapter27';
 import { chapter39Content } from './chapter39';
 import { chapter40Content } from './chapter40';
@@ -55,6 +58,9 @@ export const volume1Data = {
     { id: 'macro-cap-10', title: 'Capitolo 10 — Le Fiamme sui Binari', content: chapter18Content },
     { id: 'macro-cap-11', title: 'Capitolo 11 — Il Covo del Nord', content: chapter19Content },
     { id: 'macro-cap-12', title: 'Capitolo 12 — L\'Assalto alla Diga', content: chapter20Content },
+    { id: 'macro-cap-13', title: 'Capitolo 13 — L\'Onda di Ritorno', content: chapter21Content },
+    { id: 'macro-cap-14', title: 'Capitolo 14 — Trincee e Corsie', content: chapter22Content },
+    { id: 'macro-cap-15', title: 'Capitolo 15 — La Bestia Cieca', content: chapter23Content },
   ],
   epilogue: epilogueContent,
   authorInfo: authorInfoContent,

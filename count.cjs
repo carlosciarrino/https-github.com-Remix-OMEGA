@@ -3,8 +3,7 @@ const path = require('path');
 let totalWords = 0;
 const dir = path.join(process.cwd(), 'src', 'chapters');
 const files = fs.readdirSync(dir).filter(f => {
-  // includiamo solo i file dei capitoli e l'epilogo, ignoriamo chapter27, 39, 40 etc se sono vuoti
-  const isTarget = f.match(/chapter(?:[1-9]|1[0-9]|20)\.ts/) || f === 'epilogue.ts';
+  const isTarget = f.match(/chapter(?:[1-9]|1[0-9]|20|21|22|23)\.ts/) || f === 'epilogue.ts';
   return isTarget;
 });
 

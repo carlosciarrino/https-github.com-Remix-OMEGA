@@ -1,0 +1,38 @@
+export const chapter22Content = `Il fumo arrivava prima dei passi. Acre e denso. Plastica sintetica fusa impossibile da smaltire dai polmoni. Dubois conosceva quell'odore. Era puzza di droni incendiati.
+Lione. Terzo arrondissement. Le strade strette e i palazzi vecchi rendevano ogni angolo una trappola.
+«Rue Mercière, avanzate sul lato sinistro!» ringhiò Dubois oltre il rumore delle macerie. Urlava a polmoni vuoti. I ribelli la seguivano.
+Trenta metri avanti, un drone di sorveglianza da ottanta chili giaceva incagliato sul selciato con le eliche spezzate. Il blackout parziale di ABITES lo aveva fermato a metà volo. Dubois ci passò sopra senza rallentare. L'alluminio cedette sotto lo stivale in un crepitio secco.
+Garnier correva alla sua sinistra. Un vecchio ispettore di Bordeaux con il ginocchio logoro e una doppietta calibro dodici febbricitante. Alla sua destra, Hana braccava l'asfalto. Ventisei anni, capelli raccolti nel cappuccio e una mitragliatrice strappata a un Lealista morto sul ponte della Guillotière.
+Non erano soldati. Erano civili armati guidati dalla ferocia.
+All'angolo del vicolo, due Lealisti in mimetica grigia cercavano riparo dietro una barriera municipale. Il loro drone d'appoggio giaceva a terra con i circuiti esposti all'aria. Un secondo drone tentava l'aggancio alla rete sfalsata. Le pale giravano a singhiozzo. Lo schermo ottico tremolava. Senza il supporto costante di ABITES i Lealisti regredivano a uomini isolati, storditi, annaspanti.
+Dubois capì l'esitazione.
+«Garnier.»
+Garnier sbatté al muro e azionò la doppietta. Il rinculo scosse l'osso fino alla clavicola. Un Lealista si accucciò dietro la barriera. Il compagno ruotò il collo esponendo il fianco. Hana scaricò due raffiche corte. Il piombo martellò la barricata bloccando i sottomessi. Dubois avanzò rasente all'intonaco con i gomiti stretti al petto. I polmoni bruciavano.
+Alle sue spalle respirava Kader. L'ex appuntato della gendarmeria caricò la volata.
+Il drone in stallo precipitò sordo sull'asfalto sibilando rotori impazziti. Finì sul marciapiede franando in pezzi plastici mortificati.
+I due Lealisti abbandonarono i fucili alzando le mani lorde. Il più giovane sanguinava dalla guancia. 
+Dubois sbatté la canna. «Seduti. Qui.»
+Li accatenarono ai tubi del riscaldamento di una bottega saccheggiata abbandonando una latta d'acqua. 
+Lione riprendeva vita in furia. Sui tetti spuntavano pezze rosse e azzurre legate alle antenne. Dalle finestre sgorgavano urla animalesche e umane. Non paura. Sfoghi rochi di prigionieri fuggiti alla paralisi algoritmica. Un ragazzino correva sul marciapiede incrociato stringendo una scatola di munizioni in cartone.
+Dubois caricò l'arma spingendo fiera gli stivali sulle macerie urbane. L'umanità combatteva in ogni singola arteria.
+
+***
+
+L'odore chimico precedette la luce. Candeggina industriale, garze consumate, antisettico. Claudio decifrò i fumi ancor prima di schiudere le palpebre. Un ricovero medico clandestino.
+Il capannone industriale mostrava finestre squarciate coperte da teli neri in pvc. Il cemento del suolo trasudava freddo oltre le coperte grezze accasciate a terra. Lampade da cantiere alogene illuminavano le travi. Cinquanta reietti ingombravano brandine scricchiolanti e casse di munizioni rovesciate.
+Laura marciava pressando il braccio sano contro il costato ferito. La sutura tirava lacerando i tessuti. Fiotti di calore pulsavano fin sotto l'ascella. Claudio zoppicava appoggiandosi stremato al suo collo. Scarponi trascinati e iridi opacizzate dalla febbre infettiva. L'ingegnere sudava a freddo spaccandosi le labbra. L'emorragia alla coscia sgorgava densa imbrattando le bende della fuga dall'argine emiliano.
+Un paramedico in camice logoro intercettò la coppia. Li scortò in fondo alla navata indicando due giacigli arrugginiti. Segnalò l'emergenza a un'assistente suturatrice e svanì nel buio delle lamiere.
+Claudio franò sulla brandina azzerando l'ancoraggio patellare. Laura coprì le spalle scosse da tremiti dell'uomo, registrò il battito radiale al polso calante in riposo letargico indotto. L'ingegnere sprofondò nel coma febbricitante del collasso da sfinimento.
+L'operativa scivolò rannicchiandosi nell'angolo tra il ferro arrugginito e il muro. Strinse l'avambraccio monco allo sterno. Inalò a bocca socchiusa per sopprimere l'escursione violenta della cassa toracica.
+Un infermiere operava dall'altra parte del perimetro. Una staffetta lo chiamò Mario passando bende suturabili. 
+Laura lo mise a fuoco. 
+Spalle irrobustite, movimenti saldi. Andava da una vittima all'altra applicando pressioni tattili esatte. S’inginocchiava nel cemento sporco per pareggiare le altezze visive dei Rotti riversi al suolo. Immobilizzava la presa del moribondo incrociando i palmi prima di sprecare ossigeno verbale. Interveniva rapido senza annunciare fandonie cliniche. Dita sicure e pelle rassicurante. 
+Laura vide l'uomo ribaltare un settantenne intubato rantolante. Appoggiò schiena e tricipiti spostandolo senza solleciti ruvidi e sussurrò vocalizzi grezzi paterni. Il vecchio calmò l'agitazione asfittica concentrandosi sull'unica forza sana ancorata alla base del letto.
+Mario presentava avambracci sporchi di sangue raggrumato in squame lorde. Strofinava la tela, impastava le croste purulente, non arretrava allo strazio chirurgico. Accudiva una frattura mal curata, idratava arsi ustionati dal napalm. Abbracciava l'emergenza abbattendo le gerarchie di priorità corporative. L'antitesi esatta dei freddi conteggi algoritmici.
+L'ispettrice abbassò le paratie della violenza letale impressa nel DNA dagli ultimi tre anni di guerra alla Sincronia, smantellando i calcoli da predatrice. 
+Mario frenò davanti a un'anziana intorpidita dall'agonia. Si accovacciò afferrando i polsi rugosi tra le mani ampie e aspettando fiducioso. La moribonda riaprì lentamente le fessure affaticate della pelle e strinse quell'ormeggio vitale e leale.
+L'armatura calcificata della guerriera si smontò brutalmente all'altezza del petto di Laura. L'operativa calcava scenari di morte rabbiosa e sacrificio cieco per vendicare gli oppressi di ABITES. Conosceva perfettamente le devozioni cinetiche che mutilavano la carne infondendo ferocia e sangue rovente nelle arterie. 
+L'infermiere Mario sprigionava devozioni salvifiche. Pura forza vitale erogata in assenza totale di cinismo. Costante, roccioso, inesauribile. Non cedeva all'abominio della consunzione stanca. Rovesciava vita calda in corpi estranei gelidi.  
+L'infermiere strappò la garza producendo un rintocco netto nella navata. Afferrò il nastro tra gli incisivi e fasciò il moncherino di un bracciante fuggiasco. Lavorò in pressione calcolata stringendo senza martoriare le resezioni muscolari. L'amputato fissava il plafone ammutolito dal trauma. Mario curò la chiusura garantendo estrema accortezza alla fessura scarnificata.
+Laura appoggiò il cervelletto all'intonaco gelato. L'omero squarciato martellava dolori infetti in espansione su tutta la base della clavicola tranciata. Lo sfinimento la incatenava alla pietra umida in una letale morsa avida. Eppure gli smeraldi oculari rifiutarono la chiusura palpebrale. 
+Fissò incantata i movimenti stabili dell'infermiere tra i Rotti sparpagliati sull'asfalto, gli assesti curativi e le dita provvidenziali libere da bramosie distruttive. Pura forza spirituale trasudava dalle nocche sporche dell'uomo andando a inquinare e infrangere gli inverni sociali e mortiferi di Vane. Il petto infreddolito della combattente vibrò prelevando linfa da quell'osservazione notturna. Un'epifania profonda, viscerale e rovente le sfregiò la mente stanca, inondandola di un enorme e disarmato calore carnale contro la disumanizzazione strisciante e sorda dell'algoritmo.`;

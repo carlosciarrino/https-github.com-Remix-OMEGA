@@ -24,6 +24,9 @@ import { chapter17Content } from './chapters/chapter17';
 import { chapter18Content } from './chapters/chapter18';
 import { chapter19Content } from './chapters/chapter19';
 import { chapter20Content } from './chapters/chapter20';
+import { chapter21Content } from './chapters/chapter21';
+import { chapter22Content } from './chapters/chapter22';
+import { chapter23Content } from './chapters/chapter23';
 import { chapter27Content } from './chapters/chapter27';
 import { chapter39Content } from './chapters/chapter39';
 import { chapter40Content } from './chapters/chapter40';
@@ -409,6 +412,9 @@ Mentre ABITES offre una pace sterile, superfici polimeriche e un'esistenza senza
     chapter18Content,
     chapter19Content,
     chapter20Content,
+    chapter21Content,
+    chapter22Content,
+    chapter23Content,
     chapter27Content,
     chapter39Content,
     chapter40Content,
