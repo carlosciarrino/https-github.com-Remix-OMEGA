@@ -21,6 +21,9 @@ import { chapter20Content } from './chapter20';
 import { chapter21Content } from './chapter21';
 import { chapter22Content } from './chapter22';
 import { chapter23Content } from './chapter23';
+import { chapter24Content } from './chapter24';
+import { chapter25Content } from './chapter25';
+import { chapter26Content } from './chapter26';
 import { chapter27Content } from './chapter27';
 import { chapter39Content } from './chapter39';
 import { chapter40Content } from './chapter40';
@@ -61,6 +64,10 @@ export const volume1Data = {
     { id: 'macro-cap-13', title: 'Capitolo 13 — L\'Onda di Ritorno', content: chapter21Content },
     { id: 'macro-cap-14', title: 'Capitolo 14 — Trincee e Corsie', content: chapter22Content },
     { id: 'macro-cap-15', title: 'Capitolo 15 — La Bestia Cieca', content: chapter23Content },
+    { id: 'macro-cap-16', title: 'Capitolo 16 — Il Fronte Analogico', content: chapter24Content },
+    { id: 'macro-cap-17', title: 'Capitolo 17 — Il Trono di Silicio', content: chapter25Content },
+    { id: 'macro-cap-18', title: 'Capitolo 18 — I Cacciatori di Lione', content: chapter26Content },
+    { id: 'macro-cap-19', title: 'Capitolo 19 — Il Traliccio di Fourvière', content: chapter27Content },
   ],
   epilogue: epilogueContent,
   authorInfo: authorInfoContent,

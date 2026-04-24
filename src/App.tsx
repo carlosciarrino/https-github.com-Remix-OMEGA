@@ -27,6 +27,9 @@ import { chapter20Content } from './chapters/chapter20';
 import { chapter21Content } from './chapters/chapter21';
 import { chapter22Content } from './chapters/chapter22';
 import { chapter23Content } from './chapters/chapter23';
+import { chapter24Content } from './chapters/chapter24';
+import { chapter25Content } from './chapters/chapter25';
+import { chapter26Content } from './chapters/chapter26';
 import { chapter27Content } from './chapters/chapter27';
 import { chapter39Content } from './chapters/chapter39';
 import { chapter40Content } from './chapters/chapter40';
@@ -415,22 +418,26 @@ Mentre ABITES offre una pace sterile, superfici polimeriche e un'esistenza senza
     chapter21Content,
     chapter22Content,
     chapter23Content,
+    chapter24Content,
+    chapter25Content,
+    chapter26Content,
     chapter27Content,
     chapter39Content,
     chapter40Content,
     chapter41Content,
     chapter42Content,
     epilogueContent,
-    JSON.stringify(indexVol1, null, 2),
+    "INDICE\n\n- Sinossi\n" + indexVol1.chapters.map(c => "- " + c.title).join("\n") + "\n- Epilogo\n- Presentazione dell'Autore e Ringraziamenti\n- Quarta di Copertina\n- Copyright\n",
     backCoverContent,
     authorInfoContent,
     copyrightContent,
   ]);
 
   const [chapterContent, setChapterContent] = useState<Record<string, string>>(() => {
+    const indexTextStr = "INDICE\n\n- Sinossi\n" + indexVol1.chapters.map(c => "- " + c.title).join("\n") + "\n- Epilogo\n- Presentazione dell'Autore e Ringraziamenti\n- Quarta di Copertina\n- Copyright\n";
+
     const initial: Record<string, string> = {
-      'vol-1-cap-0': synopsisContent,
-      'indexVol1': JSON.stringify(indexVol1, null, 2)
+      'vol-1-cap-0': synopsisContent
     };
     
     indexVol1.chapters.forEach((m, idx) => {
@@ -441,7 +448,7 @@ Mentre ABITES offre una pace sterile, superfici polimeriche e un'esistenza senza
     initial[`vol-1-cap-${nextIdx}`] = epilogueContent;
     
     // Metadata mapping
-    initial[`vol-1-cap-${nextIdx + 1}`] = JSON.stringify(indexVol1, null, 2);
+    initial[`vol-1-cap-${nextIdx + 1}`] = indexTextStr;
     initial[`vol-1-cap-${nextIdx + 2}`] = backCoverContent;
     initial[`vol-1-cap-${nextIdx + 3}`] = authorInfoContent;
     initial[`vol-1-cap-${nextIdx + 4}`] = copyrightContent;
@@ -1899,14 +1906,36 @@ CONTESTO SPECIFICO:
                   <div className="flex items-center gap-4">
                     <button 
                       onClick={() => {
-                        const content = Object.keys(chapterContent)
-                          .sort((a, b) => {
-                            const numA = parseInt(a.split('-cap-')[1]);
-                            const numB = parseInt(b.split('-cap-')[1]);
-                            return numA - numB;
-                          })
-                          .map(key => chapterContent[key])
-                          .join('\n\n\n');
+                        const contentKeys = Object.keys(chapterContent).sort((a, b) => {
+                          const getVal = (key: string) => {
+                            const num = parseInt(key.split('-cap-')[1]);
+                            return isNaN(num) ? 999 : num;
+                          };
+                          return getVal(a) - getVal(b);
+                        });
+                        
+                        const content = contentKeys.map(key => {
+                          let title = '';
+                          if (key === 'vol-1-cap-0') title = 'SINOSSI';
+                          const numMatch = key.match(/vol-1-cap-(\d+)/);
+                          if (numMatch) {
+                            const num = parseInt(numMatch[1], 10);
+                            if (num > 0 && num <= indexVol1.chapters.length) {
+                              title = String(indexVol1.chapters[num - 1].title).toUpperCase();
+                            } else if (num === indexVol1.chapters.length + 1) {
+                              title = 'EPILOGO';
+                            } else if (num === indexVol1.chapters.length + 2) {
+                              title = 'INDICE';
+                            } else if (num === indexVol1.chapters.length + 3) {
+                              title = 'QUARTA DI COPERTINA';
+                            } else if (num === indexVol1.chapters.length + 4) {
+                              title = "PRESENTAZIONE DELL'AUTORE";
+                            } else if (num === indexVol1.chapters.length + 5) {
+                              title = 'COPYRIGHT';
+                            }
+                          }
+                          return title ? `${title}\n\n${chapterContent[key]}` : chapterContent[key];
+                        }).join('\n\n\n');
                         const blob = new Blob([content], { type: 'text/plain' });
                         const url = URL.createObjectURL(blob);
                         const a = document.createElement('a');
@@ -2011,9 +2040,10 @@ Constraints:
                         const drafts = [synopsisContent, ...indexVol1.chapters.map(m => m.content)];
                         setManuscriptDrafts(drafts);
                         
+                        const indexTextStr2 = "INDICE\n\n- Sinossi\n" + indexVol1.chapters.map(c => "- " + c.title).join("\n") + "\n- Epilogo\n- Presentazione dell'Autore e Ringraziamenti\n- Quarta di Copertina\n- Copyright\n";
+
                         const newContent: Record<string, string> = {
-                          'vol-1-cap-0': synopsisContent,
-                          'indexVol1': JSON.stringify(indexVol1, null, 2)
+                          'vol-1-cap-0': synopsisContent
                         };
                         
                         indexVol1.chapters.forEach((m, idx) => {
@@ -2025,10 +2055,10 @@ Constraints:
                         newContent[`vol-1-cap-${nextIdx}`] = epilogueContent;
                         
                         // Metadata mapping ordinato
-                        newContent[`vol-1-cap-${nextIdx + 1}`] = copyrightContent;
-                        newContent[`vol-1-cap-${nextIdx + 2}`] = JSON.stringify(indexVol1, null, 2);
-                        newContent[`vol-1-cap-${nextIdx + 3}`] = backCoverContent;
-                        newContent[`vol-1-cap-${nextIdx + 4}`] = authorInfoContent;
+                        newContent[`vol-1-cap-${nextIdx + 1}`] = indexTextStr2;
+                        newContent[`vol-1-cap-${nextIdx + 2}`] = backCoverContent;
+                        newContent[`vol-1-cap-${nextIdx + 3}`] = authorInfoContent;
+                        newContent[`vol-1-cap-${nextIdx + 4}`] = copyrightContent;
                         
                         setChapterContent(newContent);
                         showToast("Sincronizzazione profonda eseguita: Sorgenti ricaricati!");

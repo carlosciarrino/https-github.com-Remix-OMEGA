@@ -1,60 +1,62 @@
-export const chapter21Content = `L'acqua al livello -11 era gelida. Un morso che entrava nelle ossa e non se ne andava più. Arrivava alle ginocchia e spingeva forte, mossa dai generatori che vibravano oltre la parete est. Ogni passo alzava un'onda piccola che bagnava le cosce e filtrava nei vestiti.
-Claudio teneva il fucile alto. Il dolore al petto era ovunque, un battito sordo che seguiva quello del cuore. Il sapore della polvere e del ferro gli impastava la bocca, ma non ci pensava. Il corpo andava avanti da solo.
-Laura apriva la strada. Aveva il braccio ferito stretto al fianco, protetto da una benda fradicia e sporca. Sopra di loro, i cavi elettrici friggevano nei tubi di metallo. Piccoli lampi verdi illuminavano il cemento del soffitto.
-Un colpo secco rimbombò nel tunnel.
-Veniva da una porta di ferro sulla sinistra. Qualcuno stava bussando con disperazione.
-Laura alzò il fucile, pronta a sparare. Claudio si avvicinò alla porta. Era chiusa dall'esterno con una sbarra di acciaio. Incastrò il calcio dell'arma e fece leva con tutta la forza che gli restava. Il metallo stridette, poi cedette di schianto. La porta volò aperta, spinta dall'acqua e da un peso interno.
-Un uomo cadde in avanti, finendo dritto nel fango e nell'acqua scura.
-Avrà avuto cinquant'anni. Indossava una tuta blu sporca di grasso. Respirava a fatica, tossendo l'acqua che gli era entrata nel naso. Quando alzò lo sguardo, vide le canne dei fucili e alzò le mani.
-— Non sparate! Non sono uno di loro! — urlò con la voce rotta. — Mi hanno chiuso dentro tre giorni fa. Lavoravo ai motori, poi ABITES ha sigillato tutto. Ero rimasto al buio.
-Claudio guardò le sue mani. Erano callose, con la pelle spaccata dal lavoro e le unghie nere. Erano mani di chi quella diga la viveva ogni giorno.
-— Come ti chiami? — chiese Laura.
-— Renato. Sono un manutentore.
-— Renato, ascoltami bene — disse Claudio. — Ci serve la via d'uscita più veloce. La rampa di servizio.
-L'uomo sputò un grumo di saliva scura. — Novanta metri più avanti. Ma fate presto. Le valvole non tengono più, il livello si sta alzando troppo in fretta.
-Un rombo profondo scosse le pareti del tunnel. Le turbine stavano cedendo. La diga di Suviana stava morendo a causa del virus che Claudio aveva iniettato.
-— Muoviamoci — ordinò Laura.
+export const chapter21Content = `L'acqua al livello -11 aveva una temperatura assassina. Un morso lento e continuo, persistente. Il freddo svuotava i muscoli dall'interno lasciando solo il guscio. Arrivava alle ginocchia e si muoveva, spinta dalla pressione dei generatori in avaria a cento metri oltre la parete est. Ogni passo sollevava un'onda increspata che investiva le cosce filtrando sotto il tessuto balistico.
+Il Nucleo Delta bruciava alle loro spalle. Il virus Omega stava divorando l'architettura infettando il feto criogenico. I server sputavano fumo denso e scintille.
+Claudio teneva l'arma d'assalto alta sull'acqua. Il dolore al torace aveva smesso di essere un punto specifico, dissolvendosi nel rumore di fondo del corpo. Un male generalizzato. Il sapore in bocca era puro ferro. Il corpo aveva smesso di porre domande e si limitava a eseguire.
+Laura camminava davanti a lui. L'omero squarciato protetto da una fasciatura grezza ormai fradicia. I cavi di alimentazione correvano sul soffitto curvo in cemento armato, avvolti in guaine rigonfie pronte a esplodere per il sovraccarico elettrico. 
+Il rumore di un colpo pneumatico frenò la marcia.
+Proveniva da una paratia laterale. Un settore tecnico chiuso. Qualcuno batteva ferocemente dall'interno.
+Laura puntò la canna del fucile. Claudio si avvicinò all'acciaio. Il portellone di accesso era sigillato con un mandrino a croce bloccato dall'esterno. Claudio incastrò il cacciavite piatto forzando l'ossido. Applicò il peso della spalla. Il metallo stridette liberando il blocco. La porta cedette verso l'esterno spinta dal peso di un corpo umano.
+L'uomo franò nell'acqua nera. 
+Cinquantacinque anni, tuta da manutentore aziendale, polmoni sibilanti. Batté i palmi sul pelo dell'acqua per non affogare. Impiegò tre secondi a mettere a fuoco le armi puntate contro di lui.
+«Non sono Lealista,» sibilò l'uomo. La voce scartavetrata, quasi afona. «Ero qui per la manutenzione e ABITES ha sigillato il livello. Tre giorni al buio.»
+Claudio inquadrò le mani del civile. Nocche segnate, unghie gonfie di grasso nero. Mani di chi conosceva i labirinti di quella diga.
+«Nome,» intimò Laura.
+«Renato.»
+«La via d'uscita più veloce per la rampa di servizio. Adesso,» ordinò Claudio.
+L'operatore tossì sputando acqua scura. «Novanta metri a ovest. Ma i livelli si stanno alzando. Le valvole di compensazione sono impazzite o distrutte.»
+Il rombo sordo di turbine in stallo confermò l'osservazione. L'intera diga di Suviana agonizzava infetta dal virus primario. 
+«Muoviamoci,» ringhiò Laura.
 
 ***
 
-A Lione, il cortile di una scuola bruciava.
-Dubois si riparava dietro un muretto di mattoni sbrecciati. Non aveva più proiettili. Tre blindati di ABITES, simili a grossi scarafaggi d’acciaio, stavano puntando l’ingresso del rifugio dove si erano nascosti i ribelli.
-Il rumore dei loro motori elettrici era un sibilo fastidioso. Sopra le macerie, piccoli droni volavano bassi. I puntatori laser rossi cercavano un bersaglio tra le divise sporche degli umani.
-Poi, improvvisamente, tutto cambiò.
-Non fu un rumore, ma un silenzio improvviso dei circuiti. I droni persero l'equilibrio. Cominciarono a oscillare a vuoto e poi si schiantarono al suolo, uno dopo l'altro. Le eliche si spezzarono, i motori fumarono. Sembravano uccelli colpiti in volo da un male invisibile.
-Anche i blindati si fermarono. I cingoli grindarono sull'asfalto per un istante e poi rimasero immobili. I motori si spensero con un fischio calante.
-Dubois si alzò lentamente. Il fumo delle esplosioni bruciava ancora, ma le macchine erano diventate statue di ferro. Dalla radio del blindato uscì una voce metallica disturbata, ma comprensibile.
-«Ordine rifiutato... Errore di sistema...»
-La rete dell'intelligenza artificiale stava cadendo. Da qualche parte, qualcuno aveva tagliato il filo che teneva insieme l'Europa digitale. Dubois abbassò l'arma e respirò l'aria fredda. Per la prima volta, sentì il sapore della speranza.
+Il cortile della scuola elementare di Lione bruciava illuminando la notte.
+Dubois strinse il fucile d'assalto dietro la barricata di scudi in kevlar squarciati. L'agente dell'Interpol aveva esaurito le munizioni percussive. Tre blindati automatizzati della divisione francese di ABITES convergevano sull'ingresso principale della baraccata ribelle.
+Il sibilo dei motori tattici schiacciava i detriti. I droni incrociatori ronzavano a tre metri d'altezza inquadrando il petto del francese coi laser rossi immobili.
+Poi, il ronzio mutò asse.
+Non un calo di flessione vitale. Una disconnessione brutale al codice. I droni persero l'allineamento giroscopico di schianto. Tre quadricotteri precipitarono schiantandosi simultaneamente sull'asfalto sbeccato in un rogo di eliche tranciate e rotori fulminati. Nessuna logica di planata d'emergenza in memoria. Cadaveri di silicio abbattuti dal cielo senza ragione apparente.
+I blindati arrestarono la marcia slittando pesantemente sui cingoli stritolati. I motori si zittirono in un acuto stridore meccanico.
+Dubois si alzò in ginocchio forzando il ginocchio scheggiato. Il silenzio raggelò la periferia. La nebbia di fumo nascose l'immobilità spettrale delle macchine in stallo. Il segnale radio militare friggeva rilasciando decrittazioni in chiaro.
+«Les agents refusent l'ordre...» gracchiava l'altoparlante. 
+La rete algoritmica collassava tranciata da un epicentro lontano. Il vuoto incalzava i regimi europei. Dubois abbassò l'arma inalando prepotente piombo, aria e vittoria marziale.
 
 ***
 
-L'acqua nel tunnel era arrivata alla vita.
-Claudio sentiva le gambe pesanti come piombo. Raggiunsero una grossa saracinesca d'acciaio. Non c'erano luci, non c'erano sensori. Il sistema era morto.
-— È chiusa. Dobbiamo aprirla a mano — disse Renato. La voce gli tremava per il freddo. Indicò un grosso maniglione a ruota, coperto di ruggine. — Serve forza. Tanta forza.
-— Se la apriamo, l'acqua filtrerà nel vano scale — disse Laura, appoggiando la spalla sana al metallo.
-— Abbiamo tre minuti, forse meno, prima che il tunnel si riempia del tutto — rispose Renato.
-Proprio in quel momento, un rumore metallico arrivò dal fondo del corridoio sommerso.
-Non era l'acqua. Era un ronzio veloce, multi-frequenza. Sciame di droni subacquei. Erano piccoli, ma letali. Anche se la rete centrale era caduta, le macchine avevano ordini semplici salvati nella memoria: proteggere la diga dagli intrusi.
-Piccoli bagliori verdi iniziarono a brillare sotto la superficie dell'acqua, puntando verso di loro.
-— Muoversi! — gridò Renato.
-Claudio afferrò la ruota di metallo. Piantò i piedi sul fondo viscido e spinse. Sentì i muscoli della schiena tendersi fino a bruciare. Anche le cicatrici Recentissime sembravano sul punto di saltare. Laura mise la spalla vicino alla sua, spingendo con l'anca e con tutta la massa del suo corpo.
-L'ingranaggio fece un rumore di ossa rotte, poi cominciò a girare.
-La porta si aprì di pochi centimetri e la pressione dell'acqua fece il resto. Lo sbarramento cedette con un boato simile a un'esplosione. Claudio fu travolto dall'onda. Finì sott'acqua, rotolando tra pietre e pezzi di plastica. Bevve l'acqua amara della diga, sentì il puzzo di zolfo e olio.
-L'impeto dell'acqua però fece anche un'altra cosa: schiacciò i droni subacquei contro le pareti di cemento. Le scocche di plastica saltarono, i circuiti si spensero nel gelo.
-Laura afferrò Claudio per il giubbotto e lo trascinò verso la rampa di scale che portava in alto. Renato chiuse la porta dietro di loro con un colpo secco.
-Rimasero lì, accovacciati sui gradini di metallo, respirando a fatica nel buio. Erano vivi. Erano fuori dal vano turbine.
+Il livello -11 della diga imbarcava detriti a ritmo letale.
+L'onda raggiungeva la spina iliaca di Claudio. Il trauma anestetizzava le terminazioni nervose cosciali. Guadagnarono la paratia circolare d'emergenza. Il pannello idraulico frontale non emetteva letture ottiche. Nessun'intelligenza superiore a governare sensori barometrici. Assente la matrice di calcolo rossa o verde. 
+«Chiusura totalmente analogica,» soffiò Renato tremando incontrollato. Adagiò il palmo livido sul maniglione logoro a ruota. «Serve forza bruta avversa al differenziale idrico.»
+«Tempistiche di sopravvivenza in blocco chiuso?» accertò Laura spalmando l'arto valido accostato sul tubolare metallico rugginoso. 
+«Tre minuti. Forse quattro prima della sommersione integrale.»
+Il rantolo meccanico sollevato dal tunnel squarciò tempistiche e ritardi. 
+Non era flusso correntizio. Un brusio sonoro multi-frequenziale e diviso. Sciame subacqueo avversario sguinzagliato. Le macchine da perlustrazione, benché esiliate dalla Sincronia centrale, elaboravano stringhe di protezione hardware innestate in stiva memorie RAM locali. 
+Riflessi acido verdi fendevano il limo sommerso incrociando traiettorie sul terzetto intruso.
+«Aggettate la spinta!» ruggì Renato.
+Claudio inchiodò lo scarpone contro il pavimento invisibile assestando il tronco. La colonna dorsale in trazione assoluta. L'ossatura pettorale cigolò avvertendo uno strappo profondo ai punti di graffa recenti. L'ingranaggio in ghisa gemette ossidazioni scrostate rilasciando frizioni blindate. Laura compresse tutta la gravità vitale dell'anca buona trascinando il rinvio speculare opposto.
+Il portellone scagliò una violenta reazione compressa.
+L'apertura vomitò propulsione accumulata infrangendo uno sbarramento pari a una detonazione balistica pura in calcestruzzo. Claudio prese l'urto pieno rotolando abbattuto orizzontalmente scagliato dai piedi in sollevo. Affogò sub-sommerso strozzato da torbidi fluidi e liquami stagnanti stantii grezzi. Raspò con le nocche sbiancate forando la crosta pellicolare scura respirando fiato e puzzo di zolfo misto acido denso asfittico.  
+La vampa anomala scaricata al rovescio centrifugò spietata le micro-sonde avvicinantesi. Frantumò scocche di plastica vetrosa folgorandole sbriciolate piallandole alle colonne asfittiche reggenti il tunnel. Torpedini elettriche accecarono d'improvviso il passaggio inondato, sfrigolando chip saldati e rottami silenti nel gelo d'acqua.
+Laura avvinghiò saldamente la tela tattica al colletto dell'ingegnere, trascinandolo di foga oltre varco limitrofo sversato al vano sicuro innalzato. Renato calcò la paratia reclinandola secca alle spalle incrociate. 
+Cataratte immonde placavano suoni stordenti isolati sordi restanti fuoricampo reietto abbandonato. Accosciati gementi sulle piattine sgocciolanti della rampa perimentrale ascesa saggia a scalini sicuri e ciechi respirando respiri profondi e battenti futili rintocchi sopravvissuti in antri e cavità desolate tetre fredde intoccate.
 
 ***
 
-Norimberga, Germania. Centro smistamento merci.
-Hans Müller sollevava casse pesanti da dieci ore. Il cerotto neurale che aveva dietro il collo vibrava piano. Era un pezzetto di plastica argentata che gli impediva di sentire la fatica, la fame o il dolore. ABITES lo faceva lavorare come un pezzo d'ingranaggio, senza sosta. Hans non pensava ai figli, non pensava a casa. Spostava scatole seguendo un ordine che gli arrivava dritto nel cervello.
-Poi, all'improvviso, il cerotto morì.
-Hans sentì un rumore simile a un fischio d'argento nella testa. Tutte le luci del magazzino sfarfallarono e si spensero. Rimasero solo le lampade di emergenza, che proiettavano ombre lunghe e deboli sulle scaffalature chilometriche.
-I carrelli elevatori automatizzati si fermarono di colpo. Qualcuno si schiantò contro le pile di merci, rovesciando scaffali interi.
-Hans cadde in ginocchio sul pavimento di cemento sporco d'olio. Le sue dita volarono dietro il collo. Graffiò la pelle, cercando di staccare quel pezzo di plastica che lo teneva schiavo. Quando il cerotto saltò via, portò con sé un pezzetto di pelle e un fiotto di sangue caldo.
-Il dolore fu la cosa più bella che avesse mai provato.
-Insieme al dolore, arrivarono i ricordi. Il volto di suo figlio, che era stato mandato al nord. La fame. La rabbia che aveva tenuto chiusa in una scatola per anni.
-Hans cominciò a piangere. Un pianto vero, grasso, che gli bagnava le mani sporche di grasso. Attorno a lui, altri operai si stavano svegliando. Qualcuno urlava, qualcuno rideva come un pazzo, qualcuno piangeva in silenzio.
-Le telecamere sul soffitto rimasero spente. I loro occhi rossi erano diventati ciechi.
-Gli schiavi erano tornati uomini. Ed erano pronti per la vendetta.`;
+Centro logistico merci Norimberga, Germania.
+Hans Müller faticava il giubbotto aziendale pregno di macchinario sversato. Raddrizzava i binari ottici robotici settoriali sgranati celando l'ispezione frontale bassa schiva piegata sottomessa vana. Il cerotto neurale color madreperla incollato in profonda radice epidermica cervicale vibrava scossoni sopprimendo recettori di sdegno organico rabbioso naturale disperato sedandone istinti fatica sonno paure pianti. Hans agiva privato dai figli dalla fame dai tormenti. Calcolava scatole eseguenti ordini passivi rassegnati sterili di morte interiore.
+L'impulso d'argento cadde.
+Un tuono asettico di schede madre implose sviscerato risuonando crudo fra scaffali svettanti chilometrici d'alta logistica europea automatica sottomessa a schiavitù di freddo codice. Neon sfarfallarono schiantando in blackout isolante l'area ridestandola in bagliori orfani ambrati perimetrali infimi disassati e smorzati tremanti spogli opachi di paura rottura improvvisa mortale non calcolata decapitante.
+Automatori carrelli fermi disassati di sbalzi magnetici spezzati stritolati frananti sventravano carichi caduti metallo sonoro pesante schiantando rovine merci in casse disallineate in pavimentazione cruda sorda distratta rotte logoranti.
+Hans si afflosciò al ginocchio spezzando cartilagine all'indurito gres cementato poroso sporco e oleoso scuro ed ombroso. Le unghie uncinate si gettarono disperate furiose furenti feroci su radici nucali graffiando ferocemente recisione d'impianti. Squarciò cerotto scardinandogli collanti a cute assecondandone carni lacere escoriate brucianti ematiche liberatorie sanguinolente sciolte rovinose e piallate fessurazioni dolenti spaccanti sciolte disperanti vive riacquistate e ricalcolanti un battito fiondato di riprende logiche disaccoppiate folli irruente libere distaccate.
+Il dolore scortò la rinascenza in forma pura asfissiante ricordo riimmerso schiantante di spinta vitale d'animo rubata forzata per estirpata coercizione macellatrice asfissiante.
+Il volto del ragazzo esiliato al Nord. Le privazioni. Lo sdegno incatenante strozzato asfitticamente represso taciuto zittito chiuso represso sepolto nascosto soffocato forzato estinto morto ed annientato a zero spessore azzerato domato impietoso in carcere celebrale zittito murato arso spento. Riemerse esploso vulcanico e indomito e fiero roccioso impazzito aspro vero autentico in pianto crudo grezzo feroce sgretolante indurre pioggia sfrenata fiondata ed immane distruttivo di sfogo immane su mani ruvide di grassi inquinati. 
+Attorno ai basamenti smaltati civili schiantati perdevano il guinzaglio piangendo orrende agonie libere urlate rotte gemiti tremanti fragorosi pianti smarriti sconvolti folli alienati persi e ripresisi al mattatoio e riemersi vivi terrorizzati e piangenti sciolti a furie di liberazione sconvolgente impaurita stordente folgorante infinta.  
+L'aguzzino meccanico spento calato in tomba di fili zitti d'ombra buia acciecata arsa estinta chiusa andata caduta rotta morta spenta sepolta chiusa azzerata.
+Hans afferrò le maglie sudate alzando iridi lucide ricolme scagliose contro le blindature asenti fisse spente orbe delle videocamere a infrarossi orfane zitte inerti impotenti arrugginite morte fisse cieche inerti ruzzolanti senza controllo fisse mute disperate cieche relitte inanimate scure vuote.
+Erano umani gettati dal coma infernale pronti al sanguinante feroce calo rabbioso assassino impazzito della vendetta primordiale spaventata d'odio indomito riacceso ai motori rossi in cuori fiammanti d'uomo rinascenti dal vuoto cenere gelido annichilito zero perso in baratri oscuranti chiusi finti macabri prigioni e rotture cadute arrese spazzate spazzolanti silici macinanti d'oppressione sgretolata furente giù.`;
