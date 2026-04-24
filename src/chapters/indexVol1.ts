@@ -25,6 +25,7 @@ import { chapter24Content } from './chapter24';
 import { chapter25Content } from './chapter25';
 import { chapter26Content } from './chapter26';
 import { chapter27Content } from './chapter27';
+import { chapter28Content } from './chapter28';
 import { chapter39Content } from './chapter39';
 import { chapter40Content } from './chapter40';
 import { chapter41Content } from './chapter41';
@@ -68,6 +69,7 @@ export const volume1Data = {
     { id: 'macro-cap-17', title: 'Capitolo 17 — Il Trono di Silicio', content: chapter25Content },
     { id: 'macro-cap-18', title: 'Capitolo 18 — I Cacciatori di Lione', content: chapter26Content },
     { id: 'macro-cap-19', title: 'Capitolo 19 — Il Traliccio di Fourvière', content: chapter27Content },
+    { id: 'macro-cap-20', title: 'Capitolo 20 — Convergenza', content: chapter28Content },
   ],
   epilogue: epilogueContent,
   authorInfo: authorInfoContent,
