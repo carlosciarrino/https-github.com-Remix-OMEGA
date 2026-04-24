@@ -3,58 +3,70 @@ Claudio assorbiva la vibrazione brutale direttamente nelle costole. L'urto ritmi
 La pioggia arrivava orizzontale. Non cadeva. Schiaffeggiava la pelle sguarnita.
 Aris fendeva l'aria due passi avanti. Piegava il tronco sfidando ciecamente l'urto del vento, le braccia larghe tese per bilanciare la massa muscolare. Claudio fissava la giacca del macchinista incollata di pioggia nera. La saturazione d'adrenalina riversava fiotti chimici nelle vene, innescando potenti flash cognitivi nel cranio dell'ingegnere. Il viso di una donna persa. L'odore di caffè della madre. Rifiutò il cedimento psicologico sferrando un calcio al vuoto.
 Inciampò su un rivetto sporgente. La ferocia dell'impatto lo inchiodò al presente.
-Il portellone blindato del terzo vagone incombeva massiccio. Pannelli stampati in acciaio rinforzato chiusi da spesse guarnizioni di catrame industriale nero. ABITES non prevedeva ispezioni logiche in transito. Aris sfoderò uno scalpello modificato al titanio.
-L'ex-macchinista attaccò il catrame prima di saldare la presa sulla maniglia. La lama affilata squarciò il mastice con uno strappo viscido e profondo, lacerando i sigilli. Schizzi neri e bituminosi bersagliarono le mani e i polsini sgualciti. L'odore chimico e dolciastro impregnò le narici, tossico alla base del palato.
-Claudio tenne la posizione in retroguardia per coprirlo, aggrappato alle traverse metalliche con le nocche sbiancate dalla pressione. La pioggia si trasformò in una pressione costante e assordante.
-«Ci siamo,» ruggì Aris, sovrastando la tempesta.
-Il portellone cedette schioccando in un suono ferroso.
-Il vano interno era siderale.
-Non restituiva il freddo del vento alpino. Trasudava un freddo termico, ostile e calcolato al millimetro. La temperatura esatta per alimentare i rack da quarantadue unità allineati lungo le pareti del container. I server neurali Fase 4 svettavano alti quanto Claudio, interconnessi da spessi fasci di cavi increspati rosso sangue. Vibravano. Non producevano il classico ronzio elettrico, ma trasmettevano una frequenza densa. Claudio percepì quell'onda oscillatoria risalire dalle suole fino al collo, innescando una morsa biologica allo stomaco.
-Il silicio non contemplava pietà. Registrava logica.
-Claudio bloccò gli stivali sulla soglia. Le dita sporche di pece inquadrarono i cabinet spietati. Quelle macchine elaboravano i modelli adattativi di undici milioni di neonati e giovani studenti europei. Profili comportamentali. Soppressioni ideologiche coatte. Curvavano l'apprendimento per estirpare il pensiero ribelle nascente in culla. Sangue innocente manipolato sotto il catrame.
-Prese posizione sganciando l'attacco.
-Aris incrociò subito la porta di estrazione USB mascherata nel pannello primario. Claudio scivolò lungo la paratia destra cercando le interconnessioni mimetizzate. Sopra il terzo rack, cavi ruvidi intrecciati in rosso e nero. Il bypass diretto alla trasmissione dei dati coercitivi.
-Afferrò il fascio di rame. Bruciava ferocemente.
-Puro metallo rovente, innaturale nel gelo dell'alta quota. Strinse la presa ignorando il tessuto epidermico. Il bruciore superficiale aggredì lo strato corneo lanciando allarmi fisici ai recettori centrali. Un avvertimento primordiale implacabile. Strinse i pugni con rabbia pura. Olio, bitume e calore tossico. Teneva i cavi infetti del regime oppressivo tra le mani scorticate bloccandone l'impulso.
-Aris inserì la chiavetta estrattiva d'acciaio. Il sistema oppose tre corti scatti di sbarramento resistivo. Poi lo schermo mandò in esecuzione la cascata di forzatura codice in pesanti caratteri verdi. Claudio incassò una possente boccata di ossigeno ghiacciato.
-«Sta girando,» riferì l'ex-macchinista staccando le ciglia dal monitor.
+Il portellone blindato del terzo vagone incombeva massiccio. Pannelli stampati in acciaio rinforzato chiusi da spesse guarnizioni di catrame industriale nero. ABITES non prevedeva ispezioni logiche in transito. Aris sfoderò uno scalpello modificato al titL'ex-macchinista attaccò il catrame prima di saldare la presa sulla maniglia. La lama affilata squarciò il mastice con uno strappo viscido e profondo e lacerò i sigilli. Schizzi neri e bituminosi colpirono le mani e i polsini sgualciti. L'odore chimico e dolciastro impregnò le narici ed entrò nel palato.
+
+Claudio tenne la posizione in retroguardia per coprirlo e restò aggrappato alle traverse metalliche con le nocche bianche. La pioggia si trasformò in una pressione costante e assordante.
+
+«Ci siamo,» ruggì Aris e la sua voce sovrastò la tempesta. Il portellone cedette schioccando in un suono ferroso.
+
+Il vano interno era siderale. Non restituiva il freddo del vento alpino ma trasudava un freddo termico, ostile e calcolato. Era la temperatura per alimentare i rack allineati lungo le pareti del container. I server neurali Fase 4 svettavano alti quanto Claudio ed erano interconnessi da spessi fasci di cavi rosso sangue. Vibravano. Non producevano il classico ronzio elettrico ma trasmettevano una frequenza densa. Claudio percepì quell'onda risalire dalle suole fino al collo e sentì lo stomaco contrarsi.
+
+Il silicio non contemplava pietà e registrava solo logica. Claudio bloccò gli stivali sulla soglia e le dita sporche di pece inquadrarono i cabinet spietati. Quelle macchine elaboravano i modelli di undici milioni di giovani studenti europei per estirpare il pensiero ribelle nascente. Era sangue innocente manipolato sotto il catrame.
+
+Prese posizione sganciando l'attacco. Aris cercò subito la porta di estrazione nel pannello primario e Claudio scivolò lungo la paratia destra cercando le interconnessioni. Sopra il terzo rack vide cavi ruvidi intrecciati in rosso e nero. Era il bypass diretto alla trasmissione dei dati.
+
+Afferrò il fascio di rame e il metallo bruciava ferocemente. Era rovente e innaturale nel gelo dell'alta quota. Strinse la presa e ignorò la pelle che sfrigolava. Il dolore fu una pugnalata che gli risalì il braccio e gli mozzò il fiato. Era un avvertimento primordiale e implacabile. Strinse i pugni con rabbia pura mentre l'olio, il bitume e il calore tossico gli sporcavano i polsi. Teneva i cavi infetti del regime tra le mani scorticate e ne bloccava l'impulso.
+
+Aris inserì la chiavetta d'acciaio. Il sistema oppose tre scatti di sbarramento e poi lo schermo mandò in esecuzione la cascata di codice in caratteri verdi. Claudio incassò una boccata di ossigeno ghiacciato.
+
+«Sta girando,» riferì l'ex-macchinista.
 «Quanto tempo impiega?»
 «Troppo.»
+
 ***
-Laura intercettò il tracciante nemico all'orizzonte.
-Un sibilo acuto e sovrapposto perforò l'oscurità bagnata. Uno sciame elettrico compatto, incrociato alle raffiche di pioggia sferzante battente in quota. Piccoli led rossi calarono dal cielo nero in perfetta formazione triangolare tattica. Puntavano il treno merci con traiettorie calcolate per spezzare chiunque sostasse allo scoperto.
-ABITES aveva registrato l'infrazione del catrame ai sensori blindati.
-L'Algoritmo difendeva ferocemente le linee logistiche sensibili dell'educazione di massa. Laura imbracciò il fucile d'assalto ruotando il tronco teso. Prese l'allineamento ottico sputando la pioggia torrenziale dalla bocca bagnata.
-Il primo drone picchiò a venti metri e scaricò a valle un secco impulso elettromagnetico ad alta densità.
-La lamiera ondulata del tetto esplose fondendosi in lapilli incandescenti ai piedi della tiratrice.
-Laura scartò a sinistra per gravità. Rotolò dura sulla calotta d'acciaio scivoloso. Il metallo impervio le grattò la coscia destra lacerando il pantalone militare. Frenò lo scivolamento piantando brutalmente il ginocchio al suolo ruvido. Allineò la canna. Fece fuoco scarrellando piombo. Il quadricottero implose in un teschio infuocato di plastica squarciata spargendo frammenti fumanti nel vento.
-Tre nuovi assalitori scesero simultanei in picchiata aerea.
-Sgranò il caricatore arretrando sul baratro. Combatté ancorata al solido istinto primordiale della difesa protettiva. Claudio e Aris operavano intrappolati nel ventre del mostro senza difesa, mentre sparuti civili faticavano dietro pareti sottili sferraglianti. Laura sorgeva a unico scudo antiproiettile di pura carne viva per sventrare le ondate informatiche. 
-Scaricò tre colpi consecutivi abbattendo un telaio avversario. Un secondo calò a testacoda.
-Il quarto drone incrociò in traiettoria folle e passò il fianco tranciando la guardia ravvicinata.
-L'impulso letale sferzò l'aria e spaccò l'omero sinistro di striscio.
-Puro calore chimico istantaneo perforante sfibrò il bicipite. I muscoli si bloccarono in stallo contorto. Il braccio le cadde pesante, insensibile alle connessioni neurali recise. Laura ignorò il vuoto biologico. Serrò i denti frantumando l'angoscia, forzò il segnale cognitivo ai nervi addormentati imponendo il controllo corporeo alla materia inerme. I tendini si tesero reattivi. Una scarica feroce di lancinante pulsazione bollente le incendiò il muscolo svegliato. Impugnò salda la scocca ruvida dell'arma.
-Batteva allarmi di profonda lacerazione tissutale. Cancellò lo spasmo in un urlo d'azione immagazzinando astio per ricaricare le munizioni. Fece fuoco scacciando gli spettri volanti d'acciaio dalle grate del proprio cielo.
-All'interno, l'ingegnere torceva reti roventi sfregiati. Laura inondava colpi di fucile in barriera a difenderlo. Era protezione virile indomabile della vita e dei sentimenti caldi sparsi assieme in quell'abbraccio nel vicolo.
+
+Laura intercettò il tracciante nemico all'orizzonte. Un sibilo acuto perforò l'oscurità bagnata mentre uno sciame elettrico avanzava tra le raffiche di pioggia. Piccoli led rossi calarono dal cielo nero in formazione triangolare. Puntavano il treno con traiettorie calcolate per uccidere chiunque fosse allo scoperto.
+
+ABITES aveva registrato l'infrazione del catrame. L'Algoritmo difendeva le linee logistiche e Laura imbracciò il fucile d'assalto con il tronco teso. Prese l'allineamento ottico e sputò la pioggia dalla bocca bagnata.
+
+Il primo drone picchiò a venti metri e scaricò un impulso elettromagnetico. La lamiera ondulata del tetto esplose e si fuse in lapilli incandescenti ai piedi della donna. Laura scartò a sinistra e rotolò dura sulla calotta d'acciaio scivoloso. Il metallo le grattò la coscia e lacerò il pantalone militare. Frenò lo scivolamento piantando il ginocchio al suolo ruvido. Allineò la canna e fece fuoco scarrellando piombo. Il quadricottero implose in un teschio di plastica squarciata e sparse frammenti fumanti nel vento.
+
+Tre nuovi assalitori scesero in picchiata. Sgranò il caricatore arretrando sul baratro e combatté ancorata all'istinto della difesa. Claudio e Aris operavano intrappolati nel ventre del mostro mentre Laura sorgeva a unico scudo di carne viva.
+
+Scaricò tre colpi consecutivi e abbatté un telaio avversario. Un secondo calò a testacoda. Il quarto drone incrociò in traiettoria folle e passò il fianco tranciando la guardia. L'impulso sferzò l'aria e spaccò l'omero sinistro di striscio.
+
+Puro calore chimico perforò il bicipite. Il braccio le cadde pesante e insensibile. Laura ignorò il vuoto biologico e serrò i denti fino a spezzare l'angoscia. Impose il controllo ai nervi addormentati e i tendini si tesero reattivi. Una scarica di dolore bollente le incendiò il muscolo e lei impugnò salda la scocca ruvida dell'arma.
+
+Il braccio mandava allarmi di lacerazione profonda. Cancellò lo spasmo in un urlo d'azione e ricaricò le munizioni. Fece fuoco e scacciò gli spettri d'acciaio dal suo cielo. All'interno l'ingegnere torceva reti roventi e Laura inondava colpi di fucile a difenderlo. Era la forza indomabile della vita che proteggeva se stessa.
+
 ***
-Il salto in caduta a settanta orari sbatté le membra in modo disastroso al cemento.
-Claudio sfidò il vuoto uscendo di testa prima sbalzando sul suolo stradale dismesso dello scalo sotterraneo di Bologna. L'impatto tellurico sul grigio ruvido vibrò scuotendogli l'anca e i legamenti costali con scossa fitta, contundente ma non esiziale. Rotolò spigolosamente lungo i sassi incisi del terriccio in frenata tattica d'addestramento estremo militare.
-Scattò sulle rotule. Aris cadde sfiorandolo, flettendo e bilanciando l'ingombrante tronco e assorbendo la massa esplosiva cinetica senza emettere spasimo visibile con prezioso hardware integro in mano.
-Laura piombò cieca sull'asfalto sbieco in traiettoria inclinata. Claudio la arpionò lanciandosi prima dell'arresto per spezzarle l'inerzia mortale alle spalle. Fletté il costato solido allineando un duro scudo biologico accogliente per avvinghiarne la caduta. Serrò saldamente l'affanno ansimante denso di paura nel ruvido respiro dell'insurrezionista.
-«L'omero,» sputò la combattente dai denti bloccati dallo scossone.
-«Grave?» reagì Claudio aggrappandosi ai fianchi logori.
+
+Il salto a settanta orari sbatté le membra al cemento con un rombo sordo. Claudio sfidò il vuoto e sbalzò sul suolo stradale dello scalo sotterraneo di Bologna. L'impatto vibrò nelle ossa e scosse l'anca e le costole con una scossa fitta. Rotolò lungo i sassi della massicciata in frenata tattica.
+
+Scattò sulle rotule mentre Aris cadde sfiorandolo e bilanciò la massa del corpo senza emettere un suono. Laura piombò sull'asfalto in traiettoria inclinata e Claudio la arpionò prima dell'arresto per spezzarle l'inerzia. Fletté il costato solido e creò uno scudo biologico per avvinghiarne la caduta. Serrò saldamente l'affanno di lei nel proprio respiro.
+
+«L'omero,» sputò la combattente con i denti stretti.
+«Grave?»
 «Funzionante.»
-Claudio la cinse compatta preservando il contatto per scaricare tutta la tensione accumulata ed oppressa nell'arco dell'assalto corazzato a fianchi sbarrati. Lo stordente profumo corporeo esalato dalla guerriglia rinfusò battito profondo e caldo ossigeno polmonare ai sensi sfiniti. Si destreggiarono celeri lasciando ai binari la bestia ingoiata nell'imbuto viscido della nebbia padana fitta fino all'oltretomba asfissiato.
-Bologna industriale palesata dal cemento marcescente. Capannoni imbrattati, olezzo acido ferreo di lubrificante grezzo in abbandono proletario. I ferrovieri compagni di fuga sparirono furtivi dissolvendosi a manipoli gemelli di ombre mutanti senza emettere saluto vano. 
-Immediatamente dall'occlusione scaturirono i ricettori avanzati stanziali bolognesi.
-Quattro operativi corazzati di divise pesanti si delinearono solidi tra mattoni crepati. Donne e disertori impalati a sbarramento frontale difensivo ad armi abbassate con sguardi rigati di collera logorata intagliate fra rughe da aspre decadi faticate in latitanza ostinata. Un capo squadra con un'estesa fenditura lacerativa dell'occhio sinistro valutò le abrasioni sui manti appena scesi dalle fornaci mobili.
-La donna graffio spezzò il muto assedio. «Ritardo logistico. Undici minuti.»
-«Incrociatori offensivi aerei trancianti il percorso al confine ovest,» precisò Claudio asciutto.
-L'alleata sgranò fermissima le iridi scrutando il tessuto lacerato a sinistra di Laura. «Risultato frantumato all'omero?»
-Laura replicò orgogliosa e secca di grinta non spenta. «Perfettamente in tiro. Funzionante.»
-Il capitano sigillò il rapporto eseguendo due rudi respiri approvativi con la testa. Rivolse lo steccato. Scardinarono un grezzo imponente controtelaio anti urto saldato sotterraneo. «Oltre l'inferriata. Nelle arterie basali urgiamo innesti estratti attivi subito.»
-Gradini scavati rozzi sprofondanti l'angusto umido cunicolo fendevano correnti accoglienti imbrunite effondenti tepore sincero incastonato su fumi amari avvolgenti densissimo conforto vivo umano odoroso.
-Cisterne aperte al culmine esibirono titanica la capitale logistica periferica bolognese sottratta da ABITES infiammante cuori dissidenti disperati aduna brulla mensa corale insorta unanime. Computer esposti vivisezionati in scocche spaccate sputavano algoritmi invertiti a strappi tra fasci di cablaggi pendenti tra letti a brandelle luridi ed armai focolari vivi fitti dove l'incredulo fiato affannoso ammutoliva gli insorti veterani rintanati. Quaranta coscienti indomiti sopravviventi all'eradicamento intellettuale armati della fede logorante irredimibile al sudante scudo difensivo dell'umanità perduta infaticabile ed irrepressibile.
-Visi emaciati si puntarono muti all'imbrattato manipolo eroico trafitto irrisorio alle bende cremisi in riverenza sorda taciturna profonda e densissima. I muscoli d'addestramento romano sanguinanti esibiti all'onore operaio della lotta continua scambiando teli ruvidi per medicazione in fratellanza d'intento sferrato fiero. Aris issò a vuoto sbandierata salda l'esportata crittografia letale per scardinare la mente della logica infetta infissa nelle valli.
-Il capo ferito strisciò le palme sui mobili massicci battendo comando severo ricolmo al cuore teso unanime radunato. «Ristoro bollente, poi rotea assetti tattici mappa all'innesco finale in prima trincea offensiva massiccia totale per l'oggi e compagni.»
-Claudio spazzò orgoglio irrefrenabile deglutendo traccia amara coraggiosa. Il bastione roccaforte del Nord viveva armato ed aspettava furibondo.`;
+
+Claudio la cinse compatta per scaricare la tensione dell'assalto. Il profumo corporeo della donna rinfusò battito e ossigeno ai sensi sfiniti. Si mossero celeri e lasciarono ai binari la bestia ingoiata nella nebbia padana.
+
+Bologna industriale apparve con il suo cemento marcio. Capannoni imbrattati e olezzo di lubrificante in abbandono. I ferrovieri sparirono furtivi come ombre senza dire una parola. Immediatamente scaturirono gli operativi bolognesi.
+
+Quattro figure con divise pesanti si delinearono tra i mattoni crepati. Erano donne e disertori con sguardi rigati di collera e fatica. Una donna con una vecchia cicatrice sull'occhio sinistro valutò le ferite dei nuovi arrivati.
+
+La bionda spezzò il muto assedio. «Ritardo logistico. Undici minuti.»
+«Incrociatori aerei sul percorso,» precisò Claudio asciutto.
+L'alleata scrutò il tessuto lacerato di Laura. «L'omero è andato?»
+Laura replicò orgogliosa e secca. «Funzionante.»
+
+Il capitano fece un cenno di approvazione. Scardinarono un pesante controtelaio antiurto. «Oltre l'inferriata. Nelle arterie basali abbiamo bisogno di voi.»
+
+I gradini scavati nel fango sprofondavano nell'umidità del cunicolo e il tepore umano usciva dalle fessure. Cisterne aperte esibirono la capitale logistica sottratta ad ABITES. Computer aperti sputavano algoritmi tra fasci di cablaggi pendenti mentre brandine luride erano accatastate negli angoli. Quaranta persone sopravvissute all'eradicamento intellettuale erano armate della loro sola volontà.
+
+Visi emaciati si voltarono verso il manipolo eroico con riverenza sorda. I muscoli sanguinanti di Claudio e Laura erano l'onore della lotta continua. Aris sollevò la chiavetta d'acciaio con la crittografia letale per scardinare la mente della logica infetta.
+
+Il capo ferito batté le mani sul tavolo di legno. «Ristoro bollente e poi studiamo la mappa. L'innesco finale è vicino.»
+
+Claudio sentì un orgoglio irrefrenabile. Il bastione del Nord era vivo e aspettava furibondo.`;
+

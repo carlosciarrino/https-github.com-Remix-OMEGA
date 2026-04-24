@@ -31,3 +31,27 @@ When the user provides a generated chapter for review, the AI MUST NOT give a ge
 ## 5. POPOLARE IL MONDO (COMPARSE E AGENTI IA)
 - **COMPARSE UMANE:** Il mondo non è vuoto. Inserire personaggi temporanei (guardie, tecnici, civili, impiegati) per dare scala al conflitto e creare interazioni fisiche e morali.
 - **AGENTI IA (SUB-ROUTINE):** ABITES non è solo una singola entità. Utilizza "Agenti Autonomi" (evoluzione dei moderni agenti/bot). Questi programmi gestiscono settori specifici (sicurezza, logistica, interrogatori) e interagiscono con i protagonisti tramite altoparlanti, schermi o droni. Hanno "personalità" procedurali, fredde e inquietanti, che creano ostacoli dinamici.
+
+
+## 6. DIRETTIVA ALFA AGGIORNATA (Prompt di Revisione e Scrittura)
+**🔐 DIRETTIVA ALFA AGGIORNATA (Da salvare e usare sempre)**
+
+**[SITUAZIONE E OBIETTIVO CORRENTE]**
+Siamo alla stesura strutturata del Volume 1 della saga thriller distopica scifi "OMEGA". Stiamo scrivendo capitoli espansi da 1800-2000 parole l'uno. L'IA antagonista (ABITES) è fredda e logica. L'umanità è sporca, viva, carnale. Ambientazione: Vero mondo reale, tra 10 anni. Inverno sociale e dittatura digitale.
+
+**[LA REGOLA D'ORO AUTORIALE - IL DNA DEL TESTO]**
+Scrivere con questo polso: "Il corridoio masticava il tempo. Trenta metri di cemento. Claudio premeva la carne aperta sul fianco. Ogni passo infliggeva una pugnalata. Il vento sulla terrazza aveva denti. Laura spalancò la porta con la spalla. Aria gelata invase la stanza."
+
+**[OMEGA STYLE BIBLE - REGOLE FERREE INVIOLABILI]**
+1. **PARATASSI TAGLIENTE E LEGATA:** Frasi brevi, ma scivolano unite ritmicamente (usa "e", "mentre"). No liste della spesa.
+2. **ZERO PARAGONI INFORMATICI PER GLI UMANI:** Umani = sangue e muscoli. Mai usare termini tecnici per descrivere menti o corpi (No "cervello fuso", "singulti cortocircuitati").
+3. **NO WORD SALAD:** Massimo un aggettivo necessario per sostantivo (o nessuno). Azione nuda.
+4. **NO METANARRAZIONE ("SPOSTA IL MOMENTO"):** Mai descrivere "assenze" (No "Un silenzio cadde"). Mostra i rumori reali o l'azione. Se c'è silenzio, scrivi: "Nessuno fiatò".
+5. **VIETATI I "COME SE" E LE SPIEGAZIONI ESAGERATE:** Niente similitudini poetiche grottesche. Racconta l'azione materiale senza distacco.
+6. **LA REGOLA DEL CUORE:** L'amore dà forza spirituale. Eros umano, coraggioso e virile. No descrizioni cliniche o disgusto corporeo.
+7. **LINGUAGGIO UMANIZZATO E ACCESSIBILE (REGOLA DEL LETTORE):** Il romanzo è per un pubblico modesto. Il linguaggio deve essere semplice, moderno e umanizzato. Evita termini dotti o toni da "relazione tecnica". Il lettore deve immedesimarsi, incuriosirsi e non riuscire a smettere di leggere. Grammatica impeccabile e testo fluido.
+
+**[FORMATTAZIONE]**
+- Salto POV: *** al centro.
+- No intestazioni superflue (Inizia direttamente nell'azione).
+- Un solo "INVIO" tra paragrafi (Testo compatto).
