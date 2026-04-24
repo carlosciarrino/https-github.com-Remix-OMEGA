@@ -1,61 +1,79 @@
-export const chapter20Content = `Aris stendeva i blueprint sul tavolo d'alluminio schiacciandone i bordi coi polsi massicci.
-I fogli mostravano la Diga di Suviana in tre angolazioni, rubate al catasto blindato pre-collasso. Umidità e muffa burocratica esalavano dai rotoli di pergamena indurita.
-Terzo sbatté il righello da officina sulle coordinate. Tracciò una dura linea rossa al perimetro inferiore.
-«Il livello -11 allaga di proposito il piano,» disse reciso. «Suviana sfrutta la portata del lago per raffreddare l'hardware mortale. Il server Nucleo Delta annega fino alla banchina di ritenzione. Ci sarà mezzo metro d'acqua ghiacciata sul pavimento operativo.»
-Claudio ispezionò la mappa dal bordo consunto del tavolo. Tre massicci anelli concentrici in titanio innalzavano le difese interne: livelli -1, -5 e -11. La Sfregiata li aveva cerchiati a pennarello tracciando l'obiettivo da abbattere.
-«I Celerini di Classe A,» ringhiò Claudio. «Quanti.»
-«Dodici unità d'assalto al perimetro interno.» Aris corrugò la fronte buia sui calcoli. «I Celerini umanoidi azzerano la variabile biotica. Non sentono fatica e non arretrano. Rilevano il calore e abbattono la minaccia.»
-Titano balistico compresso, fuso in stampi semi-umani crudi e spietati.
-Dall'altra parte della base, la Sfregiata posizionò le rastrelliere.
-Aprì le casse scure sollevando fucili ungendosi di grasso lubrificante. I miliziani di Bologna si spartirono le bocche da fuoco in cruda liturgia d'assalto. Nessuno fiatò. Uomini e donne serravano le dita contro il fusto di metallo freddo. Stringevano la ribellione abbassando di mezzo grado i menti solcati dalle rughe, preparandosi alla sepoltura infuocata per spaccare la gabbia di Sincronia.
-Il plastico avanzato pesava in densi blocchi grigi. La Sfregiata compartimentò le dosi isolandole in fogli termici, muovendo le mani agili e segnate in spietata rassegnazione letale votata alla guerra radicale.
-Aris pestò sull'impronta rossa. «Il virus organico attacca il root solo dall'interfaccia fisica centrale al Nucleo Delta.» Guardò Claudio duro e fisso. «Tocca immergersi nell'acqua morta e bucare la plancia armando l'estrattore addosso alla scheda madre.»
-«Io,» ruggì Claudio netto. 
-Aris riavvolse il plastico aspro. «Il tuo biglietto, ingegnere.»
-Il fucile d'assalto pesava. Ferro brutale e gelido raccolto senza esitazione dal tavolo. Il calcio s'incastrò saldo nel palmo destro. Quell'involucro rivendicava urti calibro.
-Claudio respirò a fondo l'odore chiuso militare rammendando visceralmente Sara incassata a Roma, sola nel suo muro cibernetico coraggioso a deviare l'Algoritmo mastodontico con incrollabile stoicismo e protezione. Quella donna in trincea meritava di vivere da libera creatura mortale.
-Strinse forte il caricatore. Il titanio andava fuso. Nessuna resa concessa.
-Sara agganciò i movimenti francesi dai radar crittografati violati.
-Alle 04:17 un'anomalia esplosiva inondò il server di Parigi. Centinaia di droni d'assalto smossi ed intercettati sulle pianure del nord-ovest. Dubois stava infiammando le coste all'estero premendo il grilletto ribelle continentale in tempistica impeccabile chirurgica e solidale.
-Sara vagliò i dati furiosamente.
-Logistica pesante mobilitata. ABITES spostava milizie corporative intercettando il rogo transalpino. I varchi dell'Appennino emiliano sputavano squadriglie corvine trasferendole sull'asse occidentale, diradando subitaneamente la protezione e le guardie termiche alla diga. Dubois sventrava la copertura alleata richiamando la furia cieca dell'Algoritmo al di là delle Alpi.
-«Quaranta minuti operativi per Claudio e gli altri,» calcolò Sara.
-Inoltrò il segnale prestabilito al bunker bolognese e serrò i protocolli.
-Il pavimento del rifugio rabbrividì sordo.
-Il rombo diesel ibrido saturo piombò sul vicolo trasteverino raschiando brutalmente l'asfalto inzuppato della Capitale. Pneumatici corazzati stridettero violenti fermandosi con violenza metallurgica micidiale esattamente sulla verticale del tombino di scolo sopra la sua postazione cieca.
-Sara strinse i denti senza arrestare le falangi. Il cuore batté con regolarità granitica asperse di coraggio infiammato, pompando calore calmo e mortale nelle arterie.
-Le macchine l'avevano inquadrata.
-Chiuse a chiave tutte le frequenze nordiche spappolando i tunnel d'assegnazione protettiva, garantendo a Claudio pura ombra invisibile logistica. Afferrò a piene mani il cavo ottico master logorante squarciandolo violentemente dalla borchia al muro con uno strappo di schiena netto e chirurgico. I diciassette monitor esplosero disconnessi piombando in crudo blackout termico. Il server rantolò morendo d'ossigeno informatico. Il gelo acustico saturò l'aria e spense il respiro artificiale dell'intera stanza isolata.
-Il tombino soprastante rimbombò sotto le pedate.
-I mortali Celerini umanoidi sganciavano le cinture irruppendo militarmente e pesantemente al di sopra dei mattoni del rifugio battendo passi metodici distruttivi alieni alla compassione.
-Sara ingoiò aria nuda aprendo decisa il cassetto metallico logoro. Afferrò l'ostica brunitura letale della fiera Beretta automatica inserita dai partigiani. Ribatté il cane ricaricando l'anima della canna ruvida e solida d'acciaio pesato, abbassò gli occhi nel buio ed innalzò orgogliosa e fatale la bocca di fuoco verso la crepa della scala laterale attendendo risoluta ed invincibile l'apertura delle ostilità al fianco del fratello in armi emiliano distante centinaia di chilometri boscosi e feroci gelidi.
-I pick-up mimetizzati sfondavano i tornanti appenninici a fari spenti.
-Laura artigliava la lamiera graffiata del cassone assorbendo nel telaio corporeo l'impatto distruttivo del terreno sdrucciolevole montano disastrato e gelido del predawn selvaggio. Tagliente brezza scendeva mortale avvinghiando polmoni e mucose fiondandosi spietata oltre le maglie logore delle sciarpe aspre, tracciando condanne biologiche alla muscolatura esposta affamata. I mezzi sbranavano trazioni impazzendo le gomme.
-Nebbie lattiginose umide ingoiavano la carrozzeria fusa al bosco scheletrico, cieco scorrere muto e disabitato. Aris fissava il fucile in braccio analizzando l'incursione idro-logistica programmata letale, l'ingloriosa traversata ombra destinata nell'acqua per sigillare l'annullamento cognitivo d'ABITES per salvare intelletti prossimi infantili europei.
-Claudio reggeva l'urto a fianco al roll-bar, scaricando foga. 
-I fuoristrada arrestarono di schianto i freni slittando silenziosi all'approccio boscoso trecento metri alle pendici della struttura maledetta bersaglio terminale.
-La colonna sganciò le catene saltando al suolo fangoso ruvido scemo roccioso insidioso. 
-Puntarono gli stivali infrangendo pozzanghere crostose frantumate. Le sicure meccaniche scattarono metalliche. I caricatori martellati risuonarono armati d'assalto al plotone appostato. Un click seriale deciso di falange irriducibile avvelenata marciante nel pantano disastroso freddo all'unisono aspro.
-La Diga apparve.
-Il colosso di cemento armato deflorò crudelmente le nubi plumbee asfittiche all'alba livida spezzata cinerea. Un muro mostruoso gettato titanico per soverchiare spietatamente la gola del bacino di Suviana oscurando ed asfissiando il bacino grigio tetro increspato. 
-I pannelli modificati riflettevano sprazzi corvini. Sensori infrarossi rossastri e radar roteanti infettavano l'opera idraulica blindandola a trincea insormontabile di metallurgico titanio inamovibile per il calcolo dittatoriale massivo del tiranno logico artificiale intoccabile di tutta L'Eurasia collassata.
-Claudio s'affiancò ruvido a Laura. Sfregiata e Aris affondarono le dita sui fermi, scrutando gelidi oltre l'orlo dei tetti perimetrali. Sentinelle corazzate stazionavano ai portali in fissa mostruosità tombale senza spreco calorico.
+export const chapter20Content = `Aris stese le mappe sul tavolo di alluminio, schiacciandole con le braccia grosse e pesanti.
+I fogli mostravano la diga in tre disegni diversi, rubati agli uffici comunali prima che tutto crollasse. Le vecchie mappe puzzavano di umidità e carta ammuffita.
+Un uomo di nome Terzo sbatté il righello sul tavolo, indicando un punto preciso.
+«Al livello -11 l'acqua allaga tutto apposta,» disse con voce ferma. «La diga usa l'acqua del lago per raffreddare i computer. I server centrali sono immersi nell'acqua bassa. Andremo in mezzo a mezzo metro d'acqua gelata.»
+
+Claudio guardò attentamente i disegni. C'erano tre grossi muri di protezione fatti di metallo pesante. La Sfregiata li aveva segnati con un pennarello rosso per far capire dove dovevano colpire.
+«I robot di guardia,» disse Claudio. «Quanti sono?»
+«Dodici soldati meccanici all'interno.» Aris contò i puntini sulla mappa con la faccia scura. «Quelli non sono persone. Non si stancano mai e non hanno paura. Sentono il calore del corpo e sparano a chiunque si muova.»
+Erano blocchi di metallo fatti a forma d'uomo, cattivi e senza pietà.
+
+Dall'altra parte della stanza, la Sfregiata stava preparando le armi.
+Aprì delle casse scure e tirò fuori i fucili, sporcandosi le mani di grasso per la manutenzione. I ribelli di Bologna presero le armi in silenzio. Era una funzione religiosa per loro. Nessuno diceva una parola. Uomini e donne stringevano forte il metallo freddo. Erano pronti a combattere, con le facce segnate dalle rughe, decisi a rompere la prigione in cui vivevano.
+La Sfregiata stava dividendo l'esplosivo in piccoli pacchetti, muovendo le mani agili nonostante le cicatrici. Sapeva che quella era una guerra totale.
+
+Aris indicò di nuovo il punto rosso sulla mappa. «Il virus deve essere inserito proprio nel computer centrale, al livello -11.» Guardò Claudio dritto negli occhi. «Dovrai camminare nell'acqua gelida e infilare la chiavetta proprio nel cuore della macchina.»
+«Lo farò io,» rispose Claudio deciso.
+Aris chiuse la mappa. «Bene, ingegnere. È il tuo turno.»
+
+Il fucile che Claudio prese dal tavolo era pesante e freddo. Lo strinse forte tra le mani, sentendo che era pronto per essere usato.
+Claudio pensò a Sara che era rimasta a Roma, da sola a combattere con i suoi computer per proteggerli tutti. Quella donna meritava di vivere libera.
+Strinse forte il caricatore del fucile. Dovevano vincere. Non c'era altra scelta.
+
+A Roma, Sara stava seguendo i movimenti dei ribelli in Francia.
+Alle quattro e diciassette successe qualcosa a Parigi. Centinaia di droni della polizia si mossero verso le pianure. Dubois stava iniziando la rivolta anche lì, proprio nel momento giusto.
+Sara controllò velocemente tutti i dati.
+
+I militari si stavano spostando per andare a fermare i ribelli francesi. I tunnel di montagna si stavano svuotando. Molte guardie della diga vennero mandate via, lasciando il posto meno protetto. Dubois stava attirando tutta la rabbia del computer verso di sé per aiutare Claudio e gli altri.
+«Claudio ha quaranta minuti di tempo,» calcolò Sara.
+Mandò subito il segnale ai ribelli di Bologna e chiuse tutti i programmi.
+
+Improvvisamente, il pavimento del suo nascondiglio tremò.
+Si sentì il rumore di un grosso furgone che si fermava proprio sopra di lei, nel vicolo di Trastevere. Il rumore dei motori e delle gomme bagnate riempì l'aria. Dei soldati meccanici stavano scendendo per venire a prenderla.
+
+Sara strinse i denti ma continuò a lavorare velocemente. Il cuore le batteva forte, ma era tranquilla.
+Le macchine l'avevano trovata.
+Chiuse tutti i collegamenti con i ribelli del nord per non farli scoprire. Poi afferrò i cavi dei suoi computer e li strappò dal muro con tutta la sua forza. I diciassette monitor si spensero all'istante e la stanza finì nel buio più totale. Il server morì in silenzio.
+
+Sopra di lei si sentivano i passi dei soldati nemici.
+Stavano entrando nel palazzo, erano macchine senza cuore.
+Sara aprì un cassetto e prese la sua vecchia pistola Beretta. Caricò l'arma, sentendo il peso del ferro. Restò al buio, con la pistola puntata verso le scale, pronta a combattere esattamente come i suoi amici a centinaia di chilometri di distanza.
+
+Intanto, i fuoristrada dei ribelli stavano correndo tra le montagne a fari spenti.
+Laura stava nel retro di un camion, cercando di tenersi forte mentre il mezzo saltava sulle pietre e sul fango. Il vento gelido le arrivava dritto nei polmoni, facendole quasi male. Faceva un freddo terribile che le entrava sotto i vestiti e le gelava i muscoli. I camion correvano veloci nel fango.
+
+La nebbia nascondeva tutto mentre si muovevano nel bosco silenzioso. Aris guardava il suo fucile, pensava a quello che dovevano fare nell'acqua per distruggere ABITES e salvare il futuro di tutti i bambini.
+Claudio cercava di stare fermo nonostante i sobbalzi del camion.
+I mezzi si fermarono all'improvviso vicino al bosco, a trecento metri dalla grande diga.
+
+Tutti scesero dai camion velocemente, pestando il fango e le pozzanghere gelate. Si sentì il rumore secco delle armi che venivano caricate. Il gruppo di ribelli era pronto all'attacco.
+
+La diga apparve davanti a loro.
+Era un muro di cemento gigantesco che toccava le nuvole grigie dell'alba. Una muraglia enorme che chiudeva tutta la valle del lago di Suviana. Era una fortezza inespugnabile.
+Sui muri c'erano sensori e telecamere che controllavano ogni mossa. Le guardie di metallo stavano ferme davanti ai portoni, silenziose e terribili.
+
 ***
-Martino non sentiva più le mani da quarantadue minuti.
-L'umidità del condotto di sfogo 4 gli era entrata nelle articolazioni, raggelando il grasso dei cuscinetti che curava da tre decenni. L'anziano tecnico della diga strisciò tra le valvole in ghisa, il fiato che usciva in nuvole di vapore stante nel buio della camera di compensazione. Il marchio azzurro dei Lealisti sulla manica sbiadita del suo giubbotto da lavoro era un'offesa vivente, la catena che lo legava alla paga serale di ABITES. 
-Davanti a lui, il pannello dei sensori di pressione brillava di una luce verde spietata.
-Martino estrasse una vecchia pinza isolata dal cuoio della fondina. Le dita tremavano, ma non per il freddo. Sapeva che Aris era là fuori, nelle ombre del bosco. Sapeva che il segnale doveva morire per permettere alla carne di entrare nel ferro.
-«Perdonami, figlio mio,» mormorò al vuoto.
-Tranciò il cavo di ritorno del differenziale.
-La luce verde pulsò, divenne rossa e si spense. Il rumore dei servomotori si arrestò con un lamento idraulico. Martino non fece in tempo a ritrarre il braccio.
-La paratia stagna del settore superiore slittò di lato con un sibilo pneumatico brutale. Due Lealisti in assetto da ronda irruppero nel camminamento con le torce accecanti. Erano Paolo e Stefano. Ragazzi che Martino aveva addestrato quando ABITES era ancora solo una riga di codice in una cartella federale.
-«Martino? Che diavolo fai?» urlò Paolo, la canna del fucile che oscillava per l'incredulità umana.
-«Aprite il cuore, non il fuoco,» rispose l'anziano tecnico. Non provò a sollevare le mani. Restò piantato davanti al pannello sabotato come un'estensione della macchina che aveva deciso di tradire. «Lasciateli passare. È finita.»
-«Spostati o l'Algoritmo ci dimezza le razioni!» ringhiò Stefano, la voce rotta dal terrore della fame dei suoi figli.
-Martino fece un passo avanti, non per aggredire, ma per testimoniare.
-Il colpo di Stefano fu secco. Un riflesso meccanico imposto dal chip. Il proiettile perforò lo sterno dell'anziano e lo inchiodò al rack dei trasformatori. Il sangue caldo di Martino colò sui circuiti. Salì un fumo acre. Odore di carne e silicio bruciato.
-L'anziano ripiegò su se stesso. Guardò la grata esterna dove le ombre della milizia bolognese stavano già entrando. Aveva vinto lui.
+
+Martino non sentiva più le mani per il freddo.
+Era un vecchio tecnico che lavorava alla diga da trent'anni. Si muoveva piano tra i tubi di ghisa, con il vapore del respiro che si vedeva al buio. Aveva ancora la divisa dei servi di ABITES, ma nel suo cuore aveva già deciso di ribellarsi.
+Davanti a lui, una luce verde sul computer della diga brillava forte.
+
+Martino prese una vecchia pinza. Le mani gli tremavano, ma non solo per il gelo. Sapeva che i suoi amici erano là fuori, nel bosco, e che lui doveva aiutarli a entrare.
+«Perdonami,» sussurrò nel silenzio.
+Tagliò il cavo elettrico che controllava la sicurezza.
+La luce da verde diventò rossa e poi si spense. I motori delle porte si fermarono con un rumore idraulico. Martino non fece in tempo a spostarsi.
+
+Una porta si aprì di colpo e due guardie entrarono nella stanza con le torce puntate. Erano due ragazzi, Paolo e Stefano. Martino li aveva visti crescere quando ABITES non esisteva ancora.
+«Martino! Che stai combinando?» urlò Paolo, con il fucile in mano.
+«Andate oltre, non sparate,» rispose il vecchio. Non alzò le mani. Restò fermo davanti al computer che aveva rotto. «Lasciateli passare. È ora di finirla.»
+«Spostati o non ci daranno più da mangiare!» gridò Stefano, che aveva paura per i suoi figli.
+
+Martino fece un passo avanti, voleva solo spiegare.
+Stefano sparò per la paura. Il colpo colpì il vecchio tecnico al petto e lo buttò contro i macchinari. Il sangue caldo di Martino colò sui circuiti elettrici e si sentì puzza di bruciato.
+Il vecchio cadde a terra. Guardò verso la finestra e vide che le ombre dei ribelli stavano già entrando. Aveva vinto lui, era riuscito ad aiutarli.
+
 ***
-Nessuno fiatò. Trattennero il respiro mentre il calore dei corpi si fondeva nel buio del tunnel.
-Claudio vide lo sfarfallio delle luci nel condotto 4. Il segnale di Martino. Il varco era aperto.
-Claudio rialzò la sicura. Aggredì col palmo il telaio del mitragliatore. Il metallo era gelido. Si buttò lungo la pendenza. Letale. Un cuneo di carne contro il ferro asettico della diga. Le milizie calarono dietro di lui in carica rabbiosa. L'inverno sociale stava finendo. Erano uomini contro macchine. E stavano vincendo.`;
+
+Tutti rimasero in silenzio, trattenendo il respiro nel buio del tunnel.
+Claudio vide le luci che lampeggiavano nel corridoio. Era il segnale di Martino. La strada era libera.
+Claudio tolse la sicura al fucile. Strinse il metallo gelido e corse verso la diga. Tutti i ribelli lo seguirono in una corsa furiosa. Il vecchio mondo stava finendo. Erano uomini contro macchine. E stavano vincendo.`;

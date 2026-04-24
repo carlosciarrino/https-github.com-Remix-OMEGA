@@ -1,52 +1,51 @@
-export const chapter16Content = `L'alba di Testaccio irruppe grigia e ostile. Il freddo delle fogne perforava le ossa di Claudio e lui stringeva i denti per non tremare. Si immersero nella fiumana del mercato mentre la gente sciamava tra i banchi con la testa bassa. Vapori bianchi uscivano dalle bocche rassegnate e i colletti erano alzati contro il vento. I droni di ABITES scivolavano sopra i tetti a intervalli regolari e il loro ronzio era un trapano nel freddo del mattino. La folla li ignorava per paura e Claudio e Laura si mossero dentro quella corrente di carne e cappotti bagnati. Aris restava a mezzo passo dietro e teneva il terminale nascosto sotto una giacca militare sformata.
+export const chapter16Content = `L'alba a Testaccio arrivò grigia e gelata. Il freddo che usciva dalle fogne faceva male alle ossa di Claudio, che stringeva i denti per non tremare vistosamente. Si buttarono in mezzo alla gente del mercato che camminava a testa bassa tra i banchi. Dalle bocche uscivano nuvole di vapore e tutti avevano i colletti alzati per proteggersi dal vento. Sopra i tetti si sentiva il ronzio continuo dei droni di ABITES, un rumore fastidioso che non smetteva mai. La folla faceva finta di non vederli per paura, e Claudio e Laura si mimetizzarono tra le giacche bagnate e i cappotti pesanti. Aris camminava un passo dietro di loro, nascondendo il computer sotto una vecchia giacca militare troppo grande.
 
-Il calore dei corpi era l'unica copertura. Laura camminava al suo fianco e il dorso della mano sfiorava il polso di lui. Claudio percepiva quel contatto come una scossa e un legame d'acciaio. Il graffio sul fianco sinistro pulsava a ogni movimento e un calore viscido irradiava verso la costola. Non ci pensò e continuò a camminare con lo sguardo fisso sulla schiena di un vecchio che trascinava un carrello.
+Stare in mezzo alla gente era l'unico modo per non farsi notare. Laura gli camminava vicino e ogni tanto le loro mani si sfioravano. Per Claudio quel contatto era una carica di energia, qualcosa che lo teneva in piedi. La ferita al fianco sinistro continuava a dargli fitte e sentiva i vestiti bagnati di sangue. Cercò di non pensarci e continuò a camminare, seguendo la schiena di un vecchio che spingeva un carrello della spesa.
 
-Il retrobottega di Marta era oltre un cancello di lamiera incrostato di ruggine e fango. Il vicolo era stretto e il pavé trasudava umidità mentre le casse di frutta erano accatastate a ridosso del muro scrostato. Aris bussò con ritmo secco. Tre colpi e poi altri due. Marta sbloccò la serratura e li trascinò dentro con una forza inaspettata.
+Il posto dove dovevano andare era dietro un cancello di ferro pieno di ruggine e fango. Il vicolo era stretto e per terra c'era un'umidità che entrava nelle scarpe. Aris bussò con un ritmo preciso: tre colpi veloci e poi altri due. Marta aprì subito la porta e li tirò dentro quasi con la forza.
 
-Dentro ristagnava odore di cera d'api e cavolo lesso. Dodici candele bruciavano lungo il bordo di una credenza sgangherata e la luce tremolava sulle facce di sette persone. Erano uomini e donne con le mani consumate dal lavoro e sedevano su sedie spaiate. Nessuno fiatò. Uno di loro stringeva un foglio logoro e le labbra si muovevano in una preghiera muta. Quella chiesa bunker profumava di stasi e di attesa.
+Dentro la stanza c'era odore di candele e di minestra scaldata. C'erano dodici candele accese sopra un vecchio mobile e la luce faceva ballare le ombre sulle facce di sette persone sedute lì intorno. Erano uomini e donne con le mani rovinate dal duro lavoro. Nessuno diceva una parola. Uno di loro teneva in mano un foglietto sgualcito e pregava in silenzio. In quel posto si respirava un'aria di attesa, stavano tutti aspettando un segnale.
 
-Marta prese Claudio per il braccio e lo tirò verso la luce di una candela. Sollevò il lembo della giacca e la carne era viva e aperta per dieci centimetri. I bordi erano arrossati e Marta grugnì mentre prendeva una scatola di latta da sotto il tavolo.
+Marta prese Claudio per un braccio e lo portò vicino alla luce di una candela. Gli alzò la giacca e vide che la ferita era brutta, lunga dieci centimetri e tutta arrossata. Marta scosse la testa e prese una scatola di metallo da sotto il tavolo.
 
-«Fermo,» ordinò e la sua voce era un comando assoluto.
+«Stai fermo,» disse con un tono che non ammetteva repliche.
 
-La garza ghiacciava la pelle e Claudio sentì il muscolo contrarsi. «Stai respirando con la bocca,» disse Marta senza alzare gli occhi e premeva la stoffa sulla ferita. «Respira col naso. Il dolore deve restare fuori.»
+Quando la garza bagnata toccò la pelle, Claudio ebbe un sussulto. «Respira con il naso,» gli disse Marta senza guardarlo in faccia mentre premeva il panno sulla ferita. «Non pensare al dolore, lascialo fuori.»
 
-L'alcol bruciò la carne lacerata e Claudio chiuse i pugni fino a sentire le unghie nel palmo. Marta fasciò il torso con competenza rapida e i nodi erano stretti come una corazza. Finito il bloccaggio cercò lo sguardo dell'uomo e i suoi occhi erano chiari e duri.
+L'alcol bruciò come il fuoco e Claudio strinse i pugni così forte da farsi uscire il sangue dai palmi. Marta lo fasciò velocemente e strinse le bende cosi forte che erano una corazza. Poi lo guardò dritto negli occhi. I suoi occhi erano chiari e decisi.
 
-«La luce non si aspetta, figliolo,» disse lei e la mano restò sulla sua spalla. «Si accende con la forza delle dita.»
+«La luce non arriva da sola, ragazzo mio,» disse posandogli una mano sulla spalla. «Dobbiamo essere noi ad accenderla con le nostre dita.»
 
-Claudio annuì e sentì il peso della responsabilità scendere nelle gambe. Marta cambiò registro e tirò fuori una mappa unta. Parlò di Bologna e di nodi logistici blindati. Le pattuglie aumentavano in Appennino e i treni merci carichi di server viaggiavano di notte. Laura ascoltava in piedi vicino alla porta e il fucile a tracolla riposava sotto uno scialle di lana. Registrava ogni coordinata nella mente e i suoi occhi non lasciavano mai la strada fuori.
+Claudio annuì, sentendo il peso di quello che dovevano fare. Marta cambiò discorso e tirò fuori una mappa sporca. Iniziò a parlare di Bologna e di come i soldati avessero bloccato le strade principali. Disse che c'erano sempre più pattuglie in montagna e che di notte passavano treni carichi di computer segreti. Laura ascoltava tutto stando in piedi vicino alla porta, con il fucile nascosto sotto uno scialle di lana. Non si perdeva una parola e continuava a guardare fuori dalla fessura della porta per controllare la strada.
 
-Aris intercettò la radio. Era un apparecchio valvolare chiuso in una cassa di legno e la polvere copriva la griglia dell'altoparlante. Girò la manopola cromata e la statica grattò l'aria del retrobottega finché non arrivò una voce. Era francese e parlava con un respiro asfittico e una disperazione nuda. Aris alzò una mano e il respiro dei fedeli si fermò nello stesso istante. La guerra globale bussava alla porta di Roma.
-
-***
-
-Dubois strisciò sulla manica destra lorda di sangue scuro. La scuola elementare di Lione profumava di gesso e di polvere da sparo e le barricate di scudi in kevlar coprivano le finestre. ABITES aveva sigillato l'edificio e i blindati avanzavano pesanti sulla strada mentre i cingoli schiacciavano il cemento con un rombo che faceva tremare lo sterno.
-
-Il quadricottero aveva colpito l'ala est e il fuoco mangiava il soffitto. Dubois ignorò le fiamme e impugnò la radio con la mano sporca di terra. «Settore tre, rispondete.»
-
-La radio gracchiò e la voce del compagno arrivò tra i fischi. «Abbiamo perso il ponte est. Sono troppi.»
-
-«Alternate verso il parco e usate la rotta bravo-cinque,» ordinò Dubois e i suoi denti stridevano.
-
-«Il parco è scoperto e ci massacreranno.»
-
-«Anche il ponte est è una tomba,» ruggì Dubois e sputò sangue nel fango. «Muovetevi o restate a morire lì.»
-
-Abbassò la trasmittente e sentì la pressione martellare dietro gli zigomi. Si alzò in ginocchio e strisciò lungo il corridoio crivellato mentre nel cortile i droni automatici d'assalto sostavano immobili. Erano freddi e perfetti e aspettavano solo un movimento della carne. Dubois caricò il proiettile tracciante nel fucile e restò barricato al suo posto mentre i blindati accorciavano la distanza. Cinquanta metri. Il tempo era un cappio che si stringeva.
+Aris accese una vecchia radio di legno tutta impolverata. Girò la manopola e si sentì un forte fruscio, finché non arrivò una voce. Era un uomo francese che parlava con il fiato corto, era disperato. Aris alzò una mano e tutti nella stanza smisero di respirare per ascoltare. La guerra stava arrivando anche a Roma.
 
 ***
 
-Aris spense la valvola radio e nessuno fiatò più nel bunker. Marta restò fitta contro la credenza e Laura abbassò il mento. Claudio guardava il pavimento in cotto e sentiva le vene pulsare nelle tempie. Uscirono dal bunker armati solo di numeri e di una meta.
+Dubois strisciava per terra con la manica della divisa sporca di sangue nero. Si trovava in una scuola elementare di Lione che puzzava di fumo e polvere. I ribelli avevano usato gli armadi e le scrivanie per tappare le finestre. ABITES aveva circondato l'edificio e si sentiva il rumore dei cingoli dei carri armati che facevano tremare il pavimento.
 
-Il vicolo esterno feriva la pelle e il freddo mattutino incrostava il sudore sulla fronte. Il pavé trasudava umidità e i polmoni sfrigolavano di pulviscolo e stanchezza. Aris arrestò il passo e guardò l'angolo della strada. «Prendo la rotta dei binari. Ci vediamo al punto delta.» Sparì tra le ombre della ferrovia in un battito di ciglia.
+Un piccolo drone aveva colpito l'ala destra della scuola e il soffitto stava bruciando. Dubois non si curò delle fiamme e prese la radio con la mano sporca di terra. «Settore tre, rispondete.»
 
-Claudio e Laura rimasero soli nel vicolo buio. L'adrenalina calò e le ginocchia dell'uomo ebbero un sussulto organico mentre le dita tremavano. Il graffio bruciò sotto la tela della camicia. Laura fece un passo verso di lui e puntò il fucile verso lo slargo per un ultimo controllo. Poi si girò e lo guardò negli occhi.
+Dalla radio uscì una voce tra i fruscii: «Hanno preso il ponte, sono troppi per noi.»
 
-Si scontrarono in un bacio esplosivo e violento. Fu carne contro il freddo del mondo e fu un atto di rivolta pura e disperata. Le labbra di Laura erano ghiacciate ma il suo calore interno era un incendio. Claudio la afferrò per il colletto della giacca e la strinse a sé con una forza che gli faceva dolere le braccia. La ancorò al fianco e sentì il cuore di lei martellare contro le proprie costole e quel battito era l'unico suono vero in un universo di silicio. Era un baluardo di vita caldissimo e onesto. L'inverno di Sincronia non poteva entrare in quel cerchio di braccia.
+«Andate verso il parco, usate la strada secondaria!» urlò Dubois stringendo i denti.
 
-Si separarono di colpo e il vapore dei respiri si mescolò nell'aria gelida. Laura ricaricò i polmoni e puntò l'orizzonte di cemento. «Bologna.»
+«Il parco è tutto aperto, ci spareranno come ai piccioni!»
 
-Claudio annuì e sentì il calore risalire lungo la schiena. Iniziarono a correre verso il battito dei treni mentre l'alba diventava gialla sopra Roma.`;
+«Anche restare sul ponte è morte sicura!» rispose Dubois sputando sangue nel fango. «Muovetevi o morirete tutti lì.»
 
+Mise giù la radio e sentì la testa che gli scoppiava dal male. Si mise in ginocchio e strisciò lungo il corridoio pieno di buchi, mentre nel cortile i droni d'assalto stavano fermi a guardare. Erano freddi e precisi, pronti a sparare al primo che si muoveva. Dubois caricò il fucile e rimase nascosto mentre i carri armati si avvicinavano sempre di più. Mancavano solo cinquanta metri. Il tempo stava per finire.
+
+***
+
+Aris spense la radio e nella stanza tornò il silenzio più assoluto. Marta rimase ferma vicino al mobile e Laura abbassò la testa. Claudio guardava il pavimento di mattoni e sentiva il cuore che gli batteva fin nelle orecchie. Uscirono da quel posto con un obiettivo chiaro in testa e poco altro.
+
+Il freddo del vicolo fuori gli colpì la faccia e gli gelò il sudore sulla fronte. Per terra c'era l'umidità e Claudio sentiva i polmoni pesanti per la stanchezza. Aris si fermò all'angolo della strada e guardò verso i binari. «Io vado per la ferrovia. Ci vediamo al punto stabilito.» E in un attimo sparì tra le ombre dei treni.
+
+Claudio e Laura rimasero soli nel vicolo buio. La tensione calò e Claudio sentì le gambe che gli tremavano mentre le mani non riuscivano a stare ferme. La ferita gli bruciava sotto i vestiti. Laura gli andò vicino e controllò un'ultima volta che la strada fosse vuota. Poi si girò e lo guardò.
+
+Si baciarono con una forza disperata. Fu un momento in cui sentirono solo il calore l'uno dell'altra contro il freddo di quel mondo a pezzi. Fu un atto di ribellione, l'unico modo che avevano per sentirsi vivi. Le labbra di Laura erano gelate, ma dentro era un incendio di vita. Claudio la strinse per il colletto della giacca e la tenne forte a sé, sentendo il cuore di lei che batteva contro il suo petto. Quel battito era l'unica cosa vera in un mondo controllato dai computer. Era un calore onesto che l'inverno di ABITES non poteva toccare.
+
+Si staccarono all'improvviso, con il vapore dei respiri che si mescolava nell'aria gelata. Laura riprese fiato e guardò lontano. «Dobbiamo andare a Bologna.»
+
+Claudio annuì e sentì un calore nuovo risalirgli lungo la schiena. Iniziarono a correre verso la stazione mentre il cielo sopra Roma iniziava a farsi giallo.`;

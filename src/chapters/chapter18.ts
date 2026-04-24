@@ -1,72 +1,71 @@
-export const chapter18Content = `Il convoglio d'acciaio non accennava a rallentare.
-Claudio assorbiva la vibrazione brutale direttamente nelle costole. L'urto ritmico saliva dal ballast, attraversava gli scarponi corazzati e si propagava lungo le tibie fino ai denti. Piantò entrambi i piedi sull'ammortizzatore a molle tra il secondo e il terzo vagone. Il treno divorava le pendenze dell'Appennino a centotrenta all'ora, sordo all'esistenza degli uomini aggrappati al suo dorso.
-La pioggia arrivava orizzontale. Non cadeva. Schiaffeggiava la pelle sguarnita.
-Aris fendeva l'aria due passi avanti. Piegava il tronco sfidando ciecamente l'urto del vento, le braccia larghe tese per bilanciare la massa muscolare. Claudio fissava la giacca del macchinista incollata di pioggia nera. La saturazione d'adrenalina riversava fiotti chimici nelle vene, innescando potenti flash cognitivi nel cranio dell'ingegnere. Il viso di una donna persa. L'odore di caffè della madre. Rifiutò il cedimento psicologico sferrando un calcio al vuoto.
-Inciampò su un rivetto sporgente. La ferocia dell'impatto lo inchiodò al presente.
-Il portellone blindato del terzo vagone incombeva massiccio. Pannelli stampati in acciaio rinforzato chiusi da spesse guarnizioni di catrame industriale nero. ABITES non prevedeva ispezioni logiche in transito. Aris sfoderò uno scalpello modificato al titL'ex-macchinista attaccò il catrame prima di saldare la presa sulla maniglia. La lama affilata squarciò il mastice con uno strappo viscido e profondo e lacerò i sigilli. Schizzi neri e bituminosi colpirono le mani e i polsini sgualciti. L'odore chimico e dolciastro impregnò le narici ed entrò nel palato.
+export const chapter18Content = `Il treno correva fortissimo, non voleva rallentare.
+Claudio sentiva ogni scossa fin nelle ossa. Quel tremolio continuo saliva dai binari, passava attraverso i suoi scarponi e arrivava fino ai denti. Teneva i piedi ben piantati sulle molle tra i due vagoni. Il treno divorava le salite della montagna a centotrenta all'ora, ignorando gli uomini aggrappati al suo dorso.
+La pioggia gli arrivava in faccia di traverso. Lo schiaffeggiava con forza.
 
-Claudio tenne la posizione in retroguardia per coprirlo e restò aggrappato alle traverse metalliche con le nocche bianche. La pioggia si trasformò in una pressione costante e assordante.
+Aris camminava due passi avanti a lui, piegato contro il vento forte. Claudio guardava la sua giacca nera tutta bagnata. Il cuore gli batteva all'impazzata per la tensione e la mente correva a mille. Pensò a donne che aveva amato, al profumo del caffè di sua madre. Cercò di scacciare quei pensieri dando un calcio nel vuoto per riprendersi.
+Inciampò in un pezzo di ferro che sporgeva e quel piccolo urto lo riportò subito alla realtà.
 
-«Ci siamo,» ruggì Aris e la sua voce sovrastò la tempesta. Il portellone cedette schioccando in un suono ferroso.
+La porta di ferro del terzo vagone era enorme e massiccia. Era chiusa con delle guarnizioni di gomma nera e catrame. Il sistema non pensava che qualcuno potesse provare ad aprire quella porta mentre il treno correva. Aris tirò fuori uno scalpello robusto. Iniziò a staccare il catrame prima di afferrare la maniglia. La lama tagliente aprì la gomma con un rumore viscido, rompendo tutti i sigilli. Macchie nere di catrame gli sporcarono le mani e i vestiti. L'odore era forte, chimico, e gli entrava dritto in gola.
 
-Il vano interno era siderale. Non restituiva il freddo del vento alpino ma trasudava un freddo termico, ostile e calcolato. Era la temperatura per alimentare i rack allineati lungo le pareti del container. I server neurali Fase 4 svettavano alti quanto Claudio ed erano interconnessi da spessi fasci di cavi rosso sangue. Vibravano. Non producevano il classico ronzio elettrico ma trasmettevano una frequenza densa. Claudio percepì quell'onda risalire dalle suole fino al collo e sentì lo stomaco contrarsi.
+Claudio stava dietro di lui per coprirgli le spalle, tenendosi stretto ai tubi di metallo con le mani gelate. La pioggia faceva un rumore assordante.
 
-Il silicio non contemplava pietà e registrava solo logica. Claudio bloccò gli stivali sulla soglia e le dita sporche di pece inquadrarono i cabinet spietati. Quelle macchine elaboravano i modelli di undici milioni di giovani studenti europei per estirpare il pensiero ribelle nascente. Era sangue innocente manipolato sotto il catrame.
+«Ci siamo!» urlò Aris per farsi sentire sopra il rumore del vento e del treno. La porta si aprì finalmente con un rumore di ferro.
 
-Prese posizione sganciando l'attacco. Aris cercò subito la porta di estrazione nel pannello primario e Claudio scivolò lungo la paratia destra cercando le interconnessioni. Sopra il terzo rack vide cavi ruvidi intrecciati in rosso e nero. Era il bypass diretto alla trasmissione dei dati.
+Dentro il vagone non faceva freddo per il vento, ma c'era un gelo diverso, quello dei condizionatori. Era la temperatura che serviva ai computer allineati lungo le pareti. Erano server altissimi, pieni di cavi rossi che erano vene. Facevano un ronzio strano, diverso dal solito rumore dei computer. Claudio sentiva quella vibrazione salirgli dalle gambe fino al collo e lo stomaco gli si stringeva per il fastidio.
 
-Afferrò il fascio di rame e il metallo bruciava ferocemente. Era rovente e innaturale nel gelo dell'alta quota. Strinse la presa e ignorò la pelle che sfrigolava. Il dolore fu una pugnalata che gli risalì il braccio e gli mozzò il fiato. Era un avvertimento primordiale e implacabile. Strinse i pugni con rabbia pura mentre l'olio, il bitume e il calore tossico gli sporcavano i polsi. Teneva i cavi infetti del regime tra le mani scorticate e ne bloccava l'impulso.
+Quelle macchine non avevano pietà. Servivano a controllare i pensieri dei giovani studenti in tutta Europa, cercando di capire chi voleva ribellarsi. Usavano la vita di ragazzi innocenti nascosti sotto quel catrame.
 
-Aris inserì la chiavetta d'acciaio. Il sistema oppose tre scatti di sbarramento e poi lo schermo mandò in esecuzione la cascata di codice in caratteri verdi. Claudio incassò una boccata di ossigeno ghiacciato.
+Presero posizione. Aris cercò subito il pannello dei comandi, mentre Claudio controllava i cavi sulla destra. Sopra uno degli armadi vide dei fili intrecciati rossi e neri. Era lì che dovevano collegarsi.
 
-«Sta girando,» riferì l'ex-macchinista.
-«Quanto tempo impiega?»
+Afferrò il fascio di cavi e sentì che scottavano. Era strano sentire quel caldo in mezzo a tutto quel gelo. Strinse forte, anche se sentiva la pelle delle mani che bruciava. Il dolore fu una coltellata che gli tolse il fiato, ma non la mollò. Strinse i pugni con rabbia, mentre l'olio e il puzzo di bruciato gli sporcavano i polsi. Teneva i cavi del regime tra le mani ferite e cercava di bloccare il segnale.
+
+Aris inserì la chiavetta. Dopo qualche istante, sullo schermo apparvero delle righe verdi. Claudio tirò un respiro di sollievo, respirando quell'aria ghiacciata.
+
+«Sta funzionando,» disse Aris.
+«Quanto tempo ci vuole?»
 «Troppo.»
 
 ***
 
-Laura intercettò il tracciante nemico all'orizzonte. Un sibilo acuto perforò l'oscurità bagnata mentre uno sciame elettrico avanzava tra le raffiche di pioggia. Piccoli led rossi calarono dal cielo nero in formazione triangolare. Puntavano il treno con traiettorie calcolate per uccidere chiunque fosse allo scoperto.
+Laura vide qualcosa muoversi nel buio all'orizzonte. Un fischio acuto tagliò il rumore della pioggia e vide dei piccoli puntini rossi nel cielo nero. Stavano arrivando verso il treno in formazione.
+ABITES si era accorta che qualcuno aveva aperto il vagone e aveva mandato i droni a difendere i suoi preziosi dati. Laura imbracciò il fucile, pronta a combattere. Si pulì la faccia bagnata dalla pioggia e prese la mira.
 
-ABITES aveva registrato l'infrazione del catrame. L'Algoritmo difendeva le linee logistiche e Laura imbracciò il fucile d'assalto con il tronco teso. Prese l'allineamento ottico e sputò la pioggia dalla bocca bagnata.
+Il primo drone scese in picchiata e lanciò una scarica elettrica. Il tetto di metallo sotto i piedi di Laura fece delle scintille e iniziò a fondere. Lei si buttò di lato, rotolando sul tetto scivoloso. Si sbucciò una gamba e i pantaloni si strapparono, ma non si fermò. Si mise in ginocchio, prese la mira e sparò. Il drone esplose in mille pezzi di plastica che volarono via nel vento.
 
-Il primo drone picchiò a venti metri e scaricò un impulso elettromagnetico. La lamiera ondulata del tetto esplose e si fuse in lapilli incandescenti ai piedi della donna. Laura scartò a sinistra e rotolò dura sulla calotta d'acciaio scivoloso. Il metallo le grattò la coscia e lacerò il pantalone militare. Frenò lo scivolamento piantando il ginocchio al suolo ruvido. Allineò la canna e fece fuoco scarrellando piombo. Il quadricottero implose in un teschio di plastica squarciata e sparse frammenti fumanti nel vento.
+Altri tre droni arrivarono subito dopo. Laura continuò a sparare, cercando di tenerli lontani. Claudio e Aris erano chiusi dentro il vagone e lei era l'unica che poteva proteggerli.
 
-Tre nuovi assalitori scesero in picchiata. Sgranò il caricatore arretrando sul baratro e combatté ancorata all'istinto della difesa. Claudio e Aris operavano intrappolati nel ventre del mostro mentre Laura sorgeva a unico scudo di carne viva.
+Sparò tre colpi di seguito e ne abbatté un altro. Un secondo drone cadde girando su se stesso. L'ultimo passò vicinissimo e la colpì di striscio al braccio sinistro.
 
-Scaricò tre colpi consecutivi e abbatté un telaio avversario. Un secondo calò a testacoda. Il quarto drone incrociò in traiettoria folle e passò il fianco tranciando la guardia. L'impulso sferzò l'aria e spaccò l'omero sinistro di striscio.
+Sentì un bruciore terribile al braccio. Il braccio le cadde lungo il fianco, non era più suo, non sentiva più nulla. Laura strinse i denti per non gridare dal dolore. Obbligò i muscoli a muoversi di nuovo. Sentì un dolore fortissimo, ma riuscì comunque a stringere forte il fucile.
 
-Puro calore chimico perforò il bicipite. Il braccio le cadde pesante e insensibile. Laura ignorò il vuoto biologico e serrò i denti fino a spezzare l'angoscia. Impose il controllo ai nervi addormentati e i tendini si tesero reattivi. Una scarica di dolore bollente le incendiò il muscolo e lei impugnò salda la scocca ruvida dell'arma.
-
-Il braccio mandava allarmi di lacerazione profonda. Cancellò lo spasmo in un urlo d'azione e ricaricò le munizioni. Fece fuoco e scacciò gli spettri d'acciaio dal suo cielo. All'interno l'ingegnere torceva reti roventi e Laura inondava colpi di fucile a difenderlo. Era la forza indomabile della vita che proteggeva se stessa.
+Il braccio le faceva un male cane. Lanciò un urlo di rabbia e ricaricò l'arma. Continuò a sparare finché non scacciò via tutti quei mostri di metallo. Mentre dentro Claudio cercava di distruggere il sistema, Laura fuori combatteva con tutta la forza che aveva per proteggerlo. Era la vita che combatteva contro le macchine.
 
 ***
 
-Il salto a settanta orari sbatté le membra al cemento con un rombo sordo. Claudio sfidò il vuoto e sbalzò sul suolo stradale dello scalo sotterraneo di Bologna. L'impatto vibrò nelle ossa e scosse l'anca e le costole con una scossa fitta. Rotolò lungo i sassi della massicciata in frenata tattica.
+Il salto dal treno che andava a settanta all'ora fu un colpo durissimo. Claudio batté forte le gambe sul cemento dello scalo di Bologna. L'urto gli scosse tutto il corpo, facendogli male alle costole e alle gambe. Rotolò sui sassi per fermarsi senza farsi troppo male.
 
-Scattò sulle rotule mentre Aris cadde sfiorandolo e bilanciò la massa del corpo senza emettere un suono. Laura piombò sull'asfalto in traiettoria inclinata e Claudio la arpionò prima dell'arresto per spezzarle l'inerzia. Fletté il costato solido e creò uno scudo biologico per avvinghiarne la caduta. Serrò saldamente l'affanno di lei nel proprio respiro.
+Si rialzò subito. Aris gli era caduto vicino e si era rialzato in silenzio. Laura cadde sull'asfalto e Claudio la prese subito tra le braccia per non farla scivolare lontano. La tenne stretta per aiutarla a riprendere fiato.
 
-«L'omero,» sputò la combattente con i denti stretti.
-«Grave?»
-«Funzionante.»
+«Il braccio,» disse lei a denti stretti.
+«È rotto?»
+«Mi fa male, ma posso usarlo.»
 
-Claudio la cinse compatta per scaricare la tensione dell'assalto. Il profumo corporeo della donna rinfusò battito e ossigeno ai sensi sfiniti. Si mossero celeri e lasciarono ai binari la bestia ingoiata nella nebbia padana.
+Claudio la tenne vicina per un momento, per farle sentire che era lì. Il profumo del suo corpo gli diede la forza di continuare nonostante la fatica estrema. Si mossero veloci e lasciarono il treno che spariva nella nebbia.
 
-Bologna industriale apparve con il suo cemento marcio. Capannoni imbrattati e olezzo di lubrificante in abbandono. I ferrovieri sparirono furtivi come ombre senza dire una parola. Immediatamente scaturirono gli operativi bolognesi.
+Bologna apparve tra i capannoni abbandonati e l'odore di olio vecchio. I ferrovieri che erano con loro sparirono subito nel buio. In un attimo apparvero i ribelli di Bologna.
+Quattro persone sbucarono tra i muri rotti. Erano donne e uomini, erano stanchi e arrabbiati. Una donna con una cicatrice sull'occhio guardò le loro facce e le loro ferite.
 
-Quattro figure con divise pesanti si delinearono tra i mattoni crepati. Erano donne e disertori con sguardi rigati di collera e fatica. Una donna con una vecchia cicatrice sull'occhio sinistro valutò le ferite dei nuovi arrivati.
+«Siete in ritardo di undici minuti,» disse la donna.
+«Ci hanno attaccato dall'alto,» rispose Claudio seccamente.
+La donna guardò il braccio di Laura. «È rotto?»
+«Dico che posso usarlo,» rispose Laura con orgoglio.
 
-La bionda spezzò il muto assedio. «Ritardo logistico. Undici minuti.»
-«Incrociatori aerei sul percorso,» precisò Claudio asciutto.
-L'alleata scrutò il tessuto lacerato di Laura. «L'omero è andato?»
-Laura replicò orgogliosa e secca. «Funzionante.»
+La donna annuì. Aprirono un pesante cancello di ferro. «Passate di qua. Abbiamo bisogno di voi.»
 
-Il capitano fece un cenno di approvazione. Scardinarono un pesante controtelaio antiurto. «Oltre l'inferriata. Nelle arterie basali abbiamo bisogno di voi.»
+Scesero dei gradini scavati nella terra, verso un tunnel umido e caldo. Lì sotto c'era la base segreta dei ribelli di Bologna. C'erano computer aperti ovunque e cavi che pendevano dal soffitto. In un angolo c'erano delle brandine vecchie con sopra quaranta persone che erano riuscite a sfuggire al controllo di ABITES. Erano lì solo perché avevano una voglia matta di essere liberi.
 
-I gradini scavati nel fango sprofondavano nell'umidità del cunicolo e il tepore umano usciva dalle fessure. Cisterne aperte esibirono la capitale logistica sottratta ad ABITES. Computer aperti sputavano algoritmi tra fasci di cablaggi pendenti mentre brandine luride erano accatastate negli angoli. Quaranta persone sopravvissute all'eradicamento intellettuale erano armate della loro sola volontà.
+Le persone si voltarono a guardarli con rispetto. Vedere Claudio e Laura così stanchi e feriti era un segno della loro forza. Aris tirò fuori la chiavetta che avrebbe distrutto il sistema.
 
-Visi emaciati si voltarono verso il manipolo eroico con riverenza sorda. I muscoli sanguinanti di Claudio e Laura erano l'onore della lotta continua. Aris sollevò la chiavetta d'acciaio con la crittografia letale per scardinare la mente della logica infetta.
+Il capo dei ribelli diede un colpo sul tavolo di legno. «Prima mangiate qualcosa di caldo, poi studiamo la mappa. Siamo vicini alla fine.»
 
-Il capo ferito batté le mani sul tavolo di legno. «Ristoro bollente e poi studiamo la mappa. L'innesco finale è vicino.»
-
-Claudio sentì un orgoglio irrefrenabile. Il bastione del Nord era vivo e aspettava furibondo.`;
-
+Claudio si sentì orgoglioso. Il Nord era pronto a combattere e non aspettava altro.`;

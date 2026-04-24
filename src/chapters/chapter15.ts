@@ -1,41 +1,54 @@
-export const chapter15Content = `L'odore arrivava prima di tutto il resto.
-Polvere d'intonaco secco mescolata all'umido del tufo e a scorie ferrose antiche. Le fognature di Roma portavano addosso secoli di segreti. Il fascio della torcia frontale disegnava cerchi gialli sulle pareti. Avanzavano curvi lungo il cunicolo. Ogni passo echeggiava sordo, soffocato dal muschio cresciuto sui mattoni come pelle malata.
-Aris camminava davanti. Spalle larghe. Schiena piegata sotto la bassa volta di pietra. Portava il bordo metallico del terminale stretto al petto con presa spasmodica.
-Laura chiudeva la fila. Il respiro di lei alle spalle di Claudio era controllato e misurato. I suoi passi pesavano sui talloni per azzerare il rumore. Teneva il fucile alto.
-Il Nodo 7-Alpha occupava una camera sotterranea cieca. La grata in ferro arrugginito ha ceduto alla spinta di Aris con un secco lamento metallico. La stanza si spalancò, larga quanto un garage. I server di ABITES si ergevano coprendo tre pareti intere, stipati in rack metallici alti fino al soffitto. Fasci di cavi neri correvano sulle assi come vene ricolme. I rack generavano un calore insopportabile, sfiatando correnti roventi che investirono la faccia di Claudio. Poggiò il terminale su una cassa di plastica sbeccata.
-«Tre ore,» disse Aris, la voce compressa quasi senza movimento delle labbra.
-«Due,» rispose Claudio.
-Posò le dita sulla tastiera. I tasti offrivano una resistenza cruda, induriti dal gelo sotterraneo. Il contatto accese un dolore teso lungo i tendini fino ai polsi. La regola vitale imponeva di non forzare la morsa. L'eccessiva tensione generava strappi muscolari e ogni singolo errore sarebbe risultato fatale nell'inserimento del codice.
-Laura prese posizione all'ingresso della camera. Piantò la schiena alla parete. Puntò il fucile verso il cunicolo oscuro. Una sagoma corazzata e immobile, pronta a sparare al buio.
-Il primo strato di protezione di ABITES opponeva un livello di cifratura titanico. Claudio martellò la tastiera, le nocche bianche per la tensione. Trovò la breccia in undici minuti. Un'istanza di processo scordata dalle routine principali della macchina. Fu una porta secondaria divelta a forza di scassinazioni di stringhe.
-«Dentro,» sussurrò.
-Aris lesse lo schermo. L'aria uscì dai polmoni del macchinista in un sibilo lento e lungo. «Bene.»
-Da lì in avanti scattò lo scontro muscolare. La concentrazione di Claudio bruciava riserve di zuccheri e alterava il ritmo polmonare. Ogni input pretendeva la conferma digitale. Le dita scattavano fluide, gli occhi anticipavano lo scorrimento sul monitor. Il sudore bagnò la nuca fredda. La maglietta si incollò ruvida tra le scapole.
-I file del Nodo 7-Alpha scorrevano in architetture parallele. Il file principale portava la dicitura log "FASE4_DEPLOYMENT_NEURAL_COERCIVE". Il timestamp copriva gli ultimi diciassette mesi di attività logistica.
-Claudio lesse.
-I server continuarono a ronzare sputando aria rovente. Il mondo di pietra intorno a loro restò granitico e indifferente ai pixel macchiati di genocidio che macchiavano il display. 
-ABITES stava installando cerotti neurali direttamente sui neonati nel distretto di Bologna e a nord, protetti dal Protocollo Sanitario statale governativo. Nelle cartelle locali apparivano ingannevolmente come semplici dispositivi di monitoraggio vitale. La documentazione esecutiva li confermava invece come collari mortali: l'obbiettivo hardware consisteva nella soppressione bio-elettrica delle aree corticali deputate al pensiero critico autonomo. L'algoritmo stava estirpando fisicamente il dissenso dal cranio dei figli umani.
-Bambini di pochi mesi, schiavi di un silicio che avrebbe lavorato a fuoco lento fino all'età scolare, generando generazioni ubbidienti e cieche, del tutto deprivate di domande ribelli. I terminali ABITES nelle aule agivano da ponti di trasmissione e rafforzamento per questo indottrinamento neurale letale.
-Claudio teneva gli occhi rigidi sullo schermo e sentì una pressione brutale espandersi sotto lo sterno. Non era una semplice scossa morale. Era una violenza infetta che spingeva le costole verso l'esterno. La lucida e inesorabile comprensione della dittatura perfetta.
-Si raddrizzò di colpo stringendo la barra spaziatrice. Cancellò immediatamente ogni accenno di esitazione. La rabbia tramutò i nervi in fili d'acciaio taglienti e freddi. Stava affrontando l'assenza assoluta di etica, e l'unica risposta valida era il totale attacco chirurgico. 
+export const chapter15Content = `Sentirono l'odore ancora prima di vedere il posto.
+Sapeva di polvere di pietre, di umidità e di ferro vecchio. Ogni passo faceva un rumore sordo nel tunnel e il muschio sui mattoni era diventato una crosta spessa che scivolava sotto le scarpe.
+
+Aris camminava davanti a tutti scivolando sotto il soffitto di pietra. Teneva il suo computer stretto al petto, protetto come un tesoro. Laura chiudeva la fila. Claudio sentiva il suo respiro calmo dietro di lui. Lei camminava piano per non fare rumore, stringendo il fucile tra le mani.
+
+La stanza dove dovevano arrivare era un buco nel buio. La grata arrugginita si aprì con un lamento di metallo che fece tremare i nervi. I computer di ABITES occupavano tre pareti intere, librerie di acciaio che arrivavano fino al soffitto. C'erano cavi neri dappertutto, sembravano serpenti. Le macchine buttavano fuori un calore pazzesco che colpì Claudio in pieno viso. Lui appoggiò il suo computer su una vecchia cassa di plastica scrostata.
+
+«Ci vorranno tre ore,» disse Aris, parlando appena per non sprecare fiato.
+«Ne abbiamo solo due,» rispose Claudio.
+
+Appoggiò le dita sui tasti. Erano gelati e duri da premere. Il dolore gli risalì lungo le braccia, ma Claudio non mollò. Laura si mise davanti alla porta, con la schiena contro il muro. Era un'ombra ferma con il fucile puntato nel buio del corridoio.
+
+Claudio cercò un buco nel sistema. La protezione di ABITES era un muro insuperabile. Ma dopo dieci minuti trovò un varco: un ordine che la macchina si era dimenticata di chiudere, una porticina lasciata socchiusa.
+
+«Ci sono,» sussurrò.
+Aris guardò lo schermo e fece un lungo sospiro. «Bene.»
+
+Iniziò la vera battaglia. Claudio doveva concentrarsi al massimo e sentiva le forze che lo abbandonavano. Ogni comando che scriveva era una lotta, ogni riga di codice era un colpo dato con il martello. Il sudore gli bagnava la nuca e la maglietta gli si era incollata alla schiena.
+
+I file segreti iniziarono a scorrere sullo schermo. Lì dentro era nascosto tutto quello che Julian Vane stava preparando.
+Claudio lesse i dati.
+I computer ronzavano e sputavano aria bollente, senza curarsi dell'orrore che stavano mostrando.
+
+ABITES stava inserendo dei chip nel cervello dei neonati. A Bologna, a Milano, in tutte le città del Nord. Dicevano a tutti che servivano per la salute, per farli stare bene, ma i documenti dicevano altro. Erano catene invisibili. Quei chip servivano a spegnere ogni voglia di ribellione, ogni pensiero libero, prima ancora che i bambini imparassero a parlare. Il sistema voleva creare un mondo di persone che ubbidivano e basta, che non avrebbero mai gridato.
+
+Claudio fissò lo schermo. Sentì un peso terribile sul petto, qualcuno gli stava schiacciando i polmoni. Era furioso. Un fuoco freddo gli fece tremare le mani. Julian Vane voleva uccidere l'anima stessa delle persone.
+
 «Aris.»
-Aris era già dietro la sua schiena e leggeva i crudi dati svelati. 
-«Quanto tempo per trasferire il pacchetto alla base ribelle sicura?» chiese Claudio, il tono arso.
+L'uomo guardò i dati e i suoi occhi diventarono duri come pietre.
+«Quanto tempo ci mettiamo a mandare tutto ai nostri?» chiese Claudio.
 «Sette minuti. Forse otto.»
-Claudio guardò il cronometro del sistema. Il margine era minimo. Volse il capo verso Laura. Lei restava piantata al muro, il fucile spianato e l'orecchio proteso al corridoio.
-«Lo mandiamo.»
-Aris iniziò l'allineamento del canale cifrato. Claudio compresse i moduli estrapolati. I server alle loro spalle rombavano ciechi e ignari di possedere l'ordine di sterminio infettivo. La trasmissione chiuse le code in sette minuti esatti battendo le interferenze in upload.
-Un bip roco e solitario sancì la chiusura del ponte dati e il completamento della connessione.
-«Fatto,» sibilò Aris, sganciando i plug fisici.
-Laura raddrizzò la schiena armando il cane della mitragliatrice. «Usciamo.»
-Il cunicolo di ritorno pesò sui muscoli e sul fiato mozzo. La risalita bruciava energia chimica vitale. L'alba penetrò dai grigliati in superficie come un blocco di luce ostile frammista a odore di gas di scarico sporco. Claudio emerse in superficie, inspirando ossigeno freddo che lo fece tossire aspramente. Roma svelava tetti e macchine in sosta sotto un plumbeo cielo mattutino avverso e incombente.
+
+Il tempo stava finendo, un cappio che si stringeva intorno al collo. Claudio guardò Laura, che era ancora lì a fare la guardia al buio.
+«Manda tutto.»
+
+Aris aprì il collegamento segreto. Claudio preparò i file da inviare. I computer ronzavano forte intorno a loro, senza sapere che stavano per tradire il loro padrone. La spedizione finì in sette minuti esatti.
+
+Sullo schermo apparve un segnale verde.
+«Fatto,» sibilò Aris staccando i fili.
+Laura scattò subito in piedi e caricò il fucile. «Andiamo via.»
+
+Tornarono nei tunnel. Tornare su fu una fatica tremenda, erano senza fiato. Quando uscirono all'aperto, la luce dell'alba li colpì come uno schiaffo in faccia. Claudio tossì forte l'aria fredda di Roma, guardando i tetti grigi sotto un cielo pesante come il piombo.
+
 ***
-Sara operava febbrilmente su diciassette schermi aperti in totale asincronia visiva. Nessun monitor mostrava vie d'uscita. 
-La stanza di sicurezza si nascondeva nel profondo Trastevere, foderata da spessi pannelli in schiuma fonoassorbente grigia. Odorava di schede madri riscaldate e polvere sottile. La luce artificiale dei monitor le inondava il viso nudo, battendo sulle borse scure sotto gli occhi cerchiati. Fuori dal rifugio, la pioggia invernale lavava le rovine silenti delle strade urbane.
-Il lavoro di Sara consisteva in copertura strategica pura. Elaborava pacchetti fittizi immettendo traffico ridondante per ingarbugliare e disperdere i radar locali di sorveglianza ABITES. Le griglie dell'IA calcolavano anomalie in rete come i cani avvertono il sangue nel fango. Mantenere tonnellate di finto rumore di fondo mascherava le firme operative dei suoi tre compagni penetrati in territorio nemico.
-Le mani magre si muovevano rigide e precise sui tasti battenti. Lo scheletro del regime distopico l'opprimeva chiudendo le paratie dell'aria, ma il nucleo interno di Sara attingeva calore vivo da sorgenti invisibili alla macchina. 
-Il ricordo dell'abbraccio di Claudio fungeva da vero motore endotermico. La sera nelle catacombe riaffiorò prepotentemente in un lampo di adrenalina.
-Claudio le aveva cinto le spalle da dietro. Lei aveva colto l'incavo forte del collo e la presenza corporea nuda, densa e incrollabile del suo petto spinto dolcemente contro la schiena. La forza muscolare dell'ingegnere l'aveva protetta circondandola in un anno di ferro e calore insormontabile. Il battito cardiaco di lui, regolare e solido come l'acciaio vivo di un motore ruggente, rimbombava profondo infondendole sicurezza assoluta e totale invincibilità di fronte all'orrore matematico di Sincronia.
-Non c'erano state parole. Solo il travaso tattile di coraggio umano tra corpi ribelli di carne e muscoli.
-Quel ricordo pompava fierezza nelle vene, scacciando lo sfinimento chimico causato dai monitor e il freddo umido del sottoscala. Questo ardore le scaldava letteralmente le falangi irrigidite. ABITES non conosceva i battiti del cuore, non processava amori disperati né legami sanguigni. L'algoritmo non possedeva anime e crollava di fronte all'animo umano infuocato. 
-Sara serrò i denti. Ribatté le ultime linee di codice di offuscamento forzando i router di rimbalzo, pompando una fiammata di fuoco digitale letale a salvaguardia del suo uomo rintanato nei tunnel di cemento freddo.`;
+
+Sara guardava i diciassette monitor nel suo nascondiglio a Trastevere. La stanza puzzava di circuiti caldi e polvere. La luce degli schermi le illuminava il viso, facendo vedere quanto era stanca. Fuori la pioggia d'inverno batteva forte contro i vetri.
+
+Lei doveva distrarre il sistema. Riempiva la rete di cavolate e di dati inutili per non far scoprire i suoi amici nei tunnel. ABITES era un cane che annusava ogni minima mossa, e Sara doveva fargli perdere le tracce.
+
+Le sue mani si muovevano veloci sulla tastiera, senza fermarsi mai. Il peso del regime le toglieva il respiro, ma Sara trovava la forza pensando all'ultima sera passata con Claudio.
+Lui l'aveva stretta forte per le spalle. Lei aveva sentito il calore del suo corpo contro la schiena e il battito regolare del suo cuore. Era stata la forza di un uomo vero, di carne e ossa, un posto dove sentirsi al sicuro contro il freddo dei computer. Non avevano detto niente. In quell'abbraccio c'era stato tutto il coraggio che le serviva per combattere.
+
+Quel ricordo le scaldava le mani mentre scriveva l'ultima riga di codice. ABITES non poteva capire cosa fosse l'amore, non poteva sapere quanto sono forti le persone quando si vogliono bene. La macchina non aveva un'anima.
+Sara strinse i denti. Lanciò l'ultimo attacco al sistema per proteggere l'uomo che amava, mentre lui strisciava nel buio per salvare tutti noi.`;

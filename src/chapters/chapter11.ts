@@ -1,35 +1,35 @@
-export const chapter11Content = `Il bambino aveva i capelli castani. Le mani piccole poggiavano sul petto in una compostezza innaturale e letargica. La vasca cilindrica era fusa in policarbonato trasparente e il liquido di sospensione interno filtrava la luce proiettata dai server. Una tonalità bluastra inondava l'ambiente asettico e illuminava le tubature d'acciaio. Tre fasci neuronali uscivano spietatamente dalla base del cranio infantile. Rosso, bianco, nero. Correvano incassati verso il rack d'elaborazione centrale con un cablaggio rigido. Il torace minuto si alzava in un ritmo cadenzato esclusivamente dalle pompe volumetriche esterne posizionate sul fondale.
-Claudio teneva la mano a tre centimetri dall'interfaccia di iniezione di sistema.
-Non la abbassò.
-Il monitor laterale sgranava i parametri biologici dell'infante con colonne verdi di misurazione pressoria puntuale. L'elettroencefalogramma non definiva le costanti del sonno né quelle della veglia vigile. Evidenziava il piano d'elaborazione predittiva cruda di Julian Vane. Il cervello prefrontale umano veniva forzato chimicamente a calcolare probabilità quantistiche incastrato nella viscosa vasca trasparente abissale.
-Il virus compresso nel drive Mythos mirava a corrompere i nodi globali dall'epicentro. Il feto atrofico costituiva l'hardware primario vivo di ABITES e iniettare malware comportava arrostire di colpi elettrici fulminanti il bambino insieme ai chip server e all'alimentazione parallela di linea d'edificio accatastati per pareti.
-Claudio appoggiò le dita sul bordo gelido. Le falangi scricchiolarono bloccando il palmo sudato.
-Dalla balconata superiore in vetro antiproiettile Julian Vane schiacciava i palmi alla balaustra d'osservazione. Inquadrava gli intrusi ignorando le difese per monitorare con pragmatismo freddo logico contro l'intrusione d'umani deboli al piano sensoriale. Le guardie d'élite formavano il cordone tattico posizionate di spalle con carabine silenziate bloccate col calcio alla placca toracica pronte al fuoco in un millimetro logaritmico d'allerta da parte del dittatore fermo ritto sul corrimano ad attendere immobile e placido.
-Il labbro sinistro si incrinò asimmetrico. Tattica crudele costruita per annodare blocchi cinetici per coscienze e sentimenti deboli allineate a fallimenti e paure.
+export const chapter11Content = `Il bambino aveva i capelli castani. Le mani piccole erano appoggiate sul petto. Stava dormendo un sonno troppo profondo. La vasca in cui si trovava era di plastica trasparente e il liquido dentro era colorato dalle luci blu dei computer. Tre grossi cavi uscivano dalla nuca del piccolo: uno rosso, uno bianco e uno nero. Erano collegati direttamente alle macchine che facevano un rumore continuo. Il petto del bambino si alzava a fatica, aiutato dalle pompe d'aria sul fondo della vasca.
 
-Un urto martellò forte la griglia calpestabile sud della piattaforma d'accesso.
-L'Agente Oro atterrò chiudendo i piedi d'istinto assorbendo chili gravitazionali flessi per cinetica estrema muscolare e ossea sulle rotule accucciate di slancio su maglia rugginosa piegata.
-Oro sfondava i due metri scarsi d'ampiezza fisica dissimulando i montanti endoscheletrici balistici innestati profondi sotto la pelliccia di derma facciale perfetta ricampionata sintetica mimetica pura. I tendini perenni si tesero sul mento sporgente per globi oculari bui con zoom lenti ritardati calibrati da cpu attive sul micro scatto visivo fotografico costante preveggente.
-Slanciò il quadricipite frullando verso Claudio. Coprì l'estensione saltando fasfature d'inerzia biologica ed arrivando brutale massiccio a spinta motrice innestata schiacciando ferri. Laura murò l'urto interponendo clavicole di punta e spalla dura al suolo di sbarramento laterale cinetico. 
+Claudio teneva la mano vicina ai comandi del computer.
+Non riusciva ad abbassarla.
 
-Lo scontro a corpo collassò logica sanguigna contro calcolo matematico distruttivo programmato puro di cyborg predittivo spietato. L'Agente Oro deviò millimetrico l'affondo preventivo anticipato colto della flessibilità avversaria in spalla, spezzando a compressione il costato sferrando tibia contro lesione suturata pregressa dolorosissima sanguinante già rotta sfregiata di Maria chirurga disperata. L'osso s'incrinò col tonfo e tolse vigore.
+Uno schermo lì vicino mostrava il battito del cuore del bambino con delle righe verdi. Julian Vane lo teneva lì, prigioniero in quel freddo, costringendolo a far funzionare tutto il sistema con il suo cervello.
 
-Laura finì rasoterra. Disputò polmoni asfittici espettorando macchie sanguigne fesse miste e cupe grasse viscose a pallini ai piedi dell'aguzzino muto e fiero robotico.
-Rimontò scaricando pesi corporei sul ginocchio destro ruotando finto montante e sviando i traccianti calcolabili di scontro logico codificati marzialmente nei software standard base ABITES, per sputare lardo infetto macchiato coagulato ematico sopra i recettori lenti inquadranti occhio titanio accecanti al veleno umano in rottura visiva drastica e improvvisata per rovesciarsi al suolo sghemba spingendo piede scarpa chiodi tallone gomma ferrosa sfondando manopola rossa valvola circuito tubazione a terra aperta esplodendo compressa vaporosa. 
-Azoto freddo impattò gas caldo svuotato cratere pressorio sbuffo ustionante opacizzante investendo sensori e cyborg frontalmente schiaffeggiando visori abbagliandoli chimicamente.
-Oro grippò decimi di tempo irrecuperabile e logorante fermo isolato sordo buio spento in blocco visivo bianco nero e disconnesso senza software adattivo.
-Laura agganciò in volo posteriore la nuca dorata sintetica calcando gravosamente corpo peso spalla per mozzare vertebre innestate ferro cadendo titanica furente letale sorda atterrando carcassa schiantando robot rovinosamente duro.
+Il virus che Claudio aveva nella chiavetta serviva a distruggere ABITES dall'interno. Ma colpire il sistema significava anche colpire quel bambino. Caricare il virus avrebbe mandato scariche elettriche ovunque, bruciando i computer e tutto quello che c'era intorno.
 
-Claudio interruppe ogni visuale di contorno isolandosi focalizzato stringente sul quadro d'innesto biologico inferiore laterale base criotecnica infante addormentato. Lesionare cavi d'alimentazione neuronale primari con rete viva operativa ingaggiava corto circuito encefalico massiccio letale mortifero cuocendo mesencefalo ragazzino cavo fiamme cerebrali dolorose fitte scosse elettriche orribili ed isolo forzosamente. 
-Tranciò la custodia in ABS stampato e sganciò isolante modulo bypass. Isolò scindendo terminali per tagliare il midollo dalla preveggenza globale stringendo molare serrando mascellari strazianti vibranti paura rabbia sudore freddo calore gola bruciante urgenza ansia ferma morsa tattile muscolare mano pura staccando.
-Trillo sonoro certificò monitor bypass slegato asincrono fuori rete a sopravvivenza base isolata staccato off line salvo fisso stabile respiratorio verde fisso scisso.
-Strappò le piattine rosso bianco nere svellendo a scatto strappo manuale connettori in rame crepitanti fulminanti sfiammando arancio saltando logiche interruzioni rotture.
-Il pannello primario segnalò blocco con allarme led rosso fulminante lampeggiante fisso server disconnesso errore mortifero vuoto perso sordo scollegato.
+Claudio appoggiò le dita sul bordo gelato della vasca. Sentì le ossa delle mani fare rumore e il palmo gli diventò subito sudato per la tensione.
 
-Claudio calcò a pugni massicci l'ingresso a drive Mythos scatenando pacchetto virale espanso crudo brutale dentro memoria matrice vuota ABITES schiantando software mondo con pugno furioso cinetico.
+Dalla balconata sopra di loro, Julian Vane guardava tutto con le mani appoggiate al corrimano. Era calmo, immobile. Le sue guardie erano pronte a sparare, i fucili puntati verso il basso. Il dittatore aspettava solo una mossa falsa.
+Vane sorrise appena. Si godeva la paura di Claudio, sapeva che l'ingegnere non aveva il coraggio di farlo.
 
-La fisicità rocciosa granitica e spavalda imbellettata al ponte superiore spianata dritta forte fiera fredda e gelida di Vane s'incrinò col primo sfrigolio e rimbombo assordante termico furente acido assonnato squamoso denso nero profondo scuro denso orrendo caldo sfibrante del server incandescente arroventato fiammato sgranato rotto crollante sfondato incrinato nero di condensatori saltati e memoria RAM spaccata espulsa fondendo piombo.
+Un colpo fortissimo scosse il pavimento sotto i loro piedi.
 
-Il fumo denso scorticava le congiuntive di Mira su incrocio angolare via Laurentina capitolina romana trincea buia. Ignorò bruciori e trattenne una pesante trave stradale in ferro nudo aggrappandosi al terriccio per serrare blocco resistenza contro accerchiamento robot Sentinel. Bettina denotava stalli per fiancate sinistre di squadriglia d'acciaio con corazze nere spesse percuotendo sbarramento logoro sfinito reietto furente d'attesa sorda sfinita senza mezzi ritti deboli testardi coraggiosi immoli saldi fermi fieri impavidi. 
+L'Agente Oro atterrò sulla griglia di ferro con un frastuono tremendo. Era alto più di due metri e si muoveva come un robot. Sotto la pelle finta si vedevano i pezzi di metallo che si muovevano. I suoi occhi erano telecamere che registravano ogni minima mossa di Claudio.
 
-La T-Optimus assaltò asfalto armando destrorso calibro perforante. E calò paralisi. Nessun fischio rallentato rotore debole molle frizione stanca ingranaggio sporco. Fine impulso istantaneo radicato di blocco logico spinale disconnesso centrale madre tagliato netto decapitato cieco reciso assente silente mutato fisso incantevole bloccato arrugginito perso stallo nullo spegnimento puro finto morte buio stallo vuoto fessura nullo crudo off cesso terminazione morta stallo. Rovina ABITES espansa blackout romano mondiale infetto piagato libero vivo morto sconnesso espanso sputato sparato schizzato esploso diramato irradiato per valvole radio analogiche ruggini e vecchie sorde prebelliche Chicago TelAviv SaoPaulo rotti vivi liberi esplosi ruggenti mondiali europei per strada pronti esplosi sparati scagliati violenti irruenti umani forti potenti desti svegli vivi ribelli.`;
+Il gigante si lanciò contro di lui. Laura si mise in mezzo all'ultimo secondo e lo scontro la scosse fin nelle ossa. Fu carne contro acciaio. L'Agente Oro spostò Laura con una mano e la colpì forte al fianco. Proprio dove era già ferita. Claudio sentì il rumore delle ossa che si incrinavano e Laura rimase senza fiato per il dolore.
+
+Laura cadde a terra e sputò sangue sulla grata di ferro. Il mostro di metallo non disse una parola. Lei si rialzò a fatica e fece finta di colpirlo per confonderlo. Sputò il sangue in faccia al robot e si buttò a terra. Con un calcio colpì una valvola e un getto di vapore riempì la stanza.
+
+Il vapore freddo colpì il robot e nascose tutto. Oro rimase cieco per qualche secondo. Laura gli saltò addosso e gli afferrò la testa. Tirò con tutta la forza che aveva e sbatté la testa del robot contro il pavimento.
+
+Claudio non stette a guardare il combattimento. Si concentrò sul bambino. Doveva staccare quei maledetti cavi. Spaccò la plastica che proteggeva i contatti e iniziò a sganciare tutto. Aveva le mani bagnate di sudore e il cuore gli batteva fortissimo in gola. Strappò i fili di rame e sentì il bruciore delle scintille sulla pelle.
+
+Sul pannello apparve una luce rossa che lampeggiava nel fumo.
+
+Claudio infilò la chiavetta Mythos nel computer e lanciò il virus. Le difese di Vane iniziarono a crollare. Un boato scosse la stanza e l'odore di plastica bruciata divenne insopportabile. I computer stavano fondendo uno dopo l'altro.
+
+***
+
+Il fumo faceva malissimo agli occhi di Mira. Si aggrappò a una trave di ferro per non cadere. Intorno a lei, i robot neri stavano schiacciando tutto quello che trovavano.
+
+All'improvviso le macchine si fermarono. Le luci si spensero e il rumore dei motori morì nel silenzio. Il sistema era distrutto. ABITES era caduta e un blackout colpì tutto il mondo. Le persone iniziarono a scendere in strada. Erano libere e pronte a combattere. L'umanità era tornata padrona della terra.`;
