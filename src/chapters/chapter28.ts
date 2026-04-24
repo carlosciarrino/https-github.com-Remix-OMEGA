@@ -15,7 +15,6 @@ Matthieu tornò dall'angolo. «Libero.» Poi si fermò, guardò Gilles fasciato,
 Gilles riuscì a raddrizzare la schiena di qualche centimetro. «Per chi andiamo a Roma.» Non era una domanda. Era il modo in cui le persone stanche si ricordano le cose ad alta voce.
 «Per tutti quelli che non possono andarci da soli», disse Dubois. Poi si girò verso di loro. «In piedi. Quel drone cambia rotta tra poco.»
 Partirono con i fari spenti per i primi tre chilometri.
-
 Il furgone mangiava carburante più del previsto — il motore era vecchio e la salita verso il valico lo stressava. Dubois teneva gli occhi sullo specchio retrovisore e sulla lancetta del serbatoio. Kouassi stava seduto sul lato del carico con la schiena al metallo e Gilles appoggiato contro di lui, la testa reclinata sulla spalla, gli occhi chiusi ma non addormentato. Hana era davanti, la cartina sulle ginocchia, la torcia schermata con le dita.
 «Aggiramento nord», disse. «Evita il casello di Ambérieu.»
 «Lo so», disse Dubois.
@@ -37,9 +36,7 @@ Kouassi aveva il fiato corto. Matthieu inciampò su una radice e cadde su un gin
 Dopo quaranta minuti il posto di blocco era fuori portata visiva. Dopo un'ora erano su una strada secondaria non presidiata che scendeva verso la pianura. Gilles si sedette su un muretto di pietra e Kouassi si sedette accanto a lui senza staccarsi di un centimetro. Matthieu rimase in piedi con le mani sulle ginocchia a riprendere fiato. Hana aprì il ricetrasmettitore.
 «Torino», disse Dubois nel microfono. «Ci vorrà più tempo. Siamo a piedi.»
 La risposta arrivò frammentata, ma arrivò.
-
 ***
-
 La stanza aveva due finestre con le tapparelle abbassate e un tavolo di legno grezzo coperto di fogli tre volte. Claudio stava in piedi, un gomito appoggiato al bordo, e teneva la cartina con la mano libera. Sedersi dritto faceva troppo male — la ferita al fianco destro stava cicatrizzando, ma ogni volta che ruotava di dieci gradi la pelle tirava e i denti si serravano da soli.
 Laura era sul materasso a terra, il busto sollevato da due zaini impilati. Il piede sinistro fuori dalla coperta, fasciato fino al ginocchio. Due giorni prima non riusciva ad appoggiarlo. Adesso riusciva ad appoggiarsi, ma non a camminare per più di quattro minuti senza che la gamba cedesse. Lavorava lo stesso — radio sul petto, matita in mano, linee tracciate sulla carta stradale con la stessa precisione di chi non si può permettere errori.
 «Il blocco di Orte è confermato», disse. «Tre unità corazzate e due punti fissi con termico. Non si passa in auto.»

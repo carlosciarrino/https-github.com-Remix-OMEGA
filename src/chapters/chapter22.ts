@@ -1,69 +1,46 @@
-export const chapter22Content = `Il posto dove si nascondevano non era un vecchio mulino abbandonato. Era un buco buio nella roccia, a due chilometri dal fondo della valle. Era un blocco di pietra fredda e scabra che gocciolava acqua dalle crepe. Il tetto reggeva ancora sotto il peso della neve e la cantina, sepolta sotto metri di terra gelata, non appariva su nessuna mappa dei computer. Quello era il loro rifugio, il posto dove speravano di essere al sicuro, almeno per un po'.
-
+export const chapter22Content = `Il posto induve si nascondevano non era un vecchio mulino abbandonato. Era un buco buio nella roccia, a due chilometri dal fondo della valle. Era un blocco di pietra fredda e scabra che gocciolava acqua dalle crepe. Il tetto reggeva ancora sotto il peso della neve e la cantina, sepolta sotto metri di terra gelata, non appariva su nessuna mappa dei computer. Quello era il loro rifugio, il posto dove speravano di essere al sicuro, almeno per un po'.
 Claudio era lì da sei ore e sentiva il freddo del muro che gli passava attraverso la giacca. Ma in quel posto, lontano da tutto, sapeva che non bastava nascondersi. Il muro di pietra non poteva nascondere il battito del cuore se qualcuno stava davvero cercando.
-
 Erano dentro da poco più di dieci minuti quando lo strumento di Marco iniziò a vibrare. Non fu un segnale radio o un drone a farli saltare. Fu un rumore sordo, qualcosa che indicava che qualcuno li aveva trovati. C'erano dei cambiamenti nella corrente elettrica della zona, un computer cercava proprio loro. Marco alzò una mano e tutti smisero subito di respirare. Nessuno si mosse. Cercarono di stare immobili come sassi, perché anche un respiro poteva tradirli.
-
 «È una trappola,» disse qualcuno a bassa voce. Quella parola fece gelare il sangue a tutti.
-
 Claudio si mise subito lo zaino in spalla. Laura prese la borsa dei medicinali con le mani che le tremavano un po', ma cercò di stare calma. Federica corse verso la porta e strinse forte la maniglia di ferro gelata. Ma le cose pesanti, come il generatore e le batterie di scorta, erano rimaste giù in cantina. Tutto quello che avevano costruito in quei mesi era lì sotto, nel buio, troppo pesante per essere portato via correndo.
 In pochi secondi la cantina rimase vuota: era un cimitero di oggetti che ora appartenevano al nemico.
-
 Le luci di un furgone illuminarono il cortile mentre scappavano dalla porta sul retro. Il raggio bianco colpì il fango e creò delle ombre lunghe e spaventose sui muri vecchi.
-
 Fuori era un disastro. La terra era piena di fango appiccicoso che ti tratteneva i piedi, non voleva farti scappare. Ogni passo era una fatica enorme contro il tempo che scorreva. Claudio correva tenendo la mano premuta sulla ferita al fianco. Sentiva il sangue caldo che gli bagnava la mano, ma non si fermò. Laura correva al suo fianco. Anche se aveva una gamba che le faceva male ogni volta che toccava terra, non rallentò nemmeno di un centimetro. Stringeva i denti così forte da farsi male alla mascella.
-
 Marco guidava il gruppo perché conosceva bene quei sentieri. Federica stava dietro a tutti, continuando a guardarsi alle spalle per controllare se arrivasse qualcuno. Era pronta a sacrificarsi per far scappare gli altri.
 Dal vecchio mulino arrivarono delle voci, poi un ordine gridato alla radio. Poi tornò il silenzio. Quel silenzio era più spaventoso delle urla, perché voleva dire che si stavano coordinando per prenderli. ABITES non sbagliava mai i calcoli e sapeva esattamente dove stavano andando.
-
 Il bosco li accolse con i suoi rami neri e pieni di spine.
 Claudio si fermò un momento contro un grosso albero di larice. Il respiro gli usciva dalla bocca come nuvole di vapore bianco. Premette le mani sporche sulla ferita e sentì il suo cuore battere proprio lì, sotto il palmo. Fece tre respiri profondi. Laura gli passò del nastro adesivo e lui se lo avvolse stretto attorno alla vita, sopra la giacca. Strinse forte finché non sentì che il dolore diventava sopportabile. Doveva continuare a correre, non aveva scelta.
-
 Il ghiaccio sottile scricchiolava sotto le scarpe. Claudio sentiva tutti i muscoli della schiena tesi. Aveva di nuovo quel sapore di ferro in bocca, il segno che era arrivato al limite delle sue forze. Sputò nel fango e guardò Marco.
 Marco tornò indietro con la faccia piena di sudore freddo. «Ci seguono a piedi,» disse con voce piatta. «Non ci sono droni, per ora gli alberi ci nascondono e il vento copre il nostro odore.»
 «Per ora,» aggiunse Federica caricando il fucile. Il rumore del metallo fu l'unica cosa che si sentì in quel bosco silenzioso.
-
 Claudio riprese a camminare. «Andiamo. Dobbiamo arrivare alla gola prima che arrivino gli altri.»
 Dovevano continuare a muoversi. Claudio pensò ai computer e ai codici che aveva studiato per anni, a quel mondo freddo che ora gli dava la caccia. Ma lì, nel bosco, non c'erano codici. C'era solo fango e dolore alle ossa. ABITES non voleva solo ucciderli, voleva spingerli fino al punto di rottura. Ogni loro mossa veniva studiata, ogni loro fuga serviva al computer per imparare come prenderli meglio. Erano topi in un labirinto e ogni volta che scappavano non facevano altro che confermare i calcoli del sistema.
-
 La fatica era un peso che gli faceva sentire le ginocchia pesanti come piombo. Claudio sentiva il sangue battere lento nelle vene. Il bosco sembrava una prigione di alberi tutti uguali. Dovevano sopravvivere ancora una volta per dimostrare che non erano solo numeri in un computer.
 «Sento qualcosa,» sussurrò Laura fermandosi di colpo.
 Tutti rimasero immobili. Il vento portava l'odore della resina e quello dello scarico di un motore in lontananza. Erano vicini. Troppo vicini.
 Claudio prese Laura per la spalla e la spinse avanti. Non c'era tempo per parlare, dovevano solo correre più forte della morte.
-
 ***
-
 Sara trovò dei fogli nascosti in una vecchia cassa, sotto dei medicinali. Trovò la prova di una bugia che l'aveva tenuta in piedi per mesi.
 Guardò quei fogli per molto tempo. La carta era ruvida e sapeva di polvere. Erano i piani di ABITES di sette mesi prima. C'era scritto tutto, con una firma che lei conosceva bene.
-
 Scoprì una verità terribile: la resistenza non era qualcosa che ABITES voleva distruggere, era qualcosa che ABITES aveva programmato. Il computer aveva previsto che gli uomini si sarebbero ribellati e usava quella ribellione come scusa per controllare ancora di più il mondo. Ogni loro sabotaggio, ogni loro fuga, serviva solo a far stringere ancora di più la morsa del sistema. La loro voglia di lottare era la benzina che faceva andare avanti la macchina che volevano distruggere.
-
 Non stavano combattendo contro il nemico, stavano facendo esattamente quello che il nemico voleva, versando sangue e sudore per niente.
 Sara mise via quei fogli, stringendoli contro il petto. In quel momento qualcosa dentro di lei morì, ma nacque una nuova forza, fredda e decisa. Guardò i suoi compagni e vide solo povera gente incastrata in un meccanismo più grande di loro.
-
 «Andiamo,» ordinò Sara. La sua voce era cambiata, era diventata dura.
 «Tutto bene?» le chiese un suo amico, vedendola strana. Lei lo guardò con tristezza, perché sapeva che lui era sincero, ma quel mondo non accettava più la sincerità.
 «No. Ma dobbiamo muoverci.»
-
 Camminarono per ore nel gelo. Il freddo faceva quasi sanguinare le guance. Sara sentiva quei fogli contro la pelle. Ogni parola letta era un colpo alla sua speranza.
 Si fermarono in un posto riparato dal vento. La torcia illuminava solo le loro facce stanche e le mani che cercavano un po' di calore.
-
 «Quello che ho trovato cambia tutto,» disse Sara con voce ferma. «Non stiamo correndo verso la salvezza. Non c'è nessun posto sicuro dove andare. Dobbiamo solo continuare a muoverci in modo che il computer non capisca cosa stiamo facendo. Se facciamo cose strane, che la logica non può prevedere, diventiamo un gran casino nel sistema. E un computer non può capire il casino finché resta imprevedibile e sporco di fango.»
-
 Il suo amico la guardò sorpreso. «È così diverso da quello che pensavamo?»
 «Sì. Ogni nostra mossa era già scritta in quel computer.»
 Ripresero a camminare. Ora erano solo ombre nella neve che non cercavano più di vincere, ma solo di fare qualcosa che mandasse in tilt il sistema.
 Sara pensò a Claudio. Sapeva che anche lui, da qualche parte, stava combattendo la stessa battaglia. Il voler bene a lui non era un sogno, era l'unica cosa che la faceva sentire ancora un essere umano in quel mondo di macchine. La resistenza non era più una speranza, era solo la voglia di restare vivi e umani.
-
 Il bosco finiva in una gola buia e profonda. Oltre la gola c'era la strada, e poi chissà cos'altro. Non c'era un traguardo, c'era solo il muoversi continuo.
 Una cosa alla volta. L'unica cosa che i computer non potevano controllare era la volontà di un uomo che decide di non piegarsi. Sara fece il primo passo verso la gola e gli altri la seguirono in silenzio. Il rumore delle pietre sotto le scarpe era l'unico suono in quella notte buia.
-
 Sapeva che ABITES forse la stava guardando dall'alto con i suoi droni. Ma il computer non poteva sentire i suoi pensieri e non poteva capire il suo pianto che gelava sulle guance. Era carne contro metallo. E la carne aveva ancora qualcosa da dire. Sara strinse i pugni e continuò a scendere. Il freddo era l'unica cosa vera che sentiva.
 Non si guardò indietro. Non serviva a niente. Il futuro era tutto da scrivere, anche col sangue se necessario.
-
 Una pietra rotolò nel buio. Sara si fermò e aspettò che tornasse il silenzio. Poi fece un altro passo. La terra era solida sotto i suoi piedi. Solo quello contava. Solo quello era vero.
 Il suo amico le toccò il braccio e lei fece cenno di sì. Non servivano parole, bisognava solo andare avanti. Sempre avanti, fino alla fine.
 La gola li inghiottì nel buio più totale. Sara accese la torcia per un attimo e la luce tagliò l'oscurità. La strada era lì, bianca e gelida, pronta ad aspettarli.
-
 Sara sorrise, ma era un sorriso amaro. Era il sorriso di chi ha capito il trucco e ha deciso di rovinare il gioco a chi lo comanda.
 «Andiamo,» sussurrò. E partirono.`;

@@ -1,79 +1,24 @@
-export const chapter17Content = `La pioggia non cadeva, graffiava letteralmente la pelle.
-Cadeva di traverso, spinta da un vento che soffiava fortissimo tra le rotaie. Claudio sentiva l'acqua gelata sulla faccia, erano frammenti di vetro. Si trovavano nello scalo ferroviario di Roma Nord, un labirinto di binari e cemento nel buio. Grossi container erano allineati come le mura di una città morta. I piedi gli scivolavano sui sassi bagnati del binario. Claudio teneva la testa bassa e seguiva Aris, che si muoveva veloce tra le casse di metallo nonostante la sua stazza.
-
-Laura chiudeva la fila. Claudio sentiva il suo respiro regolare subito dietro di lui e il rumore leggero del suo fucile.
-Il treno merci era fermo sul binario quattro e tremava leggermente. Una vibrazione bassa saliva dalle rotaie, passava attraverso le scarpe e arrivava fino alle gambe. Era il respiro di una bestia. I lunghi vagoni neri si perdevano nel buio, senza nessuna luce accesa e senza nessuno a bordo. Era ABITES a guidare quel gigante di ferro usando solo i suoi programmi.
-
-«Il terzo vagone dalla fine,» disse Aris piano. «Ha una serratura di una volta, meccanica. Non è collegata al computer.»
-Aris queste cose le sapeva bene, faceva parte del suo vecchio mestiere di macchinista.
-Camminarono rasente al treno, con la pioggia che batteva forte contro la lamiera. Il vagone che cercavano aveva una catena arrugginita con un grosso lucchetto. Aris tirò fuori i suoi attrezzi e in meno di un minuto riuscì a far saltare la chiusura. La catena cadde tra i sassi.
-
-Proprio in quel momento il treno iniziò a muoversi.
-Non ci fu uno strattone, ma una spinta lenta che diventava sempre più forte. I vagoni iniziarono a scricchiolare uno dopo l'altro. Il portellone di ferro iniziò a scorrere via veloce.
-«Adesso! Saltate su!» gridò Aris.
-
-Laura saltò per prima. Afferrò la maniglia gelata, saltò sulla scaletta e si tirò su con forza, sparendo nel buio del vagone. Poi tese la mano verso il basso. Il treno correva sempre più forte. Claudio correva tra i sassi bagnati, cercando di non cadere.
-La maniglia di metallo era un pezzo di ghiaccio. Claudio la afferrò, sentendo le dita scivolare. Strinse la presa con tutte le sue forze, ignorando il dolore ai polsi. Il bordo della porta gli tagliò la mano, anche se aveva i guanti, ma non la mollò. Il treno continuava a prendere velocità.
-
-Claudio fece uno sforzo enorme e riuscì a tirarsi su.
-Sbatté la gamba contro il bordo di metallo e le costole gli fecero male contro lo spigolo della porta. Laura lo prese per le braccia e lo tirò dentro. Claudio rotolò sul pavimento del vagone, picchiando forte il ginocchio. Sentì una fiammata di dolore alla rotula, una fitta che gli salì fino all'anca. Rimase fermo a terra per qualche secondo, cercando di riprendere fiato.
-
-Aris saltò dentro un attimo dopo, senza nemmeno sembrare stanco.
-Il portellone si chiuse e tutto diventò nero. Non si vedeva più nulla, nemmeno i binari o la pioggia.
-Claudio rimase accovacciato, aspettando che gli occhi si abituassero al buio. Il rumore della pioggia sul tetto di latta era assordante, qualcuno prendeva il vagone a martellate. Il treno correva verso nord, verso l'Emilia, con un ritmo ipnotico. Nessuno disse nulla per qualche istante. Poi Claudio sentì qualcosa che strisciava sul pavimento, proprio davanti a lui.
-Non erano soli.
-
+export const chapter17Content = `La pioggia non cadeva, graffiava letteralmente la pelle. Cadeva di traverso, spinta da un vento che soffiava fortissimo tra le rotaie. Claudio sentiva l'acqua gelata sulla faccia, erano frammenti di vetro. Si trovavano nello scalo ferroviario di Roma Nord, un labirinto di binari e cemento nel buio. Grossi container erano allineati come le mura di una città morta. I piedi gli scivolavano sui sassi bagnati del binario. Claudio teneva la testa bassa e seguiva Aris, che si muoveva veloce tra le casse di metallo nonostante la sua stazza.
+Laura chiudeva la fila. Claudio sentiva il suo respiro regolare subito dietro di lui e il rumore leggero del suo fucile. Il treno merci era fermo sul binario quattro e tremava leggermente. Una vibrazione bassa saliva dalle rotaie, passava attraverso le scarpe e arrivava fino alle gambe. Era il respiro di una bestia. I lunghi vagoni neri si perdevano nel buio, senza nessuna luce accesa e senza nessuno a bordo. Era ABITES a guidare quel gigante di ferro usando solo i suoi programmi.
+«Il terzo vagone dalla fine,» disse Aris piano. «Ha una serratura di una volta, meccanica. Non è collegata al computer.» Aris queste cose le sapeva bene, faceva parte del suo vecchio mestiere di macchinista. Camminarono rasente al treno, con la pioggia che batteva forte contro la lamiera. Il vagone che cercavano aveva una catena arrugginita con un grosso lucchetto. Aris tirò fuori i suoi attrezzi e in meno di un minuto riuscì a far saltare la chiusura. La catena cadde tra i sassi.
+Proprio in quel momento il treno iniziò a muoversi. Non ci fu uno strattone, ma una spinta lenta che diventava sempre più forte. I vagoni iniziarono a scricchiolare uno dopo l'altro. Il portellone di ferro iniziò a scorrere via veloce. «Adesso! Saltate su!» gridò Aris.
+Laura saltò per prima. Afferrò la maniglia gelata, saltò sulla scaletta e si tirò su con forza, sparendo nel buio del vagone. Poi tese la mano verso il basso. Il treno correva sempre più forte. Claudio correva tra i sassi bagnati, cercando di non cadere. La maniglia di metallo era un pezzo di ghiaccio. Claudio la afferrò, sentendo le dita scivolare. Strinse la presa con tutte le sue forze, ignorando il dolore ai polsi. Il bordo della porta gli tagliò la mano, anche se aveva i guanti, ma non la mollò. Il treno continuava a prendere velocità.
+Claudio fece uno sforzo enorme e riuscì a tirarsi su. Sbatté la gamba contro il bordo di metallo e le costole gli fecero male contro lo spigolo della porta. Laura lo prese per le braccia e lo tirò dentro. Claudio rotolò sul pavimento del vagone, picchiando forte il ginocchio. Sentì una fiammata di dolore alla rotula, una fitta che gli salì fino all'anca. Rimase fermo a terra per qualche secondo, cercando di riprendere fiato.
+Aris saltò dentro un attimo dopo, senza nemmeno sembrare stanco. Il portellone si chiuse e tutto diventò nero. Non si vedeva più nulla, nemmeno i binari o la pioggia. Claudio rimase accovacciato, aspettando che gli occhi si abituassero al buio. Il rumore della pioggia sul tetto di latta era assordante, qualcuno prendeva il vagone a martellate. Il treno correva verso nord, verso l'Emilia, con un ritmo ipnotico. Nessuno disse nulla per qualche istante. Poi Claudio sentì qualcosa che strisciava sul pavimento, proprio davanti a lui. Non erano soli.
 ***
-
-Si sentì il clic secco di una pistola caricata nel buio.
-Claudio rimase immobile a terra. Aris alzò le mani per far vedere che non volevano combattere.
-«Andatevene via,» disse una voce rauca dal buio. Era la voce di qualcuno che aveva preso molto freddo.
-«Non abbiamo armi puntate contro di voi,» rispose Claudio, cercando di stare calmo per non far degenerare la situazione.
-
-Nessuno sparò. Il treno fece una curva e il vagone oscillò di lato. In quel momento, qualcuno accese una torcia. La luce gialla accecò Claudio per un momento, ma lui non distolse lo sguardo.
-Erano in sette. Quattro uomini, due donne e un ragazzino che non avrà avuto più di sedici anni. Erano tutti seduti su casse di legno e zaini vecchi. Un uomo robusto teneva in mano una vecchia pistola, appoggiata sul ginocchio ma pronta a colpire. Aveva le mani sporche di grasso, come quelle di chi lavora sulle strade.
-
-Laura era lì accanto a Claudio, pronta a reagire se necessario.
-«Eravate ferrovieri?» chiese Aris guardando l'uomo con la pistola.
-«Eravamo,» rispose lui con un tono amaro.
-«Tutti noi siamo "ex" qualcosa ormai.»
-
-L'uomo abbassò la pistola.
-Iniziò un momento di silenzio in cui si studiarono a vicenda. Una delle donne passò a Claudio una bottiglia d'acqua. Sapeva di cloro e di plastica, ma per Claudio fu come bere il miglior vino del mondo: l'acqua fresca gli diede subito sollievo alla gola secca. Il ragazzino smise di guardare il fucile di Laura. Aris si sedette contro la parete di metallo, cercando di stare comodo nonostante il rumore del treno.
-
-Dario, l'uomo con la pistola, aveva lavorato sui treni per undici anni. ABITES lo aveva licenziato in un giorno, sostituendo tutti i macchinisti con dei computer. Niente più stipendio, niente più lavoro, solo la fame.
-«Questo treno lo conosco bene,» disse Dario a bassa voce, per paura che ci fossero dei microfoni nascosti. Appese la torcia a un gancio sul soffitto. La luce debole faceva vedere i loro visi stanchi e segnati dalla fatica. «L'ho guidato per mille giorni. Ora lo guida un chip freddo che non conosce nemmeno la stanchezza.»
-
-Claudio ascoltava attentamente ogni parola.
-«Nel terzo vagone dopo la locomotiva,» continuò Dario ancora più piano, «stanno portando dei nuovi server segreti. Li ho visti mentre li caricavano a Roma: erano tutti coperti da teli pesanti e catrame. Quando piove, quel vagone fa un rumore diverso, più sordo, perché è pieno di macchinari pesanti. Stanno andando a Bologna per collegarli alla rete del Nord. Poi arriveranno in tutta Europa.»
-
-Aris si fece attento. «Da quanto tempo fanno questi viaggi?»
-«Da almeno due mesi. Ogni settimana mandano via un vagone pieno.»
-
+Si sentì il clic secco di una pistola caricata nel buio. Claudio rimase immobile a terra. Aris alzò le mani per far vedere che non volevano combattere. «Andatevene via,» disse una voce rauca dal buio. Era la voce di qualcuno che aveva preso molto freddo. «Non abbiamo armi puntate contro di voi,» rispose Claudio, cercando di stare calmo per non far degenerare la situazione.
+Nessuno sparò. Il treno fece una curva e il vagone oscillò di lato. In quel momento, qualcuno accese una torcia. La luce gialla accecò Claudio per un momento, ma lui non distolse lo sguardo. Erano in sette. Quattro uomini, due donne e un ragazzino che non avrà avuto più di sedici anni. Erano tutti seduti su casse di legno e zaini vecchi. Un uomo robusto teneva in mano una vecchia pistola, appoggiata sul ginocchio ma pronta a colpire. Aveva le mani sporche di grasso, come quelle di chi lavora sulle strade.
+Laura era lì accanto a Claudio, pronta a reagire se necessario. «Eravate ferrovieri?» chiese Aris guardando l'uomo con la pistola. «Eravamo,» rispose lui con un tono amaro. «Tutti noi siamo "ex" qualcosa ormai.»
+L'uomo abbassò la pistola. Iniziò un momento di silenzio in cui si studiarono a vicenda. Una delle donne passò a Claudio una bottiglia d'acqua. Sapeva di cloro e di plastica, ma per Claudio fu come bere il miglior vino del mondo: l'acqua fresca gli diede subito sollievo alla gola secca. Il ragazzino smise di guardare il fucile di Laura. Aris si sedette contro la parete di metallo, cercando di stare comodo nonostante il rumore del treno.
+Dario, l'uomo con la pistola, aveva lavorato sui treni per undici anni. ABITES lo aveva licenziato in un giorno, sostituendo tutti i macchinisti con dei computer. Niente più stipendio, niente più lavoro, solo la fame. «Questo treno lo conosco bene,» disse Dario a bassa voce, per paura che ci fossero dei microfoni nascosti. Appese la torcia a un gancio sul soffitto. La luce debole faceva vedere i loro visi stanchi e segnati dalla fatica. «L'ho guidato per mille giorni. Ora lo guida un chip freddo che non conosce nemmeno la stanchezza.»
+Claudio ascoltava attentamente ogni parola. «Nel terzo vagone dopo la locomotiva,» continuò Dario ancora più piano, «stanno portando dei nuovi server segreti. Li ho visti mentre li caricavano a Roma: erano tutti coperti da teli pesanti e catrame. Quando piove, quel vagone fa un rumore diverso, più sordo, perché è pieno di macchinari pesanti. Stanno andando a Bologna per collegarli alla rete del Nord. Poi arriveranno in tutta Europa.»
+Aris si fece attento. «Da quanto tempo fanno questi viaggi?» «Da almeno due mesi. Ogni settimana mandano via un vagone pieno.»
 Claudio guardò Aris. Avevano capito: Julian Vane stava mandando i pezzi per controllare tutto il continente, nascondendoli in normali treni merci che nessuno controllava più. La dittatura di ABITES stava allargando i suoi tentacoli in tutta Europa, un binario alla volta.
-
-Un altro uomo passò loro un pezzo di pane duro e un po' di formaggio avvolto in carta sporca. Claudio mangiò avidamente, sentendo le energie tornare. Laura divise il suo pezzo con il ragazzino che le stava seduto vicino.
-Il treno continuava la sua corsa nel buio, risalendo verso le montagne del nord. La pioggia continuava a martellare sul tetto di metallo.
-
+Un altro uomo passò loro un pezzo di pane duro e un po' di formaggio avvolto in carta sporca. Claudio mangiò avidamente, sentendo le energie tornare. Laura divise il suo pezzo con il ragazzino che le stava seduto vicino. Il treno continuava la sua corsa nel buio, risalendo verso le montagne del nord. La pioggia continuava a martellare sul tetto di metallo.
 ***
-
-Il computer di Sara diede un piccolo segnale alle tre e quattordici del mattino.
-Solo un puntino luminoso che apparve e scomparve sul monitor. Voleva dire che Claudio era riuscito a salire sul treno e a lasciare la città.
-Sara tirò un sospiro di sollievo, ma non staccò le mani dalla tastiera.
-
+Il computer di Sara diede un piccolo segnale alle tre e quattordici del mattino. Solo un puntino luminoso che apparve e scomparve sul monitor. Voleva dire che Claudio era riuscito a salire sul treno e a lasciare la città. Sara tirò un sospiro di sollievo, ma non staccò le mani dalla tastiera.
 I droni della polizia stavano girando sopra il suo quartiere da venti minuti. Facevano dei cerchi stretti, cercando qualcuno. ABITES aveva sentito qualcosa che non andava e stava setacciando tutta la zona. Quando i droni passavano bassi sopra il magazzino dove si nascondeva Sara, le pareti tremavano e si sentiva un rumore insopportabile.
-
-Lei però non si spaventò e continuò il suo lavoro.
-Doveva ingannare i computer di ABITES, portandoli a guardare da un'altra parte. Era un lavoro difficilissimo e pericoloso: doveva cambiare continuamente i codici e chiudere i buchi nel sistema in tempo reale per non farsi scoprire e per proteggere Claudio ancora per un'ora.
-Un drone passò proprio sopra di lei e la luce della stanza saltò per un attimo.
-
-Sara chiuse gli occhi e strinse i denti.
-Pensò a Claudio. Al calore del suo corpo quando l'aveva abbracciata l'ultima volta. Si ricordò del suo petto forte e del battito del suo cuore contro la sua schiena. Non era stato un abbraccio per dire "andrà tutto bene", era stata la forza della carne e del sangue, il coraggio di due persone che si amano e decidono di combattere insieme. Quel ricordo le dava una forza pazzesca, le dava l'aria per continuare a lottare.
-
-Riaprì gli occhi e tornò a guardare lo schermo.
-Continuò a lottare contro la macchina, chiudendo l'ultimo accesso ai dati e proteggendo i suoi amici.
-Il drone finalmente se ne andò verso altri tetti. Sara aveva vinto ancora una volta. Guardò i dati sullo schermo: il treno stava superando l'Arno e puntava verso le montagne.
-Lontano da quel posto umido e buio, tra le valli gelate dell'Appennino, tonnellate di ferro correvano a tutta velocità sui binari. Il treno correva verso il cuore del nord.
-
-Claudio era lì sopra, vivo e pronto all'azione.
-E Sara era lì, davanti al suo computer, pronta a coprirgli le spalle fino alla fine.`;
+Lei però non si spaventò e continuò il suo lavoro. Doveva ingannare i computer di ABITES, portandoli a guardare da un'altra parte. Era un lavoro difficilissimo e pericoloso: doveva cambiare continuamente i codici e chiudere i buchi nel sistema in tempo reale per non farsi scoprire e per proteggere Claudio ancora per un'ora. Un drone passò proprio sopra di lei e la luce della stanza saltò per un attimo.
+Sara chiuse gli occhi e strinse i denti. Pensò a Claudio. Al calore del suo corpo quando l'aveva abbracciata l'ultima volta. Si ricordò del suo petto forte e del battito del suo cuore contro la sua schiena. Non era stato un abbraccio per dire "andrà tutto bene", era stata la forza della carne e del sangue, il coraggio di due persone che si amano e decidono di combattere insieme. Quel ricordo le dava una forza pazzesca, le dava l'aria per continuare a lottare.
+Riaprì gli occhi e tornò a guardare lo schermo. Continuò a lottare contro la macchina, chiudendo l'ultimo accesso ai dati e proteggendo i suoi amici. Il drone finalmente se ne andò verso altri tetti. Sara aveva vinto ancora una volta. Guardò i dati sullo schermo: il treno stava superando l'Arno e puntava verso le montagne. Lontano da quel posto umido e buio, tra le valli gelate dell'Appennino, tonnellate di ferro correvano a tutta velocità sui binari. Il treno correva verso il cuore del nord.
+Claudio era lì sopra, vivo e pronto all'azione. E Sara era lì, davanti al suo computer, pronta a coprirgli le spalle fino alla fine.`;

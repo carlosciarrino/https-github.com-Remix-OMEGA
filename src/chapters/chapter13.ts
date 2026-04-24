@@ -1,43 +1,8 @@
-export const chapter13Content = `Il corridoio aveva il soffitto basso e puzzava di cemento, di grasso vecchio e di sporco. Era lungo trenta metri, una linea dritta nel buio che non finiva mai. Forse un tempo quel posto aveva un nome e un senso, ma ora era solo un tunnel dimenticato da tutti.
-
-Claudio premeva la mano contro il fianco squarciato. Il sangue gli colava tra le dita, caldo e appiccicoso. Non riusciva a correre, trascinava i piedi nel fango con fatica. Ogni passo era una coltellata che gli toglieva il fiato. Il dolore si sentiva ovunque, una morsa che gli stringeva il petto e gli spaccava le costole.
-
-Laura camminava cinque metri più avanti. Non si guardava indietro, ma ascoltava il rumore dei passi di Claudio sul cemento. Teneva la pistola pronta, attenta a ogni minimo fruscio. Si muoveva come un animale a caccia nel buio.
-
-All'improvviso si sentì un ronzio elettrico che saliva dalle caviglie fino alla testa. Una vibrazione fastidiosa che faceva tremare i denti. Laura si fermò di colpo.
-
-Claudio arrivò davanti a un grosso portellone di ferro. Era una lamiera grigia, vecchia e senza nessuno schermo. Niente luci, niente codici da inserire. C'era solo un adesivo ingiallito con scritto: *NON USARE*.
-
-Claudio prese il cacciavite. Il manico era scivoloso per il sangue. Strinse i denti e iniziò a svitare con forza.
-Il primo bullone non voleva muoversi, era bloccato dalla ruggine. Claudio spinse con tutto il corpo. Il ferro fece un rumore secco e il dolore al fianco fu cosi forte che quasi cadde a terra. Il pezzo di metallo sbatté sul pavimento con un rumore sordo.
-
-Svitò anche gli altri bulloni. La porta si aprì finalmente con un cigolio tremendo.
-
-Dentro la stanza era pieno di computer pronti a cadere a pezzi. Erano armadi d'acciaio giganti che facevano un rumore continuo. Questo era il cuore di ABITES, il posto da dove partiva tutto. Claudio arrivò alla console centrale. Le luci erano gialle e fioche. Infilò la chiavetta Mythos nel computer.
-
-La luce passò dal rosso al verde. Un verde brillante e acceso.
-Omega stava iniziando a distruggere il sistema.
-
-***
-
-Tutto esplose in una pioggia di scintille. Il virus stava bruciando ogni cosa. I computer stavano fondendo e il fumo nero riempì la stanza, facendo tossire Claudio. In un attimo andò via la luce in tutto l'edificio. Il mondo di ABITES stava venendo giù.
-
-Dall'altra parte della porta si sentivano delle urla. Non erano ordini, era pura paura. Le guardie, che non erano più collegate al sistema, stavano impazzendo. Si sentiva gente che piangeva e che stava male sul pavimento. Erano tornati solo uomini spaventati.
-
-«Vieni,» disse Laura con voce rauca.
-
-Corsero nel fango nero del sottosuolo. Il fianco di Claudio bruciava come fuoco, ma la voglia di farcela lo teneva in piedi. Sentivano i droni che cadevano dai piani di sopra, pezzi di metallo morto che si schiantavano per terra.
-
-Arrivarono alle scale di emergenza. Nel fumo si vedeva solo una luce rossa che lampeggiava.
-
-In quel momento, il segnale arrivò in tutto il mondo.
-Londra rimase al buio. Il fiume Tamigi diventò una striscia nera. I droni caddero sulle strade e la gente alzò lo sguardo al cielo, libera di aver paura.
-Parigi uscì dalle cantine. I ribelli ripresero le armi in mano.
-In America, Thiago Volkov accese la sua vecchia radio. Lesse il messaggio e sorrise. La guerra era cominciata davvero.
-
-«È partito,» disse Claudio.
-«Dobbiamo andare via,» rispose Laura.
-
-Salirono gli ultimi gradini. Le gambe bruciavano per la fatica. Sfondarono l'ultima porta e videro Roma davanti a loro. Era una città piena di fiamme e con le strade vuote. Le macchine erano tutte ferme, le luci spente. L'umanità era tornata padrona del fango e della polvere.
-
-Claudio guardò Laura. Scesero in strada, pronti a combattere per l'ultima volta. Era arrivato il momento.`;
+export const chapter13Content = `Il corridoio aveva il soffitto basso e sapeva di cemento e olio vecchio. Era una linea dritta che si perdeva nel buio. Claudio premeva la mano contro il fianco ferito e sentiva il sangue caldo che gli colava tra le dita. Trascinava i piedi nel fango con molta fatica. Ogni passo gli faceva un male cane e il dolore gli stringeva il petto come una morsa.
+Laura camminava poco più avanti senza mai voltarsi, ma ascoltava il rumore dei passi di Claudio sul cemento. Teneva la pistola pronta e si muoveva agile, come un animale che sta cacciando. Un ronzio elettrico salì dalle caviglie fino alla testa, facendo vibrare i denti in modo fastidioso. Laura si fermò di colpo.
+Claudio raggiunsero un portone di ferro grigio che non aveva schermi o luci. Prese un cacciavite che gli scivolava tra le mani per colpa del sangue e iniziò a svitare un bullone con tutta la sua forza. Era bloccato dalla ruggine e Claudio dovette spingere con tutto il peso del corpo. Sentì una fitta al fianco che quasi lo fece svenire. Il bullone cadde sul pavimento con un rumore sordo.
+Riuscì a svitare anche gli altri e finalmente la porta si aprì cigolando forte. La stanza era piena di armadi d'acciaio che facevano un rumore continuo. Claudio andò verso il computer principale e infilò la chiavetta Mythos sotto la luce gialla. La spia passò dal rosso al verde e il virus iniziò subito a distruggere il sistema.
+Tutto esplose in mezzo alle scintille e la stanza si riempì di fumo nero. Claudio iniziò a tossire mentre i computer fondevano uno dopo l'altro. La luce si spense in tutto l'edificio e il mondo di ABITES crollò. Fuori dalla porta si sentivano urla di gente che aveva paura, perché le guardie non erano più collegate al sistema e ora erano solo uomini spaventati.
+«Vieni,» disse Laura con la voce rauca. Corsero nel fango nero del sottosuolo. Il fianco di Claudio bruciava come se avesse del fuoco addosso. I droni Cadevano dai piani sopra di loro e si schiantavano a terra come rottami. Raggiunsero le scale di emergenza in mezzo al fumo, dove c'era una luce rossa che lampeggiava.
+In quel momento il segnale arrivò in tutto il mondo e le città finirono nel buio. I droni caddero per le strade e la gente alzò lo sguardo, finalmente libera di avere paura. A Parigi i ribelli ripresero le armi e Thiago Volkov accese la sua vecchia radio per iniziare la guerra vera.
+«È partito il segnale,» disse Claudio. «Dobbiamo scappare,» rispose Laura. Salirono gli ultimi gradini con le gambe che gli bruciavano per la fatica. Sfondarono l'ultima porta e videro Roma. La città era piena di fiamme e le strade erano vuote. Tutte le macchine erano ferme. L’umanità era tornata padrona del fango e della polvere. Claudio guardò Laura e scesero in strada, pronti per l'ultima battaglia.`;

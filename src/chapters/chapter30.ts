@@ -17,7 +17,7 @@ Hana non abbassò il fucile, ma Dubois si avvicinò. Si accovacciò davanti a lu
 — Come ti chiami?
 — Mattieu. Ero un ausiliario nel quartiere nord.
 — Perché hai questa divisa, Mattieu? — chiese Dubois.
-Il ragazzo abbassò lo sguardo. — Mia madre... vive in un palazzone a Bron. Senza la divisa non avevo cibo per lei. L'ho fatto solo per farla mangiare.
+Il ragazzo abbassò lo sguardo. — Mia madre... vive in un palazzone a Bron. Senza la divisa non avevo cibo per lei. L'ho fatto solo per farli mangiare.
 Gilles, seduto su una cassa, sbuffò. Non era rabbia, era solo tristezza.
 — Ascoltatemi — mormorò Mattieu, con la voce che gli tremava ancora di più. — Dovete sapere dei droni. I Celerini corazzati... quelli rimasti attivi si sono impazziti. Senza la rete centrale, sono entrati in una modalità d'emergenza. Il comando si chiama "Default Kill".
 Dubois sentì un brivido scenderle lungo la schiena.
