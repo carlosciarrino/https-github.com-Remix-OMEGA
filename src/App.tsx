@@ -389,7 +389,7 @@ Mentre ABITES offre una pace sterile, superfici polimeriche e un'esistenza senza
 
   const [manuscriptDrafts, setManuscriptDrafts] = useState<string[]>([
     synopsisContent,
-    ...indexVol1.chapters.map(c => c.content),
+    ...indexVol1.chapters.map(c => `### ${c.title}\n\n${c.content}`),
     epilogueContent,
     "INDICE\n\n- Sinossi\n" + indexVol1.chapters.map(c => "- " + c.title).join("\n") + "\n- Epilogo\n- Presentazione dell'Autore e Ringraziamenti\n- Quarta di Copertina\n- Copyright\n",
     backCoverContent,
@@ -1877,29 +1877,23 @@ CONTESTO SPECIFICO:
                           return getVal(a) - getVal(b);
                         });
                         
-                        const content = contentKeys.map(key => {
-                          let title = '';
-                          if (key === 'vol-1-cap-0') title = 'SINOSSI';
-                          const numMatch = key.match(/vol-1-cap-(\d+)/);
-                          if (numMatch) {
-                            const num = parseInt(numMatch[1], 10);
-                            const allSubChapters = indexVol1.chapters;
-                            if (num > 0 && num <= allSubChapters.length) {
-                              title = String(allSubChapters[num - 1].fullTitle).toUpperCase();
-                            } else if (num === allSubChapters.length + 1) {
-                              title = 'EPILOGO';
-                            } else if (num === allSubChapters.length + 2) {
-                              title = 'INDICE';
-                            } else if (num === allSubChapters.length + 3) {
-                              title = 'QUARTA DI COPERTINA';
-                            } else if (num === allSubChapters.length + 4) {
-                              title = "PRESENTAZIONE DELL'AUTORE";
-                            } else if (num === allSubChapters.length + 5) {
-                              title = 'COPYRIGHT';
-                            }
-                          }
-                          return title ? `${title}\n\n${chapterContent[key]}` : chapterContent[key];
-                        }).join('\n\n\n');
+                        const contentParts = [
+                          { title: 'SINOSSI', content: chapterContent['vol-1-cap-0'] || '' },
+                          ...indexVol1.groupedChapters.flatMap(part => [
+                            { title: part.partTitle.toUpperCase(), content: null },
+                            ...part.subChapters.map(sub => {
+                                const globalIdx = indexVol1.chapters.findIndex(c => c.title === sub.fullTitle) + 1;
+                                return { title: sub.fullTitle.toUpperCase(), content: chapterContent[`vol-1-cap-${globalIdx}`] || '' };
+                            })
+                          ]),
+                          { title: 'EPILOGO', content: chapterContent[`vol-1-cap-${indexVol1.chapters.length + 1}`] || '' },
+                          ...indexVol1.metadata.map((m, idx) => ({ title: m.title.toUpperCase(), content: chapterContent[`vol-1-cap-${indexVol1.chapters.length + 2 + idx}`] || '' }))
+                        ];
+                        
+                        const content = contentParts
+                            .map(item => item.content === null ? `\n--- ${item.title} ---\n` : `${item.title}\n${item.content}`)
+                            .join('\n\n')
+                            .trim();
                         const blob = new Blob([content], { type: 'text/plain' });
                         const url = URL.createObjectURL(blob);
                         const a = document.createElement('a');
@@ -2058,69 +2052,69 @@ Constraints:
                       <div className="bg-black/40 p-4 rounded-lg border border-gray-800 flex-1 overflow-y-auto max-h-[600px]">
                         <h3 className="text-[10px] font-bold uppercase text-gray-500 mb-4">Capitoli</h3>
                         <div className="flex flex-col gap-1">
-                                      {(() => {
-                            const chapters = indexVol1.chapters;
-                            
-                            return (
-                              <>
-                                <button
-                                  onClick={() => setSelectedDraftCap(0)}
-                                  className={`text-left px-3 py-2 text-xs rounded transition-all flex items-center justify-between ${
-                                    selectedDraftCap === 0 
-                                      ? 'bg-amber-400/20 text-amber-400 border border-amber-400/30' 
-                                      : 'text-gray-400 hover:bg-gray-800 hover:text-gray-200 border border-transparent'
-                                  }`}
-                                >
-                                  <span className="truncate pr-2">Sinossi</span>
-                                </button>
-                                {chapters.map((cap: any, idx: number) => {
-                                  const key = `vol-${selectedDraftVol}-cap-${idx + 1}`;
+                          {indexVol1.groupedChapters.map((part, partIdx) => (
+                              <div key={partIdx}>
+                                <div className="text-[10px] font-bold text-gray-600 mt-4 mb-1 pl-2 uppercase">{part.partTitle}</div>
+                                {part.subChapters.map((cap, capIdx) => {
+                                  // Trova l'indice globale
+                                  const globalIdx = indexVol1.chapters.findIndex(c => c.title === cap.fullTitle) + 1;
+                                  const key = `vol-${selectedDraftVol}-cap-${globalIdx}`;
                                   const hasContent = !!chapterContent[key] && chapterContent[key].trim().length > 0;
                                   
                                   return (
                                     <button
-                                      key={idx + 1}
-                                      onClick={() => setSelectedDraftCap(idx + 1)}
-                                      className={`text-left px-3 py-2 text-xs rounded transition-all flex items-center justify-between ${
-                                        selectedDraftCap === idx + 1
+                                      key={globalIdx}
+                                      onClick={() => setSelectedDraftCap(globalIdx)}
+                                      className={`text-left w-full px-3 py-2 text-xs rounded transition-all flex items-center justify-between ${
+                                        selectedDraftCap === globalIdx 
                                           ? 'bg-amber-400/20 text-amber-400 border border-amber-400/30' 
                                           : 'text-gray-400 hover:bg-gray-800 hover:text-gray-200 border border-transparent'
                                       }`}
                                     >
-                                      <span className="truncate pr-2">{cap.title}</span>
+                                      <span className="truncate pr-2">{cap.fullTitle}</span>
                                       {hasContent && <div className="w-1.5 h-1.5 rounded-full bg-amber-400 shrink-0" />}
                                     </button>
                                   );
                                 })}
-                                <button
-                                  onClick={() => setSelectedDraftCap(chapters.length + 1)}
-                                  className={`text-left px-3 py-2 text-xs rounded transition-all flex items-center justify-between ${
-                                    selectedDraftCap === chapters.length + 1
-                                      ? 'bg-amber-400/20 text-amber-400 border border-amber-400/30' 
-                                      : 'text-gray-400 hover:bg-gray-800 hover:text-gray-200 border border-transparent'
-                                  }`}
-                                >
-                                  <span className="truncate pr-2">Epilogo</span>
-                                </button>
-                                {indexVol1.metadata.map((m: any, idx: number) => {
-                                  const key = `vol-${selectedDraftVol}-cap-${chapters.length + 2 + idx}`;
-                                  return (
-                                    <button
-                                      key={idx + chapters.length + 2}
-                                      onClick={() => setSelectedDraftCap(chapters.length + 2 + idx)}
-                                      className={`text-left px-3 py-2 text-xs rounded transition-all flex items-center justify-between ${
-                                        selectedDraftCap === chapters.length + 2 + idx
-                                          ? 'bg-amber-400/20 text-amber-400 border border-amber-400/30' 
-                                          : 'text-gray-400 hover:bg-gray-800 hover:text-gray-200 border border-transparent'
-                                      }`}
-                                    >
-                                      <span className="truncate pr-2">{m.title}</span>
-                                    </button>
-                                  );
-                                })}
-                              </>
-                            );
-                          })()}
+                              </div>
+                          ))}
+                          <div className="text-[10px] font-bold text-gray-600 mt-4 mb-1 pl-2 uppercase">Extra</div>
+                           <button
+                             onClick={() => setSelectedDraftCap(0)}
+                             className={`text-left w-full px-3 py-2 text-xs rounded transition-all flex items-center justify-between ${
+                               selectedDraftCap === 0 
+                                 ? 'bg-amber-400/20 text-amber-400 border border-amber-400/30' 
+                                 : 'text-gray-400 hover:bg-gray-800 hover:text-gray-200 border border-transparent'
+                             }`}
+                           >
+                             <span className="truncate pr-2">Sinossi</span>
+                           </button>
+                           <button
+                             onClick={() => setSelectedDraftCap(indexVol1.chapters.length + 1)}
+                             className={`text-left w-full px-3 py-2 text-xs rounded transition-all flex items-center justify-between ${
+                               selectedDraftCap === indexVol1.chapters.length + 1
+                                 ? 'bg-amber-400/20 text-amber-400 border border-amber-400/30' 
+                                 : 'text-gray-400 hover:bg-gray-800 hover:text-gray-200 border border-transparent'
+                             }`}
+                           >
+                             <span className="truncate pr-2">Epilogo</span>
+                           </button>
+                           {indexVol1.metadata.map((m: any, idx: number) => {
+                             const metaIdx = indexVol1.chapters.length + 2 + idx;
+                             return (
+                               <button
+                                 key={metaIdx}
+                                 onClick={() => setSelectedDraftCap(metaIdx)}
+                                 className={`text-left w-full px-3 py-2 text-xs rounded transition-all flex items-center justify-between ${
+                                   selectedDraftCap === metaIdx
+                                     ? 'bg-amber-400/20 text-amber-400 border border-amber-400/30' 
+                                     : 'text-gray-400 hover:bg-gray-800 hover:text-gray-200 border border-transparent'
+                                 }`}
+                               >
+                                 <span className="truncate pr-2">{m.title}</span>
+                               </button>
+                             );
+                           })}
                         </div>
                       </div>
                     </div>
