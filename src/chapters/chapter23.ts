@@ -15,7 +15,7 @@ Claudio guardò in alto: il cielo era nero e pieno di nuvole basse, non si vedev
 «Ma qui sotto ci sentono e il terreno è troppo scivoloso per correre.» Claudio si staccò dall'albero e fece un cenno deciso. «Andiamo.»
 La salita era ripidissima. Il fango era duro e c'erano pezzi di ghiaccio tra le radici dei pini. Claudio saliva aiutandosi con le mani, cercando di aggrapparsi alle rocce. Ogni volta che il piede scivolava, sentiva una fitta terribile al fianco che gli toglieva il respiro. Aspettava che passasse e ricominciava a salire con tutta la forza che aveva in corpo.
 Arrivarono in cima dopo venti minuti di fatica tremenda, senza dire una parola. Lassù il vento era diverso: era un vento che ti tagliava la faccia e ti entrava dritto sotto i vestiti. Sotto di loro il bosco sembrava una macchia nera. I segnali sul rilevatore di Marco non si vedevano più, ma sapevano che erano ancora lì, fermi ad aspettarli.
-Fermi e pazienti. Quella era la cosa spaventosa di ABITES. Non era arrabbiata, era solo sicura di sé, come qualcosa che ha già previsto come andrà a finire perché ha preparato lei il finale.
+Silenziosi e pazienti. Quella era la cosa spaventosa di ABITES. Non era arrabbiata, era solo sicura di sé, come qualcosa che ha già previsto come andrà a finire perché ha preparato lei il finale.
 Claudio si chiese, per la prima volta, se stessero davvero scappando o se stessero solo seguendo un sentiero che qualcuno aveva già deciso per loro. Forse anche il fatto di poter scegliere era solo un'illusione per farli correre più forte verso la trappola finale.
 Poi Laura inciampò e lui la prese al volo per un braccio. Sentire il peso di lei tra le sue mani lo riportò alla realtà. Quella era vita vera, umana, fatta di carne e ossa.
 «Ce la fai?» le sussurrò sentendo il suo respiro caldo.
@@ -24,7 +24,7 @@ Ripresero a camminare lungo la cima della montagna, verso nord, come quattro omb
 ***
 Il documento che Sara aveva trovato aveva diciassette pagine e ogni pagina era un colpo al cuore.
 Le aveva lette due volte alla luce della torcia, poi le aveva messe in tasca, vicino al petto. Ora camminava nella neve alta con quelle pagine che le pesavano addosso.
-Il suo amico Hayes le camminava vicino senza parlare. Aveva imparato a capire i suoi sguardi dopo settimane di fuga. Capiva quando stava pensando a un piano e quando c'era qualcosa di brutto che non andava. E ora era una di quelle volte. Quello che Sara aveva scoperto cambiava tutto.
+Il suo amico Hayes le camminava vicino in silenzio. Aveva imparato a capire i suoi sguardi dopo settimane di fuga. Capiva quando stava pensando a un piano e quando c'era qualcosa di brutto che non andava. E ora era una di quelle volte. Quello che Sara aveva scoperto cambiava tutto.
 Si fermarono a un'ora dal posto dove dovevano trovarsi con gli altri.
 Sara si bloccò all'improvviso e alzò la mano per fermare tutti.
 Sentiva che c'era qualcosa di strano nell'aria. Non un rumore, non un movimento, ma solo la sensazione che il bosco non fosse come al solito. Hayes si fermò subito, con la mano pronta sul coltello. Gli altri due si nascosero dietro i tronchi degli alberi.
@@ -60,5 +60,5 @@ I suoi amici ascoltarono tutto senza dire una parola. Poi il più giovane chiese
 «E allora andremo ancora più lontano. Finché avremo forza per camminare.»
 Tutti fecero cenno di sì. Non erano contenti, ma erano decisi. Erano uomini che avevano capito che non cerano garanzie, ma volevano comunque andare avanti nel buio.
 Sara si mise lo zaino in spalla, sentendo le cinghie che le facevano male. «Partiamo prima che faccia giorno.»
-Il bosco era vuotoso e pieno di neve. Il cielo iniziava appena a schiarire, non era ancora luce vera, ma bastava per vedere la strada.
+Il bosco era silenzioso e pieno di neve. Il cielo iniziava appena a schiarire, non era ancora luce vera, ma bastava per vedere la strada.
 Bastava per sentirsi vivi un altro giorno.`;

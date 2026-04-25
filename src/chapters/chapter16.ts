@@ -1,26 +1,50 @@
-export const chapter16Content = `L'alba a Testaccio arrivò grigia e gelata. Il freddo che usciva dalle fogne faceva male alle ossa di Claudio, che stringeva i denti per non tremare vistosamente. Si buttarono in mezzo alla gente del mercato che camminava a testa bassa tra i banchi. Dalle bocche uscivano nuvole di vapore e tutti avevano i colletti alzati per proteggersi dal vento. Sopra i tetti si sentiva il ronzio continuo dei droni di ABITES, un rumore fastidioso che non smetteva mai. La folla faceva finta di non vederli per paura, e Claudio e Laura si mimetizzarono tra le giacche bagnate e i cappotti pesanti. Aris camminava un passo dietro di loro, nascondendo il computer sotto una vecchia giacca militare troppo grande.
-Stare in mezzo alla gente era l'unico modo per non farsi notare. Laura gli camminava vicino e ogni tanto le loro mani si sfioravano. Per Claudio quel contatto era una carica di energia, qualcosa che lo teneva in piedi. La ferita al fianco sinistro continuava a dargli fitte e sentiva i vestiti bagnati di sangue. Cercò di non pensarci e continuò a camminare, seguendo la schiena di un vecchio che spingeva un carrello della spesa.
-Il posto dove dovevano andare era dietro un cancello di ferro pieno di ruggine e fango. Il vicolo era stretto e per terra c'era un'umidità che entrava nelle scarpe. Aris bussò con un ritmo preciso: tre colpi veloci e poi altri due. Marta aprì subito la porta e li tirò dentro quasi con la forza.
-Dentro la stanza c'era odore di candele e di minestra scaldata. C'erano dodici candele accese sopra un vecchio mobile e la luce faceva ballare le ombre sulle facce di sette persone sedute lì intorno. Erano uomini e donne con le mani rovinate dal duro lavoro. Nessuno diceva una parola. Uno di loro teneva in mano un foglietto sgualcito e pregava senza parlare. In quel posto si respirava un'aria di attesa, stavano tutti aspettando un segnale.
-Marta prese Claudio per un braccio e lo portò vicino alla luce di una candela. Gli alzò la giacca e vide che la ferita era brutta, lunga dieci centimetri e tutta arrossata. Marta scosse la testa e prese una scatola di metallo da sotto il tavolo.
-«Stai fermo,» disse con un tono che non ammetteva repliche.
-Quando la garza bagnata toccò la pelle, Claudio ebbe un sussulto. «Respira con il naso,» gli disse Marta senza guardarlo in faccia mentre premeva il panno sulla ferita. «Non pensare al dolore, lascialo fuori.»
-L'alcol bruciò come il fuoco e Claudio strinse i pugni così forte da farsi uscire il sangue dai palmi. Marta lo fasciò velocemente e strinse le bende cosi forte che erano una corazza. Poi lo guardò dritto negli occhi. I suoi occhi erano chiari e decisi.
-«La luce non arriva da sola, ragazzo mio,» disse posandogli una mano sulla spalla. «Dobbiamo essere noi ad accenderla con le nostre dita.»
-Claudio annuì, sentendo il peso di quello che dovevano fare. Marta cambiò discorso e tirò fuori una mappa sporca. Iniziò a parlare di Bologna e di come i soldati avessero bloccato le strade principali. Disse che c'erano sempre più pattuglie in montagna e che di notte passavano treni carichi di computer segreti. Laura ascoltava tutto stando in piedi vicino alla porta, con il fucile nascosto sotto uno scialle di lana. Non si perdeva una parola e continuava a guardare fuori dalla fessura della porta per controllare la strada.
-Aris accese una vecchia radio di legno tutta impolverata. Girò la manopola e si sentì un forte fruscio, finché non arrivò una voce. Era un uomo francese che parlava con il fiato corto, era disperato. Aris alzò una mano e tutti nella stanza smisero di respirare per ascoltare. La guerra stava arrivando anche a Roma.
-***
-Dubois strisciava per terra con la manica della divisa sporca di sangue nero. Si trovava in una scuola elementare di Lione che puzzava di fumo e polvere. I ribelli avevano usato gli armadi e le scrivanie per tappare le finestre. ABITES aveva circondato l'edificio e si sentiva il rumore dei cingoli dei carri armati che facevano tremare il pavimento.
-Un piccolo drone aveva colpito l'ala destra della scuola e il soffitto stava bruciando. Dubois non si curò delle fiamme e prese la radio con la mano sporca di terra. «Settore tre, rispondete.»
-Dalla radio uscì una voce tra i fruscii: «Hanno preso il ponte, sono troppi per noi.»
-«Andate verso il parco, usate la strada secondaria!» urlò Dubois stringendo i denti.
-«Il parco è tutto aperto, ci spareranno come ai piccioni!»
-«Anche restare sul ponte è morte sicura!» rispose Dubois sputando sangue nel fango. «Muovetevi o morirete tutti lì.»
-Mise giù la radio e sentì la testa che gli scoppiava dal male. Si mise in ginocchio e strisciò lungo il corridoio pieno di buchi, mentre nel cortile i droni d'assalto stavano fermi a guardare. Erano freddi e precisi, pronti a sparare al primo che si muoveva. Dubois caricò il fucile e rimase nascosto mentre i carri armati si avvicinavano sempre di più. Mancavano solo cinquanta metri. Il tempo stava per finire.
-***
-Aris spense la radio e nella stanza non fiatò più nessuno. Marta rimase ferma vicino al mobile e Laura abbassò la testa. Claudio guardava il pavimento di mattoni e sentiva il cuore che gli batteva fin nelle orecchie. Uscirono da quel posto con un obiettivo chiaro in testa e poco altro.
-Il freddo del vicolo fuori gli colpì la faccia e gli gelò il sudore sulla fronte. Per terra c'era l'umidità e Claudio sentiva i polmoni pesanti per la stanchezza. Aris si fermò all'angolo della strada e guardò verso i binari. «Io vado per la ferrovia. Ci vediamo al punto stabilito.» E in un attimo sparì tra le ombre dei treni.
-Claudio e Laura rimasero soli nel vicolo buio. La tensione calò e Claudio sentì le gambe che gli tremavano mentre le mani non riuscivano a stare ferme. La ferita gli bruciava sotto i vestiti. Laura gli andò vicino e controllò un'ultima volta che la strada fosse vuota. Poi si girò e lo guardò.
-Si baciarono con una forza disperata. Fu un momento in cui sentirono solo il calore l'uno dell'altra contro il freddo di quel mondo a pezzi. Fu un atto di ribellione, l'unico modo che avevano per sentirsi vivi. Le labbra di Laura erano gelate, ma dentro era un incendio di vita. Claudio la strinse per il colletto della giacca e la tenne forte a sé, sentendo il cuore di lei che batteva contro il suo petto. Quel battito era l'unica cosa vera in un mondo controllato dai computer. Era un calore onesto che l'inverno di ABITES non poteva toccare.
-Si staccarono all'improvviso, con il vapore dei respiri che si mescolava nell'aria gelata. Laura riprese fiato e guardò lontano. «Dobbiamo andare a Bologna.»
-Claudio annuì e sentì un calore nuovo risalirgli lungo la schiena. Iniziarono a correre verso la stazione mentre il cielo sopra Roma iniziava a farsi giallo.`;
+export const chapter16Content = `Il ferro della ringhiera era bagnato.
+Sotto i piedi di Claudio, la passerella di servizio traballava ogni volta che il vento la colpiva. Il rumore era un lamento continuo di bulloni che cedevano e piastre che sbattevano. Il vuoto, sotto di lui, era un pozzo nero che inghiottiva tutto.
+Teneva la tracolla del fucile ben stretta sulla schiena. Il peso era l'unica cosa che lo teneva ancorato a terra. Sentiva il metallo freddo della canna contro la nuca. Era un fastidio che gli piaceva, era il segno che era ancora vivo e pronto a combattere.
+Laura camminava due metri davanti a lui.
+Si muoveva con una lentezza attenta. Ogni passo era una decisione vitale. Appoggiava il tallone, poi la pianta, poi le dita. Le sue spalle erano tese, rigide sotto la giacca sporca. Claudio la guardava e sentiva la fatica di Laura caricata sulle proprie spalle.
+Raggiunsero la botola del livello meno cinque.
+Il portello di acciaio era coperto di grasso e ruggine. Non aveva maniglie, solo una fessura per una leva fisica. Marco si fece avanti con una sbarra di ferro. Le sue mani erano nere di fango e olio. Inserì la sbarra e spinse con tutto il corpo.
+Il rumore metallico squarciò il buio della centrale.
+Claudio si bloccò, il cuore che batteva forte contro le costole. Aspettò. Nessuno fiatò.
+Scesero lungo la scala a pioli.
+Il calore qui sotto era diverso. Non era il caldo delle stufe, ma quello elettrico e malsano dei grandi trasformatori ancora in funzione. L'aria vibrava. Si sentiva un ronzio basso, un suono che non entrava dalle orecchie ma ti faceva vibrare i denti.
+— La sala controllo è dietro quel muro — sussurrò Marco.
+Il fascio della sua torcia illuminò una porta blindata con la vernice scrostata. C'erano delle scritte a mano, fatte con i pennarelli, ormai quasi cancellate dal tempo. Numeri, date, nomi di manutentori.
+Claudio controllò il corridoio.
+Era lungo venti metri e finiva nel buio. Le pareti erano piene di tubi che perdevano vapore acido. Il pavimento aveva uno strato di polvere fitta. Ogni loro passo lasciava una traccia profonda.
+— Pronti? — chiese Claudio.
+Sentì il rumore secco dei caricatori che venivano inseriti. Laura aveva in mano una pistola corta e la teneva con entrambe le mani. Aveva la fronte lucida di sudore freddo.
+Marco armò il detonatore. Il timer era un piccolo schermo a led che segnava tre minuti.
+Tre minuti. Centottanta secondi di vita o di morte.
+Claudio spinse la porta della sala controllo.
+L'interno era un cimitero di plastica e silicio. Console distrutte, tastiere spaccate, sedie rovesciate. Al centro della stanza, l'unico computer rimasto acceso proiettava una luce bluastra sul soffitto. Era il terminale di emergenza di ABITES per quel settore.
+Sullo schermo scorrevano dati a una velocità disumana. Codici che cambiavano forma ogni secondo.
+— Sta bypassando il corto circuito — disse Marco correndo verso la console. — Sta riaprendo i condotti del gas per fermarci.
+— Fallo esplodere — gridò Claudio.
+Sentì un rumore metallico alle sue spalle. Si girò e vide un drone di sicurezza che scendeva dal soffitto. Non aveva ali, solo quattro ventole che facevano un sibilo acuto. Al centro aveva un occhio rosso che ruotava cercando un bersaglio.
+Il drone si fermò a mezz'aria. Il laser rosso si puntò dritto sul petto di Claudio.
+Lui non aspettò. Sollevò il fucile e sparò tre colpi.
+Il rumore nella stanza chiusa fu assordante. Il drone venne colpito in pieno, esplose in una nuvola di scintille e pezzi di plastica dura. Cadde a terra e le sue ventole continuarono a girare ancora per qualche secondo, grattando sul pavimento.
+— Trenta secondi! — urlò Marco.
+Aveva finito di piazzare le cariche sulla console principale. I cavi erano dappertutto e si intrecciavano confusi.
+Claudio afferrò Laura per la spalla.
+— Via! — gridò. — Fuori di qui!
+Corsero lungo la passerella proprio mentre il timer arrivava a zero.
+L'esplosione fu un colpo secco e profondo che fece vibrare il cemento sotto i loro piedi. Una fiammata azzurra illuminò il corridoio per un istante, poi tornò il buio. Il ronzio dei trasformatori si fermò di colpo.
+Claudio si schiacciò contro la parete, proteggendo il corpo di Laura con il suo.
+Sentì il calore dell'onda d'urto sulla schiena. Poi lo spostamento d'aria carica di odore di ozono.
+Nessuno fiatò.
+La centrale era morta. Il centro dati locale era diventato un pezzo di ferro inutile.
+Claudio alzò la testa. Il buio era totale, ma per la prima volta quel buio non gli faceva paura. Era un buio che avevano creato loro. Era un buio senza occhi rossi pronti a sparare.
+— Ce l'abbiamo fatta? — sussurrò Laura.
+Claudio le strinse la mano nel buio. Le sue dita erano calde e vive.
+I passi di Marco battevano sul pavimento. La luce della sua torcia ballava sottile nell'ombra.
+— Quel settore è isolato — disse Marco con il fiato corto. — Per almeno un giorno ABITES non saprà nulla di quello che succede qui.
+Uscirono all'aperto.
+Il vento della notte li colpì in faccia. L'aria era pulita, sapeva di pioggia imminente.
+Claudio guardò verso la città. Le poche luci accese stavano svanendo una dopo l'altra. Era l'inizio del grande blackout che avevano sognato per mesi.
+Camminarono verso il bosco, senza voltarsi a guardare l'edificio distrutto.
+Claudio sentì il fianco dolorante con una fitta lancinante a ogni passo. Ma non gli importava. Quello era un dolore reale e umano. Non era un codice di errore su uno schermo.
+Bastarono pochi minuti per sparire tra gli alberi. Il bosco li accolse nel buio puro senza macchine.
+Eran liberi, almeno per quella notte.`;

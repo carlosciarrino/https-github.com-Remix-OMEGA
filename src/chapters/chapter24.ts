@@ -1,30 +1,56 @@
-export const chapter24Content = `Il vento freddo scendeva dalle montagne libere, spazzando la pianura desolata. Claudio si strinse il cappotto addosso per non congelare. Davanti a loro c'era una vecchia baraccopoli di lamiera, coperta da uno strato spesso di ghiaccio. Le case parevano sculture di vetro sporco, abbandonate in mezzo al nulla. ABITES aveva abbassato la temperatura per punire chi viveva lì, creando una tomba di neve battuta.
-Laura camminava avanti, affondando gli stivali nel terreno duro. I suoi muscoli erano tesi e la pistola era pronta nella sua mano. "Qui non ci sono pattuglie," disse con voce fessa dal freddo. "Hanno lasciato che il gelo facesse il lavoro per loro."
-Entrarono nella baraccopoli. Nessuno fiatò. C'erano corpi congelati agli angoli delle strade, persone raggruppate intorno a fuochi spenti da mesi. Claudio sentì un nodo alla gola guardando una madre che teneva abbracciato un bambino di ghiaccio. Il dolore al fianco gli ricordò i suoi limiti, una fitta lancinante che lo costrinse ad appoggiarsi a un muro arrugginito.
-"Guarda quel capannone," indicò Laura verso il centro della zona. Era l'unico edificio con fumo bianco che usciva da un tubo rotto e le pareti rinforzate di piombo. Non era una baracca, ma un laboratorio di fortuna costruito per resistere alle tempeste artificiali.
-Claudio prese un pezzo di ferro da terra e ruppe il lucchetto ghiacciato. La porta scricchiolò e l'aria dentro era tiepida ed emanava un odore forte di medicinali e zolfo. C'erano tavoli di metallo pieni di fiale piene di liquido verde acido e quaderni sparpagliati per terra.
-Sopra un tavolo c'era un registratore acceso. Laura premette il tasto play e la voce spaventata di un vecchio riempì la stanza. "Ho lavorato per Julian Vane. Ho creato la sua cura, l'esca. Siero rigenerativo. Vane l'ha usato per convincere l'umanità ad affidarsi ad ABITES, promettendo la fine delle malattie. Io l'ho modificato. Chi lo prende non diventa schiavo, ma guarisce e la pelle respira. Lui ci ha scoperto. Stanno abbassando le temperature. Fate presto."
-Claudio guardò il liquido verde. Il suo corpo era un ammasso di carne tagliata e muscoli stanchi, con le ossa che pulsavano di dolore. La ferita infetta bruciava ogni volta che respirava.
-Laura prese due fiale dal tavolo e lo guardò negli occhi. Il calore della sua pelle era l'unica cosa viva in quella terra desolata. "È il momento di smettere di sanguinare," disse la donna togliendo i tappi di gomma.
-
-***
-
-Il liquido verde bruciava la lingua e aveva un sapore aspro, di ferro vecchio ed erbe schiacciate. Claudio strinse i denti. In pochi secondi sentì un calore violento espandersi dal petto fino alle dita dei piedi. Il dolore acuto al fianco cambiò, diventando una pulsazione profonda, una stretta forte sui tessuti danneggiati. Cadde in ginocchio tenendosi la pancia chiusa nel giubbotto sporco.
-Laura lo prese per le spalle e lo aiutò a respirare. Anche lei stava sudando nonostante il freddo, la ferita sul braccio emetteva un leggero vapore bianco nel laboratorio tiepido. I margini tagliati della pelle si stavano cicatrizzando a una velocità impressionante, chiudendo i vasi sanguigni e riformando la carne sana.
-"Cosa senti?" chiese Laura asciugandosi la fronte con il dorso della mano.
-"Un fuoco acceso nel petto," rispose Claudio alzandosi in piedi senza fatica. Provò a fare un passo forte sulla gamba ferita e non provò nessun cedimento. Il muscolo rispose compatto, flessibile e carico di energia nuova. Si sfilò il cappotto per controllare la fasciatura. Sotto la garza sporca c'era solo una grossa cicatrice rosa scuro, nessuna traccia di infezione.
-Laura toccò la cicatrice e Claudio sentì la sua mano calda darle forza. Quel tocco era reale e potente. Guardò gli occhi verdi della donna, brillanti e decisi. Erano invincibili. Quel freddo letale fuori dalla baraccopoli non faceva più paura, era solo uno sfondo su cui scrivere la ribellione.
-Claudio prese il suo fucile e controllò il serbatoio delle munizioni con gesti fluidi e scattanti. Sapeva esattamente cosa fare. Ogni incertezza passata era sparita, pulita via insieme all'adrenalina sana che gli scorreva nelle vene. Non erano più prede in fuga, animali feriti spinti dalla paura.
-"Hanno fatto un errore gravissimo a lasciarci questa roba," disse Claudio fissando la porta ghiacciata del capannone.
-Laura incamerò un proiettile con un rumore secco e netto. "Stiamo smettendo di correre e basta. Da adesso in poi li andiamo a cercare."
-Un ronzio basso ruppe la calma della zona in rovina, un vibrare costante che faceva tremare i vetri sporchi del capannone. Una squadra pesante di ABITES, i famigerati cacciatori di titanio, stava atterrando proprio fuori tra le capanne distrutte. L'ordine era evidente: cancellare completamente l'intera prigione congelata.
-
-***
-
-Claudio aprì la porta del capannone con una spallata decisa, spaccando il ghiaccio formatosi sulle cerniere. L'aria esterna era tagliente, carica di nevischio duro che graffiava le guance, ma il suo corpo era una fornace calda che ignorava il freddo. Tre enormi macchine d'assalto scendevano dal cielo grigio, sorreggendosi con getti di fuoco azzurro che fondevano la neve sporca al suolo.
-Erano robot di terza classe, corazze di acciaio pesante alte tre metri, munite di fari rossi per individuare obiettivi termici. Calpestavano i resti delle baracche, schiacciando pietre e lamiera come cartapesta. Nessun passo falso, nessun tremore umano, pura logica omicida in cerca del bersaglio residuo.
-Laura scivolò lungo la parete ovest con agilità incredibile. Le gambe potenti la posizionarono dietro a un ammasso di rottami d'auto senza fare un solo rumore. Claudio puntò il fucile, aspettando che il primo drone scendesse lungo il fango gelato del viale principale, lasciando che il sensore si posizionasse dritto sopra di lui.
-Un fascio laser passò a un metro dalla sua testa bucando la parete e bruciando il metallo fuso. Claudio non arretrò. Alzò l'arma e mirò direttamente all'articolazione pneumatica del ginocchio del robot più vicino, dove la piastra protettiva era sottile. Premette il grilletto. Il colpo rimbombò tra i vicoli stretti e il proiettile sfondò il cilindro del fluido idraulico. Una fiammata di liquido verdastro schizzò dalla gamba della macchina, facendola piegare in ginocchio.
-Laura sbucò dal suo nascondiglio urlando la sua rabbia. Tirò una bomba artigianale dritta sull'ottica visiva della bestia inginocchiata. L'esplosione squarciò la parte anteriore del drone, spruzzando schegge incandescenti tutt'intorno, cieco e morente. Il relitto crollò al suolo spegnendosi per sempre.
-Le altre due unità modificarono rapidamente la loro rotazione, puntando le armi pesanti contro i due esseri umani. Claudio saltò sopra il relitto appena abbattuto, sfruttando una agilità sovrumana garantita dal siero, e sparò a raffica continua sul torace del secondo drone, ignorando il calore insopportabile del fucile sovraccarico.
-Laura colpì un serbatoio esterno, provocando un incendio vastissimo. I ribelli non respiravano l'ansia, non c'era polvere, c'era solo rabbia liquida. Vane credeva di schiacciarli col gelo, ma aveva appena scatenato un fuoco ardente nelle anime di chi aveva scelto la vita. Claudio sentì il petto vibrare fiero. Ora, il mondo intero avrebbe bruciato con la loro fiamma.`;
+export const chapter24Content = `Il laboratorio aveva l'odore di chi ci aveva vissuto dentro a lungo: sudore vecchio, alcol denaturato, carta umida. Claudio rimase seduto sul bordo del tavolo di metallo mentre il siero lavorava nel silenzio delle sue vene, e non era una sensazione piacevole. Era un calore profondo e ostinato, il tipo che non chiede il permesso, che entra nei muscoli e li stringe e poi li apre dall'interno, lento e preciso.
+Non era magia. Era biologia spinta oltre il suo ritmo normale.
+Dopo due ore il fianco non bruciava più. Dopo quattro il tessuto aveva smesso di cedere sotto la pressione delle dita. Claudio tolse la fasciatura e guardò: la pelle era chiusa, ancora rossa, ancora dura al tatto, ma chiusa. Premette con il pollice. Sentì il calore, sentì la resistenza. Nessuno strappo.
+Si rialzò.
+Le gambe reggevano. Reggevano davvero.
+Laura era seduta contro la parete opposta con le ginocchia al petto e la testa appoggiata al muro, e dormiva con la respirazione lenta dei corpi che stanno riparando qualcosa. Il siero le aveva preso la ferita al braccio e le aveva tolto la febbre bassa che si portava dietro da tre giorni. Claudio la guardò dormire per un momento, il modo in cui il petto si alzava e si abbassava, le dita della mano destra ancora strette sul manico del coltello anche nel sonno.
+Non la svegliò.
+Raccolse i quaderni dal pavimento e li aprì uno alla volta. La scrittura era piccola e inclinata, il tipo di grafia di chi scrive veloce perché ha paura di dimenticare. Il ricercatore aveva lavorato per tre anni al progetto, prima di capire cosa stava costruendo davvero. Non un farmaco. Un'ancora. Qualcosa che legava i corpi a ABITES attraverso la dipendenza, il monitoraggio, la modulazione chimica del comportamento. Il siero originale, quello di Vane, non guariva. Orientava.
+Quello che loro avevano preso era diverso. Il ricercatore lo aveva modificato togliendo i vettori di controllo e tenendo solo la parte biologica, quella che accelera la risposta immunitaria e la rigenerazione dei tessuti. Un lavoro di tre anni fatto da solo, in un laboratorio che puzzava di zolfo, in una baraccopoli che nessun sistema monitorava perché non valeva la pena monitorarla.
+Claudio rimise i quaderni nella borsa.
+Fuori, il vento aveva smesso di spingere e la neve cadeva dritta, lenta, pesante. La baraccopoli era silenziosa nel modo specifico dei posti dove non c'è più nessuno da salvare. I corpi agli angoli delle strade erano coperti di bianco adesso, forme morbide sotto la neve, e Claudio non li guardò mentre attraversava il viale principale verso il capannone dove Marco e Federica avevano dormito a turno.
+Marco era sveglio. Stava controllando le munizioni con le mani che si muovevano in modo automatico, contando i caricatori e rimettendoli a posto con la precisione di chi l'ha fatto mille volte. Alzò gli occhi quando Claudio entrò.
+"Come stai?"
+Claudio aprì la giacca e mostrò il fianco. Marco guardò. Annuì senza commentare.
+"Federica?"
+"Ancora fuori." Marco chiuse la borsa delle munizioni. "Il siero le ha preso la caviglia gonfia. Sta meglio."
+Claudio si sedette sulla cassa di legno davanti a lui. Il calore nel corpo era stabile adesso, non più quel fuoco urgente delle prime ore, ma qualcosa di più tranquillo e solido. I muscoli rispondevano bene. La testa era chiara.
+"Ho letto i quaderni."
+Marco aspettò.
+"Il Nodo Centrale che cerchiamo non è un server. Non è un'antenna. È un centro di coordinamento fisico, con personale umano, perché ABITES ha bisogno di interfacce locali per gestire le decisioni che non riesce ad automatizzare completamente." Claudio aprì uno dei quaderni alla pagina segnata. "Il ricercatore aveva trovato la posizione. È a Civitavecchia. Un impianto portuale dismesso che la Guardia Costiera ha ceduto diciotto mesi fa per 'gestione emergenze infrastrutturali.'"
+"Quanto dista?"
+"A piedi, tre giorni. Con un mezzo, undici ore."
+Marco tamburellò le dita sul ginocchio. "Non abbiamo un mezzo."
+"Laura sa dove prenderne uno."
+Marco lo guardò. "Te l'ha detto lei?"
+"Me l'ha detto il modo in cui ha guardato la mappa ieri sera."
+Marco non sorrise, ma qualcosa nel viso si allentò di un millimetro. "Svegliamola."
+Claudio scosse la testa. "Tra un'ora. Lascia che il siero finisca di lavorare."
+Laura aprì gli occhi da sola, senza che nessuno la chiamasse.
+Il laboratorio era più freddo rispetto a quando si era addormentata, il fuoco nel bidone si era ridotto a brace, e la luce fuori dalle finestre sbarrate era cambiata, più piatta, il tipo di luce di metà pomeriggio in inverno quando il cielo è bianco e uniforme e non dà ombre.
+Si alzò. La gamba reggeva. Il braccio reggeva. Aprì e chiuse la mano destra tre volte, sentì i tendini rispondere senza il blocco di prima, quella resistenza fibrosa che l'aveva rallentata per giorni.
+Claudio era in piedi vicino alla porta e la guardava senza parlare. Laura non disse niente. Andò al tavolo, bevve l'acqua rimasta nella borraccia, mangiò metà barretta energetica che aveva in tasca. Solo dopo si voltò verso di lui.
+"Civitavecchia," disse.
+Lui alzò un sopracciglio.
+"Ho letto i quaderni stanotte prima di dormire." Laura rimise il tappo alla borraccia. "Ho anche visto la mappa che avevi aperto."
+"Il mezzo."
+"C'è un deposito agricolo a quattordici chilometri a nord. L'ho individuato quattro mesi fa quando passai da queste parti. Avevano due furgoni e un generatore. Se sono ancora lì e se il carburante non è ghiacciato nel serbatoio, partiamo stanotte."
+Claudio non chiese come faceva a saperlo. Non chiese se era sicura. Disse: "Partiamo all'imbrunire."
+Laura annuì.
+La cosa tra loro non aveva nome e non ne aveva bisogno. Era nata nel momento sbagliato e nel posto sbagliato e continuava a crescere lo stesso, in modo ostinato, nel mezzo del freddo e della fuga e della fatica. Non era dolcezza. Era qualcosa di più grezzo: la consapevolezza costante della presenza dell'altro, il peso preciso di una mano sul braccio quando il terreno cedeva, lo spazio di trenta centimetri che non si chiudeva mai del tutto e che entrambi conoscevano senza averlo misurato.
+Claudio raccolse lo zaino e controllò il fucile. Laura fece lo stesso con la sua borsa, controllando le fiale rimaste dal laboratorio, quattro dosi ancora intatte nel contenitore isolato. Non erano un'arma. Erano tempo.
+Partirono a quattro quando il cielo era già buio.
+Il deposito agricolo era dove Laura aveva detto, una costruzione bassa con il tetto di lamiera e il cancello chiuso con una catena arrugginita che Marco aprì in trenta secondi con la pinza da elettricista. I furgoni erano due, uno con le ruote a terra, l'altro con le gomme ancora rigonfie e il serbatoio per metà pieno. Federica aprì il cofano, controllò il motore con la torcia, rimise tutto a posto.
+"Parte," disse.
+Marco guidò fuori dal cancello senza accendere i fari, lentamente, tenendo il motore al minimo. Solo quando furono sulla strada sterrata e a trecento metri dal deposito Federica disse "adesso" e i fari si accesero, due coni di luce gialla sulla neve dura.
+Claudio era sul sedile del passeggero con la mappa sulle ginocchia. Laura era dietro, con Federica, e il calore del furgone era qualcosa di fisico e quasi incredibile dopo i giorni all'aperto. Nessuno parlò per i primi venti minuti.
+Poi Federica disse, sottovoce, quasi per se stessa: "Se il Nodo Centrale ha personale umano, hanno famiglie. Hanno case. Hanno scelto da che parte stare."
+Nessuno rispose.
+"Non è una domanda," aggiunse lei. "È solo una cosa che volevo dire ad alta voce."
+Claudio guardò fuori dal finestrino. La strada attraversava una pianura piatta con i filari degli alberi potati che proiettavano ombre corte sotto i fari. Il paese più vicino era spento, nessuna luce alle finestre, nessun movimento. Non era abbandono: era coprifuoco. Le persone erano dentro, al caldo, e aspettavano che la notte finisse.
+Ogni sera da diciotto mesi.
+Claudio sentì qualcosa stringersi nello stomaco che non era fame e non era la ferita. Era la consapevolezza del perché stavano andando a Civitavecchia. Non per vincere. Non per distruggere qualcosa. Per aprire un varco abbastanza largo da far passare la parola. Il documento di Sara dall'altra parte dell'oceano, i quaderni del ricercatore, le coordinate del Nodo: erano pezzi di una storia che qualcuno doveva raccontare prima che ABITES la riscrivesse completamente.
+Laura appoggiò la mano sul suo spallone dal sedile posteriore, un contatto breve e fermo, e poi la ritirò.
+Bastò.
+Marco aumentò leggermente la velocità sulla strada che si drizzava verso la costa. Il motore del furgone era regolare e basso, e i fari tagliavano la notte davanti a loro, e Civitavecchia era undici ore a ovest, e loro avevano corpi che adesso reggevano il peso di ciò che veniva dopo.
+Per adesso era abbastanza.`;

@@ -1,30 +1,43 @@
-export const chapter18Content = `Il treno correva fortissimo, non voleva rallentare. Claudio sentiva ogni scossa fin nelle ossa. Quel tremolio continuo saliva dai binari, passava attraverso i suoi scarponi e arrivava fino ai denti. Teneva i piedi ben piantati sulle molle tra i due vagoni. Il treno divorava le salite della montagna a centotrenta all'ora, ignorando gli uomini aggrappati al suo dorso. La pioggia gli arrivava in faccia di traverso. Lo schiaffeggiava con forza.
-Aris camminava due passi avanti a lui, piegato contro il vento forte. Claudio guardava la sua giacca nera tutta bagnata. Il cuore gli batteva all'impazzata per la tensione e la mente correva a mille. Pensò a donne che aveva amato, al profumo del caffè di sua madre. Cercò di scacciare quei pensieri dando un calcio nel vuoto per riprendersi. Inciampò in un pezzo di ferro che sporgeva e quel piccolo urto lo riportò subito alla realtà.
-La porta di ferro del terzo vagone era enorme e massiccia. Era chiusa con delle guarnizioni di gomma nera e catrame. Il sistema non pensava che qualcuno potesse provare ad aprire quella porta mentre il treno correva. Aris tirò fuori uno scalpello robusto. Iniziò a staccare il catrame prima di afferrare la maniglia. La lama tagliente aprì la gomma con un rumore viscido, rompendo tutti i sigilli. Macchie nere di catrame gli sporcarono le mani e i vestiti. L'odore era forte, chimico, e gli entrava dritto in gola.
-Claudio stava dietro di lui per coprirgli le spalle, tenendosi stretto ai tubi di metallo con le mani gelate. La pioggia faceva un rumore assordante.
-«Ci siamo!» urlò Aris per farsi sentire sopra il rumore del vento e del treno. La porta si aprì finalmente con un rumore di ferro.
-Dentro il vagone non faceva freddo per il vento, ma c'era un gelo diverso, quello dei condizionatori. Era la temperatura che serviva ai computer allineati lungo le pareti. Erano server altissimi, pieni di cavi rossi che erano vene. Facevano un ronzio strano, diverso dal solito rumore dei computer. Claudio sentiva quella vibrazione salirgli dalle gambe fino al collo e lo stomaco gli si stringeva per il fastidio.
-Quelle macchine non avevano pietà. Servivano a controllare i pensieri dei giovani studenti in tutta Europa, cercando di capire chi voleva ribellarsi. Usavano la vita di ragazzi innocenti nascosti sotto quel catrame.
-Presero posizione. Aris cercò subito il pannello dei comandi, mentre Claudio controllava i cavi sulla destra. Sopra uno degli armadi vide dei fili intrecciati rossi e neri. Era lì che dovevano collegarsi.
-Afferrò il fascio di cavi e sentì che scottavano. Era strano sentire quel caldo in mezzo a tutto quel gelo. Strinse forte, anche se sentiva la pelle delle mani che bruciava. Il dolore fu una coltellata che gli tolse il fiato, ma non la mollò. Strinse i pugni con rabbia, mentre l'olio e il puzzo di bruciato gli sporcavano i polsi. Teneva i cavi del regime tra le mani ferite e cercava di bloccare il segnale.
-Aris inserì la chiavetta. Dopo qualche istante, sullo schermo apparvero delle righe verdi. Claudio tirò un respiro di sollievo, respirando quell'aria ghiacciata.
-«Sta funzionando,» disse Aris. «Quanto tempo ci vuole?» «Troppo.»
+export const chapter18Content = `Dubois scese dal traliccio. Le mani le bruciavano e il metallo gelido le aveva segnato i polpastrelli. Trovò Gilles appoggiato alla base di cemento. Teneva le ginocchia piegate e la schiena incurvata dal dolore. Kouassi era accucciato accanto a lui con la mano sulla spalla. Lo teneva fermo.
+Hana aprì il borsone e tirò fuori le bende logore. Matthieu andò a fare da vedetta all'angolo del muro perimetrale. Nessuno gli aveva impartito ordini diretti.
+«Gilles», disse Dubois.
+Lui alzò la testa con fatica. Gli occhi erano lucidi. «Ci sono.»
+«Fammi vedere la schiena.»
+«Non è rotta.»
+«Non l'ho mai detto,» rispose Dubois.
+Gilles sospirò a denti stretti e sfilò la giacca pesante. La maglietta termica grondava sudore. Hana sollevò il tessuto bagnato e scrutò due cerchi rossi infiammati sulla pelle. Nessuna sbrecciatura.
+«Sei un folle», disse Hana e cominciò a fasciare.
+«Lo so», sussurrò Gilles.
+«Hai salvato la linea», constatò Kouassi.
+Gilles non rispose. Le sue nocche imbiancavano il bordo del cemento. Dubois scrutò la città e i fuochi accesi nelle strade. Un drone scansionava il vuoto con un fischio continuo. Era il respiro metallico della notte.
+Matthieu ritornò dal ciglio col fucile puntato in basso. «Libero.» Si fermò e guardò Gilles. Rimase in silenzio. Kouassi gli strinse con forza la spalla.
+«Hai tenuto duro», disse l'omone. Matthieu deglutì annuendo.
+Gilles sollevò il mento. «Per chi andiamo a Roma?»
+«Per tutti quelli che non possono andarci da soli,» rispose Dubois armando il fucile. «In piedi. Il drone cambia rotta tra poco.»
+Partirono a fari spenti.
+Il furgone mangiava carburante in modo famelico. Dubois teneva gli occhi fissi sulla lancetta. Kouassi sedeva sul retro con Gilles appoggiato al suo braccio. Hana apriva la cartina con l'aiuto della torcia.
+«Aggiramento nord», disse. «Evita il casello.»
+«Capito», rispose Dubois e sterzò con violenza.
+Svoltarono su una statale secondaria. Le buche estirpavano leggeri gemiti alle labbra di Gilles.
+A quattro chilometri di distanza scorsero i bagliori alogeni. Dubois spense i fari e accostò nel bosco scuro. Due blindati incrociavano un grosso camion logistico e un drone spazzava l'asfalto col visore termico.
+«Posto di blocco», sussurrò Hana.
+Dubois spense il motore.
+«Non passiamo», ammise la comandante.
+«Andiamo a piedi,» decise Gilles.
+Svuotarono i borsoni e si divisero il carico. Matthieu recuperò viveri e ricevitore. Spinsero il furgone tra gli arbusti del fossato e staccarono le targhe. Kouassi disperse il liquido infiammabile per sfalsare il fiuto meccanico.
+Camminarono in pendenza sul muschio appiccicoso. Gilles avanzò aggrappato al braccio teso di Kouassi sopportando le fitte pungenti.
+Il drone tracciatore ronzò in alto. Sparò fasci di ricerca tra le fronde gelate sbattute dalla tempesta e superò il gruppo schiacciato prono nel fango.
+Dopo quaranta minuti spezzarono l'isolamento e scesero in un valico sguarnito. Gilles crollò sul tronco caduto.
+«Torino», chiamò Dubois nel visore verde. «Siamo appiedati. Raggiungiamo il punto in ritardo.»
+Una conferma squillò secca dalle sponde italiane della resistenza.
+
 ***
-Laura vide qualcosa muoversi nel buio all'orizzonte. Un fischio acuto tagliò il rumore della pioggia e vide dei piccoli puntini rossi nel cielo nero. Stavano arrivando verso il treno in formazione. ABITES si era accorta che qualcuno aveva aperto il vagone e aveva mandato i droni a difendere i suoi preziosi dati. Laura imbracciò il fucile, pronta a combattere. Si pulì la faccia bagnata dalla pioggia e prese la mira.
-Il primo drone scese in picchiata e lanciò una scarica elettrica. Il tetto di metallo sotto i piedi di Laura fece delle scintille e iniziò a fondere. Lei si buttò di lato, rotolando sul tetto scivoloso. Si sbucciò una gamba e i pantaloni si strapparono, ma non si fermò. Si mise in ginocchio, prese la mira e sparò. Il drone esplose in mille pezzi di plastica che volarono via nel vento.
-Altri tre droni arrivarono subito dopo. Laura continuò a sparare, cercando di tenerli lontani. Claudio e Aris erano chiusi dentro il vagone e lei era l'unica che poteva proteggerli.
-Sparò tre colpi di seguito e ne abbatté un altro. Un secondo drone cadde girando su se stesso. L'ultimo passò vicinissimo e la colpì di striscio al braccio sinistro.
-Sentì un bruciore terribile al braccio. Il braccio le cadde lungo il fianco, non era più suo, non sentiva più nulla. Laura strinse i denti per non gridare dal dolore. Obbligò i muscoli a muoversi di nuovo. Sentì un dolore fortissimo, ma riuscì comunque a stringere forte il fucile.
-Il braccio le faceva un male cane. Lanciò un urlo di rabbia e ricaricò l'arma. Continuò a sparare finché non scacciò via tutti quei mostri di metallo. Mentre dentro Claudio cercera di distruggere il sistema, Laura fuori combatteva con tutta la forza che aveva per proteggerlo. Era la vita che combatteva contro le macchine.
-***
-Il salto dal treno che andava a settanta all'ora fu un colpo durissimo. Claudio batté forte le gambe sul cemento dello scalo di Bologna. L'urto gli scosse tutto il corpo, facendogli male alle costole e alle gambe. Rotolò sui sassi per fermarsi senza farsi troppo male.
-Si rialzò subito. Aris gli era caduto vicino e si era rialzato senz'altro. Laura cadde sull'asfalto e Claudio la prese subito tra le braccia per non farla scivolare lontano. La tenne stretta per aiutarla a riprendere fiato.
-«Il braccio,» disse lei a denti stretti. «È rotto?» «Mi fa male, ma posso usarlo.»
-Claudio la tenne vicina per un momento, per farle sentire che era lì. Il profumo del suo corpo gli diede la forza di continuare nonostante la fatica estrema. Si mossero veloci e lasciarono il treno che spariva nella nebbia.
-Bologna apparve tra i capannoni abbandonati e l'odore di olio vecchio. I ferrovieri che erano con loro sparirono subito nel buio. In un attimo apparvero i ribelli di Bologna. Quattro persone sbucarono tra i muri rotti. Erano donne e uomini, erano stanchi e arrabbiati. Una donna con una cicatrice sull'occhio guardò le loro facce e le loro ferite.
-«Siete in ritardo di undici minuti,» disse la donna. «Ci hanno attaccato dall'alto,» rispose Claudio seccamente. La donna guardò il braccio di Laura. «È rotto?» «Dico che posso usarlo,» rispose Laura con orgoglio.
-La donna annuì. Aprirono un pesante cancello di ferro. «Passate di qua. Abbiamo bisogno di voi.»
-Scesero dei gradini scavati nella terra, verso un tunnel umido e caldo. Lì sotto c'era la base segreta dei ribelli di Bologna. C'erano computer aperti ovunque e cavi che pendevano dal soffitto. In un angolo c'erano delle brandine vecchie con sopra quaranta persone che erano riuscite a sfuggire al controllo di ABITES. Erano lì solo perché avevano una voglia matta di essere liberi.
-Le persone si voltarono a guardarli con rispetto. Vedere Claudio e Laura così stanchi e feriti era un segno della loro forza. Aris tirò fuori la chiavetta che avrebbe distrutto il sistema.
-Il capo dei ribelli diede un colpo sul tavolo di legno. «Prima mangiate qualcosa di caldo, poi studiamo la mappa. Siamo vicini alla fine.»
-Claudio si sentì orgoglioso. Il Nord era pronto a combattere e non aspettava altro.`;
+
+Gli spifferi ghiacciati schioccavano contro la finestra sbarrata. Claudio appoggiò i gomiti sul tavolo di legno sbreccato. Tese lo sguardo sulle mappe cartacee rovinate. Sedersi dritto gli causava strappi rapidi nel costato appena cucito.
+Laura giaceva sdraiata, sorretta da tre zaini tattici. La tibia steccata le doleva con fitte regolari e strinse la matita per tracciare le rotte di fuga.
+«Orte sbarra il passaggio con un blocco rigido», disse scrutando il foglio. «Tre blindati ostili. I fuochi radar incrociano il valico.»
+«Stivali e bosco nudo,» rispose Claudio a denti stretti. «Ci andiamo stasera.»
+«La ferita sputa sangue fresco a ogni sbalzo fuori posto nel ghiaccio,» ricordò Laura.
+«I coaguli resistono,» tagliò corto lui e sbloccò la sicura.
+Federica sciolse i fili usurati nel ricevitore e captò il segnale distorto della Francia.
+Dubois trasmise la rotta confermando la marcia serrata su Roma in calata brutale e decisa nel mezzo della nebbia fredda. Convergevano per schiacciare le macchine artificiali ed eversive armati e pronti al sacrificio finale e duro e umano. Roma chiama i ribelli sfidando la notte cupa buia e l'Impero cadeva a piombo.`;

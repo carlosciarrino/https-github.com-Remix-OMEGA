@@ -28,7 +28,6 @@ import { chapter21Content } from './chapters/chapter21';
 import { chapter22Content } from './chapters/chapter22';
 import { chapter23Content } from './chapters/chapter23';
 import { chapter24Content } from './chapters/chapter24';
-import { chapter25Content } from './chapters/chapter25';
 import { epilogueContent } from './chapters/epilogue';
 import { synopsisContent } from './chapters/synopsis';
 import { backCoverContent } from './chapters/backCover';
@@ -413,7 +412,6 @@ Mentre ABITES offre una pace sterile, superfici polimeriche e un'esistenza senza
     chapter22Content,
     chapter23Content,
     chapter24Content,
-    chapter25Content,
     epilogueContent,
     "INDICE\n\n- Sinossi\n" + indexVol1.chapters.map(c => "- " + c.title).join("\n") + "\n- Epilogo\n- Presentazione dell'Autore e Ringraziamenti\n- Quarta di Copertina\n- Copyright\n",
     backCoverContent,
