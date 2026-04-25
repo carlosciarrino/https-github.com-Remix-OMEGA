@@ -22,6 +22,7 @@ import { chapter21Content } from './chapter21';
 import { chapter22Content } from './chapter22';
 import { chapter23Content } from './chapter23';
 import { chapter24Content } from './chapter24';
+import { chapter25Content } from './chapter25';
 
 export const volume1Data = {
   subtitle: "L'Eclissi di Roma",
@@ -50,6 +51,7 @@ export const volume1Data = {
     { title: "Capitolo 22 — Il Rifugio di Pietra", content: chapter22Content },
     { title: "Capitolo 23 — Il Calore del Dissenso", content: chapter23Content },
     { title: "Capitolo 24 — La Notte dei Droni", content: chapter24Content },
+    { title: "Capitolo 25 — La Strada per il Nodo", content: chapter25Content },
   ],
   metadata: [
     { title: "Presentazione dell'Autore e Ringraziamenti", id: "autore-ringraziamenti" },

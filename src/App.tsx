@@ -28,6 +28,7 @@ import { chapter21Content } from './chapters/chapter21';
 import { chapter22Content } from './chapters/chapter22';
 import { chapter23Content } from './chapters/chapter23';
 import { chapter24Content } from './chapters/chapter24';
+import { chapter25Content } from './chapters/chapter25';
 import { epilogueContent } from './chapters/epilogue';
 import { synopsisContent } from './chapters/synopsis';
 import { backCoverContent } from './chapters/backCover';
@@ -388,30 +389,7 @@ Mentre ABITES offre una pace sterile, superfici polimeriche e un'esistenza senza
 
   const [manuscriptDrafts, setManuscriptDrafts] = useState<string[]>([
     synopsisContent,
-    chapter1Content,
-    chapter2Content,
-    chapter3Content,
-    chapter4Content,
-    chapter5Content,
-    chapter6Content,
-    chapter7Content,
-    chapter8Content,
-    chapter9Content,
-    chapter10Content,
-    chapter11Content,
-    chapter12Content,
-    chapter13Content,
-    chapter14Content,
-    chapter15Content,
-    chapter16Content,
-    chapter17Content,
-    chapter18Content,
-    chapter19Content,
-    chapter20Content,
-    chapter21Content,
-    chapter22Content,
-    chapter23Content,
-    chapter24Content,
+    ...indexVol1.chapters.map(c => c.content),
     epilogueContent,
     "INDICE\n\n- Sinossi\n" + indexVol1.chapters.map(c => "- " + c.title).join("\n") + "\n- Epilogo\n- Presentazione dell'Autore e Ringraziamenti\n- Quarta di Copertina\n- Copyright\n",
     backCoverContent,
@@ -421,7 +399,6 @@ Mentre ABITES offre una pace sterile, superfici polimeriche e un'esistenza senza
 
   const [chapterContent, setChapterContent] = useState<Record<string, string>>(() => {
     const indexTextStr = "INDICE\n\n- Sinossi\n" + indexVol1.chapters.map(c => "- " + c.title).join("\n") + "\n- Epilogo\n- Presentazione dell'Autore e Ringraziamenti\n- Quarta di Copertina\n- Copyright\n";
-
     const initial: Record<string, string> = {
       'vol-1-cap-0': synopsisContent
     };
@@ -1906,17 +1883,18 @@ CONTESTO SPECIFICO:
                           const numMatch = key.match(/vol-1-cap-(\d+)/);
                           if (numMatch) {
                             const num = parseInt(numMatch[1], 10);
-                            if (num > 0 && num <= indexVol1.chapters.length) {
-                              title = String(indexVol1.chapters[num - 1].title).toUpperCase();
-                            } else if (num === indexVol1.chapters.length + 1) {
+                            const allSubChapters = indexVol1.chapters;
+                            if (num > 0 && num <= allSubChapters.length) {
+                              title = String(allSubChapters[num - 1].fullTitle).toUpperCase();
+                            } else if (num === allSubChapters.length + 1) {
                               title = 'EPILOGO';
-                            } else if (num === indexVol1.chapters.length + 2) {
+                            } else if (num === allSubChapters.length + 2) {
                               title = 'INDICE';
-                            } else if (num === indexVol1.chapters.length + 3) {
+                            } else if (num === allSubChapters.length + 3) {
                               title = 'QUARTA DI COPERTINA';
-                            } else if (num === indexVol1.chapters.length + 4) {
+                            } else if (num === allSubChapters.length + 4) {
                               title = "PRESENTAZIONE DELL'AUTORE";
-                            } else if (num === indexVol1.chapters.length + 5) {
+                            } else if (num === allSubChapters.length + 5) {
                               title = 'COPYRIGHT';
                             }
                           }
@@ -2080,29 +2058,68 @@ Constraints:
                       <div className="bg-black/40 p-4 rounded-lg border border-gray-800 flex-1 overflow-y-auto max-h-[600px]">
                         <h3 className="text-[10px] font-bold uppercase text-gray-500 mb-4">Capitoli</h3>
                         <div className="flex flex-col gap-1">
-                          {(() => {
-                            const plotForVol = plots.find(p => p.volume === selectedDraftVol);
-                            const chapters = plotForVol?.chapters || Array.from({ length: 20 }, (_, i) => ({ title: `Capitolo ${i + 1}` }));
+                                      {(() => {
+                            const chapters = indexVol1.chapters;
                             
-                            return chapters.map((cap: any, idx: number) => {
-                              const key = `vol-${selectedDraftVol}-cap-${idx}`;
-                              const hasContent = !!chapterContent[key] && chapterContent[key].trim().length > 0;
-                              
-                              return (
+                            return (
+                              <>
                                 <button
-                                  key={idx}
-                                  onClick={() => setSelectedDraftCap(idx)}
+                                  onClick={() => setSelectedDraftCap(0)}
                                   className={`text-left px-3 py-2 text-xs rounded transition-all flex items-center justify-between ${
-                                    selectedDraftCap === idx 
+                                    selectedDraftCap === 0 
                                       ? 'bg-amber-400/20 text-amber-400 border border-amber-400/30' 
                                       : 'text-gray-400 hover:bg-gray-800 hover:text-gray-200 border border-transparent'
                                   }`}
                                 >
-                                  <span className="truncate pr-2">{cap.title}</span>
-                                  {hasContent && <div className="w-1.5 h-1.5 rounded-full bg-amber-400 shrink-0" />}
+                                  <span className="truncate pr-2">Sinossi</span>
                                 </button>
-                              );
-                            });
+                                {chapters.map((cap: any, idx: number) => {
+                                  const key = `vol-${selectedDraftVol}-cap-${idx + 1}`;
+                                  const hasContent = !!chapterContent[key] && chapterContent[key].trim().length > 0;
+                                  
+                                  return (
+                                    <button
+                                      key={idx + 1}
+                                      onClick={() => setSelectedDraftCap(idx + 1)}
+                                      className={`text-left px-3 py-2 text-xs rounded transition-all flex items-center justify-between ${
+                                        selectedDraftCap === idx + 1
+                                          ? 'bg-amber-400/20 text-amber-400 border border-amber-400/30' 
+                                          : 'text-gray-400 hover:bg-gray-800 hover:text-gray-200 border border-transparent'
+                                      }`}
+                                    >
+                                      <span className="truncate pr-2">{cap.title}</span>
+                                      {hasContent && <div className="w-1.5 h-1.5 rounded-full bg-amber-400 shrink-0" />}
+                                    </button>
+                                  );
+                                })}
+                                <button
+                                  onClick={() => setSelectedDraftCap(chapters.length + 1)}
+                                  className={`text-left px-3 py-2 text-xs rounded transition-all flex items-center justify-between ${
+                                    selectedDraftCap === chapters.length + 1
+                                      ? 'bg-amber-400/20 text-amber-400 border border-amber-400/30' 
+                                      : 'text-gray-400 hover:bg-gray-800 hover:text-gray-200 border border-transparent'
+                                  }`}
+                                >
+                                  <span className="truncate pr-2">Epilogo</span>
+                                </button>
+                                {indexVol1.metadata.map((m: any, idx: number) => {
+                                  const key = `vol-${selectedDraftVol}-cap-${chapters.length + 2 + idx}`;
+                                  return (
+                                    <button
+                                      key={idx + chapters.length + 2}
+                                      onClick={() => setSelectedDraftCap(chapters.length + 2 + idx)}
+                                      className={`text-left px-3 py-2 text-xs rounded transition-all flex items-center justify-between ${
+                                        selectedDraftCap === chapters.length + 2 + idx
+                                          ? 'bg-amber-400/20 text-amber-400 border border-amber-400/30' 
+                                          : 'text-gray-400 hover:bg-gray-800 hover:text-gray-200 border border-transparent'
+                                      }`}
+                                    >
+                                      <span className="truncate pr-2">{m.title}</span>
+                                    </button>
+                                  );
+                                })}
+                              </>
+                            );
                           })()}
                         </div>
                       </div>
@@ -2110,26 +2127,44 @@ Constraints:
 
                     {/* Editor */}
                     <div className="w-full md:w-2/3 lg:w-3/4 bg-black/40 p-6 rounded-lg border border-gray-800 flex flex-col min-h-[600px]">
-                      {(() => {
-                        const plotForVol = plots.find(p => p.volume === selectedDraftVol);
-                        const chapters = plotForVol?.chapters || Array.from({ length: 20 }, (_, i) => ({ title: `Capitolo ${i + 1}`, description: '' }));
-                        const currentCap = chapters[selectedDraftCap];
-                        const key = `vol-${selectedDraftVol}-cap-${selectedDraftCap}`;
+                        {(() => {
+                        const chapters = indexVol1.chapters;
+                        const totalMetadata = indexVol1.metadata.length;
+                        const epilogueIdx = chapters.length + 1;
+                        
+                        let currentItem: any = null;
+                        let key = '';
+
+                        if (selectedDraftCap === 0) {
+                            currentItem = { title: 'Sinossi' };
+                            key = 'vol-1-cap-0';
+                        } else if (selectedDraftCap <= chapters.length) {
+                            currentItem = chapters[selectedDraftCap - 1];
+                            key = `vol-${selectedDraftVol}-cap-${selectedDraftCap}`;
+                        } else if (selectedDraftCap === epilogueIdx) {
+                            currentItem = { title: 'Epilogo' };
+                            key = `vol-${selectedDraftVol}-cap-${epilogueIdx}`;
+                        } else {
+                            const metaIdx = selectedDraftCap - (epilogueIdx + 1);
+                            if (metaIdx >= 0 && metaIdx < totalMetadata) {
+                                currentItem = indexVol1.metadata[metaIdx];
+                                key = `vol-${selectedDraftVol}-cap-${selectedDraftCap}`;
+                            }
+                        }
+
+                        if (!currentItem) {
+                            return <div className="text-gray-500 italic">Seleziona un capitolo o una sezione dalla lista a sinistra.</div>;
+                        }
                         
                         return (
                           <>
                             <div className="mb-6 border-b border-gray-800 pb-4">
-                              <h3 className="text-xl font-bold text-white mb-2">{currentCap?.title || `Capitolo ${selectedDraftCap + 1}`}</h3>
-                              {currentCap?.description && (
-                                <p className="text-sm text-gray-400 italic bg-gray-900/50 p-3 rounded border border-gray-800/50">
-                                  {currentCap.description}
-                                </p>
-                              )}
+                              <h3 className="text-xl font-bold text-white mb-2">{currentItem.title}</h3>
                             </div>
                             
                             <textarea 
                               className="flex-1 w-full bg-transparent border-none text-gray-300 text-lg font-serif leading-relaxed focus:ring-0 resize-none"
-                              placeholder={`Inizia a scrivere il contenuto per ${currentCap?.title || `Capitolo ${selectedDraftCap + 1}`} qui...`}
+                              placeholder={`Inizia a scrivere il contenuto per ${currentItem.title} qui...`}
                               value={chapterContent[key] || ''}
                               onChange={(e) => {
                                 setChapterContent(prev => ({
