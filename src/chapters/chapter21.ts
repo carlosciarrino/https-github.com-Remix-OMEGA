@@ -22,7 +22,7 @@ Il rumore dei motori era assordante e i droni volavano a bassa quota, puntando i
 All'improvviso, i droni iniziarono a sbandare.
 Qualcuno aveva staccato la spina. I droni persero l'equilibrio e caddero tutti e tre a terra contemporaneamente, schiantandosi sull'asfalto e spaccando le eliche. Erano uccelli colpiti in volo che cadevano giù senza un perché.
 I carri armati si fermarono di colpo, con i cingoli che stridevano sul cemento. I motori si spensero facendo un fischio acuto.
-Dubois si alzò in ginocchio, sentendo il dolore alla gamba. Tutto intorno era diventato silenzioso. Il fumo nascondeva i giganti di ferro che non si muovevano più. Dalla radio si sentivano solo voci confuse.
+Dubois si alzò in ginocchio, sentendo il dolore alla gamba. Tutto intorno era diventato vuotoso. Il fumo nascondeva i giganti di ferro che non si muovevano più. Dalla radio si sentivano solo voci confuse.
 «Gli ordini non arrivano più...» gracchiava l'altoparlante.
 I computer di tutto il continente stavano smettendo di funzionare. Dubois abbassò il fucile e respirò forte l'aria piena di fumo. Avevano vinto.
 ***

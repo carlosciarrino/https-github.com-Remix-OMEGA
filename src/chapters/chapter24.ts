@@ -1,47 +1,30 @@
-export const chapter24Content = `Praga era buia e Volkov la preferiva così.
-Stava fermo sul tetto del vecchio consolato in via Valdštejnská. Teneva i gomiti puntati sul parapetto di cemento grezzo e il binocolo puntato verso la curva del Moldava. Sotto di lui la città aveva i nervi tagliati. Le insegne erano morte. I semafori erano spenti. I grandi schermi pubblicitari erano diventati rettangoli neri, inutili come lapidi. Qualcuno aveva acceso un fuoco in un bidone d’acciaio sul ponte Carlo e le fiamme si riflettevano sull'acqua in strisce arancioni che il vento spezzava.
-Volkov abbassò il binocolo.
-Respirò l'aria fredda che sapeva di catrame, legno bagnato e carta bruciata. Polvere e cenere. La gente bruciava i documenti ogni volta che pensava che il mondo stesse finendo, come se la burocrazia fosse il primo nemico da eliminare.
-Alle sue spalle Reka stava piegando la mappa.
-Sentiva il fruscio preciso della carta che si chiudeva lungo le pieghe. Reka muoveva le mani con la logica di uno strumento di precisione. Ogni gesto finiva esattamente dove doveva finire, senza sprechi. Volkov l'aveva guardata e aveva capito che lei aveva deciso di non sprecare nulla di sé molto tempo prima.
-— Il centro dati è a quattordici minuti — disse Reka. — Se passiamo da Tomášská evitiamo la piazza.
-— La guardia?
-— Forse due. Senza la rete non ricevono ordini e non possono chiamare aiuto. — Si sentì il rumore dell'elastico che stringeva la mappa. — Sono ciechi.
-Volkov si girò.
-Reka aveva il cappotto scuro abbottonato fino al mento. Nella luce del fuoco lontano, il suo viso era metà in ombra e metà arancione. Volkov guardò quella linea della mascella e la piega delle labbra. Lei non alzò gli occhi. Controllava la bussola nel palmo della mano, guardando l'ago che oscillava e poi si fermava.
-— Andiamo — disse lui.
-Scesero dal tetto in fila indiana. Sei persone. Il Fronte Analogico non credeva negli eserciti, ma nelle squadre piccole e veloci. Nessuno aveva bisogno che gli venisse detto dove mettere i piedi. Aprirono il portone con una chiave fisica, di ottone e acciaio, e uscirono nel vicolo.
-Praga al buio aveva un suono diverso. Non c'era più il ronzio dei motori elettrici o degli impianti di ventilazione. C'erano solo i loro stivali sul selciato bagnato e il vento tra i tetti. Osman accendeva la torcia solo quando la strada curvava e il buio diventava un muro.
-Girarono in Tomášská.
-Il centro dati dei lealisti era un edificio di cemento e vetri scuri, costruito per durare. La facciata non aveva insegne, solo una targa con il simbolo di ABITES. Adesso le finestre erano nere. Il portone di sicurezza, che un tempo funzionava con i magneti e il recognition degli occhi, ora era solo una piastra di acciaio senza vita.
-Volkov spinse con la spalla. Il metallo oppose resistenza, poi cedette con un lamento lungo di ferraglia che rimbombò nel vicolo.
-Entrarono. Il buio era denso.
-Il fascio bianco della torcia tagliò il corridoio. Pavimento di granito, pareti sporche, plafoniere spente. Dal soffitto pendevano cavi tagliati che sembravano radici arricciate. C'era odore di aria condizionata ferma e plastica riscaldata.
-Volkov e Reka scesero verso il seminterrato. I gradini di cemento erano nudi e freddi. Al fondo delle scale trovarono la guardia.
-Era un ragazzo con la divisa grigia. Teneva il fucile a tracolla, ma il calcio gli sbatteva contro la coscia perché non sapeva come tenerlo. Aveva alzato il visore sulla fronte perché non funzionava più. Stringeva in mano uno smartphone spento, con le dita che tremavano. Non cercava di accenderlo. Lo teneva e basta, per non restare a mani vuote nel buio.
-Volkov si fermò sul penultimo gradino.
-L'unica luce era il led verde di un'uscita di sicurezza in fondo al muro. Il ragazzo non si era accorto di loro. Era troppo teso ad ascoltare i rumori che venivano dall'alto.
-Reka stava dietro Volkov. Lui sentiva il suo respiro e il calore del suo corpo nell'aria ferma.
-La guardia si girò. Vide una forma nel buio e sollevò il fucile. Le sue mani tremavano perché non aveva più un sistema che gli dicesse dove mirare. Il fucile oscillava, incerto.
-— Fermo! — disse la guardia. Aveva la voce roca. — Chi c'è?
-Volkov scese l'ultimo gradino.
-Camminò verso di lui con calma, tenendo le mani bene in vista. Il ragazzo ripeté l'ordine, ma la sua voce si spezzò. Volkov si fermò a un metro. Vide la mascella del ragazzo contrarsi e il velo di sudore sulla sua fronte.
-— Sei solo — disse Volkov.
-Il ragazzo non rispose. Le sue nocche erano bianche intorno al fucile.
-— Il tuo comando non risponde e i tuoi amici se ne sono andati — continuò Volkov. — Questo posto non vale la tua vita. E nemmeno quei dischi che ci sono dietro la porta.
-Osman e Brecht uscirono dal buio ai lati del ragazzo. La guardia guardò a destra e a sinistra, smarrita. Il fucile non sapeva più dove puntare. In quel momento, Volkov fece un passo avanti e afferrò la canna dell'arma. La spinse di lato. Con l'altra mano afferrò il polso del ragazzo e lo girò.
-Il lealista lasciò il fucile. Non provò nemmeno a lottare. Si lasciò cadere sul pavimento, respirando a scatti. Brecht raccolse l'arma. Osman gli legò i polsi con una fascetta di plastica. Il ragazzo non oppose resistenza, fissava il muro con gli occhi vuoti.
-Volkov smontò il fucile con gesti rapidi e posò i pezzi a terra.
-— Aspetta qui — disse. — Qualcuno verrà a prenderti.
-Mandò un segnale in codice Morse con la sua radio a onde corte. Pochi clic metallici nell'oscurità. Poi aprirono la porta del seminterrato.
-I server erano lì. Enormi scatole nere che ora erano solo peso morto. Sari tirò fuori gli attrezzi e cominciarono a estrarre i dischi rigidi. Si sentiva solo il rumore dei cacciaviti e il respiro della squadra.
-Volkov rimase sulla porta a controllare il corridoio. Il vento fischiava tra le pareti del palazzo.
-Reka gli si avvicinò con un disco in mano. Si fermò accanto a lui.
-— Quanto tempo abbiamo? — chiese lei a bassa voce.
-— Quello che serve.
-Rimasero fermi un istante. Il calore del corpo di Reka era l'unica cosa viva in quel seminterrato gelido.
-— C'è un posto nel tuo piano per quando tutto questo finisce? — domandò lei.
-Volkov guardò le luci delle torce che si muovevano nel buio.
-— C'è sempre posto per chi sa far funzionare le cose — rispose.
-Reka annuì e tornò al lavoro. Volkov aprì la sua mappa di carta. La luce della torcia illuminò il percorso segnato a matita verso il camion. Era una mappa piena di correzioni e segni fatti a mano.
-Era affidabile. Era reale. Era viva.`;
+export const chapter24Content = `Il vento freddo scendeva dalle montagne libere, spazzando la pianura desolata. Claudio si strinse il cappotto addosso per non congelare. Davanti a loro c'era una vecchia baraccopoli di lamiera, coperta da uno strato spesso di ghiaccio. Le case parevano sculture di vetro sporco, abbandonate in mezzo al nulla. ABITES aveva abbassato la temperatura per punire chi viveva lì, creando una tomba di neve battuta.
+Laura camminava avanti, affondando gli stivali nel terreno duro. I suoi muscoli erano tesi e la pistola era pronta nella sua mano. "Qui non ci sono pattuglie," disse con voce fessa dal freddo. "Hanno lasciato che il gelo facesse il lavoro per loro."
+Entrarono nella baraccopoli. Nessuno fiatò. C'erano corpi congelati agli angoli delle strade, persone raggruppate intorno a fuochi spenti da mesi. Claudio sentì un nodo alla gola guardando una madre che teneva abbracciato un bambino di ghiaccio. Il dolore al fianco gli ricordò i suoi limiti, una fitta lancinante che lo costrinse ad appoggiarsi a un muro arrugginito.
+"Guarda quel capannone," indicò Laura verso il centro della zona. Era l'unico edificio con fumo bianco che usciva da un tubo rotto e le pareti rinforzate di piombo. Non era una baracca, ma un laboratorio di fortuna costruito per resistere alle tempeste artificiali.
+Claudio prese un pezzo di ferro da terra e ruppe il lucchetto ghiacciato. La porta scricchiolò e l'aria dentro era tiepida ed emanava un odore forte di medicinali e zolfo. C'erano tavoli di metallo pieni di fiale piene di liquido verde acido e quaderni sparpagliati per terra.
+Sopra un tavolo c'era un registratore acceso. Laura premette il tasto play e la voce spaventata di un vecchio riempì la stanza. "Ho lavorato per Julian Vane. Ho creato la sua cura, l'esca. Siero rigenerativo. Vane l'ha usato per convincere l'umanità ad affidarsi ad ABITES, promettendo la fine delle malattie. Io l'ho modificato. Chi lo prende non diventa schiavo, ma guarisce e la pelle respira. Lui ci ha scoperto. Stanno abbassando le temperature. Fate presto."
+Claudio guardò il liquido verde. Il suo corpo era un ammasso di carne tagliata e muscoli stanchi, con le ossa che pulsavano di dolore. La ferita infetta bruciava ogni volta che respirava.
+Laura prese due fiale dal tavolo e lo guardò negli occhi. Il calore della sua pelle era l'unica cosa viva in quella terra desolata. "È il momento di smettere di sanguinare," disse la donna togliendo i tappi di gomma.
+
+***
+
+Il liquido verde bruciava la lingua e aveva un sapore aspro, di ferro vecchio ed erbe schiacciate. Claudio strinse i denti. In pochi secondi sentì un calore violento espandersi dal petto fino alle dita dei piedi. Il dolore acuto al fianco cambiò, diventando una pulsazione profonda, una stretta forte sui tessuti danneggiati. Cadde in ginocchio tenendosi la pancia chiusa nel giubbotto sporco.
+Laura lo prese per le spalle e lo aiutò a respirare. Anche lei stava sudando nonostante il freddo, la ferita sul braccio emetteva un leggero vapore bianco nel laboratorio tiepido. I margini tagliati della pelle si stavano cicatrizzando a una velocità impressionante, chiudendo i vasi sanguigni e riformando la carne sana.
+"Cosa senti?" chiese Laura asciugandosi la fronte con il dorso della mano.
+"Un fuoco acceso nel petto," rispose Claudio alzandosi in piedi senza fatica. Provò a fare un passo forte sulla gamba ferita e non provò nessun cedimento. Il muscolo rispose compatto, flessibile e carico di energia nuova. Si sfilò il cappotto per controllare la fasciatura. Sotto la garza sporca c'era solo una grossa cicatrice rosa scuro, nessuna traccia di infezione.
+Laura toccò la cicatrice e Claudio sentì la sua mano calda darle forza. Quel tocco era reale e potente. Guardò gli occhi verdi della donna, brillanti e decisi. Erano invincibili. Quel freddo letale fuori dalla baraccopoli non faceva più paura, era solo uno sfondo su cui scrivere la ribellione.
+Claudio prese il suo fucile e controllò il serbatoio delle munizioni con gesti fluidi e scattanti. Sapeva esattamente cosa fare. Ogni incertezza passata era sparita, pulita via insieme all'adrenalina sana che gli scorreva nelle vene. Non erano più prede in fuga, animali feriti spinti dalla paura.
+"Hanno fatto un errore gravissimo a lasciarci questa roba," disse Claudio fissando la porta ghiacciata del capannone.
+Laura incamerò un proiettile con un rumore secco e netto. "Stiamo smettendo di correre e basta. Da adesso in poi li andiamo a cercare."
+Un ronzio basso ruppe la calma della zona in rovina, un vibrare costante che faceva tremare i vetri sporchi del capannone. Una squadra pesante di ABITES, i famigerati cacciatori di titanio, stava atterrando proprio fuori tra le capanne distrutte. L'ordine era evidente: cancellare completamente l'intera prigione congelata.
+
+***
+
+Claudio aprì la porta del capannone con una spallata decisa, spaccando il ghiaccio formatosi sulle cerniere. L'aria esterna era tagliente, carica di nevischio duro che graffiava le guance, ma il suo corpo era una fornace calda che ignorava il freddo. Tre enormi macchine d'assalto scendevano dal cielo grigio, sorreggendosi con getti di fuoco azzurro che fondevano la neve sporca al suolo.
+Erano robot di terza classe, corazze di acciaio pesante alte tre metri, munite di fari rossi per individuare obiettivi termici. Calpestavano i resti delle baracche, schiacciando pietre e lamiera come cartapesta. Nessun passo falso, nessun tremore umano, pura logica omicida in cerca del bersaglio residuo.
+Laura scivolò lungo la parete ovest con agilità incredibile. Le gambe potenti la posizionarono dietro a un ammasso di rottami d'auto senza fare un solo rumore. Claudio puntò il fucile, aspettando che il primo drone scendesse lungo il fango gelato del viale principale, lasciando che il sensore si posizionasse dritto sopra di lui.
+Un fascio laser passò a un metro dalla sua testa bucando la parete e bruciando il metallo fuso. Claudio non arretrò. Alzò l'arma e mirò direttamente all'articolazione pneumatica del ginocchio del robot più vicino, dove la piastra protettiva era sottile. Premette il grilletto. Il colpo rimbombò tra i vicoli stretti e il proiettile sfondò il cilindro del fluido idraulico. Una fiammata di liquido verdastro schizzò dalla gamba della macchina, facendola piegare in ginocchio.
+Laura sbucò dal suo nascondiglio urlando la sua rabbia. Tirò una bomba artigianale dritta sull'ottica visiva della bestia inginocchiata. L'esplosione squarciò la parte anteriore del drone, spruzzando schegge incandescenti tutt'intorno, cieco e morente. Il relitto crollò al suolo spegnendosi per sempre.
+Le altre due unità modificarono rapidamente la loro rotazione, puntando le armi pesanti contro i due esseri umani. Claudio saltò sopra il relitto appena abbattuto, sfruttando una agilità sovrumana garantita dal siero, e sparò a raffica continua sul torace del secondo drone, ignorando il calore insopportabile del fucile sovraccarico.
+Laura colpì un serbatoio esterno, provocando un incendio vastissimo. I ribelli non respiravano l'ansia, non c'era polvere, c'era solo rabbia liquida. Vane credeva di schiacciarli col gelo, ma aveva appena scatenato un fuoco ardente nelle anime di chi aveva scelto la vita. Claudio sentì il petto vibrare fiero. Ora, il mondo intero avrebbe bruciato con la loro fiamma.`;
